@@ -1,0 +1,12 @@
+title: Rich's Pages
+description: Pet projects and occasional writing
+theme: minima
+
+minima:
+  skin: classic
+
+# Don't render the projects dir as a collection — just serve files as-is
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
