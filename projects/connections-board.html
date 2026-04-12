@@ -32,17 +32,23 @@ title: Connections Board
       --header-h: 58px;
     }
 
-    html, body {
+    /* Dot grid lives on html so it always covers the full page */
+    html {
       height: 100%;
+      background-color: var(--bg);
+      background-image: radial-gradient(circle, var(--dot-color) 1.2px, transparent 1.2px);
+      background-size: 26px 26px;
       overflow: hidden;
-      background: var(--bg);
     }
 
     body {
+      height: 100%;
       font-family: 'Kode Mono', monospace;
       color: var(--ink);
       display: flex;
       flex-direction: column;
+      background: transparent;
+      overflow: hidden;
     }
 
     /* ── Header ─────────────────────────────── */
@@ -145,8 +151,6 @@ title: Connections Board
       flex: 1;
       position: relative;
       overflow: hidden;
-      background-image: radial-gradient(circle, var(--dot-color) 1.2px, transparent 1.2px);
-      background-size: 26px 26px;
     }
 
     /* ── Status overlay ─────────────────────── */
@@ -281,10 +285,27 @@ title: Connections Board
 <script>
   // ── Constants ──────────────────────────────────────────────
   const EARLIEST     = '2023-06-12'; // Connections launch date
-  const TILE_SIZE    = 130;
-  const GAP          = 14;
-  const COLS         = 4;
   const CYCLE_COLORS = [null, '#F9DF6D', '#A0C35A', '#B0C4EF', '#BA81C5'];
+
+  function getLayout() {
+    const gap     = 10;
+    const padding = 20;
+    const headerH = 58;
+    const cols    = 4;
+    const rows    = 4;
+    const availW  = window.innerWidth  - 2 * padding;
+    const availH  = window.innerHeight - headerH - 2 * padding;
+    const byW     = Math.floor((availW - (cols - 1) * gap) / cols);
+    const byH     = Math.floor((availH - (rows - 1) * gap) / rows);
+    const tileSize = Math.min(byW, byH, 160);
+    return { tileSize: Math.max(tileSize, 48), gap, cols };
+  }
+
+  function applyLayout() {
+    const { tileSize, gap } = getLayout();
+    document.documentElement.style.setProperty('--tile-size', tileSize + 'px');
+    document.documentElement.style.setProperty('--gap', gap + 'px');
+  }
 
   // ── DOM refs ───────────────────────────────────────────────
   const board         = document.getElementById('board');
@@ -332,7 +353,16 @@ title: Connections Board
   }
 
   // ── Storage helpers ────────────────────────────────────────
-  function storageKey(date) { return `cx-pos-${date}`; }
+  function storageKey(date)       { return `cx-pos-${date}`; }
+  function puzzleStorageKey(date) { return `cx-puzzle-${date}`; }
+
+  function savePuzzle(date, words, id) {
+    try { localStorage.setItem(puzzleStorageKey(date), JSON.stringify({ words, id: id || null })); } catch {}
+  }
+
+  function loadPuzzle(date) {
+    try { return JSON.parse(localStorage.getItem(puzzleStorageKey(date))) || null; } catch { return null; }
+  }
 
   function savePositions() {
     const pos = {};
@@ -352,19 +382,21 @@ title: Connections Board
 
   // ── Default grid layout ────────────────────────────────────
   function defaultPositions(words) {
-    const bw = board.clientWidth;
-    const bh = board.clientHeight;
-    const rows  = Math.ceil(words.length / COLS);
-    const gridW = COLS * TILE_SIZE + (COLS - 1) * GAP;
-    const gridH = rows  * TILE_SIZE + (rows  - 1) * GAP;
-    const startX = Math.max(20, (bw - gridW) / 2);
-    const startY = Math.max(20, (bh - gridH) / 2);
+    const { tileSize, gap, cols, mobile } = getLayout();
+    const boardW = window.innerWidth;
+    const boardH = window.innerHeight - 58; // minus header
+    const rows   = Math.ceil(words.length / cols);
+    const gridW  = cols * tileSize + (cols - 1) * gap;
+    const gridH  = rows * tileSize + (rows - 1) * gap;
+    // On mobile: align to top with padding; on desktop: center in canvas
+    const startX = mobile ? Math.round((boardW - gridW) / 2) : Math.round((boardW - gridW) / 2);
+    const startY = mobile ? 24 : Math.round((boardH - gridH) / 2);
 
     const pos = {};
     words.forEach((w, i) => {
       pos[w] = {
-        x: Math.round(startX + (i % COLS) * (TILE_SIZE + GAP)),
-        y: Math.round(startY + Math.floor(i / COLS) * (TILE_SIZE + GAP))
+        x: Math.round(startX + (i % cols) * (tileSize + gap)),
+        y: Math.round(startY + Math.floor(i / cols) * (tileSize + gap))
       };
     });
     return pos;
@@ -372,13 +404,16 @@ title: Connections Board
 
   // ── Font sizing ────────────────────────────────────────────
   function fontSize(text) {
-    // base size on the longest space-separated token
+    const { tileSize } = getLayout();
+    const scale = tileSize / 130;
     const maxLen = Math.max(...text.split(' ').map(w => w.length));
-    if (maxLen <= 3)  return '19px';
-    if (maxLen <= 5)  return '17px';
-    if (maxLen <= 7)  return '15px';
-    if (maxLen <= 10) return '13px';
-    return '11px';
+    let base;
+    if (maxLen <= 3)       base = 19;
+    else if (maxLen <= 5)  base = 17;
+    else if (maxLen <= 7)  base = 15;
+    else if (maxLen <= 10) base = 13;
+    else                   base = 11;
+    return Math.round(base * scale) + 'px';
   }
 
   // ── Seeded shuffle (deterministic per date) ────────────────
@@ -528,6 +563,7 @@ title: Connections Board
     });
 
     maxZ += words.length;
+
   }
 
   // ── Sample data (offline / CORS fallback test) ─────────────
@@ -567,16 +603,26 @@ title: Connections Board
     showStatus('LOADING');
 
     try {
-      const data  = await fetchPuzzle(currentDate);
-      const raw   = extractWords(data);
+      // Use cached puzzle data if available, otherwise fetch from NYT
+      let words, id;
+      const cached = loadPuzzle(currentDate);
+      if (cached) {
+        words = cached.words;
+        id    = cached.id;
+      } else {
+        const data = await fetchPuzzle(currentDate);
+        const raw  = extractWords(data);
+        if (!raw.length) throw new Error('Puzzle data empty or unrecognized format');
+        id    = data.id || null;
+        words = seededShuffle(raw, dateSeed(currentDate));
+        savePuzzle(currentDate, words, id);
+      }
 
-      if (!raw.length) throw new Error('Puzzle data empty or unrecognized format');
+      // Apply responsive layout before rendering
+      applyLayout();
 
       // Show puzzle #
-      if (data.id) puzzleId.textContent = `#${data.id}`;
-
-      // Shuffle deterministically by date (so first-load order is consistent)
-      const words = seededShuffle(raw, dateSeed(currentDate));
+      if (id) puzzleId.textContent = `#${id}`;
 
       // Restore saved positions if they cover all words, else default grid
       const saved = loadPositions();
@@ -605,7 +651,8 @@ title: Connections Board
 
   resetBtn.addEventListener('click', () => {
     localStorage.removeItem(storageKey(currentDate));
-    const words = activeTiles.map(t => t.dataset.word);
+    applyLayout();
+    const words     = activeTiles.map(t => t.dataset.word);
     const positions = defaultPositions(words);
     renderTiles(words, positions);
     savePositions();
@@ -616,6 +663,20 @@ title: Connections Board
     const positions = defaultPositions(words);
     renderTiles(words, positions);
     hideStatus();
+  });
+
+  // ── Resize → reflow ────────────────────────────────────────
+  let resizeTimer;
+  window.addEventListener('resize', () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(() => {
+      if (!activeTiles.length) return;
+      applyLayout();
+      const words     = activeTiles.map(t => t.dataset.word);
+      const positions = defaultPositions(words);
+      renderTiles(words, positions);
+      savePositions();
+    }, 150);
   });
 
   // ── Boot ───────────────────────────────────────────────────
