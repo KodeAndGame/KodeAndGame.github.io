@@ -434,19 +434,18 @@ title: Connections Board
 
   // ── Fetch puzzle ────────────────────────────────────────────
   async function fetchPuzzle(date) {
-    const nytUrl = `https://www.nytimes.com/svc/connections/v2/${date}.json`;
-
-    // Try direct (works if NYT has CORS headers for this endpoint)
+    // 1. Try repo-local copy committed by GitHub Actions (same origin, no CORS)
     try {
-      const r = await fetch(nytUrl);
+      const r = await fetch(`/puzzles/${date}.json`);
       if (r.ok) return r.json();
-    } catch { /* CORS blocked — fall through to proxy */ }
+    } catch {}
 
-    // Fallback: public CORS proxy
-    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(nytUrl)}`;
-    const r2 = await fetch(proxyUrl);
-    if (!r2.ok) throw new Error(`No puzzle data for ${date}`);
-    return r2.json();
+    // 2. Fall back to CORS proxy for dates not yet in repo
+    const nytUrl  = `https://www.nytimes.com/svc/connections/v2/${date}.json`;
+    const proxyUrl = `https://corsproxy.io/?url=${encodeURIComponent(nytUrl)}`;
+    const r = await fetch(proxyUrl);
+    if (!r.ok) throw new Error(`No puzzle data for ${date}`);
+    return r.json();
   }
 
   // ── Parse words from API response ──────────────────────────
