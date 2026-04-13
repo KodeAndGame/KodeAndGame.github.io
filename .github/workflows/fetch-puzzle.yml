@@ -40,10 +40,13 @@ jobs:
           git diff --staged --quiet && echo "No changes, skipping" && exit 0
           git checkout -b "${BRANCH}"
           git commit -m "puzzle: ${DATE}"
-          git push origin "${BRANCH}"
-          gh pr create \
-            --title "puzzle: ${DATE}" \
-            --body "Automated daily puzzle fetch." \
-            --base main \
-            --head "${BRANCH}"
+          git push origin "${BRANCH}" --force
+          EXISTING=$(gh pr list --head "${BRANCH}" --json number --jq '.[0].number')
+          if [ -z "$EXISTING" ]; then
+            gh pr create \
+              --title "puzzle: ${DATE}" \
+              --body "Automated daily puzzle fetch." \
+              --base main \
+              --head "${BRANCH}"
+          fi
           gh pr merge "${BRANCH}" --auto --squash
