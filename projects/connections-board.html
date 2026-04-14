@@ -217,7 +217,7 @@ title: Connections Board
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 10px;
+      padding: 1px;
       cursor: grab;
       user-select: none;
       -webkit-user-select: none;
@@ -246,6 +246,7 @@ title: Connections Board
     .tile-text {
       font-family: 'Bricolage Grotesque', sans-serif;
       font-weight: 800;
+      font-size: calc(var(--tile-size) * 0.16);
       text-transform: uppercase;
       text-align: center;
       line-height: 1.2;
@@ -402,20 +403,6 @@ title: Connections Board
     return pos;
   }
 
-  // ── Font sizing ────────────────────────────────────────────
-  function fontSize(text) {
-    const { tileSize } = getLayout();
-    const scale = tileSize / 130;
-    const maxLen = Math.max(...text.split(' ').map(w => w.length));
-    let base;
-    if (maxLen <= 3)       base = 19;
-    else if (maxLen <= 5)  base = 17;
-    else if (maxLen <= 7)  base = 15;
-    else if (maxLen <= 10) base = 13;
-    else                   base = 11;
-    return Math.round(base * scale) + 'px';
-  }
-
   // ── Seeded shuffle (deterministic per date) ────────────────
   function seededShuffle(arr, seed) {
     let s = seed >>> 0;
@@ -546,7 +533,6 @@ title: Connections Board
       const text = document.createElement('div');
       text.className = 'tile-text';
       text.textContent = word;
-      text.style.fontSize = fontSize(word);
 
       tile.appendChild(text);
 
