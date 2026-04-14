@@ -6,7 +6,7 @@ Jekyll static site + Connections Board project.
 
 - **Deploy:** push to `main` — GitHub Pages auto-deploys. No build step, plain JS only, no npm/node.
 - **Run locally:** `bundle exec jekyll serve`
-- **Branch convention:** PRs against `main`. Branch ruleset enforces: no force push, no deletion, PR required. CI must pass before merge.
+- **Branch convention:** PRs against `main`. Branch ruleset enforces: no force push, no deletion, PR required. CI must pass before merge. **Never commit directly to `main`** — always create a feature branch first.
 - **CI:** `.github/workflows/ci.yml` — runs `jekyll build` on PRs to main. Add this as a required status check in the branch ruleset.
 - **Puzzle data:** fetched daily by GHA (`.github/workflows/fetch-puzzle.yml`) and committed to `puzzles/YYYY-MM-DD.json`. Board loads local file first, falls back to corsproxy.io for dates not in repo. GHA runs free (public repo = unlimited minutes).
 

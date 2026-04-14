@@ -27,7 +27,8 @@ title: Connections Board
       --ink-faint: #9A9490;
       --accent: #111010;
       --tile-radius: 10px;
-      --tile-size: 130px;
+      --tile-w: 130px;
+      --tile-h: 85px;
       --gap: 14px;
       --header-h: 58px;
     }
@@ -208,8 +209,8 @@ title: Connections Board
     /* ── Tiles ───────────────────────────────── */
     .tile {
       position: absolute;
-      width: var(--tile-size);
-      height: var(--tile-size);
+      width: var(--tile-w);
+      height: var(--tile-h);
       background: var(--tile-bg);
       border-radius: var(--tile-radius);
       box-shadow: var(--tile-shadow);
@@ -217,7 +218,7 @@ title: Connections Board
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 10px;
+      padding: 1px;
       cursor: grab;
       user-select: none;
       -webkit-user-select: none;
@@ -246,6 +247,7 @@ title: Connections Board
     .tile-text {
       font-family: 'Bricolage Grotesque', sans-serif;
       font-weight: 800;
+      font-size: calc(var(--tile-w) * 0.16);
       text-transform: uppercase;
       text-align: center;
       line-height: 1.2;
@@ -295,15 +297,16 @@ title: Connections Board
     const rows    = 4;
     const availW  = window.innerWidth  - 2 * padding;
     const availH  = window.innerHeight - headerH - 2 * padding;
-    const byW     = Math.floor((availW - (cols - 1) * gap) / cols);
-    const byH     = Math.floor((availH - (rows - 1) * gap) / rows);
-    const tileSize = Math.min(byW, byH, 160);
-    return { tileSize: Math.max(tileSize, 48), gap, cols };
+    const tileW   = Math.max(Math.min(Math.floor((availW - (cols - 1) * gap) / cols), 160), 48);
+    const maxH    = Math.floor((availH - (rows - 1) * gap) / rows);
+    const tileH   = Math.max(Math.min(Math.round(tileW * 0.65), maxH), 32);
+    return { tileW, tileH, gap, cols };
   }
 
   function applyLayout() {
-    const { tileSize, gap } = getLayout();
-    document.documentElement.style.setProperty('--tile-size', tileSize + 'px');
+    const { tileW, tileH, gap } = getLayout();
+    document.documentElement.style.setProperty('--tile-w', tileW + 'px');
+    document.documentElement.style.setProperty('--tile-h', tileH + 'px');
     document.documentElement.style.setProperty('--gap', gap + 'px');
   }
 
@@ -382,38 +385,23 @@ title: Connections Board
 
   // ── Default grid layout ────────────────────────────────────
   function defaultPositions(words) {
-    const { tileSize, gap, cols, mobile } = getLayout();
+    const { tileW, tileH, gap, cols } = getLayout();
     const boardW = window.innerWidth;
     const boardH = window.innerHeight - 58; // minus header
     const rows   = Math.ceil(words.length / cols);
-    const gridW  = cols * tileSize + (cols - 1) * gap;
-    const gridH  = rows * tileSize + (rows - 1) * gap;
-    // On mobile: align to top with padding; on desktop: center in canvas
-    const startX = mobile ? Math.round((boardW - gridW) / 2) : Math.round((boardW - gridW) / 2);
-    const startY = mobile ? 24 : Math.round((boardH - gridH) / 2);
+    const gridW  = cols * tileW + (cols - 1) * gap;
+    const gridH  = rows * tileH + (rows - 1) * gap;
+    const startX = Math.round((boardW - gridW) / 2);
+    const startY = Math.round((boardH - gridH) / 2);
 
     const pos = {};
     words.forEach((w, i) => {
       pos[w] = {
-        x: Math.round(startX + (i % cols) * (tileSize + gap)),
-        y: Math.round(startY + Math.floor(i / cols) * (tileSize + gap))
+        x: Math.round(startX + (i % cols) * (tileW + gap)),
+        y: Math.round(startY + Math.floor(i / cols) * (tileH + gap))
       };
     });
     return pos;
-  }
-
-  // ── Font sizing ────────────────────────────────────────────
-  function fontSize(text) {
-    const { tileSize } = getLayout();
-    const scale = tileSize / 130;
-    const maxLen = Math.max(...text.split(' ').map(w => w.length));
-    let base;
-    if (maxLen <= 3)       base = 19;
-    else if (maxLen <= 5)  base = 17;
-    else if (maxLen <= 7)  base = 15;
-    else if (maxLen <= 10) base = 13;
-    else                   base = 11;
-    return Math.round(base * scale) + 'px';
   }
 
   // ── Seeded shuffle (deterministic per date) ────────────────
@@ -546,7 +534,6 @@ title: Connections Board
       const text = document.createElement('div');
       text.className = 'tile-text';
       text.textContent = word;
-      text.style.fontSize = fontSize(word);
 
       tile.appendChild(text);
 
