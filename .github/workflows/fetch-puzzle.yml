@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PUZZLE_PAT }}
 
       - name: Fetch today's puzzle
         run: |
@@ -30,7 +32,7 @@ jobs:
 
       - name: Open auto-merge PR if new
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PUZZLE_PAT }}
         run: |
           DATE=$(date -u +%Y-%m-%d)
           BRANCH="puzzle/${DATE}"
