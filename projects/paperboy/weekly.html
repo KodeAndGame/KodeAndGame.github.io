@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Paperboy — Digests</title>
+<title>Paperboy — Weekly Digest</title>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -46,20 +46,6 @@
     gap: 12px;
   }
 
-  button {
-    padding: 8px 16px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    color: var(--text);
-    cursor: pointer;
-    font-size: 13px;
-    transition: border-color 0.15s, background 0.15s;
-  }
-
-  button:hover:not(:disabled) { border-color: var(--notable); }
-  button:disabled { cursor: not-allowed; opacity: 0.5; }
-
   .nav-link {
     padding: 8px 16px;
     background: var(--surface);
@@ -73,33 +59,6 @@
   }
 
   .nav-link:hover { border-color: var(--notable); }
-
-  footer {
-    position: sticky;
-    bottom: 0;
-    padding: 16px 32px max(16px, env(safe-area-inset-bottom)) 32px;
-    border-top: 1px solid var(--border);
-    background: var(--bg);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 12px;
-    z-index: 10;
-  }
-
-  .digest-title {
-    margin-bottom: 24px;
-    color: var(--muted);
-    font-size: 14px;
-    font-weight: normal;
-  }
-
-  .digest-date {
-    color: var(--muted);
-    font-size: 13px;
-    min-width: 160px;
-    text-align: center;
-  }
 
   #loading {
     display: none;
@@ -120,7 +79,14 @@
     text-align: center;
   }
 
-  #report { display: none; padding: 24px 32px 100px 32px; max-width: 1200px; }
+  #report { display: none; padding: 24px 32px; max-width: 1200px; }
+
+  .digest-title {
+    margin-bottom: 24px;
+    color: var(--muted);
+    font-size: 14px;
+    font-weight: normal;
+  }
 
   .summary-bar {
     display: flex;
@@ -223,7 +189,7 @@
     <h1>Paperboy</h1>
   </div>
   <div class="header-nav">
-    <a href="weekly.html" class="nav-link">Weekly View →</a>
+    <a href="digest.html" class="nav-link">← Daily View</a>
   </div>
 </header>
 
@@ -231,41 +197,13 @@
 <div id="error-msg"></div>
 <div id="report"></div>
 
-<footer id="digest-footer">
-  <button id="prev-btn">← Previous</button>
-  <div class="digest-date" id="digest-date">Loading...</div>
-  <button id="next-btn">Next →</button>
-</footer>
-
 <script>
-const prevBtn = document.getElementById('prev-btn');
-const nextBtn = document.getElementById('next-btn');
-const digestDate = document.getElementById('digest-date');
 const loading = document.getElementById('loading');
 const report = document.getElementById('report');
 const errorMsg = document.getElementById('error-msg');
 
-let digests = [];
-let currentIndex = -1;
-
-// Fetch available digests from manifest
-async function loadDigestIndex() {
-  try {
-    const response = await fetch('digests.json');
-    const files = await response.json();
-
-    if (!Array.isArray(files) || files.length === 0) {
-      showError('No digest files found.');
-      return;
-    }
-
-    digests = files;
-    currentIndex = digests.length - 1;
-    showDigest(currentIndex);
-  } catch (err) {
-    showError('Could not load digest index: ' + err.message);
-  }
-}
+const CACHE_PREFIX = 'paperboy-digest-';
+const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
 
 function showError(msg) {
   loading.style.display = 'none';
@@ -290,26 +228,89 @@ function sigClass(s) {
   return 'noise';
 }
 
-async function showDigest(index) {
-  if (index < 0 || index >= digests.length) return;
-
-  currentIndex = index;
-  loading.style.display = 'block';
-
+async function loadManifest() {
   try {
-    const response = await fetch(`digests/${digests[index]}`);
-    const raw = await response.json();
-    render(raw, digests[index]);
+    const res = await fetch('digests.json');
+    return await res.json();
   } catch (err) {
-    showError('Could not load digest: ' + err.message);
+    showError('Could not load digest manifest: ' + err.message);
+    return null;
   }
 }
 
-function render(raw, filename) {
-  const items = raw.filter(i => i.significance > 0);
+function getWindowFilenames(filenames) {
+  const dates = filenames.map(f => new Date(f.slice(0, 10)));
+  const latest = new Date(Math.max(...dates.map(d => d.getTime())));
+  const cutoff = new Date(latest.getTime() - WEEK_MS);
+  return filenames.filter(f => new Date(f.slice(0, 10)).getTime() > cutoff.getTime());
+}
 
+async function fetchDigest(filename) {
+  const cacheKey = `${CACHE_PREFIX}${filename}`;
+
+  try {
+    const cached = localStorage.getItem(cacheKey);
+    if (cached) {
+      const { data, latestPublished } = JSON.parse(cached);
+      const isStale = Date.now() > new Date(latestPublished).getTime() + WEEK_MS;
+      if (!isStale) {
+        return { data, fromCache: true };
+      }
+    }
+  } catch (e) {
+    // Cache read/parse error, fall through to fetch
+  }
+
+  try {
+    const res = await fetch(`digests/${filename}`);
+    const raw = await res.json();
+
+    // Compute latestPublished from all items
+    const dates = raw.map(i => {
+      try { return new Date(i.published); }
+      catch { return null; }
+    }).filter(d => d && !isNaN(d));
+
+    const latestPublished = dates.length > 0
+      ? new Date(Math.max(...dates.map(d => d.getTime()))).toISOString()
+      : new Date().toISOString();
+
+    // Try to cache (best-effort)
+    try {
+      localStorage.setItem(cacheKey, JSON.stringify({ data: raw, latestPublished }));
+    } catch (e) {
+      // Storage full or quota exceeded, ignore
+    }
+
+    return { data: raw, fromCache: false };
+  } catch (err) {
+    return { data: [], fromCache: false };
+  }
+}
+
+function aggregateItems(fileResults) {
+  const deduped = new Map();
+
+  for (const { filename, data } of fileResults) {
+    const sourceDigest = filename.slice(0, 10) + ' ' + filename.slice(11, 13) + ':' + filename.slice(13, 15);
+
+    for (const item of data) {
+      if (!item.significance || item.significance <= 0) continue;
+
+      const url = item.url;
+      const existing = deduped.get(url);
+      if (!existing || item.significance > existing.significance) {
+        deduped.set(url, { ...item, _sourceDigest: sourceDigest });
+      }
+    }
+  }
+
+  return Array.from(deduped.values());
+}
+
+function render(items, digestCount) {
   if (items.length === 0) {
-    showError('No scored items found in this digest.');
+    showError('No scored items found in the last 7 days.');
     return;
   }
 
@@ -334,14 +335,9 @@ function render(raw, filename) {
   errorMsg.style.display = 'none';
   report.style.display = 'block';
 
-  prevBtn.disabled = currentIndex === 0;
-  nextBtn.disabled = currentIndex === digests.length - 1;
-
-  const filenameDate = filename.replace('-digest.json', '');
-  digestDate.textContent = filenameDate;
-
+  const dateRange = `${esc(minDate)} – ${esc(maxDate)}`;
   report.innerHTML = `
-    <div class="digest-title">Digest ${esc(filenameDate)}</div>
+    <div class="digest-title">Weekly Digest: ${dateRange}</div>
 
     <div class="summary-bar">
       <div class="stat">
@@ -350,7 +346,11 @@ function render(raw, filename) {
       </div>
       <div class="stat">
         <span class="stat-value">${feeds.length}</span>
-        <span class="stat-label">Feeds</span>
+        <span class="stat-label">Unique Feeds</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value">${digestCount}</span>
+        <span class="stat-label">Digests Loaded</span>
       </div>
       <div class="stat">
         <span class="stat-value high">${highCount}</span>
@@ -358,7 +358,7 @@ function render(raw, filename) {
       </div>
       <div class="stat">
         <span class="stat-value">${esc(minDate)} – ${esc(maxDate)}</span>
-        <span class="stat-label">Date Range</span>
+        <span class="stat-label">Last 7 Days</span>
       </div>
     </div>
 
@@ -385,6 +385,7 @@ function render(raw, filename) {
             <th>Sig</th>
             <th>Title</th>
             <th>Feed</th>
+            <th>Source Digest</th>
             <th>Tags</th>
           </tr>
         </thead>
@@ -397,6 +398,7 @@ function render(raw, filename) {
                 ${item.summary ? `<div class="summary-text">${esc(item.summary)}</div>` : ''}
               </td>
               <td class="feed-name">${esc(item.feed_name)}</td>
+              <td class="feed-name">${esc(item._sourceDigest)}</td>
               <td>
                 <div class="tags">
                   ${(item.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('')}
@@ -410,10 +412,29 @@ function render(raw, filename) {
   `;
 }
 
-prevBtn.addEventListener('click', () => showDigest(currentIndex - 1));
-nextBtn.addEventListener('click', () => showDigest(currentIndex + 1));
+async function init() {
+  loading.style.display = 'block';
 
-loadDigestIndex();
+  const allFilenames = await loadManifest();
+  if (!allFilenames) return;
+
+  const windowFilenames = getWindowFilenames(allFilenames);
+  if (!windowFilenames.length) {
+    showError('No digest files found in the last 7 days.');
+    return;
+  }
+
+  const fileResults = await Promise.all(
+    windowFilenames.map(filename =>
+      fetchDigest(filename).then(r => ({ filename, data: r.data }))
+    )
+  );
+
+  const items = aggregateItems(fileResults);
+  render(items, windowFilenames.length);
+}
+
+init();
 </script>
 </body>
 </html>
