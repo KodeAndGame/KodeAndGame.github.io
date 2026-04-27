@@ -81,6 +81,13 @@
 
   #report { display: none; padding: 24px 32px; max-width: 1200px; }
 
+  .digest-title {
+    margin-bottom: 24px;
+    color: var(--muted);
+    font-size: 14px;
+    font-weight: normal;
+  }
+
   .summary-bar {
     display: flex;
     gap: 24px;
@@ -180,7 +187,6 @@
 <header>
   <div class="header-left">
     <h1>Paperboy</h1>
-    <span>Weekly Digest</span>
   </div>
   <div class="header-nav">
     <a href="digest.html" class="nav-link">← Daily View</a>
@@ -329,7 +335,10 @@ function render(items, digestCount) {
   errorMsg.style.display = 'none';
   report.style.display = 'block';
 
+  const dateRange = `${esc(minDate)} – ${esc(maxDate)}`;
   report.innerHTML = `
+    <div class="digest-title">Weekly Digest: ${dateRange}</div>
+
     <div class="summary-bar">
       <div class="stat">
         <span class="stat-value">${items.length}</span>
