@@ -214,6 +214,47 @@
 
   .summary-text { color: var(--muted); font-size: 12px; margin-top: 4px; }
   .feed-name { color: var(--muted); font-size: 12px; }
+
+  @media (max-width: 768px) {
+    table thead {
+      display: none;
+    }
+
+    table, tbody {
+      display: block;
+    }
+
+    tr {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+      padding: 12px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      margin-bottom: 12px;
+    }
+
+    td {
+      padding: 0;
+      border-bottom: none;
+    }
+
+    /* Title gets full width at top */
+    td:nth-child(2) {
+      grid-column: 1 / -1;
+      grid-row: 1;
+    }
+
+    /* Metadata below in 4-column layout */
+    td:nth-child(1) { grid-column: 1; grid-row: 2; }
+    td:nth-child(3) { grid-column: 2; grid-row: 2; }
+    td:nth-child(4) { grid-column: 3; grid-row: 2; }
+    td:nth-child(5) { grid-column: 4; grid-row: 2; }
+
+    tr:hover td {
+      background: none;
+    }
+  }
 </style>
 </head>
 <body>
