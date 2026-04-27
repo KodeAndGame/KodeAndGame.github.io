@@ -60,6 +60,20 @@
   button:hover:not(:disabled) { border-color: var(--notable); }
   button:disabled { cursor: not-allowed; opacity: 0.5; }
 
+  .nav-link {
+    padding: 8px 16px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text);
+    font-size: 13px;
+    text-decoration: none;
+    transition: border-color 0.15s;
+    display: inline-block;
+  }
+
+  .nav-link:hover { border-color: var(--notable); }
+
   .digest-date {
     color: var(--muted);
     font-size: 13px;
@@ -193,7 +207,7 @@
     <button id="prev-btn">← Previous</button>
     <div class="digest-date" id="digest-date">Loading...</div>
     <button id="next-btn">Next →</button>
-    <a href="weekly.html" style="padding:8px 16px; background:var(--surface); border:1px solid var(--border); border-radius:6px; color:var(--text); font-size:13px; text-decoration:none; transition:border-color 0.15s; display:inline-block;" onmouseover="this.style.borderColor='var(--notable)'" onmouseout="this.style.borderColor='var(--border)'">Weekly View →</a>
+    <a href="weekly.html" class="nav-link">Weekly View →</a>
   </div>
 </header>
 
