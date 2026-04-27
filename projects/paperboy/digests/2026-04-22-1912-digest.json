@@ -1,0 +1,525 @@
+[
+  {
+    "title": "11 bit studios are totally remaking This War of Mine",
+    "url": "https://www.gamingonlinux.com/2026/04/11-bit-studios-are-totally-remaking-this-war-of-mine/",
+    "published": "2026-04-22T15:24:33+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 65,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "indie-games"
+    ],
+    "summary": "11 bit studios announces a complete remake of This War of Mine, following their reimagining approach with Frostpunk.",
+    "sources": []
+  },
+  {
+    "title": "Ubuntu Rust Coreutils Audit Revealed 113 Issues, Ubuntu 26.10 Aims For \"100% Rust Coreutils\"",
+    "url": "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Audit",
+    "published": "2026-04-22T16:21:09+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Canonical's security audit of Rust Coreutils found 113 issues including 44 CVEs ahead of Ubuntu 26.04 LTS release, with plans for 100% Rust Coreutils in Ubuntu 26.10.",
+    "sources": []
+  },
+  {
+    "title": "GCC 16 Compiler Nearly Ready For Release With Zen 6, AVX10.2, APX & Algol 68",
+    "url": "https://www.phoronix.com/news/GCC-16.1-Coming-Soon",
+    "published": "2026-04-22T15:53:15+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "GCC 16 compiler approaches release with support for latest CPU instruction sets including Zen 6, AVX10.2, and APX.",
+    "sources": []
+  },
+  {
+    "title": "FreeBSD Working On Intel FRED Support, Laptop Improvements Continue",
+    "url": "https://www.phoronix.com/news/FreeBSD-Q1-2026-Progress",
+    "published": "2026-04-22T15:30:03+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "open-source",
+      "linux-hardware"
+    ],
+    "summary": "FreeBSD releases Q1-2026 status report detailing development efforts including Intel FRED support, hardware enablement, and desktop experience improvements.",
+    "sources": []
+  },
+  {
+    "title": "The Blood of Dawnwalker release date stream announced (April 28th)",
+    "url": "https://www.resetera.com/threads/the-blood-of-dawnwalker-release-date-stream-announced-april-28th.1498756/",
+    "published": "2026-04-22T18:55:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Indie game The Blood of Dawnwalker will reveal its release date during a developer stream on April 28th featuring new gameplay footage and story details.",
+    "sources": []
+  },
+  {
+    "title": "Had you heard of echidnas before learning about Knuckles The Echidna?",
+    "url": "https://www.resetera.com/threads/had-you-heard-of-echidnas-before-learning-about-knuckles-the-echidna.1498753/",
+    "published": "2026-04-22T18:51:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A community discussion about whether players learned about real echidnas through Knuckles the Echidna from the Sonic franchise.",
+    "sources": []
+  },
+  {
+    "title": "Let's talk T.R.A.G. Mission of Mercy (PS1) - Anime Resident Evil by Sunsoft!",
+    "url": "https://www.resetera.com/threads/lets-talk-t-r-a-g-mission-of-mercy-ps1-anime-resident-evil-by-sunsoft.1498696/",
+    "published": "2026-04-22T18:25:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A retrospective playthrough and discussion of T.R.A.G. Mission of Mercy, a PS1-era action game with anime-style presentation.",
+    "sources": []
+  },
+  {
+    "title": "I Wish Cross-Saves Were More Common\u2026",
+    "url": "https://www.resetera.com/threads/i-wish-cross-saves-were-more-common%E2%80%A6.1498678/",
+    "published": "2026-04-22T18:06:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A user discusses their preference for Switch 2 over PS5 Pro and the lack of cross-save functionality preventing them from enjoying console exclusives.",
+    "sources": []
+  },
+  {
+    "title": "Diablo IV:  Lord of Hatred Official Opening Cinematic",
+    "url": "https://www.resetera.com/threads/diablo-iv-lord-of-hatred-official-opening-cinematic.1498657/",
+    "published": "2026-04-22T17:39:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Blizzard releases the official opening cinematic for Diablo IV: Lord of Hatred expansion.",
+    "sources": []
+  },
+  {
+    "title": "Asha Sharma Teases Something Between Discord & Game Pass",
+    "url": "https://www.resetera.com/threads/asha-sharma-teases-something-between-discord-game-pass.1498654/",
+    "published": "2026-04-22T17:34:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Xbox and Discord are collaborating on a new initiative to integrate Game Pass more deeply with Discord's platform, with details to be revealed soon.",
+    "sources": []
+  },
+  {
+    "title": "Kiln by Double Fine |OT| Pottery in Motion",
+    "url": "https://www.resetera.com/threads/kiln-by-double-fine-ot-pottery-in-motion.1498621/",
+    "published": "2026-04-22T17:28:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Double Fine's Kiln, a pottery-themed game, releases across Xbox, Steam, and PlayStation 5 on April 23rd at $19.99 with a 10% launch discount.",
+    "sources": []
+  },
+  {
+    "title": "Bubsy 4D demo now available on Switch, PlayStation and Xbox consoles (already available on PC); full release on May 22",
+    "url": "https://www.resetera.com/threads/bubsy-4d-demo-now-available-on-switch-playstation-and-xbox-consoles-already-available-on-pc-full-release-on-may-22.1498576/",
+    "published": "2026-04-22T16:50:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "console-hardware",
+      "retro"
+    ],
+    "summary": "Bubsy 4D demo launches on Switch, PlayStation, and Xbox consoles ahead of the full game's May 22 release date.",
+    "sources": []
+  },
+  {
+    "title": "Totilo: Gamers sue Nintendo over tariff refunds, saying consumers should get the money back",
+    "url": "https://www.resetera.com/threads/totilo-gamers-sue-nintendo-over-tariff-refunds-saying-consumers-should-get-the-money-back.1498567/",
+    "published": "2026-04-22T16:34:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Gamers file class action lawsuit against Nintendo demanding consumers receive refunds from tariff-related price increases rather than Nintendo keeping government reimbursements.",
+    "sources": []
+  },
+  {
+    "title": "7 Games Leaving PS Plus Extra/Premium in May 2026",
+    "url": "https://www.resetera.com/threads/7-games-leaving-ps-plus-extra-premium-in-may-2026.1498474/",
+    "published": "2026-04-22T15:44:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Seven games including MotoGP 25, Control Ultimate Edition, and The Dark Pictures Anthology titles are being removed from PlayStation Plus Extra/Premium in May 2026.",
+    "sources": []
+  },
+  {
+    "title": "[Nintendo Everything] Stray, To a T, Wanderstop announced for Nintendo Switch 2 (May 28, June 11 and June 23 respectively)",
+    "url": "https://www.resetera.com/threads/nintendo-everything-stray-to-a-t-wanderstop-announced-for-nintendo-switch-2-may-28-june-11-and-june-23-respectively.1498468/",
+    "published": "2026-04-22T15:36:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "console-hardware",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Annapurna Interactive announces ports of Stray, To a T, and Wanderstop for Nintendo Switch 2 with enhanced graphics and performance improvements.",
+    "sources": []
+  },
+  {
+    "title": "Splatoon Raiders gets new gameplay trailer, set to launch July 23rd",
+    "url": "https://gbatemp.net/threads/splatoon-raiders-gets-new-gameplay-trailer-set-to-launch-july-23rd.681241/",
+    "published": "2026-04-22T18:18:17+00:00",
+    "feed_name": "GBAtemp Scene News",
+    "feed_tags": [
+      "emulation",
+      "console-hardware",
+      "homebrew"
+    ],
+    "significance": 53,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "Splatoon Raiders reveals new gameplay trailer and July 23rd launch date for its single-player treasure-hunting adventure on Spirhalite Islands.",
+    "sources": [
+      {
+        "url": "https://www.resetera.com/threads/ruiner-2-first-gameplay-trailer.1497617/",
+        "title": "Ruiner 2 First Gameplay trailer",
+        "significance": 35
+      },
+      {
+        "url": "https://gbatemp.net/threads/splatoon-raiders-gets-new-gameplay-trailer-set-to-launch-july-23rd.681241/",
+        "title": "Splatoon Raiders gets new gameplay trailer, set to launch July 23rd",
+        "significance": 45
+      }
+    ]
+  },
+  {
+    "title": "Celia's Stupid Romhack is a bizarre comedic puzzling take on Kanto that's way more thorough than you'd expect",
+    "url": "https://gbatemp.net/threads/celias-stupid-romhack-is-a-bizarre-comedic-puzzling-take-on-kanto-thats-way-more-thorough-than-youd-expect.681219/",
+    "published": "2026-04-22T17:18:22+00:00",
+    "feed_name": "GBAtemp Scene News",
+    "feed_tags": [
+      "emulation",
+      "console-hardware",
+      "homebrew"
+    ],
+    "significance": 0,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Bloodborne is still not coming to PC, but it is at least getting an animated movie",
+    "url": "https://gbatemp.net/threads/bloodborne-is-still-not-coming-to-pc-but-it-is-at-least-getting-an-animated-movie.681111/",
+    "published": "2026-04-22T17:06:31+00:00",
+    "feed_name": "GBAtemp Scene News",
+    "feed_tags": [
+      "emulation",
+      "console-hardware",
+      "homebrew"
+    ],
+    "significance": 0,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "\"I Almost Can't Express How Joyful It Is\" - '90s Euro Platformer 'Moon Child' Goes Viral",
+    "url": "https://www.timeextension.com/news/2026/04/i-almost-cant-express-how-joyful-it-is-90s-euro-platformer-moon-child-goes-viral",
+    "published": "2026-04-22T16:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 55,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Obscure 1990s Dutch platformer 'Moon Child' experiences unexpected viral resurgence online, gaining renewed attention from gaming community.",
+    "sources": []
+  },
+  {
+    "title": "AI Is Not \"Of A High Enough Quality\" For Use In Video Games Right Now, Says Peter Molyneux",
+    "url": "https://www.timeextension.com/news/2026/04/ai-is-not-of-a-high-enough-quality-for-use-in-video-games-right-now-says-peter-molyneux",
+    "published": "2026-04-22T15:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "ai-in-games"
+    ],
+    "summary": "Peter Molyneux states that generative AI is not yet of sufficient quality for practical use in video game development, though acknowledges it will eventually cause industry disruption.",
+    "sources": []
+  },
+  {
+    "title": "Heroic Launcher Adds Fullscreen \"Console\" Mode With Latest Update",
+    "url": "https://steamdeckhq.com/news/heroic-launcher-adds-fullscreen-console-mode/",
+    "published": "2026-04-22T17:24:01+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "open-source",
+      "gaming-news"
+    ],
+    "summary": "Heroic Launcher introduces a new fullscreen console-style interface optimized for Steam Deck.",
+    "sources": []
+  },
+  {
+    "title": "TrimUI Brick Hammer is a Premium Take on a Proven Handheld",
+    "url": "https://steamdeckhq.com/news/trimui-brick-hammer-premium-take-proven-handheld/",
+    "published": "2026-04-22T15:43:22+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "handheld-gaming",
+      "gaming-hardware",
+      "retro"
+    ],
+    "summary": "TrimUI Brick Hammer is a premium-positioned handheld device offering a refined take on the retro gaming handheld market.",
+    "sources": []
+  },
+  {
+    "title": "Ecco the Dolphin: Complete revealed, a mixture of remaster and brand new game spanning every Ecco game from the 8 to 16-bit era",
+    "url": "https://www.rockpapershotgun.com/ecco-the-dolphin-complete-revealed-a-mixture-of-remaster-and-brand-new-game-spanning-every-ecco-game-from-8-to-16-bit-era",
+    "published": "2026-04-22T17:43:16+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 70,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Ecco the Dolphin: Complete announced as a remastered collection of classic 8 to 16-bit Ecco games plus a new title with community-created meta quests.",
+    "sources": [
+      {
+        "url": "https://www.rockpapershotgun.com/ecco-the-dolphin-complete-revealed-a-mixture-of-remaster-and-brand-new-game-spanning-every-ecco-game-from-8-to-16-bit-era",
+        "title": "Ecco the Dolphin: Complete revealed, a mixture of remaster and brand new game spanning every Ecco game from the 8 to 16-bit era",
+        "significance": 62
+      },
+      {
+        "url": "https://www.pushsquare.com/news/2026/04/ecco-the-dolphin-returns-in-retro-collection-featuring-a-brand-new-game-but-will-it-be-on-ps5",
+        "title": "Ecco the Dolphin Returns in Retro Collection Featuring a Brand New Game, But Will It Be on PS5?",
+        "significance": 62
+      }
+    ]
+  },
+  {
+    "title": "A little bit Black & White, a little bit Fable, Molyneux's citybuilder Masters Of Albion has the potential to break free of its influences \u2013 but it has a lot of work to do",
+    "url": "https://www.rockpapershotgun.com/a-little-bit-black-white-a-little-bit-fable-molyneuxs-citybuilder-masters-of-albion-has-the-potential-to-break-free-of-its-influences-but-it-has-a-lot-of-work-to-do",
+    "published": "2026-04-22T17:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Peter Molyneux's Masters of Albion blends god game and city-builder mechanics with promise but needs significant polish before its early access launch.",
+    "sources": []
+  },
+  {
+    "title": "Feature: Xbox Game Pass vs PS Plus: Was Sony Right All Along?",
+    "url": "https://www.pushsquare.com/features/xbox-game-pass-vs-ps-plus-was-sony-right-all-along",
+    "published": "2026-04-22T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Opinion piece comparing Xbox Game Pass and PlayStation Plus strategies, arguing Sony's conservative approach has proven justified despite earlier industry pressure.",
+    "sources": []
+  },
+  {
+    "title": "Koei Tecmo Is Absolutely Killing It Right Now as Hits Like Nioh 3 Smash Sales Expectations",
+    "url": "https://www.pushsquare.com/news/2026/04/koei-tecmo-is-absolutely-killing-it-right-now-as-hits-like-nioh-3-smash-sales-expectations",
+    "published": "2026-04-22T18:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Koei Tecmo revises earnings forecast upward to record levels, driven by strong sales of titles like Nioh 3 exceeding expectations.",
+    "sources": []
+  },
+  {
+    "title": "Rumour: Ubisoft Cancels Animal Crossing Competitor After 3 Years in Development",
+    "url": "https://www.pushsquare.com/news/2026/04/rumour-ubisoft-cancels-animal-crossing-competitor-after-3-years-in-development",
+    "published": "2026-04-22T17:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "leaks"
+    ],
+    "summary": "Ubisoft has reportedly cancelled Alterra, an Animal Crossing-style life sim that was in development for approximately three years.",
+    "sources": []
+  },
+  {
+    "title": "Round Up: The Expanse: Osiris Reborn Really Does Sound Like the PS5 Mass Effect Successor We Need",
+    "url": "https://www.pushsquare.com/features/round-up-the-expanse-osiris-reborn-really-does-sound-like-the-ps5-mass-effect-successor-we-need",
+    "published": "2026-04-22T16:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Preview coverage praises The Expanse: Osiris Reborn as a Mass Effect-like sci-fi RPG that delivers on its third-person shooting and character-driven gameplay promise.",
+    "sources": []
+  }
+]
