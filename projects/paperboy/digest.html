@@ -74,10 +74,23 @@
 
   .nav-link:hover { border-color: var(--notable); }
 
+  footer {
+    position: sticky;
+    bottom: 0;
+    padding: 16px 32px;
+    border-top: 1px solid var(--border);
+    background: var(--bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    z-index: 10;
+  }
+
   .digest-date {
     color: var(--muted);
     font-size: 13px;
-    min-width: 140px;
+    min-width: 160px;
     text-align: center;
   }
 
@@ -201,12 +214,8 @@
 <header>
   <div class="header-left">
     <h1>Paperboy</h1>
-    <span>Digests</span>
   </div>
   <div class="header-nav">
-    <button id="prev-btn">← Previous</button>
-    <div class="digest-date" id="digest-date">Loading...</div>
-    <button id="next-btn">Next →</button>
     <a href="weekly.html" class="nav-link">Weekly View →</a>
   </div>
 </header>
@@ -214,6 +223,12 @@
 <div id="loading"><p>Loading digests...</p></div>
 <div id="error-msg"></div>
 <div id="report"></div>
+
+<footer id="digest-footer">
+  <button id="prev-btn">← Previous</button>
+  <div class="digest-date" id="digest-date">Loading...</div>
+  <button id="next-btn">Next →</button>
+</footer>
 
 <script>
 const prevBtn = document.getElementById('prev-btn');
@@ -319,6 +334,8 @@ function render(raw, filename) {
   digestDate.textContent = filenameDate;
 
   report.innerHTML = `
+    <h2 style="margin-bottom: 24px; color: var(--muted); font-size: 14px; font-weight: normal;">Digest ${esc(filenameDate)}</h2>
+
     <div class="summary-bar">
       <div class="stat">
         <span class="stat-value">${items.length}</span>
