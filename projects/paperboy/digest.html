@@ -215,7 +215,7 @@
   .summary-text { color: var(--muted); font-size: 12px; margin-top: 4px; }
   .feed-name { color: var(--muted); font-size: 12px; }
 
-  .tag { cursor: pointer; }
+  #report .tag { cursor: pointer; }
   .tag.active {
     background: rgba(96,165,250,0.25);
     border-color: var(--notable);
@@ -361,7 +361,7 @@ filterClear.addEventListener('click', () => setFilter(null));
 report.addEventListener('click', e => {
   const tagEl = e.target.closest('.tag');
   if (!tagEl) return;
-  const tag = tagEl.textContent;
+  const tag = tagEl.dataset.tag;
   setFilter(activeTag === tag ? null : tag);
 });
 
@@ -389,6 +389,8 @@ function showError(msg) {
   errorMsg.textContent = msg;
   errorMsg.style.display = 'block';
   report.style.display = 'none';
+  activeTag = null;
+  filterBar.classList.remove('visible');
 }
 
 function esc(s) {
@@ -518,7 +520,7 @@ function render(raw, filename) {
               <td class="feed-name">${esc(item.feed_name)}</td>
               <td>
                 <div class="tags">
-                  ${(item.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('')}
+                  ${(item.tags || []).map(t => `<span class="tag" data-tag="${esc(t)}">${esc(t)}</span>`).join('')}
                 </div>
               </td>
             </tr>
