@@ -181,6 +181,36 @@
   .summary-text { color: var(--muted); font-size: 12px; margin-top: 4px; }
   .feed-name { color: var(--muted); font-size: 12px; }
 
+  #report .tag { cursor: pointer; }
+  .tag.active {
+    background: rgba(96,165,250,0.25);
+    border-color: var(--notable);
+    color: var(--text);
+  }
+
+  #filter-bar {
+    display: none;
+    padding: 10px 32px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    font-size: 13px;
+    color: var(--muted);
+    align-items: center;
+    gap: 8px;
+  }
+
+  #filter-bar.visible { display: flex; }
+
+  .filter-clear {
+    cursor: pointer;
+    font-size: 14px;
+    color: var(--muted);
+    line-height: 1;
+    padding: 0 4px;
+  }
+
+  .filter-clear:hover { color: var(--text); }
+
   @media (max-width: 768px) {
     table thead {
       display: none;
@@ -234,6 +264,12 @@
   </div>
 </header>
 
+<div id="filter-bar">
+  <span>Filtering by:</span>
+  <span id="filter-tag-label" class="tag active"></span>
+  <span id="filter-clear" class="filter-clear">×</span>
+</div>
+
 <div id="loading"><p>Loading digests...</p></div>
 <div id="error-msg"></div>
 <div id="report"></div>
@@ -242,15 +278,57 @@
 const loading = document.getElementById('loading');
 const report = document.getElementById('report');
 const errorMsg = document.getElementById('error-msg');
+const filterBar = document.getElementById('filter-bar');
+const filterTagLabel = document.getElementById('filter-tag-label');
+const filterClear = document.getElementById('filter-clear');
 
 const CACHE_PREFIX = 'paperboy-digest-';
 const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+let activeTag = null;
+
+function setFilter(tag) {
+  activeTag = tag;
+  applyFilter();
+}
+
+function applyFilter() {
+  if (activeTag) {
+    filterTagLabel.textContent = activeTag;
+    filterBar.classList.add('visible');
+  } else {
+    filterBar.classList.remove('visible');
+  }
+
+  document.querySelectorAll('#report tbody tr').forEach(tr => {
+    if (!activeTag) {
+      tr.style.display = '';
+    } else {
+      const tags = (tr.dataset.tags || '').split(',');
+      tr.style.display = tags.includes(activeTag) ? '' : 'none';
+    }
+  });
+
+  document.querySelectorAll('#report .tag').forEach(el => {
+    el.classList.toggle('active', el.textContent === activeTag);
+  });
+}
+
+filterClear.addEventListener('click', () => setFilter(null));
+
+report.addEventListener('click', e => {
+  const tagEl = e.target.closest('.tag');
+  if (!tagEl) return;
+  const tag = tagEl.dataset.tag;
+  setFilter(activeTag === tag ? null : tag);
+});
 
 function showError(msg) {
   loading.style.display = 'none';
   errorMsg.textContent = msg;
   errorMsg.style.display = 'block';
   report.style.display = 'none';
+  activeTag = null;
+  filterBar.classList.remove('visible');
 }
 
 function esc(s) {
@@ -432,7 +510,7 @@ function render(items, digestCount) {
         </thead>
         <tbody>
           ${sorted.map(item => `
-            <tr>
+            <tr data-tags="${(item.tags || []).map(t => esc(t)).join(',')}">
               <td><span class="sig-badge sig-${sigClass(item.significance)}">${item.significance}</span></td>
               <td>
                 <a class="title-link" href="${safeUrl(item.url)}" target="_blank">${esc(item.title)}</a>
@@ -442,7 +520,7 @@ function render(items, digestCount) {
               <td class="feed-name">${esc(item._sourceDigest)}</td>
               <td>
                 <div class="tags">
-                  ${(item.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('')}
+                  ${(item.tags || []).map(t => `<span class="tag" data-tag="${esc(t)}">${esc(t)}</span>`).join('')}
                 </div>
               </td>
             </tr>
