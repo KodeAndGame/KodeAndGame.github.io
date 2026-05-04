@@ -1,0 +1,887 @@
+[
+  {
+    "title": "Linux File-System Proliferation A Burden: Requirements Laid Out For Any Future File-Systems",
+    "url": "https://www.phoronix.com/news/Linux-FS-Proliferation-Burden",
+    "published": "2026-05-04T10:28:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "linux-hardware"
+    ],
+    "summary": "Linux kernel maintainers establish new guidelines for file-system submissions to manage the growing burden of VFS maintenance and prevent proliferation of incompatible file-systems.",
+    "sources": []
+  },
+  {
+    "title": "Mesa Begins Seeing Patch Activity For AMD GFX12.1 Graphics",
+    "url": "https://www.phoronix.com/news/AMD-GFX12.1-Mesa-Start",
+    "published": "2026-05-04T09:58:01+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "open-source",
+      "pc-hardware",
+      "linux-gaming",
+      "game-dev"
+    ],
+    "summary": "Mesa driver development shows early support for AMD's GFX12.1 graphics architecture, indicating upcoming GPU hardware revisions beyond the Radeon RX 9000 series.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.1-rc2 Released With Audio Fix For Steam Deck OLED, Other Fixes",
+    "url": "https://www.phoronix.com/news/Linux-7.1-rc2-Released",
+    "published": "2026-05-03T21:30:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 42,
+    "tags": [
+      "steam-deck",
+      "linux-gaming",
+      "linux-hardware"
+    ],
+    "summary": "Linux 7.1-rc2 release includes audio fixes for Steam Deck OLED and other bug fixes accumulated during early testing.",
+    "sources": []
+  },
+  {
+    "title": "Brush v0.4 Released As \"Significant\" Release For This Rust-Based Shell",
+    "url": "https://www.phoronix.com/news/Brush-0.4-Shell-Released",
+    "published": "2026-05-03T16:02:22+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "open-source"
+    ],
+    "summary": "Brush v0.4, a Rust-based Bash/POSIX-compatible shell, has been released as a significant update to the project.",
+    "sources": []
+  },
+  {
+    "title": "ReactOS Introduces Unified Live/Install Media, New Storage Driver",
+    "url": "https://www.phoronix.com/news/ReactOS-Unified-ISO",
+    "published": "2026-05-03T14:14:22+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "ReactOS introduces unified live/install media and new storage driver improvements to its open-source Windows-compatible OS.",
+    "sources": []
+  },
+  {
+    "title": "Many Exciting Google Summer of Code 2026 Projects & A Lot Of AI",
+    "url": "https://www.phoronix.com/news/GSoC-2026-Exciting-Projects",
+    "published": "2026-05-03T13:23:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Google announces 2026 Summer of Code projects with a focus on AI/LLM adoption and contributions across various open-source initiatives including desktop environments and operating systems.",
+    "sources": []
+  },
+  {
+    "title": "Turtle Beach WaveFront ISA Sound Cards Seeing Suspend/Resume Support On Linux In 2026",
+    "url": "https://www.phoronix.com/news/Turtle-Beach-WaveFront-SnR",
+    "published": "2026-05-03T10:46:43+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Turtle Beach WaveFront ISA sound cards are gaining suspend/resume support on Linux in 2026 as part of broader vintage hardware maintenance efforts.",
+    "sources": []
+  },
+  {
+    "title": "The GNOME-Aligned RustConn Connection Manager Continues Piling On More Features",
+    "url": "https://www.phoronix.com/news/More-RustConn-Features",
+    "published": "2026-05-03T10:29:14+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "open-source",
+      "linux-gaming",
+      "game-dev"
+    ],
+    "summary": "RustConn, a GNOME-aligned GTK4 connection manager written in Rust, continues receiving incremental feature updates for managing various remote connection types.",
+    "sources": []
+  },
+  {
+    "title": "Persona 5 Royal but Roger Smith is every Confidant",
+    "url": "https://www.resetera.com/threads/persona-5-royal-but-roger-smith-is-every-confidant.1509580/",
+    "published": "2026-05-04T09:49:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "A fan-created mod replaces all Confidant characters in Persona 5 Royal with Roger Smith from American Dad, a niche community project with limited mainstream appeal.",
+    "sources": []
+  },
+  {
+    "title": "Boomer shooters or DOOM wads with intricate level design (secret areas, verticality etc)?",
+    "url": "https://www.resetera.com/threads/boomer-shooters-or-doom-wads-with-intricate-level-design-secret-areas-verticality-etc.1509532/",
+    "published": "2026-05-04T06:45:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Am I out of line or does the online multiplayer in the Dark Pictures Anthology kinda blow?",
+    "url": "https://www.resetera.com/threads/am-i-out-of-line-or-does-the-online-multiplayer-in-the-dark-pictures-anthology-kinda-blow.1509523/",
+    "published": "2026-05-04T05:26:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player shares their negative experience with the online multiplayer mechanics in the Dark Pictures Anthology games.",
+    "sources": []
+  },
+  {
+    "title": "Most generous game demos?",
+    "url": "https://www.resetera.com/threads/most-generous-game-demos.1509505/",
+    "published": "2026-05-04T02:02:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Discussion of generous game demos, highlighting the extensive FF7 Rebirth demo on Switch 2 that offers 16+ hours of gameplay with save carryover to the full game.",
+    "sources": []
+  },
+  {
+    "title": "WSJ: GameStop Is Offering to Buy eBay for $56 Billion. If eBay isn't receptive to the offer, GameStop's taking its offer directly to shareholders",
+    "url": "https://www.resetera.com/threads/wsj-gamestop-is-offering-to-buy-ebay-for-56-billion-if-ebay-isnt-receptive-to-the-offer-gamestops-taking-its-offer-directly-to-shareholders.1509484/",
+    "published": "2026-05-04T00:25:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "GameStop CEO Ryan Cohen announces unsolicited $56 billion takeover bid for eBay with a 20% premium offer, citing plans to make it a stronger Amazon competitor.",
+    "sources": []
+  },
+  {
+    "title": "Did Sony forget that the PS3 and Vita stores are still open?",
+    "url": "https://www.resetera.com/threads/did-sony-forget-that-the-ps3-and-vita-stores-are-still-open.1509478/",
+    "published": "2026-05-04T00:04:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Discussion of Sony's continued operation of PS3 and Vita digital stores despite industry trends toward closure, contrasting with Xbox's shutdown of the 360 store.",
+    "sources": []
+  },
+  {
+    "title": "Supermassive's Directive 8020 - Hype Check",
+    "url": "https://www.resetera.com/threads/supermassives-directive-8020-hype-check.1509469/",
+    "published": "2026-05-03T23:59:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Supermassive's Directive 8020 launches May 12th on console and PC at $49, with YouTube gameplay previews available.",
+    "sources": []
+  },
+  {
+    "title": "3 years since the Honor among thieves Dungeons & Dragons movie released. Have any games referenced it?",
+    "url": "https://www.resetera.com/threads/3-years-since-the-honor-among-thieves-dungeons-dragons-movie-released-have-any-games-referenced-it.1509466/",
+    "published": "2026-05-03T23:57:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A retrospective question about whether video games have referenced the 2023 Dungeons & Dragons: Honor Among Thieves film three years after its release.",
+    "sources": []
+  },
+  {
+    "title": "Dark Souls Remakes Said To Be In Development",
+    "url": "https://www.resetera.com/threads/dark-souls-remakes-said-to-be-in-development.1509448/",
+    "published": "2026-05-03T23:00:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "A leaked claim suggests Dark Souls remakes are in development, though the source reliability is uncertain.",
+    "sources": []
+  },
+  {
+    "title": "What do you think now about the $450 price tag of the Switch 2?",
+    "url": "https://www.resetera.com/threads/what-do-you-think-now-about-the-450-price-tag-of-the-switch-2.1509445/",
+    "published": "2026-05-03T22:43:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "console-hardware",
+      "handheld-gaming",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Opinion piece discussing the Nintendo Switch 2's $450 price point and its value proposition relative to hardware specifications.",
+    "sources": []
+  },
+  {
+    "title": "What did folks think of Dead Rising: Chop Till You Drop on Wii?",
+    "url": "https://www.resetera.com/threads/what-did-folks-think-of-dead-rising-chop-till-you-drop-on-wii.1509442/",
+    "published": "2026-05-03T22:34:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "console-hardware",
+      "community"
+    ],
+    "summary": "Community discussion about the Wii port of Dead Rising: Chop Till You Drop and its technical development history.",
+    "sources": []
+  },
+  {
+    "title": "So, what did you think of the Resident Evil 7-9 'Generation'?",
+    "url": "https://www.resetera.com/threads/so-what-did-you-think-of-the-resident-evil-7-9-generation.1509427/",
+    "published": "2026-05-03T22:00:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion thread soliciting opinions on the Resident Evil 7-9 generation of games and how they compare to earlier entries.",
+    "sources": []
+  },
+  {
+    "title": "So excited for Steam Controller!!!",
+    "url": "https://www.resetera.com/threads/so-excited-for-steam-controller.1509412/",
+    "published": "2026-05-03T21:24:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "steam-platform",
+      "community"
+    ],
+    "summary": "User shares enthusiasm about their working original Steam Controller and asks if others share their excitement.",
+    "sources": []
+  },
+  {
+    "title": "What do/did you think of the Nintendo Switch 2's launch? (June 5, 2025) [final thread in series]",
+    "url": "https://www.resetera.com/threads/what-do-did-you-think-of-the-nintendo-switch-2s-launch-june-5-2025-final-thread-in-series.1509373/",
+    "published": "2026-05-03T20:01:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "console-hardware",
+      "nintendo",
+      "community"
+    ],
+    "summary": "Community discussion thread about Nintendo Switch 2's launch as the final installment in a multi-system launch opinion series.",
+    "sources": []
+  },
+  {
+    "title": "Call of Duty: Modern Warfare 4 rumored to be tested on PlayStation 4",
+    "url": "https://www.resetera.com/threads/call-of-duty-modern-warfare-4-rumored-to-be-tested-on-playstation-4.1509367/",
+    "published": "2026-05-03T19:26:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "leaks",
+      "gaming-news"
+    ],
+    "summary": "Unsubstantiated rumor claims Call of Duty: Modern Warfare 4 is being playtested on PlayStation 4, sourced from a single social media claim with no corroboration.",
+    "sources": []
+  },
+  {
+    "title": "I'm starting to feel that stat-based meta-progression is starting to ruin Roguelites, generally speaking",
+    "url": "https://www.resetera.com/threads/im-starting-to-feel-that-stat-based-meta-progression-is-starting-to-ruin-roguelites-generally-speaking.1509337/",
+    "published": "2026-05-03T18:55:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "indie-games",
+      "game-design",
+      "community"
+    ],
+    "summary": "A community member critiques the prevalence of stat-based meta-progression systems in modern roguelites, arguing they diverge from the design philosophy of genre classics like Spelunky and FTL.",
+    "sources": []
+  },
+  {
+    "title": "The rear paddles and two additional bumper buttons on the 8BitDo is the biggest QoL in controllers in decades and needs to be a standard going forward",
+    "url": "https://www.resetera.com/threads/the-rear-paddles-and-two-additional-bumper-buttons-on-the-8bitdo-is-the-biggest-qol-in-controllers-in-decades-and-needs-to-be-a-standard-going-forward.1509331/",
+    "published": "2026-05-03T18:39:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-hardware",
+      "controller-design",
+      "community"
+    ],
+    "summary": "Community member argues that rear paddles and additional bumper buttons on 8BitDo controllers represent a significant quality-of-life improvement that should become industry standard for modern gaming.",
+    "sources": []
+  },
+  {
+    "title": "Nacon Connect has been rescheduled for May 7",
+    "url": "https://www.resetera.com/threads/nacon-connect-has-been-rescheduled-for-may-7.1509271/",
+    "published": "2026-05-03T16:35:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Nacon Connect event has been rescheduled to May 7, with a racing game stream to follow.",
+    "sources": []
+  },
+  {
+    "title": "Heroes of Might and Magic: Olden Era has sold 500k units in 72 hours.",
+    "url": "https://www.resetera.com/threads/heroes-of-might-and-magic-olden-era-has-sold-500k-units-in-72-hours.1509256/",
+    "published": "2026-05-03T15:41:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Heroes of Might and Magic: Olden Era sells 500,000 units in 72 hours during early access, signaling strong commercial success for the revived franchise.",
+    "sources": []
+  },
+  {
+    "title": "A rumor claims that a sequel to UNTIL DAWN is in development",
+    "url": "https://www.resetera.com/threads/a-rumor-claims-that-a-sequel-to-until-dawn-is-in-development.1509232/",
+    "published": "2026-05-03T14:57:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "A rumor claims that a sequel to Until Dawn has been in development since 2021 and will be released exclusively on PlayStation.",
+    "sources": []
+  },
+  {
+    "title": "Does anyone know the origins of the \u201cpiss filter\u201d look of the AAA era during the 360 and PS3?",
+    "url": "https://www.resetera.com/threads/does-anyone-know-the-origins-of-the-%E2%80%9Cpiss-filter%E2%80%9D-look-of-the-aaa-era-during-the-360-and-ps3.1509226/",
+    "published": "2026-05-03T14:53:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "Community discussion analyzing the prevalence of desaturated yellow-brown color grading in AAA games during the Xbox 360 and PS3 era.",
+    "sources": []
+  },
+  {
+    "title": "Blue Prince Creator Tonda Ross says no to AI, no to Blue Prince 2, but MAYBE to a Blue Prince Cinematic Universe? What would you want in a BPEU?",
+    "url": "https://www.resetera.com/threads/blue-prince-creator-tonda-ross-says-no-to-ai-no-to-blue-prince-2-but-maybe-to-a-blue-prince-cinematic-universe-what-would-you-want-in-a-bpeu.1509220/",
+    "published": "2026-05-03T14:50:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Indie game creator Tonda Ross discusses potential Blue Prince universe expansions while ruling out AI involvement and a direct sequel.",
+    "sources": []
+  },
+  {
+    "title": "GDDR6 Under Pressure: Tesla\u2019s Hunger for Memory Could Hit the PS5, PS5 Pro, and Older Gaming GPUs Hard (Tesla quadrupling GDDR6 orders for AI4 chips)",
+    "url": "https://www.resetera.com/threads/gddr6-under-pressure-tesla%E2%80%99s-hunger-for-memory-could-hit-the-ps5-ps5-pro-and-older-gaming-gpus-hard-tesla-quadrupling-gddr6-orders-for-ai4-chips.1509199/",
+    "published": "2026-05-03T14:14:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-hardware",
+      "pc-hardware",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Tesla's quadrupling demand for GDDR6 memory chips could create supply constraints affecting PS5, PS5 Pro, and gaming GPU availability.",
+    "sources": []
+  },
+  {
+    "title": "Everyone loves Nintendo \u2014 except investors",
+    "url": "https://www.resetera.com/threads/everyone-loves-nintendo-%E2%80%94-except-investors.1509175/",
+    "published": "2026-05-03T13:35:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "nintendo",
+      "gaming-news"
+    ],
+    "summary": "Nintendo's stock price has declined significantly despite the Super Mario movie's box office success, indicating investor concerns about the company's broader business performance.",
+    "sources": []
+  },
+  {
+    "title": "SAROS - Spoiler Thread",
+    "url": "https://www.resetera.com/threads/saros-spoiler-thread.1509160/",
+    "published": "2026-05-03T13:08:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Player discusses story interpretation and ending details for the game SAROS after completing the true ending.",
+    "sources": []
+  },
+  {
+    "title": "Tim Cain says parasocial relationships and alignment with preferred influencers have supplanted informed, critical review for most gamers",
+    "url": "https://www.resetera.com/threads/tim-cain-says-parasocial-relationships-and-alignment-with-preferred-influencers-have-supplanted-informed-critical-review-for-most-gamers.1509154/",
+    "published": "2026-05-03T13:01:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Fallout designer Tim Cain argues that influencer culture and parasocial relationships have replaced critical thinking in how gamers discover and evaluate games.",
+    "sources": []
+  },
+  {
+    "title": "Neo Geo fighter, World Heroes Perfect, getting Steam release by Code Mystics.  Like the others, rollback netcode",
+    "url": "https://www.resetera.com/threads/neo-geo-fighter-world-heroes-perfect-getting-steam-release-by-code-mystics-like-the-others-rollback-netcode.1509151/",
+    "published": "2026-05-03T12:59:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "steam-platform",
+      "retro",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "World Heroes Perfect, a classic Neo Geo fighter, launches on Steam with rollback netcode and newly playable hidden characters.",
+    "sources": []
+  },
+  {
+    "title": "Mascot-style character cameos and comebacks",
+    "url": "https://www.resetera.com/threads/mascot-style-character-cameos-and-comebacks.1509133/",
+    "published": "2026-05-03T11:15:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "community"
+    ],
+    "summary": "Discussion of Wild Woody, a obscure Sega CD mascot character and its place in gaming history, discovered through community sharing.",
+    "sources": []
+  },
+  {
+    "title": "\"This Little Handheld Is Extremely Powerful\" - Super Mario 64 Gets A Second Fan-Made GBA Port",
+    "url": "https://www.timeextension.com/news/2026/05/this-little-handheld-is-extremely-powerful-super-mario-64-gets-a-second-fan-made-gba-port",
+    "published": "2026-05-04T10:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "handheld-gaming",
+      "retro",
+      "game-dev",
+      "community"
+    ],
+    "summary": "A second fan-made port of Super Mario 64 to Game Boy Advance showcases impressive optimization and memory management techniques on the limited handheld hardware.",
+    "sources": []
+  },
+  {
+    "title": "Sega Quietly Files Trademark For Revival Of A 1990 Arcade Co-Op Classic",
+    "url": "https://www.timeextension.com/news/2026/05/sega-quietly-files-trademark-for-revival-of-a-1990-arcade-co-op-classic",
+    "published": "2026-05-04T09:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-industry",
+      "retro",
+      "gaming-news"
+    ],
+    "summary": "Sega files trademark for 'Bonanza Bros. Golden Heist,' potentially reviving a 1990 arcade co-op classic as part of its broader push to leverage classic IP.",
+    "sources": []
+  },
+  {
+    "title": "\"The Best Killer Instinct Emulator Ever\" Is Now Available To Download",
+    "url": "https://www.timeextension.com/news/2026/05/the-best-killer-instinct-emulator-ever-is-now-available-to-download",
+    "published": "2026-05-04T08:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "emulation",
+      "arcade",
+      "retro",
+      "community"
+    ],
+    "summary": "Rich Whitehouse releases BigInstinct, a specialized Killer Instinct arcade emulator offering faster and more accurate emulation than MAME, after securing renewed Patreon support.",
+    "sources": []
+  },
+  {
+    "title": "Donkey Kong, Battletoads And Killer Instinct Artist Kev Bayliss Is Attending This Year's Nottingham Video Games Expo",
+    "url": "https://www.timeextension.com/news/2026/05/donkey-kong-battletoads-and-killer-instinct-artist-kev-bayliss-is-attending-this-years-nottingham-video-games-expo",
+    "published": "2026-05-03T13:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Legendary Rare artist Kev Bayliss and other industry veterans will attend the Nottingham Video Games Expo's fifth anniversary celebration in July 2026.",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (May 3rd 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-may-3rd-2026",
+    "published": "2026-05-03T11:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of retro gaming news covering classic handhelds, major publishers, and nostalgic gaming content.",
+    "sources": []
+  },
+  {
+    "title": "Humble's Dead Rising Bundle Brings The Zombie Slaying Series Together In One Cheap Price",
+    "url": "https://steamdeckhq.com/news/humble-dead-rising-shop-til-you-drop-bundle/",
+    "published": "2026-05-03T17:31:08+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "Humble Bundle offers a Dead Rising series bundle at a discounted price with Steam Deck compatibility.",
+    "sources": []
+  },
+  {
+    "title": "Valve\u2019s hardware graduates from side-quest to full-blown ambition",
+    "url": "https://www.gamesindustry.biz/valves-hardware-graduates-from-side-quest-to-full-blown-ambition",
+    "published": "2026-05-04T09:00:00+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 75,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-hardware",
+      "gaming-news"
+    ],
+    "summary": "Valve's redesigned Steam Controller receives near-universal critical acclaim ahead of a major 2026 hardware push.",
+    "sources": []
+  },
+  {
+    "title": "Unlike Destiny 2, Marathon's creative director says you'll \"always be able to uncover the mysteries of Tau Ceti's past\"",
+    "url": "https://www.rockpapershotgun.com/unlike-destiny-2-marathons-creative-director-says-youll-always-be-able-to-uncover-the-mysteries-of-tau-cetis-past",
+    "published": "2026-05-04T10:06:35+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Bungie's creative director promises Marathon will maintain permanent access to story content, contrasting with Destiny 2's vaulted narrative elements.",
+    "sources": []
+  },
+  {
+    "title": "Crimson Desert's latest patch will help with your post-game buff build boredom through boss fight do-overs and more",
+    "url": "https://www.rockpapershotgun.com/crimson-deserts-latest-patch-will-help-with-your-post-game-buff-build-boredom-through-boss-fight-do-overs-and-more",
+    "published": "2026-05-04T09:00:46+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Crimson Desert's latest patch adds boss fight replay features and post-game content to address end-game build testing limitations.",
+    "sources": []
+  },
+  {
+    "title": "Wolfenstein meets Metroidvania in Wolfhound, an 8-bit ode to yesteryear with zombies and Nazi mechs",
+    "url": "https://www.rockpapershotgun.com/wolfenstein-meets-metroidvania-in-wolfhound-an-8-bit-ode-to-yesteryear-with-zombies-and-nazi-mechs",
+    "published": "2026-05-03T13:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "retro",
+      "game-discovery",
+      "game-dev"
+    ],
+    "summary": "Wolfhound, a retro-inspired Metroidvania indie game blending Wolfenstein aesthetics with 8-bit pixel art, shows promise ahead of its anticipated late 2025 release.",
+    "sources": []
+  },
+  {
+    "title": "Mini Review: Monster Crown: Sin Eater (PS5) - So Much More Than Your Typical Pok\u00e9mon Clone",
+    "url": "https://www.pushsquare.com/reviews/ps5/monster-crown-sin-eater",
+    "published": "2026-05-03T15:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Monster Crown: Sin Eater receives praise as a surprisingly mature and mechanically deep creature-taming RPG that exceeds expectations on PS5.",
+    "sources": []
+  },
+  {
+    "title": "Tekken 8 Brings Back Kunimitsu on PS5 with a Fiery Twist",
+    "url": "https://www.pushsquare.com/news/2026/05/tekken-8-brings-back-kunimitsu-on-ps5-with-a-fiery-twist",
+    "published": "2026-05-03T14:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Tekken 8 announces Kunimitsu II as the first Season 3 DLC character, available May 27 for pass holders and June 1 for individual purchase on PS5.",
+    "sources": []
+  },
+  {
+    "title": "Free Saros PS5 Avatars Are Available for You to Claim Right Now",
+    "url": "https://www.pushsquare.com/news/2026/05/free-saros-ps5-avatars-are-available-for-you-to-claim-right-now",
+    "published": "2026-05-03T12:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Sony is offering free PS5 avatars themed around the new first-party game Saros for players to customize their profiles.",
+    "sources": []
+  }
+]
