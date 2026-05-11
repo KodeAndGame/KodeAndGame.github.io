@@ -1,0 +1,1005 @@
+[
+  {
+    "title": "Linux 7.1-rc3 Released With Many Networking Changes",
+    "url": "https://www.phoronix.com/news/Linux-7.1-rc3-Released",
+    "published": "2026-05-10T21:45:11+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Linux 7.1-rc3 kernel released with significant networking subsystem updates, potentially impacting Linux gaming performance and compatibility.",
+    "sources": []
+  },
+  {
+    "title": "Axboe Hacking On New Linux Patches For 60% Increase To Per-Core I/O Performance",
+    "url": "https://www.phoronix.com/news/Axboe-60p-Faster-Per-Core-Perf",
+    "published": "2026-05-10T11:13:33+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Linux kernel developer Jens Axboe has developed patches achieving 60% per-core I/O performance improvements following the LSFMM summit presentation.",
+    "sources": []
+  },
+  {
+    "title": "Debian Release Team: Debian Must Now Ship Reproducible Packages",
+    "url": "https://www.phoronix.com/news/Debian-Must-Ship-Reproducible",
+    "published": "2026-05-10T10:40:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Debian release team mandates reproducible package builds for Debian 14, a technical infrastructure improvement for the widely-used Linux distribution.",
+    "sources": []
+  },
+  {
+    "title": "OpenAI's Coding Agent Helped Create A New AMD Temperature Driver For Linux",
+    "url": "https://www.phoronix.com/news/AMD-Prom21-xHCI-Temp-Driver",
+    "published": "2026-05-10T10:28:59+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "linux-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "OpenAI's coding agent assisted in developing a new open-source AMD temperature driver for Linux kernel that exposes temperature sensors on Promontory 21 chipsets.",
+    "sources": []
+  },
+  {
+    "title": "SteamOS 3.7.24",
+    "url": "https://store.steampowered.com/news/app/1675200/view/702141807556822251",
+    "published": "2026-05-10T19:24:17+00:00",
+    "feed_name": "Steam Deck Official Updates",
+    "feed_tags": [
+      "steam-deck",
+      "valve"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "steam-platform"
+    ],
+    "summary": "SteamOS 3.7.24 released with audio stability improvements and security updates.",
+    "sources": []
+  },
+  {
+    "title": "Mouse: P.I For Hire has sold 730k copies (better than expected), recouped all it's costs, 50% of sales on consoles, and more",
+    "url": "https://www.resetera.com/threads/mouse-p-i-for-hire-has-sold-730k-copies-better-than-expected-recouped-all-its-costs-50-of-sales-on-consoles-and-more.1516198/",
+    "published": "2026-05-11T05:21:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Mouse: P.I For Hire has exceeded expectations with 730k sales across platforms, fully recouping costs with 50% of sales coming from consoles.",
+    "sources": []
+  },
+  {
+    "title": "Switch 2 or ps5?",
+    "url": "https://www.resetera.com/threads/switch-2-or-ps5.1516195/",
+    "published": "2026-05-11T04:08:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "console-hardware"
+    ],
+    "summary": "A user asks for advice comparing Switch 2 and PS5 in what appears to be a duplicate forum post.",
+    "sources": []
+  },
+  {
+    "title": "What do you find scarier - horror games or horror movies?",
+    "url": "https://www.resetera.com/threads/what-do-you-find-scarier-horror-games-or-horror-movies.1516189/",
+    "published": "2026-05-11T03:53:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion comparing the scare factor of horror games versus horror movies, with one user noting that game fail states reduce fear impact.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo Shares Dive After Forecast Exposes Memory Squeeze",
+    "url": "https://www.resetera.com/threads/nintendo-shares-dive-after-forecast-exposes-memory-squeeze.1516183/",
+    "published": "2026-05-11T03:47:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Nintendo's stock plunges 10% after forecasting lower Switch 2 sales and warning that rising memory chip costs are pressuring profit margins.",
+    "sources": []
+  },
+  {
+    "title": "It's been a topic in every other thread, so might as well have one thread on the validity of videogame remakes",
+    "url": "https://www.resetera.com/threads/its-been-a-topic-in-every-other-thread-so-might-as-well-have-one-thread-on-the-validity-of-videogame-remakes.1516159/",
+    "published": "2026-05-11T02:24:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion thread examining the prevalence and validity of video game remakes in the industry, prompted by recent remake announcements and rumors.",
+    "sources": []
+  },
+  {
+    "title": "Which current ongoing game rumor would disappoint you the most if it's bogus?",
+    "url": "https://www.resetera.com/threads/which-current-ongoing-game-rumor-would-disappoint-you-the-most-if-its-bogus.1516156/",
+    "published": "2026-05-11T01:56:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community",
+      "leaks"
+    ],
+    "summary": "Community discussion about gaming rumors and speculation regarding potential future game announcements.",
+    "sources": []
+  },
+  {
+    "title": "Today is the 20th anniversary of Nintendo's E3 full unveiling of the Wii",
+    "url": "https://www.resetera.com/threads/today-is-the-20th-anniversary-of-nintendos-e3-full-unveiling-of-the-wii.1516135/",
+    "published": "2026-05-10T23:58:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-history",
+      "console-hardware",
+      "nintendo"
+    ],
+    "summary": "Nintendo's Wii E3 unveiling reaches its 20th anniversary, marking a landmark presentation that contrasted sharply with Sony's PS3 conference and featured iconic game reveals.",
+    "sources": []
+  },
+  {
+    "title": "Do You Think the Rumored Legend of Zelda: Ocarina of Time Switch 2 remake has voice acting?",
+    "url": "https://www.resetera.com/threads/do-you-think-the-rumored-legend-of-zelda-ocarina-of-time-switch-2-remake-has-voice-acting.1516126/",
+    "published": "2026-05-10T23:14:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "retro"
+    ],
+    "summary": "Community speculation discusses whether a rumored Ocarina of Time Switch 2 remake would include voice acting similar to recent Nintendo titles.",
+    "sources": []
+  },
+  {
+    "title": "Froggy Hates Snow - A very fun, quite unique take on the Vampire Survivor genre",
+    "url": "https://www.resetera.com/threads/froggy-hates-snow-a-very-fun-quite-unique-take-on-the-vampire-survivor-genre.1516120/",
+    "published": "2026-05-10T22:58:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "Froggy Hates Snow is an indie Vampire Survivors-like with survival and resource gathering mechanics that has gained positive early reception from players.",
+    "sources": []
+  },
+  {
+    "title": "end product might have ended up the same looter shooter GaaS but was there any real reason for suicide squad to abandon AK's custom ue3?",
+    "url": "https://www.resetera.com/threads/end-product-might-have-ended-up-the-same-looter-shooter-gaas-but-was-there-any-real-reason-for-suicide-squad-to-abandon-aks-custom-ue3.1516114/",
+    "published": "2026-05-10T22:38:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Analysis of Suicide Squad's engine choice (UE4 vs custom Arkham Knight engine) and speculation about how it impacted development time and visual quality compared to Injustice 2.",
+    "sources": []
+  },
+  {
+    "title": "LEGO Batman: Legacy of the Dark Knight accidentally went live early via Xbox",
+    "url": "https://www.resetera.com/threads/lego-batman-legacy-of-the-dark-knight-accidentally-went-live-early-via-xbox.1516105/",
+    "published": "2026-05-10T22:03:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "LEGO Batman: Legacy of the Dark Knight accidentally went live early through Walmart digital codes via the Xbox platform.",
+    "sources": []
+  },
+  {
+    "title": "[Rumor] Devil May Cry 1 remake in development at Capcom",
+    "url": "https://www.resetera.com/threads/rumor-devil-may-cry-1-remake-in-development-at-capcom.1516102/",
+    "published": "2026-05-10T21:55:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "leaks",
+      "game-dev"
+    ],
+    "summary": "A Capcom insider reportedly claims that Devil May Cry 1 remake is in development, according to sources associated with known RE insider Dusk Golem.",
+    "sources": []
+  },
+  {
+    "title": "Does IGN have the worst comment sections on the internet?",
+    "url": "https://www.resetera.com/threads/does-ign-have-the-worst-comment-sections-on-the-internet.1516099/",
+    "published": "2026-05-10T21:46:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Opinion piece criticizing the quality of IGN's comment section and the toxicity of its user base.",
+    "sources": []
+  },
+  {
+    "title": "Do you think the physical version of GTA6 will be complete on disc(s) for at least one console?",
+    "url": "https://www.resetera.com/threads/do-you-think-the-physical-version-of-gta6-will-be-complete-on-disc-s-for-at-least-one-console.1516093/",
+    "published": "2026-05-10T21:40:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Community discussion speculating whether GTA6 will ship complete on physical media for any platform, examining Rockstar's historical disc practices.",
+    "sources": []
+  },
+  {
+    "title": "Let\u2019s say GTA 6 released day one on PC\u2026",
+    "url": "https://www.resetera.com/threads/let%E2%80%99s-say-gta-6-released-day-one-on-pc%E2%80%A6.1516084/",
+    "published": "2026-05-10T21:13:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "A hypothetical discussion about whether players would purchase GTA 6 day one if it were exclusive to Rockstar's launcher without Steam availability or discounts.",
+    "sources": []
+  },
+  {
+    "title": "Forza Horizon 6 unencrypted files accidentally got leaked via a Steam update, game has already been cracked (release is in 9 days, early access in 5)",
+    "url": "https://www.resetera.com/threads/forza-horizon-6-unencrypted-files-accidentally-got-leaked-via-a-steam-update-game-has-already-been-cracked-release-is-in-9-days-early-access-in-5.1516081/",
+    "published": "2026-05-10T21:11:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "steam-platform",
+      "gaming-industry"
+    ],
+    "summary": "Forza Horizon 6 unencrypted game files were accidentally leaked via Steam update just days before early access launch, and the game has already been cracked.",
+    "sources": []
+  },
+  {
+    "title": "Mass Effect should have had more games in different genres",
+    "url": "https://www.resetera.com/threads/mass-effect-should-have-had-more-games-in-different-genres.1516078/",
+    "published": "2026-05-10T20:58:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 22,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "A fan discusses unrealized potential for Mass Effect spin-offs in different genres and notes an excellent Stellaris mod adaptation of the franchise.",
+    "sources": []
+  },
+  {
+    "title": "PC gamers - Will Helix / Xbox app get you buying more games on Microsoft Store?",
+    "url": "https://www.resetera.com/threads/pc-gamers-will-helix-xbox-app-get-you-buying-more-games-on-microsoft-store.1516054/",
+    "published": "2026-05-10T20:23:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "pc-hardware",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Microsoft's Helix console and Xbox app updates aim to consolidate PC gaming libraries and potentially drive more Microsoft Store purchases through improved launcher integration.",
+    "sources": []
+  },
+  {
+    "title": "cases where \"this is the best a game has ever looked\" was pinned on one game you didn't agree on",
+    "url": "https://www.resetera.com/threads/cases-where-this-is-the-best-a-game-has-ever-looked-was-pinned-on-one-game-you-didnt-agree-on.1516051/",
+    "published": "2026-05-10T20:14:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A gaming enthusiast disputes the common assertion that Gears of War represented peak graphics, arguing other contemporary games looked superior.",
+    "sources": []
+  },
+  {
+    "title": "Uncovering Amy Hennig's Uncharted 4",
+    "url": "https://www.resetera.com/threads/uncovering-amy-hennigs-uncharted-4.1516042/",
+    "published": "2026-05-10T19:58:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "game-dev",
+      "leaks"
+    ],
+    "summary": "A YouTube video uncovers previously unseen mocap recordings and footage from Amy Hennig's original vision for Uncharted 4 before development changes.",
+    "sources": []
+  },
+  {
+    "title": "Persona 4 Revival due to be completed end of August and release late 2026",
+    "url": "https://www.resetera.com/threads/persona-4-revival-due-to-be-completed-end-of-august-and-release-late-2026.1516039/",
+    "published": "2026-05-10T19:57:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "leaks"
+    ],
+    "summary": "Tose's financial report indicates Persona 4 Revival development is on track for completion by end of August with a planned release in early 2027.",
+    "sources": []
+  },
+  {
+    "title": "Repterra is what happens when They Are Billions and Red Alert 2 have a baby and Micropros publishes it.",
+    "url": "https://www.resetera.com/threads/repterra-is-what-happens-when-they-are-billions-and-red-alert-2-have-a-baby-and-micropros-publishes-it.1516036/",
+    "published": "2026-05-10T19:43:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "game-dev"
+    ],
+    "summary": "Repterra, an early access indie game blending real-time strategy with dinosaur themes, receives attention for its depth and content despite limited visibility.",
+    "sources": []
+  },
+  {
+    "title": "Retro gaming content about old computers and their games just seem the least popular...",
+    "url": "https://www.resetera.com/threads/retro-gaming-content-about-old-computers-and-their-games-just-seem-the-least-popular.1516033/",
+    "published": "2026-05-10T19:36:37+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community observation that retro gaming content disproportionately focuses on consoles and arcades while largely overlooking classic computer platforms like Commodore 64 and Amiga.",
+    "sources": []
+  },
+  {
+    "title": "(Time Extension) Myst Co-Creator Under Fire For Using GenAI Art In Riven Soundtrack Release",
+    "url": "https://www.resetera.com/threads/time-extension-myst-co-creator-under-fire-for-using-genai-art-in-riven-soundtrack-release.1516021/",
+    "published": "2026-05-10T19:29:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 58,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Myst co-creator Robyn Miller faces backlash after GenAI-generated art was used in Riven soundtrack release without disclosure, violating publisher Fangamer's internal policies.",
+    "sources": []
+  },
+  {
+    "title": "Here's how you, Resetera, ranked 30 console/handheld launches, from 1983 - 2025",
+    "url": "https://www.resetera.com/threads/heres-how-you-resetera-ranked-30-console-handheld-launches-from-1983-2025.1516015/",
+    "published": "2026-05-10T19:14:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "console-hardware",
+      "gaming-history",
+      "community",
+      "handheld-gaming"
+    ],
+    "summary": "ResetEra community members rank and grade console and handheld launches from 1983 to 2025 in an ongoing discussion thread.",
+    "sources": []
+  },
+  {
+    "title": "French retailer has an unlisted \"Flight Simulation Game Vol. 2\" for Switch",
+    "url": "https://www.resetera.com/threads/french-retailer-has-an-unlisted-flight-simulation-game-vol-2-for-switch.1516012/",
+    "published": "2026-05-10T19:08:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "A French retailer lists an unlisted \"Flight Simulation Game Vol. 2\" for Switch, though details remain unclear and the listing appears to be a pre-reference placeholder.",
+    "sources": []
+  },
+  {
+    "title": "Shinobi Art of Vengeance $15 Steam. New Low",
+    "url": "https://www.resetera.com/threads/shinobi-art-of-vengeance-15-steam-new-low.1516009/",
+    "published": "2026-05-10T19:07:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "Shinobi Art of Vengeance reaches a new low price of $15 on Steam, with a user recommendation.",
+    "sources": []
+  },
+  {
+    "title": "DELTARUNE but it's a PS2 game made by Square in 2001",
+    "url": "https://www.resetera.com/threads/deltarune-but-its-a-ps2-game-made-by-square-in-2001.1515988/",
+    "published": "2026-05-10T18:42:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Fan creates a stylized recreation of DELTARUNE reimagined as a PS2-era Square RPG from 2001.",
+    "sources": []
+  },
+  {
+    "title": "EDGE magazine coverage of The Legend of Zelda: Twilight Princess (2004-2006)",
+    "url": "https://www.resetera.com/threads/edge-magazine-coverage-of-the-legend-of-zelda-twilight-princess-2004-2006.1515985/",
+    "published": "2026-05-10T18:36:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A retrospective collection of EDGE magazine coverage of The Legend of Zelda: Twilight Princess from 2004-2006, compiled as the game approaches its 20th anniversary.",
+    "sources": []
+  },
+  {
+    "title": "LTTP: God of War (2018) and Breath of the Wild",
+    "url": "https://www.resetera.com/threads/lttp-god-of-war-2018-and-breath-of-the-wild.1515961/",
+    "published": "2026-05-10T18:18:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A personal retrospective review comparing God of War (2018) and Breath of the Wild, written by someone experiencing these acclaimed games for the first time.",
+    "sources": []
+  },
+  {
+    "title": "Is Steam\u2019s pre-download system broken? For the third time this year a pre-release game\u2019s files have been leaked online and cracked before release.",
+    "url": "https://www.resetera.com/threads/is-steam%E2%80%99s-pre-download-system-broken-for-the-third-time-this-year-a-pre-release-game%E2%80%99s-files-have-been-leaked-online-and-cracked-before-release.1515949/",
+    "published": "2026-05-10T17:53:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "steam-platform",
+      "gaming-news",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Pre-download files for major releases including Death Stranding 2, Pragmata, and Forza Horizon 6 have been decrypted and leaked online before official release dates, raising questions about Steam's security and pre-load system vulnerabilities.",
+    "sources": []
+  },
+  {
+    "title": "Do you think Star Fox (2026) will have any chocolate?",
+    "url": "https://www.resetera.com/threads/do-you-think-star-fox-2026-will-have-any-chocolate.1515934/",
+    "published": "2026-05-10T17:29:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Speculative discussion about potential unrevealed content in Star Fox (2026), questioning whether the game will include new single-player features beyond what has been publicly shown.",
+    "sources": []
+  },
+  {
+    "title": "Games you've dropped or are considering dropping in 2026",
+    "url": "https://www.resetera.com/threads/games-youve-dropped-or-are-considering-dropping-in-2026.1515925/",
+    "published": "2026-05-10T17:11:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion thread about games players have abandoned in 2026 and reasons for dropping them.",
+    "sources": []
+  },
+  {
+    "title": "Looking for suggestions - what're your favourite world exploration songs? READ OP",
+    "url": "https://www.resetera.com/threads/looking-for-suggestions-whatre-your-favourite-world-exploration-songs-read-op.1515856/",
+    "published": "2026-05-10T13:47:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Teacher seeks music recommendations from gaming community for classroom background playlist focused on calm exploration soundtracks.",
+    "sources": []
+  },
+  {
+    "title": "Are you familiar with Alph Lyla, Capcom's in-house band from the 90s?",
+    "url": "https://www.resetera.com/threads/are-you-familiar-with-alph-lyla-capcoms-in-house-band-from-the-90s.1515844/",
+    "published": "2026-05-10T13:21:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "game-dev",
+      "retro"
+    ],
+    "summary": "Article explores Alph Lyla, Capcom's in-house band from the 1990s, discussing notable members like composer Yoko Shimomura and the broader tradition of Japanese game studio bands.",
+    "sources": []
+  },
+  {
+    "title": "[PushSquare] Physical Game Fans, Beware: Digital Downloads Hit an Astonishing 85% on PS5, PS4 Last Quarter",
+    "url": "https://www.resetera.com/threads/pushsquare-physical-game-fans-beware-digital-downloads-hit-an-astonishing-85-on-ps5-ps4-last-quarter.1515841/",
+    "published": "2026-05-10T13:17:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Digital game purchases reached 85% on PS5/PS4 in Q4, marking a record high for Sony as physical media continues its dramatic decline.",
+    "sources": []
+  },
+  {
+    "title": "Uncharted 4: A Thief's End celebrates its 10th anniversary today",
+    "url": "https://www.resetera.com/threads/uncharted-4-a-thiefs-end-celebrates-its-10th-anniversary-today.1515838/",
+    "published": "2026-05-10T13:09:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "Uncharted 4: A Thief's End marks its 10th anniversary, reflecting on its massive commercial success and critical acclaim as one of PlayStation's most celebrated exclusive titles.",
+    "sources": []
+  },
+  {
+    "title": "Happy mothers day! Post your fave mothers in gaming",
+    "url": "https://www.resetera.com/threads/happy-mothers-day-post-your-fave-mothers-in-gaming.1515829/",
+    "published": "2026-05-10T13:01:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion thread celebrating Mother's Day by sharing favorite video game mothers, with mention of Final Fantasy VII Rebirth.",
+    "sources": []
+  },
+  {
+    "title": "You have a Neo Geo MVS 4-slot Arcade. What games are you putting on it? Why?",
+    "url": "https://www.resetera.com/threads/you-have-a-neo-geo-mvs-4-slot-arcade-what-games-are-you-putting-on-it-why.1515826/",
+    "published": "2026-05-10T12:59:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "arcade",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion about hypothetical Neo Geo MVS arcade game selection and personal nostalgia around the classic arcade system's library.",
+    "sources": []
+  },
+  {
+    "title": "Harada & Xeno's Takahashi in 2019: \"JRPGs have a sales ceiling of 1-3 million and it's hard to break\"; cutting edge tech may be an option; more",
+    "url": "https://www.resetera.com/threads/harada-xenos-takahashi-in-2019-jrpgs-have-a-sales-ceiling-of-1-3-million-and-its-hard-to-break-cutting-edge-tech-may-be-an-option-more.1515760/",
+    "published": "2026-05-10T08:12:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "jrpg"
+    ],
+    "summary": "A 2019 interview between Tekken producer Harada and Xenoblade director Takahashi discusses the perceived sales ceiling for JRPGs at 1-3 million copies and challenges of breaking through that threshold.",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (May 10th 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-may-10th-2026",
+    "published": "2026-05-10T11:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of retro gaming news covering classic titles like Metal Slug, Zelda, Amiga, and Wizardry.",
+    "sources": []
+  },
+  {
+    "title": "The Legend of Zelda: Twilight Princess PC Port Is Out And Amazing On Steam Deck",
+    "url": "https://steamdeckhq.com/news/zelda-twilight-princess-pc-port-steam-deck/",
+    "published": "2026-05-10T13:02:20+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 72,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "emulation",
+      "community"
+    ],
+    "summary": "A fan-made PC port of The Legend of Zelda: Twilight Princess has been released and runs exceptionally well on Steam Deck.",
+    "sources": []
+  },
+  {
+    "title": "Diablo IV: Season 13 is awesome",
+    "url": "https://overkill.wtf/notes/diablo4-s13",
+    "published": "2026-05-10T11:45:00+00:00",
+    "feed_name": "overkill Media",
+    "feed_tags": [
+      "steam-deck",
+      "linux-gaming"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player shares their positive experience with Diablo IV Season 13, returning to the game after launch and enjoying the seasonal content for the first time.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with Alabaster Dawn and Dead as Disco - 2026-05-09 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-05-09-edition/index.html",
+    "published": "2026-05-11T02:24:28+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Weekly roundup of 21 newly released games verified or playable on Steam Deck, highlighting Alabaster Dawn and Dead as Disco as standout titles.",
+    "sources": []
+  },
+  {
+    "title": "\"We tried something different\": Looking back on SiN Episodes: Emergence, the Valve-backed shooter that tried and failed to kick off an age of episodic gaming",
+    "url": "https://www.rockpapershotgun.com/we-tried-something-different-looking-back-on-sin-episodes-emergence-the-valve-backed-shooter-that-tried-and-failed-to-kick-off-an-age-of-episodic-gaming",
+    "published": "2026-05-10T13:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "valve",
+      "steam-platform",
+      "game-dev"
+    ],
+    "summary": "A retrospective look at SiN Episodes: Emergence, the 2006 Valve-backed episodic shooter that failed to launch the predicted age of episodic gaming despite industry optimism at the time.",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-809",
+    "published": "2026-05-10T08:49:53+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 5,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "A personal essay about UK pet cremation regulations and burial laws, with a tangential reference to Steam ownership models.",
+    "sources": []
+  },
+  {
+    "title": "Feature: Going Platinum: Astro's Playroom Was the Perfect PS5 Appetiser",
+    "url": "https://www.pushsquare.com/features/going-platinum-astros-playroom-was-the-perfect-ps5-appetiser",
+    "published": "2026-05-10T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A gaming journalist shares their platinum trophy completion experience for Astro's Playroom on PS5.",
+    "sources": []
+  },
+  {
+    "title": "Poll: Uncharted 4 Turns 10 Years Old, But Is It the Series' Peak?",
+    "url": "https://www.pushsquare.com/features/poll-uncharted-4-turns-10-years-old-but-is-it-the-series-peak",
+    "published": "2026-05-10T16:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-history"
+    ],
+    "summary": "Uncharted 4: A Thief's End celebrates its 10th anniversary, prompting reflection on whether it represents the peak of the franchise.",
+    "sources": []
+  },
+  {
+    "title": "Giant Enemy Crabs, $599, Ridge Racer: Sony's Wild E3 2006 Is Now 20-Years-Old",
+    "url": "https://www.pushsquare.com/news/2026/05/giant-enemy-crabs-usd599-ridge-racer-sonys-wild-e3-2006-is-now-20-years-old",
+    "published": "2026-05-10T13:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "Sony's E3 2006 press conference, remembered for awkward moments like the Giant Enemy Crab demo and $599 PS3 price announcement, marks its 20th anniversary.",
+    "sources": []
+  },
+  {
+    "title": "Why Is Everyone Acting So Weird About PS5 Game Mixtape?",
+    "url": "https://www.pushsquare.com/news/2026/05/why-is-everyone-acting-so-weird-about-ps5-game-mixtape",
+    "published": "2026-05-10T11:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "PS5 narrative game Mixtape receives mixed reception with discussion around its niche appeal and polarizing community discourse.",
+    "sources": []
+  },
+  {
+    "title": "Sony Wants to Turn Your PS5 Gameplay into Highlight Reels - Using AI",
+    "url": "https://www.pushsquare.com/news/2026/05/sony-wants-to-turn-your-ps5-gameplay-into-highlight-reels-using-ai",
+    "published": "2026-05-10T10:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 52,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Sony has patented an AI system that automatically generates highlight reels from PS5 gameplay by analyzing key moments like boss fights and high scores.",
+    "sources": []
+  }
+]
