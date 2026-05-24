@@ -1,0 +1,1029 @@
+[
+  {
+    "title": "Rust-Based Wild Linker 0.9 Brings New Platform Coverage, Linker Plugin API",
+    "url": "https://www.phoronix.com/news/Wild-Linker-0.9",
+    "published": "2026-05-24T00:33:45+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 28,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "game-dev"
+    ],
+    "summary": "Wild Linker 0.9, a Rust-based Linux linker, releases with expanded platform support and a new plugin API for developers.",
+    "sources": []
+  },
+  {
+    "title": "Linux Mint Making Improvements To Its File Manager, Theme & Dialogs",
+    "url": "https://www.phoronix.com/news/Linux-Mint-May-2026",
+    "published": "2026-05-23T14:52:52+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "community"
+    ],
+    "summary": "Linux Mint announces improvements to file manager, theme, and dialogs in their Cinnamon desktop environment.",
+    "sources": []
+  },
+  {
+    "title": "Intel's Latest Round Of Open-Source Projects Ended: OBS Studio Plugin, CVE Binary Tool & More",
+    "url": "https://www.phoronix.com/news/Intel-EOL-OBS-Plugin-And-More",
+    "published": "2026-05-23T14:15:18+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "gaming-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Intel discontinues several open-source projects including an OBS Studio plugin as part of ongoing portfolio realignment away from non-core initiatives.",
+    "sources": []
+  },
+  {
+    "title": "AV2 Codec Looks Like It Will Be Officially Released Next Week",
+    "url": "https://www.phoronix.com/news/AV2-Next-Week",
+    "published": "2026-05-23T10:38:18+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "open-source",
+      "gaming-industry"
+    ],
+    "summary": "The AV2 open-source video codec is expected to receive its official release next week after years of development as the successor to AV1.",
+    "sources": []
+  },
+  {
+    "title": "KDE Plasma 6.8 To Support System Monitor With Intel Xe, Plasma 6.7 Sees More Crash Fixes",
+    "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-Intel-Xe",
+    "published": "2026-05-23T10:26:44+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "KDE Plasma 6.8 will add system monitoring support for Intel Xe GPUs while Plasma 6.7 receives additional stability improvements.",
+    "sources": []
+  },
+  {
+    "title": "More ASUS & HP Laptops See Platform Driver Support For Linux 7.1-rc5",
+    "url": "https://www.phoronix.com/news/Linux-7.1-rc5-Platform-Drivers",
+    "published": "2026-05-23T10:17:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "linux-hardware"
+    ],
+    "summary": "Linux 7.1-rc5 kernel adds platform driver support for additional ASUS and HP laptop models, expanding hardware compatibility.",
+    "sources": []
+  },
+  {
+    "title": "DreamWorks' Open-Source MoonRay Renderer Now Part Of The Academy Software Foundation",
+    "url": "https://www.phoronix.com/news/Open-Source-MoonRay-ASF",
+    "published": "2026-05-23T10:05:01+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 62,
+    "tags": [
+      "open-source",
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "DreamWorks' open-source MoonRay renderer is now part of the Academy Software Foundation, marking a significant milestone for the production-quality rendering tool.",
+    "sources": []
+  },
+  {
+    "title": "After a little over 17 years, the pc version of saints row 2 finally has it's dlc",
+    "url": "https://www.resetera.com/threads/after-a-little-over-17-years-the-pc-version-of-saints-row-2-finally-has-its-dlc.1528720/",
+    "published": "2026-05-24T02:32:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "pc-hardware",
+      "community",
+      "game-dev",
+      "retro"
+    ],
+    "summary": "After 17 years, the PC version of Saints Row 2 receives its missing console-exclusive DLC content through community modding efforts by Kobraworks.",
+    "sources": []
+  },
+  {
+    "title": "Will Breath of Fire 6 ever be redeemed?",
+    "url": "https://www.resetera.com/threads/will-breath-of-fire-6-ever-be-redeemed.1528714/",
+    "published": "2026-05-24T02:18:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "A retrospective on Breath of Fire 6, a forgotten free-to-play mobile RPG that shut down in 2017 after a brief existence as a microtransaction-focused title.",
+    "sources": []
+  },
+  {
+    "title": "Marvel Games and DC Games subgenres you wish swapped",
+    "url": "https://www.resetera.com/threads/marvel-games-and-dc-games-subgenres-you-wish-swapped.1528708/",
+    "published": "2026-05-24T01:41:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion about which Marvel and DC game styles fans wish would be swapped between the two franchises.",
+    "sources": []
+  },
+  {
+    "title": "Games you played as a kid and completely forgot for years/decades",
+    "url": "https://www.resetera.com/threads/games-you-played-as-a-kid-and-completely-forgot-for-years-decades.1528687/",
+    "published": "2026-05-23T23:54:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community member shares nostalgic rediscovery of a forgotten childhood game from PS1 era.",
+    "sources": []
+  },
+  {
+    "title": "What Are Bad Habits You've Noticed In Your Gameplay (Things You Do Wrong)",
+    "url": "https://www.resetera.com/threads/what-are-bad-habits-youve-noticed-in-your-gameplay-things-you-do-wrong.1528672/",
+    "published": "2026-05-23T23:32:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community"
+    ],
+    "summary": "Player discusses their personal bad habits in Titanfall 2 gameplay, reflecting on stationary shooting technique carried over from other games.",
+    "sources": []
+  },
+  {
+    "title": "Marathon Needs to Revisit Character Customization",
+    "url": "https://www.resetera.com/threads/marathon-needs-to-revisit-character-customization.1528624/",
+    "published": "2026-05-23T21:09:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Community member criticizes Marathon's lack of deep character customization options, calling it a missed opportunity that Bungie should reconsider.",
+    "sources": []
+  },
+  {
+    "title": "Avatar Legends: The Fighting Game Azula Trailer",
+    "url": "https://www.resetera.com/threads/avatar-legends-the-fighting-game-azula-trailer.1528618/",
+    "published": "2026-05-23T21:04:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Avatar Legends: The Fighting Game releases a character trailer for Azula with deep lore integration.",
+    "sources": []
+  },
+  {
+    "title": "Jez heard Fallout remakes are further off than expected and Elder Scrolls 6 is still far away. 2027 for one Fallout remake and 2028-2029 for ES6",
+    "url": "https://www.resetera.com/threads/jez-heard-fallout-remakes-are-further-off-than-expected-and-elder-scrolls-6-is-still-far-away-2027-for-one-fallout-remake-and-2028-2029-for-es6.1528612/",
+    "published": "2026-05-23T20:53:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "According to insider Jez, Fallout remakes are delayed further than expected with 2027 timeline, and The Elder Scrolls 6 won't arrive until 2028-2029.",
+    "sources": []
+  },
+  {
+    "title": "Chris Wilson (co-founder of Grinding Gear Games): Don't Survey Your Players",
+    "url": "https://www.resetera.com/threads/chris-wilson-co-founder-of-grinding-gear-games-dont-survey-your-players.1528588/",
+    "published": "2026-05-23T19:58:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "community"
+    ],
+    "summary": "Chris Wilson from Grinding Gear Games shares developer insights on why surveying players about game direction can be counterproductive to game development.",
+    "sources": []
+  },
+  {
+    "title": "Valnet (TheGamer, Game Rant, XDA, etc.) won't pay ppl unless there articles meet a minimum viewership threshold under new contract.",
+    "url": "https://www.resetera.com/threads/valnet-thegamer-game-rant-xda-etc-wont-pay-ppl-unless-there-articles-meet-a-minimum-viewership-threshold-under-new-contract.1528582/",
+    "published": "2026-05-23T19:43:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Valnet implements controversial new contract terms requiring minimum viewership thresholds before paying contributors across gaming media properties.",
+    "sources": []
+  },
+  {
+    "title": "The Spyro statue displayed at E3 2000 to promote Spyro: Year of the Dragon has been found in an abandoned gas station in Oregon",
+    "url": "https://www.resetera.com/threads/the-spyro-statue-displayed-at-e3-2000-to-promote-spyro-year-of-the-dragon-has-been-found-in-an-abandoned-gas-station-in-oregon.1528567/",
+    "published": "2026-05-23T19:29:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "community"
+    ],
+    "summary": "A promotional Spyro statue from E3 2000 was discovered abandoned at a gas station in Oregon, representing a recovered piece of PlayStation-era gaming memorabilia.",
+    "sources": []
+  },
+  {
+    "title": "Ubusuna, the Ikaruga successor, has been cancelled at M2",
+    "url": "https://www.resetera.com/threads/ubusuna-the-ikaruga-successor-has-been-cancelled-at-m2.1528546/",
+    "published": "2026-05-23T18:56:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "M2 has cancelled Ubusuna, a successor to the cult classic Ikaruga, with director Hiroshi Iuchi departing the company.",
+    "sources": []
+  },
+  {
+    "title": "Which V game would you buy for Switch 2?",
+    "url": "https://www.resetera.com/threads/which-v-game-would-you-buy-for-switch-2.1528543/",
+    "published": "2026-05-23T18:47:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "handheld-gaming",
+      "console-hardware",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion poll asking users which hypothetical V-series game they would purchase for Nintendo Switch 2.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo of America:",
+    "url": "https://www.resetera.com/threads/nintendo-of-america.1528534/",
+    "published": "2026-05-23T18:17:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Nintendo of America posts a cryptic message on Bluesky with unclear meaning or context.",
+    "sources": []
+  },
+  {
+    "title": "Another interview with Ryan Morris, the father of being grossly incandescent",
+    "url": "https://www.resetera.com/threads/another-interview-with-ryan-morris-the-father-of-being-grossly-incandescent.1528513/",
+    "published": "2026-05-23T17:36:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-history"
+    ],
+    "summary": "Interview with Ryan Morris, a key creative voice behind FromSoftware's Souls games, discusses the memorable writing and world-building that defined the series.",
+    "sources": []
+  },
+  {
+    "title": "Star Trek: Online has released a 14-minute in-universe Enterprise-era documentary for its 16th anniversary",
+    "url": "https://www.resetera.com/threads/star-trek-online-has-released-a-14-minute-in-universe-enterprise-era-documentary-for-its-16th-anniversary.1528510/",
+    "published": "2026-05-23T17:34:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Star Trek: Online releases a 14-minute in-universe documentary for its 16th anniversary celebrating Enterprise-era lore and ships.",
+    "sources": []
+  },
+  {
+    "title": "With Season 2 finished Netflix's Dante might be one of the worst versions of the character (Spoilers)",
+    "url": "https://www.resetera.com/threads/with-season-2-finished-netflixs-dante-might-be-one-of-the-worst-versions-of-the-character-spoilers.1528492/",
+    "published": "2026-05-23T16:57:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A fan critique of Netflix's Dante's Inferno Season 2, arguing the character portrayal is one of the worst iterations of Dante from the Devil May Cry franchise.",
+    "sources": []
+  },
+  {
+    "title": "Looking into getting into PC gaming for indies...",
+    "url": "https://www.resetera.com/threads/looking-into-getting-into-pc-gaming-for-indies.1528489/",
+    "published": "2026-05-23T16:42:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "pc-hardware",
+      "community"
+    ],
+    "summary": "A console gamer seeks advice on transitioning to PC gaming for indie titles, considering Steam Machines versus traditional low/mid-tier PCs.",
+    "sources": []
+  },
+  {
+    "title": "Which DC character should TT Games choose next?",
+    "url": "https://www.resetera.com/threads/which-dc-character-should-tt-games-choose-next.1528477/",
+    "published": "2026-05-23T16:22:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Community discussion speculating on which DC character TT Games should adapt into a Lego game following the release of Lego Batman.",
+    "sources": []
+  },
+  {
+    "title": "Gran Turismo 7 to add four modern Le Mans prototypes (plus a safety car) in 11 June update",
+    "url": "https://www.resetera.com/threads/gran-turismo-7-to-add-four-modern-le-mans-prototypes-plus-a-safety-car-in-11-june-update.1528465/",
+    "published": "2026-05-23T15:49:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Gran Turismo 7 will receive an update on June 11 adding four modern Le Mans prototype cars and a safety car to the racing game.",
+    "sources": []
+  },
+  {
+    "title": "I returned to World of Warcraft after 16 years",
+    "url": "https://www.resetera.com/threads/i-returned-to-world-of-warcraft-after-16-years.1528444/",
+    "published": "2026-05-23T15:21:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "community",
+      "gaming-history"
+    ],
+    "summary": "A player shares their personal experience returning to World of Warcraft after a 16-year hiatus, reflecting on how the game and their life have changed.",
+    "sources": []
+  },
+  {
+    "title": "Mr. Karate comes to Fatal Fury: CotW on May 27",
+    "url": "https://www.resetera.com/threads/mr-karate-comes-to-fatal-fury-cotw-on-may-27.1528438/",
+    "published": "2026-05-23T15:05:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Mr. Karate character arrives in Fatal Fury: City of the Wolves fighting game on May 27.",
+    "sources": []
+  },
+  {
+    "title": "Take-Two plans to release 1 remake, remaster, or platform extension before April 2027 (likely Max Payne remake, but could also be a game port)",
+    "url": "https://www.resetera.com/threads/take-two-plans-to-release-1-remake-remaster-or-platform-extension-before-april-2027-likely-max-payne-remake-but-could-also-be-a-game-port.1528417/",
+    "published": "2026-05-23T14:41:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Take-Two Interactive plans to release at least one remake, remaster, or platform extension before April 2027, likely the Max Payne remake among other potential ports.",
+    "sources": []
+  },
+  {
+    "title": "The music of SEGA's Daytona USA",
+    "url": "https://www.resetera.com/threads/the-music-of-segas-daytona-usa.1528411/",
+    "published": "2026-05-23T14:24:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "arcade"
+    ],
+    "summary": "A retrospective appreciation of Daytona USA's distinctive music and visual style from SEGA's classic arcade era.",
+    "sources": []
+  },
+  {
+    "title": "Jason Voorhees is finally joining Dead By Daylight on June 16.",
+    "url": "https://www.resetera.com/threads/jason-voorhees-is-finally-joining-dead-by-daylight-on-june-16.1528408/",
+    "published": "2026-05-23T14:07:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Jason Voorhees from the Friday the 13th franchise is being added to Dead By Daylight as a new killer on June 16.",
+    "sources": []
+  },
+  {
+    "title": "STONEMACHIA - Launch Trailer - May 26,2026",
+    "url": "https://www.resetera.com/threads/stonemachia-launch-trailer-may-26-2026.1528399/",
+    "published": "2026-05-23T13:56:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "STONEMACHIA, a chess-themed indie game, launches with a trailer on May 26, 2026.",
+    "sources": []
+  },
+  {
+    "title": "Neverness to Everness innovates in QoL by allowing you to mute an annoying character in cutscenes.",
+    "url": "https://www.resetera.com/threads/neverness-to-everness-innovates-in-qol-by-allowing-you-to-mute-an-annoying-character-in-cutscenes.1528396/",
+    "published": "2026-05-23T13:56:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Neverness to Everness adds mute option for unpopular mascot character in response to negative player reception.",
+    "sources": []
+  },
+  {
+    "title": "Ken Levine's 'Judas' Likely Not Coming Until FY '28/29",
+    "url": "https://www.resetera.com/threads/ken-levines-judas-likely-not-coming-until-fy-28-29.1528390/",
+    "published": "2026-05-23T13:41:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "leaks"
+    ],
+    "summary": "Ken Levine's anticipated game 'Judas' has been internally delayed and is now targeting release in fiscal year 2028/2029, according to Take-Two's latest financial report.",
+    "sources": []
+  },
+  {
+    "title": "Square Enix has removed the demos for the Kingdom Hearts Cloud Editions from the US and JP Switch eShop.",
+    "url": "https://www.resetera.com/threads/square-enix-has-removed-the-demos-for-the-kingdom-hearts-cloud-editions-from-the-us-and-jp-switch-eshop.1528378/",
+    "published": "2026-05-23T13:33:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Square Enix has removed Kingdom Hearts Cloud Edition demos from the US and Japanese Switch eShop, with reasons currently unclear.",
+    "sources": []
+  },
+  {
+    "title": "How has The Walking Dead never gotten a big survival game?",
+    "url": "https://www.resetera.com/threads/how-has-the-walking-dead-never-gotten-a-big-survival-game.1528360/",
+    "published": "2026-05-23T12:20:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Community discussion questioning why The Walking Dead franchise has not produced a major survival game despite its long popularity and IP potential.",
+    "sources": []
+  },
+  {
+    "title": "Dead By Daylight's 10th Anniversary \"Cabin Gate\" is a Megaflub",
+    "url": "https://www.resetera.com/threads/dead-by-daylights-10th-anniversary-cabin-gate-is-a-megaflub.1528339/",
+    "published": "2026-05-23T10:24:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Dead by Daylight's 10th anniversary stream promised major announcements but delivered only a static cabin image for 9+ hours, disappointing the community.",
+    "sources": []
+  },
+  {
+    "title": "Reviews codes for 007 First Light went out one working day before preorder release",
+    "url": "https://www.resetera.com/threads/reviews-codes-for-007-first-light-went-out-one-working-day-before-preorder-release.1528336/",
+    "published": "2026-05-23T10:15:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Review codes for 007 First Light were distributed just one working day before preorder early access, raising concerns about reviewer timeframes.",
+    "sources": []
+  },
+  {
+    "title": "Dishonored Walkthrough with it's creators Raphael Colantonio and Harvey Smith",
+    "url": "https://www.resetera.com/threads/dishonored-walkthrough-with-its-creators-raphael-colantonio-and-harvey-smith.1528324/",
+    "published": "2026-05-23T08:58:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Game creators Raphael Colantonio and Harvey Smith host a 10-part YouTube walkthrough series of Dishonored.",
+    "sources": []
+  },
+  {
+    "title": "New features revealed for Avatar Legends The Fighting Game",
+    "url": "https://www.resetera.com/threads/new-features-revealed-for-avatar-legends-the-fighting-game.1528309/",
+    "published": "2026-05-23T07:02:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Avatar Legends The Fighting Game receives new features including character mechanics and stages, with an Azula character reveal planned for Combo Breaker.",
+    "sources": []
+  },
+  {
+    "title": "Korean husband ask players of PUBG: Battlegrounds to help throw a round for his terminally ill wife.",
+    "url": "https://www.resetera.com/threads/korean-husband-ask-players-of-pubg-battlegrounds-to-help-throw-a-round-for-his-terminally-ill-wife.1528306/",
+    "published": "2026-05-23T06:01:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 68,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A Korean PUBG player's heartfelt request for hundreds of volunteers to help his terminally ill wife achieve in-game victories creates a touching community moment.",
+    "sources": []
+  },
+  {
+    "title": "\"We Are Deeply Sorry\" - M2 Has Canned Ikaruga Successor Ubusuna",
+    "url": "https://www.timeextension.com/news/2026/05/we-are-deeply-sorry-m2-has-canned-ikaruga-successor-ubusuna",
+    "published": "2026-05-23T18:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "indie-games"
+    ],
+    "summary": "M2 has cancelled Ubusuna, Hiroshi Iuchi's spiritual successor to Ikaruga that was in development for nearly a decade, with the creator also departing the company.",
+    "sources": []
+  },
+  {
+    "title": "Random Game Saturday: Shining The Holy Ark (Sega Saturn)",
+    "url": "https://www.timeextension.com/features/random-game-saturday-shining-the-holy-ark-sega-saturn",
+    "published": "2026-05-23T11:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 28,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "game-discovery"
+    ],
+    "summary": "A retrospective article examines Shining The Holy Ark for Sega Saturn, a first-person JRPG that returned the franchise to its dungeon-crawler roots.",
+    "sources": []
+  },
+  {
+    "title": "Humble's New 4X Bundle Is Great For Strategy Fans With A Steam Deck",
+    "url": "https://steamdeckhq.com/news/humble-new-4x-bundle-2026/",
+    "published": "2026-05-23T15:28:26+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 32,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Humble Bundle releases a new 4X strategy game bundle featuring titles optimized for Steam Deck, including Songs of Silence and Endless Legend.",
+    "sources": []
+  },
+  {
+    "title": "In Crimson Desert's latest update, you can pick up baby wyverns as pets, throw your fish in a pond, and shut those pesky outlaws up",
+    "url": "https://www.rockpapershotgun.com/in-crimson-deserts-latest-update-you-can-pick-up-baby-wyverns-as-pets-throw-your-fish-in-a-pond-and-shut-those-pesky-outlaws-up",
+    "published": "2026-05-23T21:53:39+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Crimson Desert receives a minor patch adding baby wyvern pets, fishing pond mechanics, and outlaw silencing features.",
+    "sources": []
+  },
+  {
+    "title": "\"God is dead, and Heaven has gone corporate\" in Grindset T.V., an overstimulating speedrunning game by way of Cruelty Squad",
+    "url": "https://www.rockpapershotgun.com/god-is-dead-and-heaven-has-gone-corporate-in-grindset-tv-an-overstimulating-speedrunning-game-by-way-of-cruelty-squad",
+    "published": "2026-05-23T20:49:28+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "speedrunning"
+    ],
+    "summary": "Grindset T.V., an indie speedrunning platformer, continues the visual aesthetic trend started by Cruelty Squad's influential maximalist art style.",
+    "sources": []
+  },
+  {
+    "title": "Paralives continues to sound promising with a roadmap outlining free updates The Sims would normally charge for",
+    "url": "https://www.rockpapershotgun.com/paralives-continues-to-sound-promising-with-a-roadmap-outlining-free-updates-the-sims-would-normally-charge-for",
+    "published": "2026-05-23T17:53:13+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 55,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Paralives releases a roadmap promising free updates for features that The Sims typically charges for as expansions, appealing to players fatigued by high DLC costs.",
+    "sources": []
+  },
+  {
+    "title": "Say goodbye to birds and hello to dragons in Wyrmspan, a scalier take on beloved strategy card game Wingspan",
+    "url": "https://www.rockpapershotgun.com/say-goodbye-to-birds-and-hello-to-dragons-in-wyrmspan-a-scalier-take-on-beloved-strategy-card-game-wingspan",
+    "published": "2026-05-23T17:14:33+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Wyrmspan, a dragon-themed spiritual successor to the board game Wingspan, is being adapted into a video game.",
+    "sources": []
+  },
+  {
+    "title": "Warhammer 40,000: Chaos Gate - Deathwatch picks up where Daemonhunters' XCOM-ish gorefest left off",
+    "url": "https://www.rockpapershotgun.com/warhammer-40000-chaos-gate-deathwatch-picks-up-where-daemonhunters-xcom-ish-gorefest-left-off",
+    "published": "2026-05-23T16:14:29+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Warhammer 40,000: Chaos Gate - Deathwatch announced as a sequel to Daemonhunters, continuing the turn-based tactical RPG series.",
+    "sources": []
+  },
+  {
+    "title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-383",
+    "published": "2026-05-23T07:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A casual community discussion prompt asking readers what games they plan to play over the weekend, framed with humorous commentary about dealing with hot weather.",
+    "sources": []
+  },
+  {
+    "title": "Friday the 13th's Game May Be Gone, But Jason Voorhees Is Back in Dead by Daylight",
+    "url": "https://www.pushsquare.com/news/2026/05/friday-the-13ths-game-may-be-gone-but-jason-voorhees-is-back-in-dead-by-daylight",
+    "published": "2026-05-23T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Jason Voorhees from Friday the 13th is coming to Dead by Daylight as a DLC killer on June 16th, adding another classic horror villain to the game's roster.",
+    "sources": []
+  },
+  {
+    "title": "Gran Turismo 7 Is the Gift That Keeps on Giving, 5 Cars Added in Free PS5 Update",
+    "url": "https://www.pushsquare.com/news/2026/05/gran-turismo-7-is-the-gift-that-keeps-on-giving-5-cars-added-in-free-ps5-update",
+    "published": "2026-05-23T18:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Gran Turismo 7 receives a free June 2026 update adding five new cars to the PS5 racing simulator.",
+    "sources": []
+  },
+  {
+    "title": "Two More Fate/Stay Night Characters Are Coming to PS5 RPG Honkai: Star Rail",
+    "url": "https://www.pushsquare.com/news/2026/05/two-more-fatestay-night-characters-are-coming-to-ps5-rpg-honkai-star-rail",
+    "published": "2026-05-23T17:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Honkai: Star Rail announces two new Fate/Stay Night crossover characters (Rin Tohsaka and Gilgamesh) coming to PS5 this summer, with Gilgamesh available free to players.",
+    "sources": []
+  },
+  {
+    "title": "First Major Update for PS5's NTE Will Let You Mute Its Worst Character",
+    "url": "https://www.pushsquare.com/news/2026/05/first-major-update-for-ps5s-nte-will-let-you-mute-its-worst-character",
+    "published": "2026-05-23T16:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 32,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "PS5's free-to-play game NTE receives its first major update on June 3rd, adding character muting, social features, new island, and Mario Kart mode.",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 20+ New PS5 Games Are Coming Out Next Week (25th-31st May)",
+    "url": "https://www.pushsquare.com/guides/these-20plus-new-ps5-games-are-coming-out-next-week-25th-31st-may",
+    "published": "2026-05-23T13:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "20+ PS5 games releasing in late May 2024, headlined by 007 First Light and Mina the Hollower.",
+    "sources": []
+  },
+  {
+    "title": "PS Vita JRPG Where You Power Up by Kissing Girls Finally Heads West Via PS5 Remaster",
+    "url": "https://www.pushsquare.com/news/2026/05/ps-vita-jrpg-where-you-power-up-by-kissing-girls-finally-heads-west-via-ps5-remaster",
+    "published": "2026-05-23T10:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "A previously Japan-exclusive PS Vita JRPG from 2013 is getting a PS5 remaster release in the West.",
+    "sources": []
+  },
+  {
+    "title": "Talking Point: What Are You Playing This Weekend? - Issue 634",
+    "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-634",
+    "published": "2026-05-23T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A weekly community discussion prompt asking readers what games they plan to play over the weekend.",
+    "sources": []
+  }
+]
