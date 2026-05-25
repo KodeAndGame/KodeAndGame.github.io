@@ -1,0 +1,1020 @@
+[
+  {
+    "title": "Linux 7.1-rc5 Released With Fixes Ramping Up From AI Coding Agents",
+    "url": "https://www.phoronix.com/news/Linux-7.1-rc5-Released",
+    "published": "2026-05-24T20:51:21+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Linux 7.1-rc5 release candidate includes continued bug fixes and improvements ahead of the June stable release.",
+    "sources": []
+  },
+  {
+    "title": "GitHub Copilot & Claude Code Helped With Graphics, WiFi Linux Driver Issues This Week",
+    "url": "https://www.phoronix.com/news/Linux-7.1-rc5-AI-This-Week",
+    "published": "2026-05-24T16:39:13+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "game-dev",
+      "open-source"
+    ],
+    "summary": "AI coding agents like GitHub Copilot and Claude Code contributed to fixing Linux kernel patches for graphics and WiFi drivers.",
+    "sources": []
+  },
+  {
+    "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD On Laptop",
+    "url": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
+    "published": "2026-05-24T14:02:04+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware",
+      "community"
+    ],
+    "summary": "FreeBSD Foundation's Executive Director attempts to daily drive FreeBSD on a laptop as the project continues improving laptop support and KDE desktop integration.",
+    "sources": []
+  },
+  {
+    "title": "Linux To Remove ISA Speech Synthesizer Driver That Likely Hasn't Been Used In Decades",
+    "url": "https://www.phoronix.com/news/Linux-Dropping-Double-Talk",
+    "published": "2026-05-24T12:34:43+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 28,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Linux 7.2 kernel will remove obsolete ISA speech synthesizer driver support as part of ongoing efforts to reduce maintenance burden on legacy hardware.",
+    "sources": []
+  },
+  {
+    "title": "KernelScript: A Programming Language For Kernel Customization & App Optimizations",
+    "url": "https://www.phoronix.com/news/KernelScript",
+    "published": "2026-05-24T10:55:11+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "game-dev"
+    ],
+    "summary": "Multikernel Technologies develops KernelScript, a domain-specific language for Linux kernel customization and application optimization, with potential relevance to gaming performance.",
+    "sources": []
+  },
+  {
+    "title": "Boot-Time Wizard Aims To Help Reduce Linux Boot Times",
+    "url": "https://www.phoronix.com/news/Boot-Time-Wizard-Linux",
+    "published": "2026-05-24T10:39:25+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "game-dev"
+    ],
+    "summary": "Boot-Time Wizard is a new tool designed to help embedded Linux developers optimize and reduce system boot times, addressing a concern more relevant to embedded systems than mainstream gaming.",
+    "sources": []
+  },
+  {
+    "title": "GamersNexus: Nvidia's abandoning the personal computer.",
+    "url": "https://www.resetera.com/threads/gamersnexus-nvidias-abandoning-the-personal-computer.1529086/",
+    "published": "2026-05-25T02:56:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-industry",
+      "pc-hardware",
+      "nvidia",
+      "gaming-news"
+    ],
+    "summary": "Nvidia stops reporting gaming revenue separately in earnings reports, signaling a strategic shift away from personal computing toward cloud-based solutions.",
+    "sources": []
+  },
+  {
+    "title": "Yoshi and the Mysterious Book is pure Nintendo magic, but NOA really dropped the ball with its marketing (Plus, your other examples of poor marketing)",
+    "url": "https://www.resetera.com/threads/yoshi-and-the-mysterious-book-is-pure-nintendo-magic-but-noa-really-dropped-the-ball-with-its-marketing-plus-your-other-examples-of-poor-marketing.1529083/",
+    "published": "2026-05-25T01:55:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "gaming-industry"
+    ],
+    "summary": "Opinion piece praising Nintendo's Yoshi and the Mysterious Book as creative and innovative while criticizing Nintendo of America's marketing efforts for the title.",
+    "sources": []
+  },
+  {
+    "title": "PS3 emulation on PS5 using Linux tested - Digital Foundry",
+    "url": "https://www.resetera.com/threads/ps3-emulation-on-ps5-using-linux-tested-digital-foundry.1529080/",
+    "published": "2026-05-25T01:37:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "emulation",
+      "console-hardware",
+      "gaming-hardware",
+      "linux-gaming"
+    ],
+    "summary": "Digital Foundry tests PS3 emulation running on PS5 through Linux, demonstrating viable performance in some cases.",
+    "sources": []
+  },
+  {
+    "title": "There's been a lot of Porsche video game collabs lately. What do you think about it?",
+    "url": "https://www.resetera.com/threads/theres-been-a-lot-of-porsche-video-game-collabs-lately-what-do-you-think-about-it.1529074/",
+    "published": "2026-05-25T01:14:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Opinion piece discussing the prevalence of Porsche brand collaborations across various video games and questioning the line between meaningful partnerships and product placement.",
+    "sources": []
+  },
+  {
+    "title": "What would you like to see in Dragon Ball Xenoverse 3?",
+    "url": "https://www.resetera.com/threads/what-would-you-like-to-see-in-dragon-ball-xenoverse-3.1529071/",
+    "published": "2026-05-25T01:09:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community member shares wishlist for Dragon Ball Xenoverse 3 features including expanded story modes and gameplay mechanics.",
+    "sources": []
+  },
+  {
+    "title": "Inside an Arcade in New York City in 1990 (Video)",
+    "url": "https://www.resetera.com/threads/inside-an-arcade-in-new-york-city-in-1990-video.1529068/",
+    "published": "2026-05-25T00:54:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A nostalgic video documenting an arcade in 1990s New York City, featuring personal memories of the arcade era and Street Fighter II's cultural impact.",
+    "sources": []
+  },
+  {
+    "title": "I really hope GTA VI has a very extensive empire building aspect and money dumps",
+    "url": "https://www.resetera.com/threads/i-really-hope-gta-vi-has-a-very-extensive-empire-building-aspect-and-money-dumps.1529056/",
+    "published": "2026-05-25T00:08:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player shares hopes for GTA VI to include extensive empire-building mechanics similar to Vice City Stories, citing concerns about money progression in previous GTA games.",
+    "sources": []
+  },
+  {
+    "title": "Fellow Veinies, do you think we are ever going to see Code Vein 3?",
+    "url": "https://www.resetera.com/threads/fellow-veinies-do-you-think-we-are-ever-going-to-see-code-vein-3.1529050/",
+    "published": "2026-05-24T22:50:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion questioning the future of the Code Vein franchise following Code Vein 2's disappointing Steam player counts and launch performance.",
+    "sources": []
+  },
+  {
+    "title": "[Polygon] Forza Horizon 6 is the first racing game to stand a chance for Game of the Year*",
+    "url": "https://www.resetera.com/threads/polygon-forza-horizon-6-is-the-first-racing-game-to-stand-a-chance-for-game-of-the-year.1529044/",
+    "published": "2026-05-24T22:26:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Forza Horizon 6 becomes the first racing game to achieve critical acclaim sufficient for Game of the Year consideration at the 2026 Game Awards, topping both Metacritic and OpenCritic with a 90+ rating.",
+    "sources": []
+  },
+  {
+    "title": "The Fighting Game Guest Charcter gates are wide open for Anime Charcters.",
+    "url": "https://www.resetera.com/threads/the-fighting-game-guest-charcter-gates-are-wide-open-for-anime-charcters.1529041/",
+    "published": "2026-05-24T22:15:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Recent fighting game releases have featured a trend of anime character guest additions, including Lucy in Guilty Gear Strive, Kenshiro in Fatal Fury, and Yujiro Hanma in Tekken 8.",
+    "sources": []
+  },
+  {
+    "title": "Yujiro Hanma (Baki) confirmed for Tekken 8 (Early 2027)",
+    "url": "https://www.resetera.com/threads/yujiro-hanma-baki-confirmed-for-tekken-8-early-2027.1529026/",
+    "published": "2026-05-24T21:46:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Yujiro Hanma from Baki is confirmed as a guest character for Tekken 8, arriving in early 2027.",
+    "sources": []
+  },
+  {
+    "title": "LTTP - Lost Planet: Extreme Conditions - CE",
+    "url": "https://www.resetera.com/threads/lttp-lost-planet-extreme-conditions-ce.1529020/",
+    "published": "2026-05-24T21:41:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "game-discovery"
+    ],
+    "summary": "A retrospective review of Lost Planet: Extreme Conditions praising its worldbuilding and mechanics while criticizing its generic characters and narrative moments.",
+    "sources": []
+  },
+  {
+    "title": "Avalanche Studios' (Just Cause) game entering pre-production and it's a multiplayer live-service game. They're ditching Apex Engine for Unreal Engine",
+    "url": "https://www.resetera.com/threads/avalanche-studios-just-cause-game-entering-pre-production-and-its-a-multiplayer-live-service-game-theyre-ditching-apex-engine-for-unreal-engine.1529017/",
+    "published": "2026-05-24T21:32:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Avalanche Studios is entering pre-production on a new multiplayer live-service game using Unreal Engine instead of their proprietary Apex Engine.",
+    "sources": []
+  },
+  {
+    "title": "LTTP: Citizen Sleeper a breakout visual novel + table top scifi indie hybrid worth playing",
+    "url": "https://www.resetera.com/threads/lttp-citizen-sleeper-a-breakout-visual-novel-table-top-scifi-indie-hybrid-worth-playing.1529014/",
+    "published": "2026-05-24T21:16:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "User recommends Citizen Sleeper visual novel/tabletop hybrid games during Nintendo Switch sale, highlighting personal experience with both titles.",
+    "sources": []
+  },
+  {
+    "title": "MGS4 MGS Collection Vol 2 Gameplay. iPod still in.",
+    "url": "https://www.resetera.com/threads/mgs4-mgs-collection-vol-2-gameplay-ipod-still-in.1528990/",
+    "published": "2026-05-24T20:25:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "retro"
+    ],
+    "summary": "Gameplay footage surfaces of Metal Gear Solid 4 from MGS Collection Vol 2, with iPod feature visible in-game.",
+    "sources": []
+  },
+  {
+    "title": "Why Nintendo got rid of Wuhu Island",
+    "url": "https://www.resetera.com/threads/why-nintendo-got-rid-of-wuhu-island.1528987/",
+    "published": "2026-05-24T20:25:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "nintendo",
+      "gaming-news"
+    ],
+    "summary": "A retrospective exploring Nintendo's decision to discontinue Wuhu Island, a recurring setting across multiple Nintendo franchises that disappeared roughly a decade ago.",
+    "sources": []
+  },
+  {
+    "title": "Directive 8020 finally gives some answers to major questions in The Dark Pictures series (spoilers)",
+    "url": "https://www.resetera.com/threads/directive-8020-finally-gives-some-answers-to-major-questions-in-the-dark-pictures-series-spoilers.1528984/",
+    "published": "2026-05-24T20:16:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "The Dark Pictures: Directive 8020 provides lore answers about the series' mysterious Curator character and connections between games.",
+    "sources": []
+  },
+  {
+    "title": "Anyone else replaying Ocarina of Time in anticipation for the rumored remake?",
+    "url": "https://www.resetera.com/threads/anyone-else-replaying-ocarina-of-time-in-anticipation-for-the-rumored-remake.1528969/",
+    "published": "2026-05-24T19:58:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "retro",
+      "leaks"
+    ],
+    "summary": "Community discussion about replaying Ocarina of Time ahead of rumored remake announcement.",
+    "sources": []
+  },
+  {
+    "title": "Recent and Upcoming Kingdom Hearts inspired games",
+    "url": "https://www.resetera.com/threads/recent-and-upcoming-kingdom-hearts-inspired-games.1528954/",
+    "published": "2026-05-24T19:29:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A fan guide compiling Kingdom Hearts-inspired games to fill the content drought while fans await new official releases.",
+    "sources": []
+  },
+  {
+    "title": "How much do you explore JRPG towns upon first arriving? Do you talk to most of the NPCs?",
+    "url": "https://www.resetera.com/threads/how-much-do-you-explore-jrpg-towns-upon-first-arriving-do-you-talk-to-most-of-the-npcs.1528936/",
+    "published": "2026-05-24T19:12:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion post about JRPG exploration habits and town immersion preferences.",
+    "sources": []
+  },
+  {
+    "title": "007 First Light |OT| The Spy Who Loved Me (and my silent assassin rating)",
+    "url": "https://www.resetera.com/threads/007-first-light-ot-the-spy-who-loved-me-and-my-silent-assassin-rating.1528927/",
+    "published": "2026-05-24T19:04:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Official thread launch for IO Interactive's upcoming James Bond game 007 First Light, releasing May 27, 2026.",
+    "sources": []
+  },
+  {
+    "title": "why couldn't destiny have just put out two different builds of the game",
+    "url": "https://www.resetera.com/threads/why-couldnt-destiny-have-just-put-out-two-different-builds-of-the-game.1528885/",
+    "published": "2026-05-24T17:47:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion questioning why Destiny 2's engine overhaul couldn't have maintained separate legacy and new builds rather than removing content.",
+    "sources": []
+  },
+  {
+    "title": "Forza Horizon 6 hits 302K CCU on Steam",
+    "url": "https://www.resetera.com/threads/forza-horizon-6-hits-302k-ccu-on-steam.1528867/",
+    "published": "2026-05-24T17:10:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-platform",
+      "gaming-news",
+      "pc-hardware"
+    ],
+    "summary": "Forza Horizon 6 reaches a peak of 302K concurrent users on Steam, likely marking its all-time CCU high with strong support from Asian and European players.",
+    "sources": []
+  },
+  {
+    "title": "What do you think of a Kamen Rider/Tokusatsu charcter being a guest in a fighting game?",
+    "url": "https://www.resetera.com/threads/what-do-you-think-of-a-kamen-rider-tokusatsu-charcter-being-a-guest-in-a-fighting-game.1528864/",
+    "published": "2026-05-24T17:08:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-dev"
+    ],
+    "summary": "Community discussion speculating about the possibility of a Kamen Rider or Tokusatsu character appearing as a guest in a mainstream fighting game franchise.",
+    "sources": []
+  },
+  {
+    "title": "Star Citizen has reached $1 Billion in crowdfunding",
+    "url": "https://www.resetera.com/threads/star-citizen-has-reached-1-billion-in-crowdfunding.1528861/",
+    "published": "2026-05-24T16:59:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Star Citizen crowdfunding campaign reaches $1 billion milestone, marking a significant achievement in video game crowdfunding history.",
+    "sources": []
+  },
+  {
+    "title": "Rocket League for Unreal Engine 6 announced",
+    "url": "https://www.resetera.com/threads/rocket-league-for-unreal-engine-6-announced.1528852/",
+    "published": "2026-05-24T16:30:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Rocket League announced a migration to Unreal Engine 6 during an RLCS stream, marking a significant technical upgrade for the popular esports title.",
+    "sources": []
+  },
+  {
+    "title": "Rocket League announces Unreal Engine 6 (six) at RLCS",
+    "url": "https://www.resetera.com/threads/rocket-league-announces-unreal-engine-6-six-at-rlcs.1528849/",
+    "published": "2026-05-24T16:29:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "unreal-engine",
+      "esports"
+    ],
+    "summary": "Rocket League announced at RLCS Paris Major that it will transition to Unreal Engine 6, abandoning previous UE5 porting efforts.",
+    "sources": []
+  },
+  {
+    "title": "Unreal Engine 6 officially announced. Rocket League will move to using it.",
+    "url": "https://www.resetera.com/threads/unreal-engine-6-officially-announced-rocket-league-will-move-to-using-it.1528846/",
+    "published": "2026-05-24T16:29:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 78,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Epic Games officially announces Unreal Engine 6 with Rocket League transitioning to the new engine.",
+    "sources": []
+  },
+  {
+    "title": "I'm almost done collecting every PS1/2 game I've ever wanted and I am bummed there just arent many more games left.",
+    "url": "https://www.resetera.com/threads/im-almost-done-collecting-every-ps1-2-game-ive-ever-wanted-and-i-am-bummed-there-just-arent-many-more-games-left.1528843/",
+    "published": "2026-05-24T16:22:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A collector reflects on completing their PS1/PS2 game collection and laments the lack of modern games that capture the unique character and scope of that era.",
+    "sources": []
+  },
+  {
+    "title": "Did developers complain about Unreal Engine 3 and UE4 as much as they do about UE5?",
+    "url": "https://www.resetera.com/threads/did-developers-complain-about-unreal-engine-3-and-ue4-as-much-as-they-do-about-ue5.1528834/",
+    "published": "2026-05-24T16:02:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Discussion comparing developer complaints about Unreal Engine 5 versus earlier versions like UE3 and UE4, focusing on performance optimization challenges.",
+    "sources": []
+  },
+  {
+    "title": "What retro entries in your favorite franchise do some things better than newer ones?",
+    "url": "https://www.resetera.com/threads/what-retro-entries-in-your-favorite-franchise-do-some-things-better-than-newer-ones.1528810/",
+    "published": "2026-05-24T14:44:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion comparing gameplay mechanics in retro Mario games versus newer entries, focusing on the superiority of classic flying power-ups.",
+    "sources": []
+  },
+  {
+    "title": "Does a challenging platforming series work for Nintendo's portfolio of platforming properties?",
+    "url": "https://www.resetera.com/threads/does-a-challenging-platforming-series-work-for-nintendos-portfolio-of-platforming-properties.1528807/",
+    "published": "2026-05-24T14:42:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Opinion piece discussing whether Nintendo should create a more challenging platforming series to complement its existing Mario portfolio.",
+    "sources": []
+  },
+  {
+    "title": "Oft-mispronounced video game things",
+    "url": "https://www.resetera.com/threads/oft-mispronounced-video-game-things.1528792/",
+    "published": "2026-05-24T13:57:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A humorous listicle cataloging commonly mispronounced video game titles across gaming history.",
+    "sources": []
+  },
+  {
+    "title": "Should a game reveal or spoil a major story revelation in a random lore book?",
+    "url": "https://www.resetera.com/threads/should-a-game-reveal-or-spoil-a-major-story-revelation-in-a-random-lore-book.1528786/",
+    "published": "2026-05-24T13:33:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-dev",
+      "community"
+    ],
+    "summary": "A player discusses how a randomly-placed lore collectible spoiled a major story revelation in a narrative-driven game, raising questions about game design and spoiler management.",
+    "sources": []
+  },
+  {
+    "title": "Have Discounts on Games Put You Off From Paying Full Price for Their Sequels",
+    "url": "https://www.resetera.com/threads/have-discounts-on-games-put-you-off-from-paying-full-price-for-their-sequels.1528780/",
+    "published": "2026-05-24T13:08:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion about whether discounted game purchases discourage full-price purchases of sequels.",
+    "sources": []
+  },
+  {
+    "title": "Has any Monkey Ball game reached the heights of amazing Gamecube version?",
+    "url": "https://www.resetera.com/threads/has-any-monkey-ball-game-reached-the-heights-of-amazing-gamecube-version.1528777/",
+    "published": "2026-05-24T12:47:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "console-hardware",
+      "community"
+    ],
+    "summary": "Community discussion comparing Super Monkey Ball games across platforms, debating whether newer entries have matched the control quality of the GameCube originals.",
+    "sources": []
+  },
+  {
+    "title": "Overwatch came out 10 years ago today",
+    "url": "https://www.resetera.com/threads/overwatch-came-out-10-years-ago-today.1528765/",
+    "published": "2026-05-24T10:38:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "Overwatch celebrates its 10-year anniversary as a landmark competitive multiplayer game that influenced modern gaming.",
+    "sources": []
+  },
+  {
+    "title": "SMT 4 came out 13 years ago.",
+    "url": "https://www.resetera.com/threads/smt-4-came-out-13-years-ago.1528759/",
+    "published": "2026-05-24T09:43:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A fan celebrates the 13th anniversary of Shin Megami Tensei IV's Japanese release, highlighting the game's music.",
+    "sources": []
+  },
+  {
+    "title": "The summer of games is coming, What are you hoping for?",
+    "url": "https://www.resetera.com/threads/the-summer-of-games-is-coming-what-are-you-hoping-for.1528756/",
+    "published": "2026-05-24T09:22:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A community wishlist of anticipated game releases and ports for the upcoming summer season, including potential sequels, remakes, and re-releases from various publishers.",
+    "sources": []
+  },
+  {
+    "title": "Does anyone else  also not have friends to play multiplayer games as they\u2019ve gotten older?",
+    "url": "https://www.resetera.com/threads/does-anyone-else-also-not-have-friends-to-play-multiplayer-games-as-they%E2%80%99ve-gotten-older.1528741/",
+    "published": "2026-05-24T06:08:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community"
+    ],
+    "summary": "A personal reflection post from a gamer discussing how their multiplayer gaming circle has diminished with age as friends moved on from gaming.",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (May 24th 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-may-24th-2026",
+    "published": "2026-05-24T11:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of retro gaming news covering classic titles and hardware from the past week.",
+    "sources": []
+  },
+  {
+    "title": "Steam Machine Vulkan 1.4 Compatibility Listing Confirms Use of Navi 33-Based GPU",
+    "url": "https://steamdeckhq.com/news/steam-machine-vulkan-listing/",
+    "published": "2026-05-24T07:22:06+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "gaming-hardware",
+      "pc-hardware"
+    ],
+    "summary": "A compatibility listing confirms that the Steam Machine's Navi 33-based GPU will support Vulkan 1.4.",
+    "sources": []
+  },
+  {
+    "title": "HID Remapper Adds Support for the Steam Controller",
+    "url": "https://steamdeckhq.com/news/hid-remapper-steam-controller/",
+    "published": "2026-05-24T06:41:13+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "gaming-hardware",
+      "open-source",
+      "community"
+    ],
+    "summary": "HID Remapper firmware update adds compatibility with Steam Controller, expanding the adapter's functionality for controller customization.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with the New Lego Batman and Forza Horizon 6 - 2026-05-23 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-05-23-edition/index.html",
+    "published": "2026-05-24T15:57:54+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "steam-platform",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of newly released Steam games verified as playable on Steam Deck, featuring major titles like LEGO Batman and Forza Horizon 6.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games with Native Linux Builds, including The Adventures of Sir Kicksalot - 2026-05-20 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-05-20-edition/index.html",
+    "published": "2026-05-24T14:23:21+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "steam-platform",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "70 new Steam games with native Linux builds released in the week of May 13-20, 2026, representing 10.5% of new titles, including The Adventures of Sir Kicksalot.",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-811",
+    "published": "2026-05-24T10:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "community"
+    ],
+    "summary": "A reflective personal essay about creative writing and tabletop RPG culture, discussing the spontaneous nature of collaborative storytelling sessions.",
+    "sources": []
+  },
+  {
+    "title": "(For Southeast Asia) Singapore\u2019s Sands Theatre to host first Gran Turismo World Series event in Southeast Asia on Saturday, 3 October",
+    "url": "https://blog.playstation.com/2026/05/24/20260525-gt/",
+    "published": "2026-05-25T02:13:42+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Singapore's Marina Bay Sands will host the first Gran Turismo World Series event in Southeast Asia on October 3, 2026, with tickets now available.",
+    "sources": []
+  },
+  {
+    "title": "Tekken 8 Grabs One of the Craziest Guest Characters Yet",
+    "url": "https://www.pushsquare.com/news/2026/05/tekken-8-grabs-one-of-the-craziest-guest-characters-yet",
+    "published": "2026-05-24T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Tekken 8 announces Yujiro Hanma from Baki the Grappler as its final Season 3 guest character, arriving in early 2027.",
+    "sources": []
+  },
+  {
+    "title": "Is PS3 Emulation Possible on PS5? Tech Experts Find Fascinating Results",
+    "url": "https://www.pushsquare.com/news/2026/05/is-ps3-emulation-possible-on-ps5-tech-experts-find-fascinating-results",
+    "published": "2026-05-24T19:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "emulation",
+      "console-hardware",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "Digital Foundry tests PS3 emulation on PS5 using a Linux hack to run RPCS3 emulator, demonstrating technical feasibility on Sony's current hardware.",
+    "sources": []
+  },
+  {
+    "title": "Is This Our First Glimpse of PS6? Rocket League for Unreal Engine 6 Surprise Teased",
+    "url": "https://www.pushsquare.com/news/2026/05/is-this-our-first-glimpse-of-ps6-rocket-league-for-unreal-engine-6-surprise-teased",
+    "published": "2026-05-24T17:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "pc-hardware"
+    ],
+    "summary": "Rocket League is being overhauled to run on Unreal Engine 6, marking a significant technical upgrade for the popular esports title.",
+    "sources": []
+  },
+  {
+    "title": "One of 2026's Best Games Is Coming to PS5 Later This Year",
+    "url": "https://www.pushsquare.com/news/2026/05/one-of-2026s-best-games-is-coming-to-ps5-later-this-year",
+    "published": "2026-05-24T13:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 55,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "console-hardware"
+    ],
+    "summary": "OPUS: Prism Peak, a critically acclaimed 2026 indie game, is coming to PS5 after successful launches on Switch and PC.",
+    "sources": []
+  }
+]
