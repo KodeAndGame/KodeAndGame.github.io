@@ -1,0 +1,1131 @@
+[
+  {
+    "title": "AI-Driven Security Disclosures, NVIDIA Vera & Linux 7.1 Features That Made An Exciting May",
+    "url": "https://www.phoronix.com/news/May-2026-Recap",
+    "published": "2026-06-01T04:00:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "gaming-news",
+      "linux-hardware"
+    ],
+    "summary": "Phoronix reflects on May 2026 Linux and open-source news coverage, highlighting security disclosures, NVIDIA developments, and Linux 7.1 features among 275 articles published that month.",
+    "sources": []
+  },
+  {
+    "title": "Intel Xeon 6+ & Intel Ethernet E835 Launch",
+    "url": "https://www.phoronix.com/review/intel-xeon-6-plus-cri-e835",
+    "published": "2026-06-01T03:00:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Intel announces the launch of Xeon 6+ processors and Intel Ethernet E835, with updates on other processor lines.",
+    "sources": []
+  },
+  {
+    "title": "Dell Uses Intel Wildcat Lake To Deliver Their Cheapest XPS 13 Ever",
+    "url": "https://www.phoronix.com/news/Dell-XPS-13-Wildcat-Lake",
+    "published": "2026-06-01T00:14:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Dell announces their cheapest XPS 13 laptop ever at $599, featuring Intel's new Wildcat Lake processors to compete with Apple's MacBook Neo.",
+    "sources": []
+  },
+  {
+    "title": "AMD Announces Radeon RX 9070 GRE, Ryzen AI Max PRO 400 Series",
+    "url": "https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400",
+    "published": "2026-06-01T00:00:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 65,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware",
+      "gaming-news"
+    ],
+    "summary": "AMD announces new Radeon RX 9070 GRE GPU and Ryzen AI Max PRO 400 Series processors ahead of Computex 2026.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.1-rc6 Released Following Another \"Larger-Than-I'd-Wish-For Size\" Week",
+    "url": "https://www.phoronix.com/news/Linux-7.1-rc6-Released",
+    "published": "2026-05-31T22:39:55+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware"
+    ],
+    "summary": "Linux 7.1-rc6 kernel release candidate announced with another week of larger-than-expected changes ahead of the stable release expected in mid-June.",
+    "sources": []
+  },
+  {
+    "title": "KDE Linux Prunes Its Insecure & Unused Software",
+    "url": "https://www.phoronix.com/news/KDE-Linux-May-2026",
+    "published": "2026-05-31T17:08:48+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "KDE Linux removes insecure and unused software as part of routine maintenance efforts detailed in their monthly status report.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.1-rc6 To Support The ASUS ROG RAIKIRI II & Nova 2 Lite Controllers",
+    "url": "https://www.phoronix.com/news/Linux-7.1-rc6-Input",
+    "published": "2026-05-31T13:59:06+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Linux 7.1-rc6 will add support for ASUS ROG RAIKIRI II and Nova 2 Lite gaming controllers through input subsystem updates.",
+    "sources": []
+  },
+  {
+    "title": "Linux Might Finally Disable The Microsoft RNDIS Protocol Drivers In 2026",
+    "url": "https://www.phoronix.com/news/RNDIS-Disable-Linux-2026-Patch",
+    "published": "2026-05-31T13:28:41+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "gaming-hardware",
+      "gaming-news"
+    ],
+    "summary": "Linux kernel maintainers are planning to disable Microsoft's RNDIS protocol drivers in 2026 due to security concerns, though the connection to gaming is tangential.",
+    "sources": []
+  },
+  {
+    "title": "Wine-Staging 11.10 Fixes 14 Year Old Bug, Also Fixes Issue Of Some Games Being Too Dark",
+    "url": "https://www.phoronix.com/news/Wine-Staging-11.10-Released",
+    "published": "2026-05-31T11:28:01+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 55,
+    "tags": [
+      "wine",
+      "linux-gaming",
+      "open-source",
+      "gaming-news"
+    ],
+    "summary": "Wine-Staging 11.10 releases with nearly 300 patches including fixes for a 14-year-old bug and game darkness issues.",
+    "sources": []
+  },
+  {
+    "title": "Servo 0.2 Released With Revamped Android Browser UI",
+    "url": "https://www.phoronix.com/news/Servo-0.2-Released",
+    "published": "2026-05-31T11:01:42+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "linux-gaming",
+      "game-dev"
+    ],
+    "summary": "Servo 0.2 browser engine release includes desktop improvements and revamped Android UI, developed by Linux Foundation Europe and open-source contributors.",
+    "sources": []
+  },
+  {
+    "title": "Zrythm 2.0 Alpha Released For Rewriting The Digital Audio Workstation In C++ & Qt/QML",
+    "url": "https://www.phoronix.com/news/Zrythm-2.0-Alpha",
+    "published": "2026-05-31T10:47:34+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "open-source",
+      "game-dev",
+      "linux-gaming"
+    ],
+    "summary": "Zrythm 2.0 alpha released, transitioning the open-source DAW from GTK to Qt6/QML with a C++ rewrite.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.1-rc6 To Hide The Documentation On \"clearcpuid\" Feature",
+    "url": "https://www.phoronix.com/news/Linux-7.1-Hide-Docs-clearcpuid",
+    "published": "2026-05-31T10:29:18+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "Linux 7.1-rc6 will remove documentation for the clearcpuid kernel parameter to discourage its use, though the feature itself remains functional.",
+    "sources": []
+  },
+  {
+    "title": "AV2 v1.0 Specification Released For Next-Gen Video Coding",
+    "url": "https://www.phoronix.com/news/AV2-1.0-Specification-Released",
+    "published": "2026-05-31T10:17:02+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-industry"
+    ],
+    "summary": "AV2 v1.0 video coding specification released, with potential long-term implications for game streaming and media distribution.",
+    "sources": []
+  },
+  {
+    "title": "Coming soon: Armored Core ReAnswered (AC4 For Answer pc recomp!)",
+    "url": "https://www.resetera.com/threads/coming-soon-armored-core-reanswered-ac4-for-answer-pc-recomp.1534981/",
+    "published": "2026-06-01T05:14:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "game-discovery",
+      "pc-hardware",
+      "emulation",
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Fan project bringing Armored Core 4: For Answer to PC via static recompilation with native performance and multiplayer support.",
+    "sources": []
+  },
+  {
+    "title": "resetera JUNE 2026 Pick-Up Post! Show Us Your Gaming Goods + MORE (REAL PICS ONLY)!",
+    "url": "https://www.resetera.com/threads/resetera-june-2026-pick-up-post-show-us-your-gaming-goods-more-real-pics-only.1534972/",
+    "published": "2026-06-01T04:53:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-hardware"
+    ],
+    "summary": "ResetEra's monthly community thread inviting members to share photos of their gaming purchases and collections.",
+    "sources": []
+  },
+  {
+    "title": "Kohei Ikeda (Tekken 8 game director) has left Bandai Namco",
+    "url": "https://www.resetera.com/threads/kohei-ikeda-tekken-8-game-director-has-left-bandai-namco.1534969/",
+    "published": "2026-06-01T04:52:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Tekken 8 game director Kohei Ikeda has departed from Bandai Namco, a significant personnel change for the company's fighting game division.",
+    "sources": []
+  },
+  {
+    "title": "Gematsu.com - Ragnarok Console Project",
+    "url": "https://www.resetera.com/threads/gematsu-com-ragnarok-console-project.1534960/",
+    "published": "2026-06-01T04:17:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "Gravity and Waycoder announce Ragnarok Console Project for PS5, Xbox Series, Switch 2, and PC with a planned first half launch.",
+    "sources": []
+  },
+  {
+    "title": "Someone on Tw*tt*r randomly posted a supposed snippet of Jet Set Radio footage two days ago, says it's part of a larger trailer",
+    "url": "https://www.resetera.com/threads/someone-on-tw-tt-r-randomly-posted-a-supposed-snippet-of-jet-set-radio-footage-two-days-ago-says-its-part-of-a-larger-trailer.1534930/",
+    "published": "2026-06-01T02:17:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "leaks",
+      "gaming-news"
+    ],
+    "summary": "An unverified Twitter leaker claims to have posted a snippet of Jet Set Radio footage and hints at an upcoming larger trailer, though authenticity remains uncertain.",
+    "sources": []
+  },
+  {
+    "title": "I said I would never play League of Legends or any related games , but it wasn't until Honkai Star Rail  that i felt the need too",
+    "url": "https://www.resetera.com/threads/i-said-i-would-never-play-league-of-legends-or-any-related-games-but-it-wasnt-until-honkai-star-rail-that-i-felt-the-need-too.1534927/",
+    "published": "2026-06-01T02:04:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player shares their personal experience discovering interest in competitive gaming through Honkai Star Rail's new game mode, which they learned resembles Teamfight Tactics.",
+    "sources": []
+  },
+  {
+    "title": "I just learned about the Bechdel Test. What video games pass it?",
+    "url": "https://www.resetera.com/threads/i-just-learned-about-the-bechdel-test-what-video-games-pass-it.1534924/",
+    "published": "2026-06-01T01:55:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion exploring how the Bechdel Test applies to video games as a metric for female representation.",
+    "sources": []
+  },
+  {
+    "title": "Fortnite is adding slur-using streamer, TheBurntPeanut, to their upcoming battle pass",
+    "url": "https://www.resetera.com/threads/fortnite-is-adding-slur-using-streamer-theburntpeanut-to-their-upcoming-battle-pass.1534921/",
+    "published": "2026-06-01T01:35:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Fortnite faces community backlash over adding streamer TheBurntPeanut to battle pass amid controversy over past slur usage and offensive behavior.",
+    "sources": []
+  },
+  {
+    "title": "Which Street Fighter characters who have not left their debut game would you like to see show up in 6?",
+    "url": "https://www.resetera.com/threads/which-street-fighter-characters-who-have-not-left-their-debut-game-would-you-like-to-see-show-up-in-6.1534918/",
+    "published": "2026-06-01T01:27:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 22,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community discussion about which Street Fighter characters from earlier games fans would like to see added to Street Fighter 6.",
+    "sources": []
+  },
+  {
+    "title": "The Destiny community is in turmoil over the Community Managers' cryptic posts",
+    "url": "https://www.resetera.com/threads/the-destiny-community-is-in-turmoil-over-the-community-managers-cryptic-posts.1534912/",
+    "published": "2026-06-01T01:25:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Destiny 2 community manager's cryptic social media posts spark speculation about a potential Destiny 3 announcement, though reports suggest the game is not in active development.",
+    "sources": []
+  },
+  {
+    "title": "Did Nabbit earn his spot on the B tier of Mario characters?",
+    "url": "https://www.resetera.com/threads/did-nabbit-earn-his-spot-on-the-b-tier-of-mario-characters.1534903/",
+    "published": "2026-06-01T01:12:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player discusses Nabbit's prominence in Mario games post-Wii U era and whether the character deserves its B-tier status.",
+    "sources": []
+  },
+  {
+    "title": "Can We Get More Civilian Suits in Video Game Adaptations",
+    "url": "https://www.resetera.com/threads/can-we-get-more-civilian-suits-in-video-game-adaptations.1534885/",
+    "published": "2026-05-31T23:26:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community member advocates for more civilian outfit options in video game adaptations, particularly citing Spider-Man games and requesting civilian suit gameplay during non-cutscene moments.",
+    "sources": []
+  },
+  {
+    "title": "I was completely wrong about Tomodachi Life. This game is hilarious.",
+    "url": "https://www.resetera.com/threads/i-was-completely-wrong-about-tomodachi-life-this-game-is-hilarious.1534882/",
+    "published": "2026-05-31T23:19:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A parent shares their changed perspective on Tomodachi Life after discovering the game's humor through their children's enjoyment of the demo.",
+    "sources": []
+  },
+  {
+    "title": "PC Gaming ERA | June 2026 - In My Empress Era",
+    "url": "https://www.resetera.com/threads/pc-gaming-era-june-2026-in-my-empress-era.1534879/",
+    "published": "2026-05-31T23:00:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "PC Gaming ERA June 2026 thread announcement with Age of Wonders 4 expansion releasing June 16th.",
+    "sources": []
+  },
+  {
+    "title": "Playstation Direct: PSVR2 discounted to 299 USD until June 11th",
+    "url": "https://www.resetera.com/threads/playstation-direct-psvr2-discounted-to-299-usd-until-june-11th.1534876/",
+    "published": "2026-05-31T22:55:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-hardware",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "PlayStation Direct offers PSVR2 at a 25% discount ($299 USD) through June 11th, with similar discounts available in UK and EU markets.",
+    "sources": []
+  },
+  {
+    "title": "Pride month - name characters important to you!",
+    "url": "https://www.resetera.com/threads/pride-month-name-characters-important-to-you.1534852/",
+    "published": "2026-05-31T21:45:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community thread inviting gaming fans to share LGBTQ+ characters and moments that are meaningful to them during Pride month.",
+    "sources": []
+  },
+  {
+    "title": "Arc Raiders testing PVE mode in the Chinese version",
+    "url": "https://www.resetera.com/threads/arc-raiders-testing-pve-mode-in-the-chinese-version.1534837/",
+    "published": "2026-05-31T21:11:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Embark Studios tests a new PvE-focused opt-in system in the Chinese version of Arc Raiders with friendly fire disabled and increased loot for reduced risk gameplay.",
+    "sources": []
+  },
+  {
+    "title": "With the success of 007 First Light, how long until a dev tries to emulate the success with a Mission: Impossible game?",
+    "url": "https://www.resetera.com/threads/with-the-success-of-007-first-light-how-long-until-a-dev-tries-to-emulate-the-success-with-a-mission-impossible-game.1534828/",
+    "published": "2026-05-31T20:56:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Opinion piece speculating whether a Mission: Impossible game could succeed following 007 First Light's popularity, discussing potential gameplay differences.",
+    "sources": []
+  },
+  {
+    "title": "RUMOUR: Onimusha: Way of the Sword releases September 25 2026 (per person who leaked AC Black Flag Resynced and Rayman Legends Retold)",
+    "url": "https://www.resetera.com/threads/rumour-onimusha-way-of-the-sword-releases-september-25-2026-per-person-who-leaked-ac-black-flag-resynced-and-rayman-legends-retold.1534807/",
+    "published": "2026-05-31T20:15:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Unconfirmed leak suggests Onimusha: Way of the Sword will release on September 25, 2026, from a source with a mixed track record on previous leaks.",
+    "sources": []
+  },
+  {
+    "title": "Solomon's Key 2 (Fire 'n Ice) is one of the greatest games ever made",
+    "url": "https://www.resetera.com/threads/solomons-key-2-fire-n-ice-is-one-of-the-greatest-games-ever-made.1534786/",
+    "published": "2026-05-31T20:12:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A gaming enthusiast argues that Solomon's Key 2 (Fire 'n Ice) is an underrated NES classic with brilliant puzzle design and timeless gameplay.",
+    "sources": []
+  },
+  {
+    "title": "Your Game of the Month - May 2026 (Any Game)",
+    "url": "https://www.resetera.com/threads/your-game-of-the-month-may-2026-any-game.1534780/",
+    "published": "2026-05-31T20:07:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community thread soliciting reader votes for their favorite games played in May 2026, with moderator examples including LEGO Batman, Borderlands 4, and Diablo IV.",
+    "sources": []
+  },
+  {
+    "title": "Realm of Ink (Chinese mythology Hades/Roguelite) OUT NOW",
+    "url": "https://www.resetera.com/threads/realm-of-ink-chinese-mythology-hades-roguelite-out-now.1534777/",
+    "published": "2026-05-31T20:03:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Realm of Ink, a Chinese mythology-inspired roguelite action game, launches across PC, Switch, PlayStation, and Xbox platforms.",
+    "sources": []
+  },
+  {
+    "title": "How different would Square look today if Final Fantasy: The Spirits Within was a success?",
+    "url": "https://www.resetera.com/threads/how-different-would-square-look-today-if-final-fantasy-the-spirits-within-was-a-success.1534771/",
+    "published": "2026-05-31T19:56:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "game-dev"
+    ],
+    "summary": "A retrospective discussion on how Square Enix's trajectory might have differed if Final Fantasy: The Spirits Within had been commercially successful instead of a major financial loss.",
+    "sources": []
+  },
+  {
+    "title": "Games that lock their last level/ending behind tedious bullshit",
+    "url": "https://www.resetera.com/threads/games-that-lock-their-last-level-ending-behind-tedious-bullshit.1534750/",
+    "published": "2026-05-31T19:20:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "game-design",
+      "community"
+    ],
+    "summary": "Community discussion about games that gate their final levels or endings behind tedious collection requirements, using original Rayman as a primary example.",
+    "sources": []
+  },
+  {
+    "title": "wanna share an mgs4 trailer with you all",
+    "url": "https://www.resetera.com/threads/wanna-share-an-mgs4-trailer-with-you-all.1534747/",
+    "published": "2026-05-31T19:17:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A user shares a high-quality 720p MGS4 trailer from 2006 that they preserved from an IGN subscription download.",
+    "sources": []
+  },
+  {
+    "title": "Why do you think Nintendo was able to secure Duskbloods as an exclusive from FromSoftware/Miyazaki, when they seemingly were done with the concept?",
+    "url": "https://www.resetera.com/threads/why-do-you-think-nintendo-was-able-to-secure-duskbloods-as-an-exclusive-from-fromsoftware-miyazaki-when-they-seemingly-were-done-with-the-concept.1534744/",
+    "published": "2026-05-31T19:15:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "Speculative discussion about hypothetical FromSoftware exclusive 'Duskbloods' for Nintendo Switch 2 based on a YouTube link.",
+    "sources": []
+  },
+  {
+    "title": "Satellite Odyssey: Jupiter - Playtest Trailer - Survival horror / Noire Detective / Decopunk Aesthetic",
+    "url": "https://www.resetera.com/threads/satellite-odyssey-jupiter-playtest-trailer-survival-horror-noire-detective-decopunk-aesthetic.1534735/",
+    "published": "2026-05-31T18:56:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "Satellite Odyssey: Jupiter, an indie survival horror detective game with a decopunk aesthetic, releases a new playtest trailer.",
+    "sources": []
+  },
+  {
+    "title": "Shenmue 3 VR Mod",
+    "url": "https://www.resetera.com/threads/shenmue-3-vr-mod.1534717/",
+    "published": "2026-05-31T18:25:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "community",
+      "vr-gaming"
+    ],
+    "summary": "A community member has created a VR mod for Shenmue III using UEVR, enabling first-person VR gameplay with motion controls and object interaction.",
+    "sources": []
+  },
+  {
+    "title": "CRETE - Biopunk roguelite - Early Access Announcement Trailer",
+    "url": "https://www.resetera.com/threads/crete-biopunk-roguelite-early-access-announcement-trailer.1534714/",
+    "published": "2026-05-31T18:23:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "CRETE, a biopunk roguelite indie game, announces entry into Early Access on Steam.",
+    "sources": []
+  },
+  {
+    "title": "Can you even call yourself a real gamer if you haven't beaten Ring fit: Adventure",
+    "url": "https://www.resetera.com/threads/can-you-even-call-yourself-a-real-gamer-if-you-havent-beaten-ring-fit-adventure.1534699/",
+    "published": "2026-05-31T18:05:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A community member expresses enthusiasm for Ring Fit Adventure and speculates about a potential sequel while lamenting a lost save file.",
+    "sources": []
+  },
+  {
+    "title": "Hype Check: Which announced Xbox Game Studios game has you most excited? (Pre-show 2026)",
+    "url": "https://www.resetera.com/threads/hype-check-which-announced-xbox-game-studios-game-has-you-most-excited-pre-show-2026.1534681/",
+    "published": "2026-05-31T17:00:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-news",
+      "community",
+      "console-hardware"
+    ],
+    "summary": "Community discussion thread soliciting pre-show hype predictions for announced Xbox Game Studios titles ahead of a 2026 showcase event.",
+    "sources": []
+  },
+  {
+    "title": "Alamo Drafthouse has leaked some special items for the upcoming PlayStation State of Play",
+    "url": "https://www.resetera.com/threads/alamo-drafthouse-has-leaked-some-special-items-for-the-upcoming-playstation-state-of-play.1534666/",
+    "published": "2026-05-31T16:13:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Alamo Drafthouse cinema chain revealed themed menu items for an upcoming PlayStation State of Play event.",
+    "sources": []
+  },
+  {
+    "title": "MSI Claw 8 EX handheld with with Arc G3 to launch at $1500 on June 23",
+    "url": "https://www.resetera.com/threads/msi-claw-8-ex-handheld-with-with-arc-g3-to-launch-at-1500-on-june-23.1534657/",
+    "published": "2026-05-31T16:04:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "handheld-gaming",
+      "gaming-hardware",
+      "pc-hardware"
+    ],
+    "summary": "MSI announces Claw 8 EX handheld with Intel Arc G3 GPU launching June 23 at $1500, featuring hardware refinements including lighter chassis, Hall Effect sticks, and improved haptics.",
+    "sources": []
+  },
+  {
+    "title": "Why do people want badly want Gyms in GTA 6",
+    "url": "https://www.resetera.com/threads/why-do-people-want-badly-want-gyms-in-gta-6.1534594/",
+    "published": "2026-05-31T11:28:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion about player expectations for gym mechanics in GTA 6, questioning the appeal of repetitive mini-game activities.",
+    "sources": []
+  },
+  {
+    "title": "Wang Yue seems to be the first game featuring an urban Chinese city (Gacha)",
+    "url": "https://www.resetera.com/threads/wang-yue-seems-to-be-the-first-game-featuring-an-urban-chinese-city-gacha.1534588/",
+    "published": "2026-05-31T11:16:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Wang Yue appears to be a notable gacha game featuring an authentically depicted modern Chinese urban setting inspired by Shanghai, combining typical AAA gacha mechanics with Pok\u00e9mon-like elements.",
+    "sources": []
+  },
+  {
+    "title": "What is meaningful exploration for you?",
+    "url": "https://www.resetera.com/threads/what-is-meaningful-exploration-for-you.1534582/",
+    "published": "2026-05-31T10:42:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-dev"
+    ],
+    "summary": "A community discussion about what makes exploration meaningful and rewarding in games, particularly Metroidvanias, sharing personal preferences on exploration design.",
+    "sources": []
+  },
+  {
+    "title": "speaking of warframe, i still want the original pitch for dark sector as a singleplayer action-adventure/stealth game",
+    "url": "https://www.resetera.com/threads/speaking-of-warframe-i-still-want-the-original-pitch-for-dark-sector-as-a-singleplayer-action-adventure-stealth-game.1534576/",
+    "published": "2026-05-31T10:04:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "community"
+    ],
+    "summary": "A community member expresses nostalgia for the original Dark Sector pitch and desires a return to its stealth-focused, grounded aesthetic in future Warframe development.",
+    "sources": []
+  },
+  {
+    "title": "Warframe isn't a good alternative to Destiny.",
+    "url": "https://www.resetera.com/threads/warframe-isnt-a-good-alternative-to-destiny.1534552/",
+    "published": "2026-05-31T06:48:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player argues that Warframe is not a suitable alternative to Destiny, based on personal experience with both games.",
+    "sources": []
+  },
+  {
+    "title": "\"Thought I'd Give It Another Go\" - Super Play Artist Wil Overton Reimagines The Debut Issue's Cover",
+    "url": "https://www.timeextension.com/news/2026/05/thought-id-give-it-another-go-super-play-artist-wil-overton-reimagines-the-debut-issues-cover",
+    "published": "2026-05-31T19:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Super Play magazine's original artist Wil Overton reimagines the debut issue's cover in a modern style, celebrating the legendary 1990s SNES-focused publication.",
+    "sources": []
+  },
+  {
+    "title": "Here's The Evercade Nexus In The Flesh",
+    "url": "https://www.timeextension.com/news/2026/05/heres-the-evercade-nexus-in-the-flesh",
+    "published": "2026-05-31T13:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 52,
+    "tags": [
+      "handheld-gaming",
+      "gaming-hardware",
+      "console-hardware"
+    ],
+    "summary": "Blaze Entertainment reveals the Evercade Nexus handheld in a new video, showcasing upgrades including a larger display, analog controls, game sharing via EverSync, and wireless headphone support.",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (May 31st 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-may-31st-2026",
+    "published": "2026-05-31T11:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "handheld-gaming",
+      "game-dev"
+    ],
+    "summary": "Weekly roundup of retro gaming news covering handheld devices, classic game developers, and vintage gaming hardware updates.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with XF Extreme Formula and Mina the Hollower - 2026-05-30 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-05-30-edition/index.html",
+    "published": "2026-05-31T12:31:17+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Weekly roundup of 14 newly released games verified or playable on Steam Deck, featuring XF Extreme Formula and Mina the Hollower.",
+    "sources": []
+  },
+  {
+    "title": "Fortune Seller: Review",
+    "url": "https://boilingsteam.com/fortune-seller/index.html",
+    "published": "2026-05-31T16:50:57+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-deck",
+      "linux-gaming",
+      "proton"
+    ],
+    "summary": "Fortune Seller, a Balatro-inspired deck-building game with inventory management mechanics, launches as a Steam Deck Verified title with strong Linux/Proton support.",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-812",
+    "published": "2026-05-31T10:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "A personal essay column featuring gaming-related articles with minimal substantive gaming news content.",
+    "sources": []
+  },
+  {
+    "title": "Rumour: Onimusha Adds to Stacked September 2026 PS5 Release Line-Up",
+    "url": "https://www.pushsquare.com/news/2026/06/rumour-onimusha-adds-to-stacked-september-2026-ps5-release-line-up",
+    "published": "2026-06-01T00:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "A social media leaker suggests Capcom's Onimusha: Way of the Sword is scheduled for a PS5 release on September 25, 2026, pending official confirmation.",
+    "sources": []
+  },
+  {
+    "title": "State of Play's Special Alamo Drafthouse Menu Has Leaked, And Here's What Sony's Cooking",
+    "url": "https://www.pushsquare.com/news/2026/06/state-of-plays-special-alamo-drafthouse-menu-has-leaked-and-heres-what-sonys-cooking",
+    "published": "2026-05-31T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "A special menu for PS5's State of Play event at Alamo Drafthouse theaters has leaked ahead of the June 2nd broadcast.",
+    "sources": []
+  },
+  {
+    "title": "Feature: 17 PS5 Predictions for State of Play June 2026",
+    "url": "https://www.pushsquare.com/features/17-ps5-predictions-for-state-of-play-june-2026",
+    "published": "2026-05-31T16:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-discovery"
+    ],
+    "summary": "Sony announces a major State of Play presentation on June 2, 2026, featuring Marvel's Wolverine and over an hour of content with theatrical screenings.",
+    "sources": []
+  },
+  {
+    "title": "Guide: 007 First Light Guide: Complete 100% Collectibles Walkthrough",
+    "url": "https://www.pushsquare.com/guides/007-first-light-guide-complete-100percent-collectibles-walkthrough",
+    "published": "2026-05-31T13:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery"
+    ],
+    "summary": "A collectibles guide for 007 First Light detailing locations of all 92 items for 100% completion.",
+    "sources": []
+  },
+  {
+    "title": "Wuthering Waves' Cyberpunk: Edgerunners Collab Looks Stunning",
+    "url": "https://www.pushsquare.com/news/2026/05/wuthering-waves-cyberpunk-edgerunners-collab-looks-stunning",
+    "published": "2026-05-31T11:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Wuthering Waves announces a Cyberpunk: Edgerunners collaboration featuring Lucy and Rebecca as 5-Star Resonators, launching June 8th in v3.4.",
+    "sources": []
+  },
+  {
+    "title": "Wolverine PS5 Pre-Orders Expected to Open Next Week, After State of Play",
+    "url": "https://www.pushsquare.com/news/2026/05/wolverine-ps5-pre-orders-expected-to-open-next-week-after-state-of-play",
+    "published": "2026-05-31T11:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 55,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Marvel's Wolverine PS5 pre-orders are expected to open following Sony's State of Play presentation on June 2nd, with the game launching in approximately three months.",
+    "sources": []
+  }
+]
