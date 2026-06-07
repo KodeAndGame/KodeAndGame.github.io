@@ -1,0 +1,1348 @@
+[
+  {
+    "title": "Day of the Devs - Summer Game Fest 2026 highlights",
+    "url": "https://www.gamingonlinux.com/2026/06/day-of-the-devs-summer-game-fest-2026-highlights/",
+    "published": "2026-06-06T18:51:56+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Day of the Devs at Summer Game Fest 2026 showcases notable indie and independent game announcements and demonstrations.",
+    "sources": []
+  },
+  {
+    "title": "Valve continue working towards the Steam Frame with a new SteamVR Beta",
+    "url": "https://www.gamingonlinux.com/2026/06/valve-continue-working-towards-the-steam-frame-with-a-new-steamvr-beta/",
+    "published": "2026-06-06T11:08:07+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "linux-gaming",
+      "gaming-news"
+    ],
+    "summary": "Valve releases a new SteamVR Beta build following a recent stable update with Linux improvements.",
+    "sources": []
+  },
+  {
+    "title": "Summer Game Fest 2026 - the main show highlight announcements",
+    "url": "https://www.gamingonlinux.com/2026/06/summer-game-fest-2026-the-main-show-highlight-announcements/",
+    "published": "2026-06-06T10:40:35+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Summer Game Fest 2026 main show delivers highlight announcements for upcoming games and industry developments.",
+    "sources": []
+  },
+  {
+    "title": "HITMAN Classic Trilogy Remastered announced",
+    "url": "https://www.gamingonlinux.com/2026/06/hitman-classic-trilogy-remastered-announced/",
+    "published": "2026-06-06T10:00:06+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 58,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Saber Interactive and IO Interactive announce HITMAN Classic Trilogy Remastered collection launching in 2027.",
+    "sources": []
+  },
+  {
+    "title": "FreeBSD 15.1 Delayed To Mid-June Due To Critical x86 Bug Fixes",
+    "url": "https://www.phoronix.com/news/FreeBSD_15.1-RC3-Released",
+    "published": "2026-06-07T00:23:57+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "FreeBSD 15.1 delayed to mid-June due to critical x86 bug fixes requiring additional release candidates.",
+    "sources": []
+  },
+  {
+    "title": "GNOME File Previewer Finally Switches TO GTK4, Adds Dark Mode",
+    "url": "https://www.phoronix.com/news/GNOME-File-Previewer-GTK4",
+    "published": "2026-06-06T16:32:22+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "GNOME Sushi file previewer migrates to GTK4 and adds dark mode support, improving the GNOME Files experience.",
+    "sources": []
+  },
+  {
+    "title": "OpenCV 5.0 Released With Rewritten DNN Engine, Built-In LLM & VLM Support",
+    "url": "https://www.phoronix.com/news/OpenCV-5.0-Released",
+    "published": "2026-06-06T12:06:13+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "game-dev"
+    ],
+    "summary": "OpenCV 5.0 released with a rewritten DNN engine and built-in LLM/VLM support, offering developers new tools for computer vision tasks.",
+    "sources": []
+  },
+  {
+    "title": "Valve Developer Posts New AMD Anti-Lag Implementation For RADV Driver",
+    "url": "https://www.phoronix.com/news/Valve-New-AMD-Anti-Lag",
+    "published": "2026-06-06T11:15:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 62,
+    "tags": [
+      "valve",
+      "linux-gaming",
+      "open-source",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Valve developer implements AMD anti-lag technology in the open-source RADV Vulkan driver, improving performance for Linux gaming on AMD GPUs.",
+    "sources": []
+  },
+  {
+    "title": "Ape: A New Vulkan Driver Written In The Zig Programming Language",
+    "url": "https://www.phoronix.com/news/Vulkan-Ape-Driver",
+    "published": "2026-06-06T11:03:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "open-source",
+      "pc-hardware",
+      "linux-gaming",
+      "game-dev"
+    ],
+    "summary": "Ape, a new open-source Vulkan driver written in Zig without Mesa dependencies, represents an experimental approach to graphics driver development.",
+    "sources": []
+  },
+  {
+    "title": "KDE Plasma 6.8 Will Make Sure You Don't Miss Your Low Battery Notifications While Gaming",
+    "url": "https://www.phoronix.com/news/Plasma-6.8-Low-Battery-Full-S",
+    "published": "2026-06-06T10:55:07+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware"
+    ],
+    "summary": "KDE Plasma 6.8 will improve low battery notifications for gaming, with developers continuing bug fixes across multiple Plasma versions.",
+    "sources": []
+  },
+  {
+    "title": "GNU Gets Back Into Nutrition Software After 14 Year Hiatus",
+    "url": "https://www.phoronix.com/news/GNUtrition-2026",
+    "published": "2026-06-06T10:36:08+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "open-source"
+    ],
+    "summary": "GNU releases first update to GNUtrition nutrition software after 14-year hiatus.",
+    "sources": []
+  },
+  {
+    "title": "Today Marks 22 Years Of Phoronix For Linux Hardware Testing & Benchmarking",
+    "url": "https://www.phoronix.com/news/Phoronix-Turns-22",
+    "published": "2026-06-06T01:00:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "gaming-hardware",
+      "gaming-news"
+    ],
+    "summary": "Phoronix celebrates its 22nd anniversary as a long-running Linux hardware testing and benchmarking publication.",
+    "sources": []
+  },
+  {
+    "title": "Alkahest Gameplay Trailers | inspired by Dishonored, Dark Messiah of Might and Magic",
+    "url": "https://www.resetera.com/threads/alkahest-gameplay-trailers-inspired-by-dishonored-dark-messiah-of-might-and-magic.1542817/",
+    "published": "2026-06-07T05:04:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 32,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "game-dev"
+    ],
+    "summary": "Alkahest, an indie game inspired by Dishonored and Dark Messiah, releases gameplay trailers showcasing its immersive sim design.",
+    "sources": []
+  },
+  {
+    "title": "[Gematsu] All Announcements At Future Games Show",
+    "url": "https://www.resetera.com/threads/gematsu-all-announcements-at-future-games-show.1542814/",
+    "published": "2026-06-07T04:57:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-discovery"
+    ],
+    "summary": "Future Games Show announcements include Arizona Sunshine third-person remake for PS5, Xbox Series, Switch 2, and PC, plus Duskfade Switch 2 version launching August 13.",
+    "sources": []
+  },
+  {
+    "title": "Vampire Survivors team is making games based on other IPs",
+    "url": "https://www.resetera.com/threads/vampire-survivors-team-is-making-games-based-on-other-ips.1542811/",
+    "published": "2026-06-07T04:55:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Vampire Survivors developer Poncle is creating multiple survival games based on various IPs alongside their existing projects.",
+    "sources": []
+  },
+  {
+    "title": "Dark Mass - Physical Edition (PS5) Trailer | Game also coming to Xbox/PC | fully underwater horror game",
+    "url": "https://www.resetera.com/threads/dark-mass-physical-edition-ps5-trailer-game-also-coming-to-xbox-pc-fully-underwater-horror-game.1542802/",
+    "published": "2026-06-07T04:46:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "console-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Dark Mass, an underwater horror game, is receiving a physical PS5 edition and will launch on Xbox and PC platforms.",
+    "sources": []
+  },
+  {
+    "title": "Jeff Grubb says Gears of War: E-Day was originally going to come to PS5, but the decision was \"just made\" to not bring the game to PS5",
+    "url": "https://www.resetera.com/threads/jeff-grubb-says-gears-of-war-e-day-was-originally-going-to-come-to-ps5-but-the-decision-was-just-made-to-not-bring-the-game-to-ps5.1542799/",
+    "published": "2026-06-07T04:18:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Jeff Grubb reports that Gears of War: E-Day was originally planned for PS5 but a recent decision reversed this, keeping it as an exclusive.",
+    "sources": []
+  },
+  {
+    "title": "\u201cXbox Film + TV\u201d cap handed out to press at pre-showcase mixer",
+    "url": "https://www.resetera.com/threads/%E2%80%9Cxbox-film-tv%E2%80%9D-cap-handed-out-to-press-at-pre-showcase-mixer.1542796/",
+    "published": "2026-06-07T04:15:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Xbox is distributing branded merchandise caps at a press event in Los Angeles ahead of an upcoming showcase.",
+    "sources": []
+  },
+  {
+    "title": "Having too many games on your PS Wishlist Breaks the PlayStation Store on PS5",
+    "url": "https://www.resetera.com/threads/having-too-many-games-on-your-ps-wishlist-breaks-the-playstation-store-on-ps5.1542793/",
+    "published": "2026-06-07T03:57:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A PS5 user reports that maxing out the PlayStation Store wishlist causes significant performance issues and crashes on PS5 consoles.",
+    "sources": []
+  },
+  {
+    "title": "Final Fantasy VII Rebirth felt like a celebration of previous game concepts and I hope Revelation continues the trend.",
+    "url": "https://www.resetera.com/threads/final-fantasy-vii-rebirth-felt-like-a-celebration-of-previous-game-concepts-and-i-hope-revelation-continues-the-trend.1542778/",
+    "published": "2026-06-07T02:56:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "A player reflects on how Final Fantasy VII Rebirth incorporated mechanics and homages from previous Final Fantasy titles, and hopes the upcoming Revelation continues this trend.",
+    "sources": []
+  },
+  {
+    "title": "Placeholder listings for Gears Of War E-Day for both Xbox Series and PlayStation 5 are up on Walmart",
+    "url": "https://www.resetera.com/threads/placeholder-listings-for-gears-of-war-e-day-for-both-xbox-series-and-playstation-5-are-up-on-walmart.1542769/",
+    "published": "2026-06-07T02:31:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "leaks",
+      "console-hardware"
+    ],
+    "summary": "Placeholder listings for Gears of War E-Day appear on Walmart for both Xbox Series and PlayStation 5, suggesting a multiplatform release.",
+    "sources": []
+  },
+  {
+    "title": "Imagine if Soulcalibur got the VF Crossroads treatment",
+    "url": "https://www.resetera.com/threads/imagine-if-soulcalibur-got-the-vf-crossroads-treatment.1542760/",
+    "published": "2026-06-07T02:17:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community member speculates about Soulcalibur receiving a story mode treatment similar to Virtua Fighter's successful Crossroads expansion.",
+    "sources": []
+  },
+  {
+    "title": "Why don't more games use 40fps modes on Switch 2?",
+    "url": "https://www.resetera.com/threads/why-dont-more-games-use-40fps-modes-on-switch-2.1542745/",
+    "published": "2026-06-07T01:37:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "handheld-gaming",
+      "gaming-news"
+    ],
+    "summary": "Community discussion questioning why Switch 2 developers aren't utilizing 40fps modes despite the console's 120Hz display and VRR support.",
+    "sources": []
+  },
+  {
+    "title": "What did you think NFS Heat?",
+    "url": "https://www.resetera.com/threads/what-did-you-think-nfs-heat.1542742/",
+    "published": "2026-06-07T01:36:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A retrospective opinion piece praising Need for Speed Heat (2019) as an underrated entry in the franchise with strong gameplay and atmosphere.",
+    "sources": []
+  },
+  {
+    "title": "Blood Message - 19 Minutes Gameplay Walkthrough | The Letter",
+    "url": "https://www.resetera.com/threads/blood-message-19-minutes-gameplay-walkthrough-the-letter.1542733/",
+    "published": "2026-06-07T01:09:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "game-dev"
+    ],
+    "summary": "A 19-minute gameplay walkthrough video demonstrating combat and stealth mechanics in Blood Message, showcasing a level in Shazhou City.",
+    "sources": []
+  },
+  {
+    "title": "Any way to legally play digitally 2009's X-Men Origins: Wolverine? (PC)",
+    "url": "https://www.resetera.com/threads/any-way-to-legally-play-digitally-2009s-x-men-origins-wolverine-pc.1542721/",
+    "published": "2026-06-07T00:48:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion about the unavailability of 2009's X-Men Origins: Wolverine game and difficulties in legally accessing delisted digital titles.",
+    "sources": []
+  },
+  {
+    "title": "WARDOGS (large-scale tactical fps shooter - mix of Battlefield and ARMA) - Extended Gameplay (35 min)",
+    "url": "https://www.resetera.com/threads/wardogs-large-scale-tactical-fps-shooter-mix-of-battlefield-and-arma-extended-gameplay-35-min.1542712/",
+    "published": "2026-06-07T00:24:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "WARDOGS, an indie large-scale tactical FPS blending Battlefield and ARMA mechanics with persistent economy systems, showcases 35 minutes of extended gameplay.",
+    "sources": []
+  },
+  {
+    "title": "Mega Man X? No, Gemini X is announced for PC.",
+    "url": "https://www.resetera.com/threads/mega-man-x-no-gemini-x-is-announced-for-pc.1542697/",
+    "published": "2026-06-07T00:22:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "pc-hardware"
+    ],
+    "summary": "Gemini X, an indie metroidvania action-platformer with run-and-gun combat, announced for PC.",
+    "sources": []
+  },
+  {
+    "title": "Was PS2/Gamecube the last era wher companies felt they could do wild shit with an IP?",
+    "url": "https://www.resetera.com/threads/was-ps2-gamecube-the-last-era-wher-companies-felt-they-could-do-wild-shit-with-an-ip.1542694/",
+    "published": "2026-06-07T00:11:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion reflecting on whether PS2/Gamecube era represented the last period of bold, experimental game design from major publishers.",
+    "sources": []
+  },
+  {
+    "title": "Good Mechanic, Bad* Game",
+    "url": "https://www.resetera.com/threads/good-mechanic-bad-game.1542682/",
+    "published": "2026-06-06T23:52:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "game-dev"
+    ],
+    "summary": "Analysis of Lost Dimension's unique traitor-detection mechanic in an otherwise mediocre JRPG, exploring how interesting game design can exist within poorly-executed titles.",
+    "sources": []
+  },
+  {
+    "title": "The Expanse: Osiris Reborn - Official Pinkwater Gameplay Trailer featuring the female protagonist",
+    "url": "https://www.resetera.com/threads/the-expanse-osiris-reborn-official-pinkwater-gameplay-trailer-featuring-the-female-protagonist.1542679/",
+    "published": "2026-06-06T23:42:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "The Expanse: Osiris Reborn releases official gameplay trailer showcasing female protagonist option and detailed space suit designs.",
+    "sources": []
+  },
+  {
+    "title": "Star Trek: Shadow Frontier announced (Paramount Games/Bloober Team)",
+    "url": "https://www.resetera.com/threads/star-trek-shadow-frontier-announced-paramount-games-bloober-team.1542676/",
+    "published": "2026-06-06T23:36:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Paramount Games and Bloober Team announce Star Trek: Shadow Frontier, a new psychological survival game featuring character Ro Laren stranded on a mysterious planet.",
+    "sources": []
+  },
+  {
+    "title": "The Sopranos opening appreciation thread",
+    "url": "https://www.resetera.com/threads/the-sopranos-opening-appreciation-thread.1542673/",
+    "published": "2026-06-06T23:31:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community"
+    ],
+    "summary": "A fan expresses appreciation for The Sopranos TV series opening theme in a discussion thread.",
+    "sources": []
+  },
+  {
+    "title": "I've always felt like \"My (PS5, Xbox, switch) collects dust\" to be a very console wars like thing to post.",
+    "url": "https://www.resetera.com/threads/ive-always-felt-like-my-ps5-xbox-switch-collects-dust-to-be-a-very-console-wars-like-thing-to-post.1542670/",
+    "published": "2026-06-06T23:24:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community",
+      "console-hardware"
+    ],
+    "summary": "Community discussion questioning the prevalence of 'console collects dust' complaints among multi-platform gamers, arguing library overlap makes this a normal phenomenon rather than a console wars talking point.",
+    "sources": []
+  },
+  {
+    "title": "Storage bin options for large game collection",
+    "url": "https://www.resetera.com/threads/storage-bin-options-for-large-game-collection.1542637/",
+    "published": "2026-06-06T23:02:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community"
+    ],
+    "summary": "A collector discusses storage solutions for organizing and protecting a large physical game collection using plastic bins.",
+    "sources": []
+  },
+  {
+    "title": "No Straight Roads 2 announcement trailer",
+    "url": "https://www.resetera.com/threads/no-straight-roads-2-announcement-trailer.1542628/",
+    "published": "2026-06-06T22:45:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "No Straight Roads 2 receives an announcement trailer debut at Summer Game Fest's Southeast Asian Games Showcase.",
+    "sources": []
+  },
+  {
+    "title": "Where do you intend to buy Final Fantasy VII Revelation?",
+    "url": "https://www.resetera.com/threads/where-do-you-intend-to-buy-final-fantasy-vii-revelation.1542625/",
+    "published": "2026-06-06T22:44:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Final Fantasy VII Revelation announced for multiple platforms; community discusses purchase intentions.",
+    "sources": []
+  },
+  {
+    "title": "DKC fans get in here, Microids working on F'N Marsupilami 2 - Salsa Palombia",
+    "url": "https://www.resetera.com/threads/dkc-fans-get-in-here-microids-working-on-fn-marsupilami-2-salsa-palombia.1542622/",
+    "published": "2026-06-06T22:39:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Microids announces F'N Marsupilami 2: Salsa Palombia, continuing the spiritual successor lineage to Donkey Kong Country with a new platformer entry.",
+    "sources": []
+  },
+  {
+    "title": "Will Smash Brothers make an appearance in this next direct? (Hint It will)",
+    "url": "https://www.resetera.com/threads/will-smash-brothers-make-an-appearance-in-this-next-direct-hint-it-will.1542592/",
+    "published": "2026-06-06T21:51:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Speculation and commentary on whether Super Smash Bros. will be featured in an upcoming Nintendo Direct presentation.",
+    "sources": []
+  },
+  {
+    "title": "Pronoun Palace is an extremely cool, extremely queer word-picking game that I've been obsessed with",
+    "url": "https://www.resetera.com/threads/pronoun-palace-is-an-extremely-cool-extremely-queer-word-picking-game-that-ive-been-obsessed-with.1542586/",
+    "published": "2026-06-06T21:46:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "A newly released indie word game called Pronoun Palace featuring queer themes and strategic gameplay mechanics has garnered enthusiastic player attention.",
+    "sources": []
+  },
+  {
+    "title": "Cairn gets a free expansion, August 13th 2026 release date - titled \"first DLC\" in YouTube description",
+    "url": "https://www.resetera.com/threads/cairn-gets-a-free-expansion-august-13th-2026-release-date-titled-first-dlc-in-youtube-description.1542583/",
+    "published": "2026-06-06T21:37:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Cairn, a critically acclaimed 2026 game, is receiving a free expansion launching August 13th.",
+    "sources": []
+  },
+  {
+    "title": "Cronos Lazarus - Story DLC Announced - Coming Fall 2026",
+    "url": "https://www.resetera.com/threads/cronos-lazarus-story-dlc-announced-coming-fall-2026.1542541/",
+    "published": "2026-06-06T21:10:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Cronos: The New Dawn announces Lazarus story DLC launching Fall 2026, featuring a new playable character and continuation of the game's narrative.",
+    "sources": []
+  },
+  {
+    "title": "Devolver Direct will be missing SGF. Will happen later in the year",
+    "url": "https://www.resetera.com/threads/devolver-direct-will-be-missing-sgf-will-happen-later-in-the-year.1542511/",
+    "published": "2026-06-06T20:48:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Devolver Digital announces their Devolver Direct showcase will not occur at Summer Game Fest, rescheduled for later in the year.",
+    "sources": []
+  },
+  {
+    "title": "The Mermaid Mask - July 16th Release Date Announced",
+    "url": "https://www.resetera.com/threads/the-mermaid-mask-july-16th-release-date-announced.1542508/",
+    "published": "2026-06-06T20:42:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "The Mermaid Mask, a detective game from the creators of Crow Country and Tangle Tower, announces its July 16th release date on Steam.",
+    "sources": []
+  },
+  {
+    "title": "EXODUS Extended Gameplay Reveal",
+    "url": "https://www.resetera.com/threads/exodus-extended-gameplay-reveal.1542502/",
+    "published": "2026-06-06T20:31:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "pc-hardware"
+    ],
+    "summary": "Archetype Entertainment revealed extended gameplay footage for their upcoming sci-fi RPG EXODUS, showcasing storytelling, combat, and companions ahead of its Early 2027 release.",
+    "sources": []
+  },
+  {
+    "title": "[Polygon] Nintendo Direct was a stroke of genius, but it doomed us to our current games PR hellscape",
+    "url": "https://www.resetera.com/threads/polygon-nintendo-direct-was-a-stroke-of-genius-but-it-doomed-us-to-our-current-games-pr-hellscape.1542499/",
+    "published": "2026-06-06T20:27:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Analysis of how Nintendo Direct's success transformed gaming industry marketing from concentrated E3 events into year-round fragmented showcases, fundamentally changing the PR landscape.",
+    "sources": []
+  },
+  {
+    "title": "All Announcements At Gayming Pride Parade",
+    "url": "https://www.resetera.com/threads/all-announcements-at-gayming-pride-parade.1542439/",
+    "published": "2026-06-06T20:20:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "indie-games",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Several indie games were announced at Gayming Pride Parade event, including titles like Art of Solitaire and Kitty Powers' Matchmaker Makeover.",
+    "sources": []
+  },
+  {
+    "title": "Licensed games that introduced an original element or character that became used later on!",
+    "url": "https://www.resetera.com/threads/licensed-games-that-introduced-an-original-element-or-character-that-became-used-later-on.1542436/",
+    "published": "2026-06-06T20:14:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Community discussion about licensed games that introduced original characters or elements later adopted by the franchises they're based on, using Mazinkaiser from Super Robot Wars as an example.",
+    "sources": []
+  },
+  {
+    "title": "PowerWash Simulator 2's Star Wars Pack will launch July 16",
+    "url": "https://www.resetera.com/threads/powerwash-simulator-2s-star-wars-pack-will-launch-july-16.1542433/",
+    "published": "2026-06-06T20:08:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "PowerWash Simulator 2's Star Wars-themed DLC pack launches July 16, featuring iconic locations from the original trilogy.",
+    "sources": []
+  },
+  {
+    "title": "Cronos: Lazarus New story DLC (Fall 2026)",
+    "url": "https://www.resetera.com/threads/cronos-lazarus-new-story-dlc-fall-2026.1542430/",
+    "published": "2026-06-06T20:07:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Bloober Team and PixelAnt Games announce Lazarus, a story DLC expansion for Cronos: The New Dawn launching Fall 2026.",
+    "sources": []
+  },
+  {
+    "title": "The Alters: Last Variable | DLC Date Reveal Trailer (July 13)",
+    "url": "https://www.resetera.com/threads/the-alters-last-variable-dlc-date-reveal-trailer-july-13.1542424/",
+    "published": "2026-06-06T20:05:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "indie-games"
+    ],
+    "summary": "The Alters reveals DLC release date through a trailer announcement for Last Variable.",
+    "sources": []
+  },
+  {
+    "title": "The Sinking City 2 - Welcome To Arkham | Release Date Trailer | Out August 18, 2026",
+    "url": "https://www.resetera.com/threads/the-sinking-city-2-welcome-to-arkham-release-date-trailer-out-august-18-2026.1542421/",
+    "published": "2026-06-06T20:00:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "steam-platform"
+    ],
+    "summary": "The Sinking City 2 announces its release date of August 18, 2026, with a new trailer showcasing the Arkham setting.",
+    "sources": []
+  },
+  {
+    "title": "Random Game Saturday: Langrisser III (Sega Saturn)",
+    "url": "https://www.timeextension.com/news/2026/06/random-game-saturday-langrisser-iii-sega-saturn",
+    "published": "2026-06-06T10:10:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 28,
+    "tags": [
+      "retro",
+      "console-hardware",
+      "game-discovery",
+      "gaming-history"
+    ],
+    "summary": "A retrospective look at Langrisser III, a 1996 Sega Saturn exclusive that marked a significant visual and gameplay departure for the tactical RPG series.",
+    "sources": []
+  },
+  {
+    "title": "Free Games + Amazon Prime For Your Steam Deck and Handhelds - 6/6/26:",
+    "url": "https://steamdeckhq.com/news/free-games-for-your-steam-deck-6-6-26/",
+    "published": "2026-06-06T12:57:08+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "handheld-gaming",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Several free games including Gravity Circuit and Songs of Conquest are available this week for Steam Deck and handheld devices.",
+    "sources": []
+  },
+  {
+    "title": "The Summer Game Fest showcase showed Japan\u2019s top game-makers racing ever further ahead of the west | Opinion",
+    "url": "https://www.gamesindustry.biz/the-summer-game-fest-showcase-showed-japans-top-game-makers-racing-ever-further-ahead-of-the-west-opinion",
+    "published": "2026-06-06T18:00:45+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Opinion piece argues that Summer Game Fest 2026 demonstrates Japanese studios are outpacing western game developers in delivering high-quality titles for hardcore players.",
+    "sources": []
+  },
+  {
+    "title": "007 First Light officially sells 2.7 million copies, \"probably\" at three million",
+    "url": "https://www.gamesindustry.biz/007-first-light-officially-sells-27-million-copies-probably-at-three-million",
+    "published": "2026-06-06T16:03:05+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "IO Interactive's 007 First Light has sold 2.7 million copies and is approaching 3 million, though it has not yet recouped its budget; the studio plans continued collaboration with Amazon beyond the first year of content.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck - 2026-06-06 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-06-06-edition/index.html",
+    "published": "2026-06-07T04:49:47+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "linux-gaming"
+    ],
+    "summary": "Weekly roundup of 8 newly released games verified or playable on Steam Deck, including The 7th Guest Remake and Sodaman.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games with Native Linux Builds, including Sodaman - 2026-06-03 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-06-03-edition/index.html",
+    "published": "2026-06-06T12:04:49+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "steam-platform",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "90 new Steam games with native Linux builds released in the week of May 27-June 3, 2026, representing 12.2% of total releases, including the vampire-survivors-style game Sodaman.",
+    "sources": []
+  },
+  {
+    "title": "Silent Hill 2 remakers Bloober Team are boldly going where few horror devs have gone before in Star Trek: Shadow Frontier, a \"psychological thriller\" starring Ro Laren",
+    "url": "https://www.rockpapershotgun.com/silent-hill-2-remakers-bloober-team-are-boldly-going-where-few-horror-devs-have-gone-before-in-star-trek-shadow-frontier-a-psychological-thriller-starring-ro-laren",
+    "published": "2026-06-06T23:10:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "horror"
+    ],
+    "summary": "Bloober Team, known for the Silent Hill 2 remake, is developing Star Trek: Shadow Frontier, a psychological thriller set on a spaceship graveyard planet in collaboration with Paramount.",
+    "sources": []
+  },
+  {
+    "title": "Self-cloning strategy game The Alters is getting a 20 hour terraforming expansion that plays with the problem of age",
+    "url": "https://www.rockpapershotgun.com/self-cloning-strategy-game-the-alters-is-getting-a-20-hour-terraforming-expansion-that-plays-with-the-problem-of-age",
+    "published": "2026-06-06T21:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 48,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "The Alters is receiving a 20-hour terraforming expansion that explores themes of aging and cloning through cryosleep mechanics, releasing July 13th.",
+    "sources": []
+  },
+  {
+    "title": "Ukrainian-made Lovecraftian horror game The Sinking City 2 finally has a release date, and you can play the first hour right now on Steam",
+    "url": "https://www.rockpapershotgun.com/ukrainian-made-lovecraftian-horror-game-the-sinking-city-2-finally-has-a-release-date-and-you-can-play-the-first-hour-right-now-on-steam",
+    "published": "2026-06-06T20:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Frogwares announces August 18 release date for The Sinking City 2 and releases a playable first-hour demo on Steam.",
+    "sources": []
+  },
+  {
+    "title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-385",
+    "published": "2026-06-06T07:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A gaming journalist reflects on covering Summer Game Fest and discusses weekend gaming plans and personal anecdotes from event coverage.",
+    "sources": []
+  },
+  {
+    "title": "PS5's Until Dawn 2 Has Been in Development for At Least 4 Years Already",
+    "url": "https://www.pushsquare.com/news/2026/06/ps5s-until-dawn-2-has-been-in-development-for-at-least-4-years-already",
+    "published": "2026-06-06T23:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 58,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Until Dawn 2 for PS5 has been in development for at least 4 years and is scheduled to release in 2027, according to cast member Dacre Montgomery.",
+    "sources": []
+  },
+  {
+    "title": "Stellar Blade: Blood Rain's Reveal Is Allegedly Riddled with Generative AI",
+    "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai",
+    "published": "2026-06-06T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Stellar Blade's Blood Rain reveal trailer and key art are alleged to contain extensive generative AI usage, drawing criticism from fans over character design and architectural elements.",
+    "sources": []
+  },
+  {
+    "title": "Godzilla vs GTA 6: Retro Remake Makes PlayStation Debut on PS5 This November",
+    "url": "https://www.pushsquare.com/news/2026/06/godzilla-vs-gta-6-retro-remake-makes-playstation-debut-on-ps5-this-november",
+    "published": "2026-06-06T21:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "A retro Godzilla vs. GTA 6 remake is coming to PS5 in November, highlighting how major releases are avoiding competition with GTA 6's launch window.",
+    "sources": []
+  },
+  {
+    "title": "This New Digital Eclipse Joint Could Be the Coolest Retro Compilation for PS5 Yet",
+    "url": "https://www.pushsquare.com/news/2026/06/this-new-digital-eclipse-joint-could-be-the-coolest-retro-compilation-for-ps5-yet",
+    "published": "2026-06-06T21:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "Digital Eclipse's Barbie Rewind compilation for PS5 offers a unique approach to retro game curation by presenting classic Barbie games within a customizable pixel art dollhouse interface.",
+    "sources": []
+  },
+  {
+    "title": "PSVR2 Fave Arizona Sunshine Sheds Virtual Reality, Goes Third-Person on PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/psvr2-fave-arizona-sunshine-sheds-virtual-reality-goes-third-person-on-ps5",
+    "published": "2026-06-06T20:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-dev"
+    ],
+    "summary": "Vertigo Games is releasing Arizona Sunshine as a third-person PS5 game, moving away from its PSVR2 roots and renaming the original versions to Arizona Sunshine VR.",
+    "sources": []
+  },
+  {
+    "title": "Zenless Zone Zero v3.0 Adds New City, New Form, and Free Pulls on PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/zenless-zone-zero-v3-0-adds-new-city-new-form-and-free-pulls-on-ps5",
+    "published": "2026-06-06T20:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Zenless Zone Zero receives a major v3.0 update on June 17th featuring a new city, protagonist transformation, and free pulls for PS5 players.",
+    "sources": []
+  },
+  {
+    "title": "The Alters Gets Over 20 Hours of New Content in Last Variable DLC",
+    "url": "https://www.pushsquare.com/news/2026/06/the-alters-gets-over-20-hours-of-new-content-in-last-variable-dlc",
+    "published": "2026-06-06T20:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "The Alters receives its first DLC expansion 'Last Variable' with over 20 hours of new content launching on PS5 in July.",
+    "sources": []
+  },
+  {
+    "title": "The Sinking City 2 Hands PS5 Detective Horror This August",
+    "url": "https://www.pushsquare.com/news/2026/06/the-sinking-city-2-hands-ps5-detective-horror-this-august",
+    "published": "2026-06-06T20:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "pc-hardware"
+    ],
+    "summary": "The Sinking City 2 announced for August 18, 2026 release with a one-hour demo now available on Steam.",
+    "sources": []
+  },
+  {
+    "title": "Reaction: Some PS5 Fans Think SGF Showed Sony Losing Its Grip on Third-Parties",
+    "url": "https://www.pushsquare.com/news/2026/06/reaction-some-ps5-fans-think-sgf-showed-sony-losing-its-grip-on-third-parties",
+    "published": "2026-06-06T17:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "PS5 fans debate Sony's third-party support after Summer Game Fest and State of Play showcases, with mixed opinions on whether the platform maintained its industry dominance.",
+    "sources": []
+  },
+  {
+    "title": "Bungie Fixes Marathon Mess by Giving Away Full Game to Fans Who Purchased Due to Misleading PS5 Store Description",
+    "url": "https://www.pushsquare.com/news/2026/06/bungie-fixes-marathon-mess-by-giving-away-full-game-to-fans-who-purchased-due-to-misleading-ps5-store-description",
+    "published": "2026-06-06T16:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Bungie offers full game access to players misled by PlayStation Store description of Marathon, attempting to rectify a consumer confusion issue.",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 7+ PS5 Games Are Coming Out Next Week (8th-14th June)",
+    "url": "https://www.pushsquare.com/guides/these-7plus-ps5-games-are-coming-out-next-week-8th-14th-june",
+    "published": "2026-06-06T11:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "A guide to PS5 game releases for the week of June 8-14, highlighting NBA The Run and noting the slow summer release period.",
+    "sources": []
+  },
+  {
+    "title": "Mission Accomplished: PS5 Hit 007 First Light Sells Nearly 3 Million Copies in Its First Week",
+    "url": "https://www.pushsquare.com/news/2026/06/mission-accomplished-ps5-hit-007-first-light-sells-nearly-3-million-copies-in-its-first-week",
+    "published": "2026-06-06T10:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "PS5 exclusive 007 First Light sells nearly 3 million copies in its first week, marking a major commercial success for the James Bond franchise revival.",
+    "sources": []
+  },
+  {
+    "title": "Talking Point: What Are You Playing This Weekend? - Issue 636",
+    "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-636",
+    "published": "2026-06-06T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A gaming digest column asking readers what games they're playing this weekend, featuring staff picks including Gotham Knights.",
+    "sources": []
+  }
+]
