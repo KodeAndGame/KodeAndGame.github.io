@@ -1,0 +1,1606 @@
+[
+  {
+    "title": "Defender of the Crown: The Legend Returns arrives in August",
+    "url": "https://www.gamingonlinux.com/2026/06/defender-of-the-crown-the-legend-returns-arrives-in-august/",
+    "published": "2026-06-07T11:31:27+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 32,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Defender of the Crown: The Legend Returns, a remake of the classic Amiga game, is launching on August 13th with multiple game modes.",
+    "sources": []
+  },
+  {
+    "title": "Vampire Survivors has a free content expansion, plus a Legacy of the Bloodmoon DLC in Summer 2026",
+    "url": "https://www.gamingonlinux.com/2026/06/vampire-survivors-has-a-free-content-expansion-plus-a-legacy-of-the-bloodmoon-dlc-in-summer-2026/",
+    "published": "2026-06-07T09:15:19+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Vampire Survivors receives a free content expansion with an additional paid DLC titled Legacy of the Bloodmoon scheduled for Summer 2026.",
+    "sources": []
+  },
+  {
+    "title": "Godzilla: Destroy All Monsters Melee Remastered revealed to release in November",
+    "url": "https://www.gamingonlinux.com/2026/06/godzilla-destroy-all-monsters-melee-remastered-revealed-to-release-in-november/",
+    "published": "2026-06-07T08:19:06+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "gaming-news",
+      "retro"
+    ],
+    "summary": "Atari and Pipeworks Studios announced Godzilla: Destroy All Monsters Melee Remastered arriving November 3rd.",
+    "sources": []
+  },
+  {
+    "title": "Bloober Team revealed action-adventure horror Star Trek: Shadow Frontier",
+    "url": "https://www.gamingonlinux.com/2026/06/bloober-team-revealed-action-adventure-horror-star-trek-shadow-frontier/",
+    "published": "2026-06-07T07:08:40+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "indie-games"
+    ],
+    "summary": "Bloober Team announces Star Trek: Shadow Frontier, an action-adventure horror game in the Star Trek universe.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.1-rc7 Released: Stable Hopefully Next Sunday",
+    "url": "https://www.phoronix.com/news/Linux-7.1-rc7",
+    "published": "2026-06-08T00:26:27+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Linux 7.1-rc7 released with Linus Torvalds expecting stable version next Sunday, though release cycle remains heavier than typical.",
+    "sources": []
+  },
+  {
+    "title": "Firefox Merges Support For Vulkan Video Decoding",
+    "url": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
+    "published": "2026-06-07T14:55:06+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "open-source"
+    ],
+    "summary": "Firefox adds initial support for Vulkan Video decoding to enable GPU-accelerated video playback in the web browser.",
+    "sources": []
+  },
+  {
+    "title": "Wayland Protocols 1.49 Released With Improved Multi-GPU Support, Windows BT.2100",
+    "url": "https://www.phoronix.com/news/Wayland-Protocols-1.49",
+    "published": "2026-06-07T13:32:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Wayland Protocols 1.49 releases with improvements to multi-GPU support and Windows BT.2100 color space handling, advancing display server standards for Linux systems.",
+    "sources": []
+  },
+  {
+    "title": "\"Flatten The Pick\" Linux Patches Progress For Better cgroup Scheduling While Linux Gaming",
+    "url": "https://www.phoronix.com/news/Flatten-The-Pick-v3",
+    "published": "2026-06-07T11:06:15+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Linux kernel scheduler patches continue development to improve gaming performance on low-end hardware through better cgroup scheduling optimization.",
+    "sources": []
+  },
+  {
+    "title": "Mesa 26.2 Lands VK_GOOGLE_display_timing Support For Direct Display Mode",
+    "url": "https://www.phoronix.com/news/VK-Google-Timing-KHR-Display",
+    "published": "2026-06-07T10:47:14+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "open-source",
+      "pc-hardware",
+      "gaming-hardware",
+      "linux-gaming"
+    ],
+    "summary": "Mesa 26.2 adds VK_GOOGLE_display_timing support for direct display mode across multiple Vulkan drivers, improving frame-pacing and reducing micro-stuttering.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.1-rc7 Adding More AMD Zen 6 CPU Models",
+    "url": "https://www.phoronix.com/news/Linux-7.1-More-Zen-6-Models",
+    "published": "2026-06-07T10:32:09+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "Linux 7.1-rc7 adds support for additional AMD Zen 6 CPU models in upcoming kernel release.",
+    "sources": []
+  },
+  {
+    "title": "Some Broadcom V3D Graphics Support On Path For Removed Over Lack Of Testing",
+    "url": "https://www.phoronix.com/news/Broadcom-V3D-Some-Deprecations",
+    "published": "2026-06-07T10:23:34+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Broadcom V3D 3.3 and V3D 4.1 graphics support is being deprecated and removed from the kernel driver due to lack of developer hardware for testing and minimal known users.",
+    "sources": []
+  },
+  {
+    "title": "Are you going to wait for a definitive version of Persona 6?",
+    "url": "https://www.resetera.com/threads/are-you-going-to-wait-for-a-definitive-version-of-persona-6.1544257/",
+    "published": "2026-06-08T05:13:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion about potential enhanced versions of future Persona 6 releases and player purchasing decisions.",
+    "sources": []
+  },
+  {
+    "title": "[Gematsu] All Announcements At Xbox Games Showcase 2026",
+    "url": "https://www.resetera.com/threads/gematsu-all-announcements-at-xbox-games-showcase-2026.1544254/",
+    "published": "2026-06-08T04:58:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Xbox Games Showcase 2026 features major announcements including Call of Duty: Modern Warfare 4's DMZ mode and inXile Entertainment's Clockwork Revolution launching in 2027 for Xbox and PC.",
+    "sources": []
+  },
+  {
+    "title": "Video games are fun.",
+    "url": "https://www.resetera.com/threads/video-games-are-fun.1544242/",
+    "published": "2026-06-08T04:16:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Opinion piece reflecting on the positive aspects of modern gaming and gratitude for the medium's evolution and accessibility.",
+    "sources": []
+  },
+  {
+    "title": "the use of \"bela lugosi's dead\" in state of decay 3's reveal trailer is like the only good use of pop music in a trailer",
+    "url": "https://www.resetera.com/threads/the-use-of-bela-lugosis-dead-in-state-of-decay-3s-reveal-trailer-is-like-the-only-good-use-of-pop-music-in-a-trailer.1544239/",
+    "published": "2026-06-08T04:05:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Opinion piece praising State of Decay 3's use of Bauhaus' 'Bela Lugosi's Dead' in its reveal trailer as an effective music choice.",
+    "sources": []
+  },
+  {
+    "title": "Only one game can stand toe to toe with GTA6 | Barbie Rewind - Official Announcement Trailer (Nov 12 - All platforms)",
+    "url": "https://www.resetera.com/threads/only-one-game-can-stand-toe-to-toe-with-gta6-barbie-rewind-official-announcement-trailer-nov-12-all-platforms.1544236/",
+    "published": "2026-06-08T04:00:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Barbie Rewind game announced for November 12 release across all platforms, positioned as a notable title competing with GTA6's launch window.",
+    "sources": []
+  },
+  {
+    "title": "Outward 2 Open Beta is now live (8 - 22 June 2026) - Win a chance for game keys by playing & sharing",
+    "url": "https://www.resetera.com/threads/outward-2-open-beta-is-now-live-8-22-june-2026-win-a-chance-for-game-keys-by-playing-sharing.1544224/",
+    "published": "2026-06-08T03:17:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Outward 2 open beta launches with character creator, co-op gameplay, and a new region, offering players a chance to test the game and win keys through participation.",
+    "sources": []
+  },
+  {
+    "title": "(Techraptor) Silent Hill: Townfall's Eerie Silence Makes for Sinister, Slow-burn Horror (Hands-off preview)",
+    "url": "https://www.resetera.com/threads/techraptor-silent-hill-townfalls-eerie-silence-makes-for-sinister-slow-burn-horror-hands-off-preview.1544221/",
+    "published": "2026-06-08T03:09:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Silent Hill: Townfall preview highlights the game's eerie atmosphere, first-person perspective, and dynamic enemy AI in a Scottish countryside setting.",
+    "sources": []
+  },
+  {
+    "title": "What if Final Fantasy VII Remake project is really just a remake with no grand changes?",
+    "url": "https://www.resetera.com/threads/what-if-final-fantasy-vii-remake-project-is-really-just-a-remake-with-no-grand-changes.1544185/",
+    "published": "2026-06-08T02:01:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Community discussion post speculates on fan reception if Final Fantasy VII Remake's final installment follows the original game's story without major changes.",
+    "sources": []
+  },
+  {
+    "title": "Deadline: Lara Croft\u2019s New Voice Actor Discusses Reimagined \u2018Tomb Raider: Legacy of Atlantis\u2019, Hot Character Design & Performance Capture",
+    "url": "https://www.resetera.com/threads/deadline-lara-croft%E2%80%99s-new-voice-actor-discusses-reimagined-%E2%80%98tomb-raider-legacy-of-atlantis%E2%80%99-hot-character-design-performance-capture.1544179/",
+    "published": "2026-06-08T01:53:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Tomb Raider: Legacy of Atlantis announced for 2027 with a new voice actor discussing the reimagined Lara Croft character and performance capture process.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo Store will be undergoing maintenance from 2AM - 7AM JST on June 9th (which is 1PM - 6PM ET tomorrow, June 8th); service may be unavailable",
+    "url": "https://www.resetera.com/threads/nintendo-store-will-be-undergoing-maintenance-from-2am-7am-jst-on-june-9th-which-is-1pm-6pm-et-tomorrow-june-8th-service-may-be-unavailable.1544158/",
+    "published": "2026-06-08T01:14:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Nintendo Store will undergo scheduled maintenance on June 9th, with service unavailable for several hours.",
+    "sources": []
+  },
+  {
+    "title": "Do you think XBOX's new exclusivity strategy will succeed?",
+    "url": "https://www.resetera.com/threads/do-you-think-xboxs-new-exclusivity-strategy-will-succeed.1544152/",
+    "published": "2026-06-08T01:06:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Opinion piece speculating on Xbox's new exclusivity strategy favoring case-by-case singleplayer exclusives while keeping live service games multiplatform.",
+    "sources": []
+  },
+  {
+    "title": "FF7 Revelation: What else can they do from a marketing standpoint?",
+    "url": "https://www.resetera.com/threads/ff7-revelation-what-else-can-they-do-from-a-marketing-standpoint.1544149/",
+    "published": "2026-06-08T01:01:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Opinion piece speculating on potential marketing strategies for Final Fantasy VII Revelation beyond announced cross-promotions and multiplatform release.",
+    "sources": []
+  },
+  {
+    "title": "Insomniac released the orignal Spyro trilogy in the span of 25 months",
+    "url": "https://www.resetera.com/threads/insomniac-released-the-orignal-spyro-trilogy-in-the-span-of-25-months.1544128/",
+    "published": "2026-06-08T00:49:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "game-dev"
+    ],
+    "summary": "A retrospective observation on Insomniac's impressive release cadence of the original Spyro trilogy within 25 months, contrasting historical development speed with modern game development timelines.",
+    "sources": []
+  },
+  {
+    "title": "Stage Tour Official Developer Spotlight trailer from IGN Fan Fest 2026",
+    "url": "https://www.resetera.com/threads/stage-tour-official-developer-spotlight-trailer-from-ign-fan-fest-2026.1544125/",
+    "published": "2026-06-08T00:46:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "RedOctane showcases Stage Tour, a Guitar Hero/Rock Band-inspired rhythm game in development, with community input and confirmed song lineup including Babymetal, Extreme, and others.",
+    "sources": []
+  },
+  {
+    "title": "Custom Seas - Official Sea of Thieves Season 20 Trailer | XBOX Games Showcase 2026 | Releasing June 18",
+    "url": "https://www.resetera.com/threads/custom-seas-official-sea-of-thieves-season-20-trailer-xbox-games-showcase-2026-releasing-june-18.1544116/",
+    "published": "2026-06-08T00:26:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Sea of Thieves Season 20 introduces Custom Seas feature allowing players to host private multiplayer sessions with customizable gameplay modes and free camera tools, launching June 18.",
+    "sources": []
+  },
+  {
+    "title": "Revelation(s)",
+    "url": "https://www.resetera.com/threads/revelation-s.1544107/",
+    "published": "2026-06-07T23:57:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A discussion post analyzing the trend of games with 'Revelation(s)' in their titles and the thematic meanings behind them.",
+    "sources": []
+  },
+  {
+    "title": "OD Knock - Leaked Gameplay Snippets",
+    "url": "https://www.resetera.com/threads/od-knock-leaked-gameplay-snippets.1544083/",
+    "published": "2026-06-07T23:43:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "leaks",
+      "game-dev"
+    ],
+    "summary": "Leaked gameplay footage of an unreleased game titled OD Knock has surfaced on YouTube from a dormant channel, with unclear origins.",
+    "sources": []
+  },
+  {
+    "title": "1 year later, what do you think of DOOM: THE DARK AGES?",
+    "url": "https://www.resetera.com/threads/1-year-later-what-do-you-think-of-doom-the-dark-ages.1544080/",
+    "published": "2026-06-07T23:37:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion about player impressions of DOOM: THE DARK AGES one year after its release.",
+    "sources": []
+  },
+  {
+    "title": "Senua's Saga: Hellblade II changes its name to Hellblade II: Senua's Saga",
+    "url": "https://www.resetera.com/threads/senuas-saga-hellblade-ii-changes-its-name-to-hellblade-ii-senuas-saga.1544074/",
+    "published": "2026-06-07T23:31:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Hellblade II adjusts its title branding from 'Senua's Saga: Hellblade II' to 'Hellblade II: Senua's Saga' in Steam database records.",
+    "sources": []
+  },
+  {
+    "title": "personally, i don't need musculature simulation in my character animation",
+    "url": "https://www.resetera.com/threads/personally-i-dont-need-musculature-simulation-in-my-character-animation.1544071/",
+    "published": "2026-06-07T23:28:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Community discussion about character animation priorities in game development, arguing that complex muscle simulation is unnecessary when simpler rigs can achieve believable facial performance.",
+    "sources": []
+  },
+  {
+    "title": "Is Microsoft telling us not to buy games like Halo, Fable, and Senua coming to PS5?",
+    "url": "https://www.resetera.com/threads/is-microsoft-telling-us-not-to-buy-games-like-halo-fable-and-senua-coming-to-ps5.1544056/",
+    "published": "2026-06-07T23:20:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Microsoft signals a strategic shift toward exclusive single-player releases on Xbox, potentially signaling the end of PlayStation ports for major franchises like Halo and Fable.",
+    "sources": []
+  },
+  {
+    "title": "Have you tried one of the cloud gaming services? I'm blown away how good this works (PlayStation Portal)",
+    "url": "https://www.resetera.com/threads/have-you-tried-one-of-the-cloud-gaming-services-im-blown-away-how-good-this-works-playstation-portal.1544053/",
+    "published": "2026-06-07T23:07:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "handheld-gaming",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "A user shares their positive experience with PlayStation Portal cloud gaming, comparing it favorably to GeForce Now and local streaming.",
+    "sources": []
+  },
+  {
+    "title": "Mirror's Edge: Catalyst turns 10 years old today!",
+    "url": "https://www.resetera.com/threads/mirrors-edge-catalyst-turns-10-years-old-today.1544047/",
+    "published": "2026-06-07T22:57:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "Mirror's Edge: Catalyst celebrates its 10-year anniversary since its June 2016 release as an open-world reboot of the franchise.",
+    "sources": []
+  },
+  {
+    "title": "P4R has a new vocalist Shiori Sasaki with Ryota Kozuka composing. Also Persona 4 Revival Stream June 18",
+    "url": "https://www.resetera.com/threads/p4r-has-a-new-vocalist-shiori-sasaki-with-ryota-kozuka-composing-also-persona-4-revival-stream-june-18.1544038/",
+    "published": "2026-06-07T22:42:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Atlus announces Persona 4 Revival with new vocalist Shiori Sasaki and composer Ryota Kozuka, with a dedicated livestream scheduled for June 18, 2026.",
+    "sources": []
+  },
+  {
+    "title": "LTTP: A Plagues Tale Requiem. This series is EXTEMELY underrated.",
+    "url": "https://www.resetera.com/threads/lttp-a-plagues-tale-requiem-this-series-is-extemely-underrated.1544035/",
+    "published": "2026-06-07T22:25:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player shares their enthusiasm for A Plague Tale: Requiem, praising its stealth mechanics, graphics, and story while noting the series seems underrated.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo Music |OT 1| Let your toes begin to tap. This rhythm is a power 'shroom",
+    "url": "https://www.resetera.com/threads/nintendo-music-ot-1-let-your-toes-begin-to-tap-this-rhythm-is-a-power-shroom.1544017/",
+    "published": "2026-06-07T22:22:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Nintendo Music streaming service community discussion thread launched on gaming forums to celebrate the platform's soundtrack library and upcoming releases.",
+    "sources": []
+  },
+  {
+    "title": "Rayman & Spyro leaker has now leaked an upcoming Nintendo game [Spoilers of course]",
+    "url": "https://www.resetera.com/threads/rayman-spyro-leaker-has-now-leaked-an-upcoming-nintendo-game-spoilers-of-course.1544014/",
+    "published": "2026-06-07T22:22:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "A leaker with a track record of accurate predictions claims a new Wario game is in development at Nintendo, though release timing remains uncertain.",
+    "sources": []
+  },
+  {
+    "title": "Total War Warhammer 40.000 - Interview with the developers and Beta signup",
+    "url": "https://www.resetera.com/threads/total-war-warhammer-40-000-interview-with-the-developers-and-beta-signup.1544008/",
+    "published": "2026-06-07T22:04:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "pc-hardware"
+    ],
+    "summary": "Creative Assembly reveals Total War Warhammer 40,000 gameplay featuring Imperial Guard and Orks factions, with beta signups opening later this year.",
+    "sources": []
+  },
+  {
+    "title": "The Persona 6 Avatar Bet Thread",
+    "url": "https://www.resetera.com/threads/the-persona-6-avatar-bet-thread.1543963/",
+    "published": "2026-06-07T21:30:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community engagement thread for Persona 6 announcement speculation and avatar betting based on newly revealed logo and teaser trailer.",
+    "sources": []
+  },
+  {
+    "title": "Fable on Disc for PS5, Series Requires \"Content Download\" (or MS Continues Their Shift Away From Physical)",
+    "url": "https://www.resetera.com/threads/fable-on-disc-for-ps5-series-requires-content-download-or-ms-continues-their-shift-away-from-physical.1543957/",
+    "published": "2026-06-07T21:26:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "game-dev"
+    ],
+    "summary": "Fable's PS5 physical release requires full game download while Series version ships without disc, highlighting Microsoft's continued shift away from physical media.",
+    "sources": []
+  },
+  {
+    "title": "Shift Up CEO Kim Hyung-tae confirms they intentionally made Evie younger and shorter",
+    "url": "https://www.resetera.com/threads/shift-up-ceo-kim-hyung-tae-confirms-they-intentionally-made-evie-younger-and-shorter.1543933/",
+    "published": "2026-06-07T21:21:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Shift Up CEO confirms deliberate design choices for character Evie in upcoming Stellar Blade sequel, addressing ongoing community discussion about character design.",
+    "sources": []
+  },
+  {
+    "title": "El Paso, Elsewhere 2 has been announced",
+    "url": "https://www.resetera.com/threads/el-paso-elsewhere-2-has-been-announced.1543927/",
+    "published": "2026-06-07T21:14:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Strange Scaffold and Xalavier Nelson Jr. announce El Paso, Elsewhere 2, a sequel to the stylish Max Payne-inspired indie game.",
+    "sources": []
+  },
+  {
+    "title": "Valheim 1.0 comes out September 9th",
+    "url": "https://www.resetera.com/threads/valheim-1-0-comes-out-september-9th.1543921/",
+    "published": "2026-06-07T21:09:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 52,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Valheim reaches version 1.0 release on September 9th with new Deep North expansion trailer revealed.",
+    "sources": []
+  },
+  {
+    "title": "So what are you buying in September and October?",
+    "url": "https://www.resetera.com/threads/so-what-are-you-buying-in-september-and-october.1543918/",
+    "published": "2026-06-07T21:06:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A personal opinion piece discussing anticipated game releases in September and October, noting a crowded release schedule and uncertainty around Nintendo's upcoming titles.",
+    "sources": []
+  },
+  {
+    "title": "I finally did it Era... [Digimon World Next Order]",
+    "url": "https://www.resetera.com/threads/i-finally-did-it-era-digimon-world-next-order.1543864/",
+    "published": "2026-06-07T20:42:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A player celebrates completing the Card Master trophy in Digimon World Next Order after six years of collecting all 540 cards.",
+    "sources": []
+  },
+  {
+    "title": "Matt Booty: \u201cOur big multiplayer/live service games will continue to be multiplatform\u201d, SP exclusivity \u201ccase by case\u201d",
+    "url": "https://www.resetera.com/threads/matt-booty-%E2%80%9Cour-big-multiplayer-live-service-games-will-continue-to-be-multiplatform%E2%80%9D-sp-exclusivity-%E2%80%9Ccase-by-case%E2%80%9D.1543861/",
+    "published": "2026-06-07T20:38:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Microsoft's Matt Booty announces that major multiplayer/live service games will remain multiplatform while single-player exclusivity will be decided case-by-case, balancing platform incentives with player expectations.",
+    "sources": []
+  },
+  {
+    "title": "Vampire The Masquerade: Eternal Whispers reveal trailer - new narrative-driven CRPG",
+    "url": "https://www.resetera.com/threads/vampire-the-masquerade-eternal-whispers-reveal-trailer-new-narrative-driven-crpg.1543852/",
+    "published": "2026-06-07T20:36:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 52,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "A new narrative-driven CRPG set in the Vampire: The Masquerade universe called Eternal Whispers has been revealed with a trailer and Steam listing.",
+    "sources": []
+  },
+  {
+    "title": "Beast of Reincarnation developer interview - PC Gaming Show 2026",
+    "url": "https://www.resetera.com/threads/beast-of-reincarnation-developer-interview-pc-gaming-show-2026.1543849/",
+    "published": "2026-06-07T20:32:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "indie-games"
+    ],
+    "summary": "Developer of Beast of Reincarnation discusses their game in an interview at PC Gaming Show 2026.",
+    "sources": []
+  },
+  {
+    "title": "Is it just me or has Atari been killing it lately?",
+    "url": "https://www.resetera.com/threads/is-it-just-me-or-has-atari-been-killing-it-lately.1543846/",
+    "published": "2026-06-07T20:28:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-history",
+      "retro"
+    ],
+    "summary": "Five years into Wade Rosen's tenure as Atari CEO, the historic gaming brand has undergone significant management changes and revival efforts.",
+    "sources": []
+  },
+  {
+    "title": "Carcass Clad Reveal Trailer - new co-op horror game from the Mouthwashing devs",
+    "url": "https://www.resetera.com/threads/carcass-clad-reveal-trailer-new-co-op-horror-game-from-the-mouthwashing-devs.1543843/",
+    "published": "2026-06-07T20:25:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Carcass Clad, a new co-op horror game from the developers of Mouthwashing, has been revealed with a trailer and Steam storepage.",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (June 7th 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-june-7th-2026",
+    "published": "2026-06-07T11:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "handheld-gaming",
+      "console-hardware",
+      "gaming-history"
+    ],
+    "summary": "Weekly roundup of retro gaming news including Vectrex Mini and Sega handheld rumors.",
+    "sources": []
+  },
+  {
+    "title": "All the Announcements from the PC Gaming Show 2026",
+    "url": "https://steamdeckhq.com/pc-gaming-show-2026-summary/",
+    "published": "2026-06-07T21:11:02+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "pc-hardware"
+    ],
+    "summary": "The PC Gaming Show 2026 at Summer Game Fest featured multiple gaming announcements, though specific details were not provided in this overview.",
+    "sources": []
+  },
+  {
+    "title": "All the Announcements from the Xbox Games Showcase 2026",
+    "url": "https://steamdeckhq.com/news/xbox-games-showcase-2026-summary/",
+    "published": "2026-06-07T18:40:57+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Xbox Games Showcase 2026 features major gaming announcements from Microsoft's gaming division.",
+    "sources": []
+  },
+  {
+    "title": "Humble's Pride Month 2026 Bundle Has 11 Wonderful Steam Deck Games",
+    "url": "https://steamdeckhq.com/news/humble-pride-month-2026-bundle/",
+    "published": "2026-06-07T15:13:48+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Humble Bundle's Pride Month 2026 promotion features 11 Steam Deck-compatible games at discounted prices, including indie titles like Thirsty Suitors and Tavern Talk.",
+    "sources": []
+  },
+  {
+    "title": "There are plans for bolder Star Trek video games",
+    "url": "https://www.gamefile.news/p/star-trek-video-game-future",
+    "published": "2026-06-08T01:02:36+00:00",
+    "feed_name": "Game File",
+    "feed_tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Upcoming Star Trek video games are planned to be more ambitious and engaging than previous entries in the franchise.",
+    "sources": []
+  },
+  {
+    "title": "Xbox brings back exclusives * **",
+    "url": "https://www.gamefile.news/p/xbox-brings-back-exclusives",
+    "published": "2026-06-07T21:35:46+00:00",
+    "feed_name": "Game File",
+    "feed_tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Microsoft announces two upcoming Xbox games will remain exclusive to Xbox platforms and not release on PlayStation 5.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck - 2026-06-06 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-06-06-edition/index.html",
+    "published": "2026-06-07T12:11:20+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "linux-gaming"
+    ],
+    "summary": "Weekly roundup of 8 newly released games verified or playable on Steam Deck, including The 7th Guest Remake and Sodaman.",
+    "sources": []
+  },
+  {
+    "title": "One of Subnautica 2's ousted execs is now working on a sequel to ship-scavenging horror game Duskers",
+    "url": "https://www.rockpapershotgun.com/one-of-subnautica-2s-ousted-execs-is-now-working-on-a-sequel-to-ship-scavenging-horror-game-duskers",
+    "published": "2026-06-07T21:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "A former Subnautica 2 executive is now leading development on Duskers 2.0, a sequel to the ship-scavenging horror game that adds colony-building mechanics.",
+    "sources": []
+  },
+  {
+    "title": "\"It is alive\": the makers of 2024 horror GOTY Mouthwashing are back with perhaps the most dreadful World War tank sim you'll ever play",
+    "url": "https://www.rockpapershotgun.com/it-is-alive-the-makers-of-2024-horror-goty-mouthwashing-are-back-with-perhaps-the-most-dreadful-world-war-tank-sim-youll-ever-play",
+    "published": "2026-06-07T21:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "indie-games"
+    ],
+    "summary": "Wrong Organ, creators of 2024 horror GOTY Mouthwashing, announces Carcass Clad, a co-op tank simulation set during the Winter War with Finnish-language controls and surreal horror elements.",
+    "sources": []
+  },
+  {
+    "title": "Valheim 1.0 release date announced, so prepare to ward off \"ancient evils and lurking threats\" in its treacherously icy final biome",
+    "url": "https://www.rockpapershotgun.com/valheim-10-release-date-announced-so-prepare-to-ward-off-ancient-evils-and-lurking-threats-in-its-treacherously-icy-final-biome",
+    "published": "2026-06-07T20:45:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 55,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Valheim announces 1.0 release date for September 9th, introducing the final Deep North biome with new content and challenges.",
+    "sources": []
+  },
+  {
+    "title": "El Paso, Elsewhere 2 invites you back into its moody, supernatural neo-noir world with sick flips and Frankenstein",
+    "url": "https://www.rockpapershotgun.com/el-paso-elsewhere-2-invites-you-back-into-its-moody-supernatural-neo-noir-world-with-sick-flips-and-frankenstein",
+    "published": "2026-06-07T20:30:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Strange Scaffold announces El Paso, Elsewhere 2, a sequel to their supernatural neo-noir game, revealed at PC Gaming Show.",
+    "sources": []
+  },
+  {
+    "title": "Play a parasitic brain mushroom in Signet City, the first-person fungalpunk RPG from the creator of Citizen Sleeper",
+    "url": "https://www.rockpapershotgun.com/play-a-parasitic-brain-mushroom-in-signet-city-the-first-person-fungalpunk-rpg-from-the-creator-of-citizen-sleeper",
+    "published": "2026-06-07T20:30:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 52,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Jump Over The Age, creators of Citizen Sleeper, announces Signet City, a first-person fungalpunk RPG where players control a parasitic brain mushroom.",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-813-1",
+    "published": "2026-06-07T10:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A weekly gaming news roundup column featuring curated reads and commentary on games industry topics.",
+    "sources": []
+  },
+  {
+    "title": "Round Up: All the PS5 Reveals from the Xbox Showcase 2026",
+    "url": "https://www.pushsquare.com/features/round-up-all-the-ps5-reveals-from-the-xbox-showcase-2026",
+    "published": "2026-06-08T01:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "A gaming news outlet compiled PS5-related announcements from Microsoft's Xbox Showcase 2026, though the article appears to be a placeholder or template with minimal actual content.",
+    "sources": []
+  },
+  {
+    "title": "Stellar Blade Dev Explains New Hero Design, Praises Sony's Publishing Support",
+    "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-dev-explains-new-hero-design-praises-sonys-publishing-support",
+    "published": "2026-06-08T00:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Shift Up's director discusses the design philosophy behind new character Evie in Stellar Blade: Blood Rain and praises Sony's publishing support.",
+    "sources": []
+  },
+  {
+    "title": "SEGA Provides More Detail After Generative AI Sours Crazy Taxi: World Tour PS5 Announcement",
+    "url": "https://www.pushsquare.com/news/2026/06/sega-provides-more-detail-after-generative-ai-sours-crazy-taxi-world-tour-ps5-announcement",
+    "published": "2026-06-08T00:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "SEGA officially announces Crazy Taxi: World Tour for PS5, but the reveal is marred by controversy over the use of generative AI in the game's development.",
+    "sources": []
+  },
+  {
+    "title": "Future Xbox Exclusivity Will Be 'Case-by-Case', PS5 Ports Will Be Revealed Alongside Release Dates",
+    "url": "https://www.pushsquare.com/news/2026/06/future-xbox-exclusivity-will-be-case-by-case-ps5-ports-will-be-revealed-alongside-release-dates",
+    "published": "2026-06-07T23:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Xbox boss Matt Booty clarifies Microsoft's exclusivity strategy as case-by-case, while revealing certain titles like Gears of War: E-Day will remain console exclusive despite reports of PS5 development.",
+    "sources": []
+  },
+  {
+    "title": "'There's a Finished Version of Gears of War PS5 Sitting on a Drive': New Game E-Day Was Almost Done",
+    "url": "https://www.pushsquare.com/news/2026/06/theres-a-finished-version-of-gears-of-war-ps5-sitting-on-a-drive-new-game-e-day-was-almost-done",
+    "published": "2026-06-07T23:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "A completed PS5 port of Gears of War: E-Day was cancelled by Microsoft very recently, with evidence suggesting the game was nearly ready for release.",
+    "sources": []
+  },
+  {
+    "title": "Persona 6 Details Confirm Japanese School Setting, 'Supernatural Adventure', and 'Bold Story'",
+    "url": "https://www.pushsquare.com/news/2026/06/persona-6-details-confirm-japanese-school-setting-supernatural-adventure-and-bold-story",
+    "published": "2026-06-07T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Persona 6 details emerge confirming a Japanese school setting, supernatural adventure theme, and bold narrative direction.",
+    "sources": []
+  },
+  {
+    "title": "Round Up: All the PS5 Reveals from Summer Game Fest 2026",
+    "url": "https://www.pushsquare.com/features/round-up-all-the-ps5-reveals-from-summer-game-fest-2026",
+    "published": "2026-06-07T22:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Summer Game Fest 2026 featured multiple PS5 game reveals alongside announcements for other platforms, continuing Sony's showcase momentum from their State of Play livestream.",
+    "sources": []
+  },
+  {
+    "title": "Round Up: All the PS5 Reveals from Sony's State of Play for June 2026",
+    "url": "https://www.pushsquare.com/features/round-up-all-the-ps5-reveals-from-sonys-state-of-play-for-june-2026",
+    "published": "2026-06-07T22:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Sony's June 2026 State of Play livestream featured over an hour of PS5 announcements and game reveals.",
+    "sources": []
+  },
+  {
+    "title": "Poll: Who Had the Best Not-E3 Livestream This Week?",
+    "url": "https://www.pushsquare.com/features/poll-who-had-the-best-not-e3-livestream-this-week",
+    "published": "2026-06-07T18:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Gaming outlets poll readers on which company's showcase livestream was best during the not-E3 week of announcements.",
+    "sources": []
+  },
+  {
+    "title": "Yep, Minecraft Dungeons 2 Is Coming to PS5 in September",
+    "url": "https://www.pushsquare.com/news/2026/06/yep-minecraft-dungeons-2-is-coming-to-ps5-in-september",
+    "published": "2026-06-07T17:23:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Minecraft Dungeons 2 is officially coming to PS5 in September, adding to the platform's busy release schedule.",
+    "sources": []
+  },
+  {
+    "title": "All Your Favourite PS5 Live Service Games Are Getting Big Updates",
+    "url": "https://www.pushsquare.com/news/2026/06/all-your-favourite-ps5-live-service-games-are-getting-big-updates",
+    "published": "2026-06-07T17:22:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Multiple Microsoft-owned live service games including Microsoft Flight Simulator 2024, The Elder Scrolls Online, and Age of Empires are receiving major updates showcased at Xbox event.",
+    "sources": []
+  },
+  {
+    "title": "Create Your Own Cult in the Tongue-in-Cheek PS5 Survival Game Join Us",
+    "url": "https://www.pushsquare.com/news/2026/06/create-your-own-cult-in-the-tongue-in-cheek-ps5-survival-game-join-us",
+    "published": "2026-06-07T17:21:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "Wolf Haus Games announces cult survival game 'Join Us' coming to PS5 and PC in March 2027.",
+    "sources": []
+  },
+  {
+    "title": "Call of Duty: Modern Warfare 4 Guns for ARC Raiders with Tense PS5 Extraction Mode",
+    "url": "https://www.pushsquare.com/news/2026/06/call-of-duty-modern-warfare-4-guns-for-arc-raiders-with-tense-ps5-extraction-mode",
+    "published": "2026-06-07T17:20:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Call of Duty: Modern Warfare 4's extraction mode DMZ was showcased at Xbox's press conference with a gameplay trailer.",
+    "sources": []
+  },
+  {
+    "title": "Magicians: The Devil's Deal Take BioShock and Blends It with Houdini for PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/magicians-the-devils-deal-take-bioshock-and-blends-it-with-houdini-for-ps5",
+    "published": "2026-06-07T17:19:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "Magicians: The Devil's Deal, a BioShock-inspired first-person shooter using card tricks instead of weapons, was announced at Xbox Showcase for PS5.",
+    "sources": []
+  },
+  {
+    "title": "Metro 2039 Returns to the Series' Horror Roots in February 2027 on PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/metro-2039-returns-to-the-series-horror-roots-in-february-2027-on-ps5",
+    "published": "2026-06-07T17:18:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "4A Games reveals Metro 2039, a new horror-focused entry in the Metro series coming to PS5 in February 2027.",
+    "sources": []
+  },
+  {
+    "title": "Konami's New Castlevania Casts a Curse on PS5 This October",
+    "url": "https://www.pushsquare.com/news/2026/06/konamis-new-castlevania-casts-a-curse-on-ps5-this-october",
+    "published": "2026-06-07T17:17:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Konami announces October 15 release date for Castlevania: Belmont's Curse on PS5, the franchise's first new entry since 2014.",
+    "sources": []
+  },
+  {
+    "title": "First-Person Soulslike Valor Mortis Adds to PS5's September of Dread",
+    "url": "https://www.pushsquare.com/news/2026/06/first-person-soulslike-valor-mortis-adds-to-ps5s-september-of-dread",
+    "published": "2026-06-07T17:16:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-discovery"
+    ],
+    "summary": "First-person Soulslike Valor Mortis launches on PS5 September 24th alongside several other notable releases.",
+    "sources": []
+  },
+  {
+    "title": "Sea of Thieves Season 20 Puts You at the Helm with Custom Seas Mode on PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/sea-of-thieves-season-20-puts-you-at-the-helm-with-custom-seas-mode-on-ps5",
+    "published": "2026-06-07T17:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Sea of Thieves Season 20 introduces Custom Seas mode on PS5, allowing players to create and customize their own game experiences.",
+    "sources": []
+  },
+  {
+    "title": "Resonance: A Plague Tale Legacy's PS5 Release Date Narrowly Avoids September Madness",
+    "url": "https://www.pushsquare.com/news/2026/06/resonance-a-plague-tale-legacys-ps5-release-date-narrowly-avoids-september-madness",
+    "published": "2026-06-07T17:14:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Resonance: A Plague Tale Legacy releases on PS5 on August 27th, just before the crowded September gaming season.",
+    "sources": []
+  },
+  {
+    "title": "Fable Gets PS5 Release Date and Hayley Atwell in Latest Gameplay Trailer",
+    "url": "https://www.pushsquare.com/news/2026/06/fable-gets-ps5-release-date-and-hayley-atwell-in-latest-gameplay-trailer",
+    "published": "2026-06-07T17:13:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Playground Games' Fable RPG is coming to PlayStation 5 on February 23, 2027, expanding beyond Xbox exclusivity.",
+    "sources": []
+  },
+  {
+    "title": "Koei Tecmo Just Can't Stop Making Action RPGs, Announces Wo Long 2 for PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/koei-tecmo-just-cant-stop-making-action-rpgs-announces-wo-long-2-for-ps5",
+    "published": "2026-06-07T17:12:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Koei Tecmo announces Wo Long 2: Wings of Ember for PS5 launching in early 2027.",
+    "sources": []
+  },
+  {
+    "title": "Spyro Returns on PS5 in A Realm Beyond, His First Original Game in Nearly 20 Years",
+    "url": "https://www.pushsquare.com/news/2026/06/spyro-returns-on-ps5-in-a-realm-beyond-his-first-original-game-in-nearly-20-years",
+    "published": "2026-06-07T17:11:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Toys for Bob announces Spyro: A Realm Beyond, an original Spyro game coming to PS5 in Spring 2027, marking the franchise's first new entry in nearly two decades.",
+    "sources": []
+  },
+  {
+    "title": "'These Are Not Timed Exclusives': Xbox Says Gears of War, Clockwork Revolution Are Never Coming to PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/these-are-not-timed-exclusives-xbox-says-gears-of-war-clockwork-revolution-are-never-coming-to-ps5",
+    "published": "2026-06-07T17:10:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Xbox confirms that Gears of War: E-Day and Clockwork Revolution are permanent exclusives to Xbox Series X|S and PC, not timed exclusives.",
+    "sources": []
+  },
+  {
+    "title": "Immersive Sim Clockwork Revolution Joins Gears of War in Skipping PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/immersive-sim-clockwork-revolution-joins-gears-of-war-in-skipping-ps5",
+    "published": "2026-06-07T17:08:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "InXile's Clockwork Revolution joins Gears of War: E-Day as a PlayStation 5 exclusive miss, signaling Microsoft's selective multi-platform strategy.",
+    "sources": []
+  },
+  {
+    "title": "DOOM: The Dark Ages' Campaign DLC Looks Sick, and It's Out Very Soon on PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/doom-the-dark-ages-campaign-dlc-looks-sick-and-its-out-very-soon-on-ps5",
+    "published": "2026-06-07T17:07:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "DOOM: The Dark Ages' Revelations DLC campaign expansion is confirmed for PS5 release on July 7th.",
+    "sources": []
+  }
+]
