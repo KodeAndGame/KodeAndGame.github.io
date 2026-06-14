@@ -1,0 +1,1067 @@
+[
+  {
+    "title": "Wine 11.11 brings more Wayland improvements",
+    "url": "https://www.gamingonlinux.com/2026/06/wine-11-11-brings-more-wayland-improvements/",
+    "published": "2026-06-13T13:59:04+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "wine",
+      "open-source"
+    ],
+    "summary": "Wine 11.11 development release introduces additional Wayland support improvements and bug fixes for Linux gaming compatibility.",
+    "sources": []
+  },
+  {
+    "title": "Wine-Staging 11.11 Released With 289 Patches Atop Upstream",
+    "url": "https://www.phoronix.com/news/Wine-Staging-11.11",
+    "published": "2026-06-14T00:52:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "wine",
+      "open-source"
+    ],
+    "summary": "Wine-Staging 11.11 released with 289 patches building on the upstream Wine 11.11 release.",
+    "sources": []
+  },
+  {
+    "title": "Intel Ending Development Of BigDL: An Open-Source AI/LLM Effort Getting Axed",
+    "url": "https://www.phoronix.com/news/Intel-Ending-BigDL",
+    "published": "2026-06-13T14:38:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "gaming-industry",
+      "pc-hardware"
+    ],
+    "summary": "Intel is discontinuing BigDL, its open-source project for running large language models on Intel hardware, as part of broader open-source project reductions.",
+    "sources": []
+  },
+  {
+    "title": "Fedora 45 Considering A Lightened GRUB Bootloader For Confidential Compute",
+    "url": "https://www.phoronix.com/news/Fedora-45-Light-GRUB-For-CoCo",
+    "published": "2026-06-13T12:22:25+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Fedora 45 is considering a minimal GRUB bootloader variant optimized for confidential computing environments.",
+    "sources": []
+  },
+  {
+    "title": "Intel Thermald 2.5.12 Released... With Initial Support For ARM",
+    "url": "https://www.phoronix.com/news/Intel-Thermald-2.5.12-Released",
+    "published": "2026-06-13T10:47:34+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Intel Thermald 2.5.12 released with initial ARM processor support, expanding the thermal management daemon beyond traditional Intel architectures.",
+    "sources": []
+  },
+  {
+    "title": "GCC 17 Merges Function Multi-Versioning For APX & AVX10.2",
+    "url": "https://www.phoronix.com/news/GCC-17-FMV-For-APX-AVX10.2",
+    "published": "2026-06-13T10:20:46+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "pc-hardware",
+      "game-dev",
+      "open-source"
+    ],
+    "summary": "GCC 17 merges function multi-versioning support for Intel's APX and AVX10.2 instruction sets, enabling developers to optimize code for future processor capabilities.",
+    "sources": []
+  },
+  {
+    "title": "Haiku OS Now Enables AVX-512 Support, Other Hardware Improvements",
+    "url": "https://www.phoronix.com/news/Haiku-OS-May-2026",
+    "published": "2026-06-13T10:04:05+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "open-source",
+      "pc-hardware",
+      "linux-hardware"
+    ],
+    "summary": "Haiku OS adds AVX-512 support and hardware driver improvements in latest update.",
+    "sources": []
+  },
+  {
+    "title": "KDE Plasma 6.7 Sees Last Minute Fixes Ahead Of Next Week's Release",
+    "url": "https://www.phoronix.com/news/KDE-Plasma-6.7-Next-Week",
+    "published": "2026-06-13T09:46:41+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "KDE Plasma 6.7 receives last-minute bug fixes before its scheduled release next week.",
+    "sources": []
+  },
+  {
+    "title": "Meccha Chameleon hits 1 million copies sold in 4 days",
+    "url": "https://www.resetera.com/threads/meccha-chameleon-hits-1-million-copies-sold-in-4-days.1550632/",
+    "published": "2026-06-14T02:51:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Indie game Meccha Chameleon reaches 1 million copies sold within 4 days of release, marking significant commercial success for the hide-and-seek title.",
+    "sources": []
+  },
+  {
+    "title": "What is your favorite single player FPS campaign of all time and why?",
+    "url": "https://www.resetera.com/threads/what-is-your-favorite-single-player-fps-campaign-of-all-time-and-why.1550623/",
+    "published": "2026-06-14T01:47:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion thread asking users to share their favorite single-player FPS campaigns, prompted by anticipation for Halo 1 remake.",
+    "sources": []
+  },
+  {
+    "title": "Scientifically speaking, Duke Nukem: Time To Kill has the best intro.",
+    "url": "https://www.resetera.com/threads/scientifically-speaking-duke-nukem-time-to-kill-has-the-best-intro.1550620/",
+    "published": "2026-06-14T01:36:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A nostalgic take on Duke Nukem: Time to Kill's intro sequence from 1998, celebrating the game's opening cinematic.",
+    "sources": []
+  },
+  {
+    "title": "Blizzard Sues To Take Down Another Private World of Warcraft Server, Project Ascension",
+    "url": "https://www.resetera.com/threads/blizzard-sues-to-take-down-another-private-world-of-warcraft-server-project-ascension.1550608/",
+    "published": "2026-06-14T00:23:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Blizzard Entertainment is suing to shut down Project Ascension, a major private World of Warcraft server, with allegations of money laundering through shell companies.",
+    "sources": []
+  },
+  {
+    "title": "Let's have a direct conversation about the visual redesigns that have been teased for Ocarina of Time.",
+    "url": "https://www.resetera.com/threads/lets-have-a-direct-conversation-about-the-visual-redesigns-that-have-been-teased-for-ocarina-of-time.1550605/",
+    "published": "2026-06-14T00:02:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "retro"
+    ],
+    "summary": "Community discussion about visual redesign direction for an Ocarina of Time remake based on released teasers.",
+    "sources": []
+  },
+  {
+    "title": "Do you still refer to parts of games as levels?",
+    "url": "https://www.resetera.com/threads/do-you-still-refer-to-parts-of-games-as-levels.1550593/",
+    "published": "2026-06-13T23:16:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion questioning whether the term 'level' remains relevant in modern gaming terminology and vocabulary.",
+    "sources": []
+  },
+  {
+    "title": "The secret 8th Special Stages added in Sonic Origins",
+    "url": "https://www.resetera.com/threads/the-secret-8th-special-stages-added-in-sonic-origins.1550590/",
+    "published": "2026-06-13T23:11:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "retro"
+    ],
+    "summary": "Hidden 7th Special Stages were added to Sonic 1 and 2 in Sonic Origins, accessible through level select menu modifications or sound test.",
+    "sources": []
+  },
+  {
+    "title": "significant physics engines that predate half life 2",
+    "url": "https://www.resetera.com/threads/significant-physics-engines-that-predate-half-life-2.1550587/",
+    "published": "2026-06-13T23:09:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "game-dev"
+    ],
+    "summary": "A retrospective discussion of physics engines that existed before Half-Life 2, including titles like Trespasser, Rocket: Robot on Wheels, and MGS2.",
+    "sources": []
+  },
+  {
+    "title": "Over/Under bets on a Zelda 40th Anniversary Direct later this year",
+    "url": "https://www.resetera.com/threads/over-under-bets-on-a-zelda-40th-anniversary-direct-later-this-year.1550572/",
+    "published": "2026-06-13T22:18:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Speculation about a potential Legend of Zelda 40th anniversary Nintendo Direct announcement, with discussion of possible Ocarina of Time remake reveals and movie trailer.",
+    "sources": []
+  },
+  {
+    "title": "AMD goes after Apple Macbook Neo, claims 15 out of 20 top PC games do not work on Apple system natively",
+    "url": "https://www.resetera.com/threads/amd-goes-after-apple-macbook-neo-claims-15-out-of-20-top-pc-games-do-not-work-on-apple-system-natively.1550557/",
+    "published": "2026-06-13T21:33:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "AMD claims superior native game compatibility compared to Apple's Macbook Neo, stating 15 of 20 top PC games don't work natively on Apple's system.",
+    "sources": []
+  },
+  {
+    "title": "Onimusha: WotS console output resolutions/framerate targets + PC system reqs (SW2 will offer VFR option w/ 40 FPS cap | Yet another game with no FSR4)",
+    "url": "https://www.resetera.com/threads/onimusha-wots-console-output-resolutions-framerate-targets-pc-system-reqs-sw2-will-offer-vfr-option-w-40-fps-cap-yet-another-game-with-no-fsr4.1550545/",
+    "published": "2026-06-13T20:57:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "pc-hardware",
+      "console-hardware"
+    ],
+    "summary": "Onimusha: WotS reveals console performance modes and PC system requirements, with variable framerate options on Switch 2 but notably absent FSR4 support.",
+    "sources": []
+  },
+  {
+    "title": "The \"missing\" Fire Emblem games",
+    "url": "https://www.resetera.com/threads/the-missing-fire-emblem-games.1550539/",
+    "published": "2026-06-13T20:42:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "game-discovery",
+      "gaming-industry"
+    ],
+    "summary": "Analysis of Fire Emblem's inaccessible localized titles and their removal from modern distribution channels, highlighting challenges in game preservation and digital availability.",
+    "sources": []
+  },
+  {
+    "title": "Do you think that the ps6 and next Xbox will come out next year or not?",
+    "url": "https://www.resetera.com/threads/do-you-think-that-the-ps6-and-next-xbox-will-come-out-next-year-or-not.1550512/",
+    "published": "2026-06-13T19:24:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Community speculation about potential PS6 and next Xbox release timelines based on historical console generation cycles.",
+    "sources": []
+  },
+  {
+    "title": "[CNBC] PCB prices have risen 40% in one month from Iran war-driven resin shortages; result will be even more pricing pressure on game consoles and PCs",
+    "url": "https://www.resetera.com/threads/cnbc-pcb-prices-have-risen-40-in-one-month-from-iran-war-driven-resin-shortages-result-will-be-even-more-pricing-pressure-on-game-consoles-and-pcs.1550509/",
+    "published": "2026-06-13T19:18:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "pc-hardware",
+      "console-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "PCB resin shortages caused by geopolitical disruptions have driven prices up 40% in a month, threatening to increase costs for game consoles and PCs.",
+    "sources": []
+  },
+  {
+    "title": "Fire Emblem Fortune's Weave Trailer Analysis",
+    "url": "https://www.resetera.com/threads/fire-emblem-fortunes-weave-trailer-analysis.1550506/",
+    "published": "2026-06-13T19:17:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "An enthusiast shares analysis and thoughts on the Fire Emblem: Fortune's Weave trailer, discussing the game's setting and revealed content.",
+    "sources": []
+  },
+  {
+    "title": "RTTP: Super Mario Odyssey - a matter of ballooning expectations",
+    "url": "https://www.resetera.com/threads/rttp-super-mario-odyssey-a-matter-of-ballooning-expectations.1550479/",
+    "published": "2026-06-13T18:20:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A personal retrospective review of Super Mario Odyssey comparing it to other 3D platformers and reflecting on Nintendo's design philosophy.",
+    "sources": []
+  },
+  {
+    "title": "What happened to Sega this year?",
+    "url": "https://www.resetera.com/threads/what-happened-to-sega-this-year.1550473/",
+    "published": "2026-06-13T18:16:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Analysis of Sega's game release schedule showing a significant decline in new title releases for 2026 compared to previous years.",
+    "sources": []
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella on Xbox: \u2018We have to turn this into a sustainable business\u2019",
+    "url": "https://www.resetera.com/threads/microsoft-ceo-satya-nadella-on-xbox-%E2%80%98we-have-to-turn-this-into-a-sustainable-business%E2%80%99.1550449/",
+    "published": "2026-06-13T17:13:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "microsoft"
+    ],
+    "summary": "Microsoft CEO Satya Nadella signals Xbox division needs to become more financially sustainable after 25 years of investment.",
+    "sources": []
+  },
+  {
+    "title": "Out of all the gaming platforms which platform is the most interesting to follow in terms of news? Why?",
+    "url": "https://www.resetera.com/threads/out-of-all-the-gaming-platforms-which-platform-is-the-most-interesting-to-follow-in-terms-of-news-why.1550386/",
+    "published": "2026-06-13T15:26:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 0,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Community discussion post asking which gaming platform generates the most interesting news coverage.",
+    "sources": []
+  },
+  {
+    "title": "Storage of a game collecting during home buildback",
+    "url": "https://www.resetera.com/threads/storage-of-a-game-collecting-during-home-buildback.1550377/",
+    "published": "2026-06-13T14:34:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community"
+    ],
+    "summary": "A homeowner seeks advice on storing their game collection during home reconstruction due to water damage.",
+    "sources": []
+  },
+  {
+    "title": "Steam Next Fest June 2026 recommendations thread",
+    "url": "https://www.resetera.com/threads/steam-next-fest-june-2026-recommendations-thread.1550371/",
+    "published": "2026-06-13T14:17:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Community thread recommending indie game demos available ahead of Steam Next Fest June 2026.",
+    "sources": []
+  },
+  {
+    "title": "An Additional Look at Resident Evil | Noah Caldwell-Gervais",
+    "url": "https://www.resetera.com/threads/an-additional-look-at-resident-evil-noah-caldwell-gervais.1550356/",
+    "published": "2026-06-13T13:59:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A YouTube video essay by Noah Caldwell-Gervais provides a retrospective analysis of the Resident Evil franchise, with the creator returning after previous coverage of Outbreak.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo is going through their Switch 1 > 2 upgrades faster than I expected",
+    "url": "https://www.resetera.com/threads/nintendo-is-going-through-their-switch-1-2-upgrades-faster-than-i-expected.1550353/",
+    "published": "2026-06-13T13:47:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "console-hardware",
+      "handheld-gaming",
+      "gaming-news"
+    ],
+    "summary": "Nintendo Switch 2 is receiving upgrades for numerous Switch 1 games faster than anticipated, with 13 paid editions and 17 free updates already confirmed.",
+    "sources": []
+  },
+  {
+    "title": "What do we need to do to get a remaster of the FFXIII Trilogy?",
+    "url": "https://www.resetera.com/threads/what-do-we-need-to-do-to-get-a-remaster-of-the-ffxiii-trilogy.1550341/",
+    "published": "2026-06-13T13:37:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community discusses lack of Final Fantasy XIII trilogy remaster from Square Enix despite years of fan demand.",
+    "sources": []
+  },
+  {
+    "title": "Ubisoft originally planned to release six DLCs for Star Wars Outlaws",
+    "url": "https://www.resetera.com/threads/ubisoft-originally-planned-to-release-six-dlcs-for-star-wars-outlaws.1550329/",
+    "published": "2026-06-13T13:08:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "Ubisoft had originally planned six DLCs for Star Wars Outlaws including a novel tie-in before scaling back plans due to the game's underperformance.",
+    "sources": []
+  },
+  {
+    "title": "Top 10 most wishlisted Steam games coming out of Summer Game Fest 2026",
+    "url": "https://www.resetera.com/threads/top-10-most-wishlisted-steam-games-coming-out-of-summer-game-fest-2026.1550326/",
+    "published": "2026-06-13T12:57:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-platform",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Steam's most wishlisted games from Summer Game Fest 2026 include Resident Evil Veronica, Guild Wars 3, and several AAA sequels and remakes.",
+    "sources": []
+  },
+  {
+    "title": "Do you think that Konami will remember to put TurboGrafx-16 games on modern consoles like Switch/Switch 2?",
+    "url": "https://www.resetera.com/threads/do-you-think-that-konami-will-remember-to-put-turbografx-16-games-on-modern-consoles-like-switch-switch-2.1550323/",
+    "published": "2026-06-13T12:44:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "console-hardware",
+      "game-discovery"
+    ],
+    "summary": "A user questions whether Konami will re-release TurboGrafx-16 games on modern platforms like Switch, noting their absence from Nintendo's current digital offerings.",
+    "sources": []
+  },
+  {
+    "title": "What lessons will SE learn from the FF16 project?",
+    "url": "https://www.resetera.com/threads/what-lessons-will-se-learn-from-the-ff16-project.1550311/",
+    "published": "2026-06-13T11:39:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "User reflects on Final Fantasy XVI's shortcomings in quest design and world building despite strong boss battles, questioning what lessons Square Enix should learn from the project.",
+    "sources": []
+  },
+  {
+    "title": "Report: Meta Quest 3 headset explodes while external battery is charging - sends pieces flying",
+    "url": "https://www.resetera.com/threads/report-meta-quest-3-headset-explodes-while-external-battery-is-charging-sends-pieces-flying.1550308/",
+    "published": "2026-06-13T11:00:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-hardware",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "A Meta Quest 3 headset exploded while charging in Maine, prompting local fire department safety warnings about the device.",
+    "sources": []
+  },
+  {
+    "title": "George Kamitani (Vanillaware): We totally want to put our other games on PC! It's up to the Pub to finance the ports.",
+    "url": "https://www.resetera.com/threads/george-kamitani-vanillaware-we-totally-want-to-put-our-other-games-on-pc-its-up-to-the-pub-to-finance-the-ports.1550293/",
+    "published": "2026-06-13T09:37:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 52,
+    "tags": [
+      "game-dev",
+      "pc-hardware",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Vanillaware's George Kamitani states the studio wants to port their games to PC but requires publisher funding to make it happen.",
+    "sources": []
+  },
+  {
+    "title": "Little Nightmares III - The Backstage DLC Launch Trailer",
+    "url": "https://www.resetera.com/threads/little-nightmares-iii-the-backstage-dlc-launch-trailer.1550275/",
+    "published": "2026-06-13T07:58:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Little Nightmares III releases The Backstage DLC as part of the Secrets of The Spiral Expansion Pass.",
+    "sources": []
+  },
+  {
+    "title": "Team ICO / genDESIGN Community |OT| A Story of an Unknown Place, Thread in an Unknown Era",
+    "url": "https://www.resetera.com/threads/team-ico-gendesign-community-ot-a-story-of-an-unknown-place-thread-in-an-unknown-era.1550263/",
+    "published": "2026-06-13T07:32:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "community",
+      "game-dev"
+    ],
+    "summary": "Community thread dedicated to discussing games from Team ICO and genDESIGN, the studios founded by Fumito Ueda.",
+    "sources": []
+  },
+  {
+    "title": "\"We Have The Means To Fight This Case To The End\" - Gaming's Most Infamous Trademark Troll Is Back",
+    "url": "https://www.timeextension.com/news/2026/06/we-have-the-means-to-fight-this-case-to-the-end-gamings-most-infamous-trademark-troll-is-back",
+    "published": "2026-06-13T18:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "gaming-history"
+    ],
+    "summary": "Tim Langdell, a notorious trademark troll, has resumed legal actions against gaming companies over trademark disputes, continuing a pattern of litigation that previously targeted major publishers like EA and Namco.",
+    "sources": []
+  },
+  {
+    "title": "Review: Dark Alien In Deep Space (Vectrex) - Survival Horror Straight Outta 1982",
+    "url": "https://www.timeextension.com/reviews/vectrex/dark-alien-in-deep-space",
+    "published": "2026-06-13T13:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "retro",
+      "homebrew",
+      "vectrex",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A review of Dark Alien In Deep Space explores the thriving Vectrex homebrew scene, highlighting how the retro console community has produced an estimated 150-200+ aftermarket games despite poor discoverability.",
+    "sources": []
+  },
+  {
+    "title": "The Making Of: FIFA International Soccer, The Game That Launched A Billion-Dollar Series",
+    "url": "https://www.timeextension.com/features/the-making-of-fifa-international-soccer-the-game-that-launched-a-billion-dollar-series",
+    "published": "2026-06-13T11:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "A retrospective feature on the development of FIFA International Soccer, the 1993 Sega Genesis game that launched EA's billion-dollar football franchise, featuring developer insights from EA Canada.",
+    "sources": []
+  },
+  {
+    "title": "Random Game Saturday: Neo Geo Cup '98 (Neo Geo Pocket)",
+    "url": "https://www.timeextension.com/news/2026/06/random-game-saturday-neo-geo-cup-98-neo-geo-pocket",
+    "published": "2026-06-13T10:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "handheld-gaming",
+      "game-discovery"
+    ],
+    "summary": "A retrospective feature on Neo Geo Cup '98 for the Neo Geo Pocket, a handheld sports game released in 1999 during the World Cup era.",
+    "sources": []
+  },
+  {
+    "title": "The OneXPlayer X2 Mini Pro Launches in Less Than 48 Hours: Pricing & Specs Revealed",
+    "url": "https://steamdeckhq.com/news/onexplayer-x2-mini-pro-pricing-specs/",
+    "published": "2026-06-13T17:44:05+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 58,
+    "tags": [
+      "handheld-gaming",
+      "gaming-hardware",
+      "pc-hardware"
+    ],
+    "summary": "OneXPlayer announces X2 Mini Pro handheld with 8.8\" OLED display launching within 48 hours with revealed pricing and specs.",
+    "sources": []
+  },
+  {
+    "title": "Vanillaware seemingly want their other games on PC too, but if you want that to happen, talk to their publishers",
+    "url": "https://www.rockpapershotgun.com/vanillaware-seemingly-want-their-other-games-on-pc-too-but-if-you-want-that-to-happen-talk-to-their-publishers",
+    "published": "2026-06-13T21:54:06+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "game-discovery",
+      "pc-hardware"
+    ],
+    "summary": "Vanillaware expresses interest in bringing more of their games to PC, but clarifies that such decisions depend on their publishers rather than the developer.",
+    "sources": []
+  },
+  {
+    "title": "Penguin Colony's demo shows life as a flightless bird is lonely, scary, awkward, and cosmically intriguing",
+    "url": "https://www.rockpapershotgun.com/penguin-colonys-demo-shows-life-as-a-flightless-bird-is-lonely-scary-awkward-and-cosmically-intriguing",
+    "published": "2026-06-13T20:38:54+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Penguin Colony, a new indie game from the creators of Umurangi Generation, blends quirky penguin life simulation with cosmic horror elements in its debut demo.",
+    "sources": []
+  },
+  {
+    "title": "Zlin City: Arch Moderna is a diorama city builder made with actual, physical models and based on a real Czech city",
+    "url": "https://www.rockpapershotgun.com/zlin-city-arch-moderna-is-a-diorama-city-builder-made-with-actual-physical-models-and-based-on-a-real-czech-city",
+    "published": "2026-06-13T17:55:02+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Zlin City: Arch Moderna is an indie city builder with a unique diorama aesthetic created using scanned physical models, inspired by the real Czech city of Zl\u00edn.",
+    "sources": []
+  },
+  {
+    "title": "Whether you believe it or not, Final Fantasy 7 Revelation director Naoki Hamaguchi says the end's been planned from the start",
+    "url": "https://www.rockpapershotgun.com/whether-you-believe-it-or-not-final-fantasy-7-revelation-director-naoki-hamaguchi-says-the-ends-been-planned-from-the-start",
+    "published": "2026-06-13T17:07:41+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Final Fantasy 7 Remake trilogy director Naoki Hamaguchi confirms the ending for the upcoming Revelation installment was planned from the start of the project.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo reportedly look set to net so little from their Palworld lawsuit you'll wonder why they bothered",
+    "url": "https://www.rockpapershotgun.com/nintendo-reportedly-look-set-to-net-so-little-from-their-palworld-lawsuit-youll-wonder-why-they-bothered",
+    "published": "2026-06-13T16:07:30+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "legal"
+    ],
+    "summary": "Nintendo's ongoing patent lawsuit against Palworld developer Pocketpair is expected to yield minimal financial compensation despite nearly two years of litigation.",
+    "sources": []
+  },
+  {
+    "title": "\"There's nothing worse than an AI-generated pitch\": Bloober, Jagex, 11 bit and indie devs on the bruising hurdle of funding a videogame prototype",
+    "url": "https://www.rockpapershotgun.com/theres-nothing-worse-than-an-ai-generated-pitch-bloober-jagex-11-bit-and-indie-devs-on-the-bruising-hurdle-of-funding-a-videogame-prototype",
+    "published": "2026-06-13T11:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 52,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-industry"
+    ],
+    "summary": "Game developers and publishers discuss the growing necessity of prototypes for securing funding and the risks of using AI-generated content in pitches.",
+    "sources": []
+  },
+  {
+    "title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-386",
+    "published": "2026-06-13T07:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "A casual community discussion prompt asking readers what games they plan to play over the weekend.",
+    "sources": []
+  },
+  {
+    "title": "Atelier Karia Makes Eating a Gameplay Mechanic on PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/atelier-karia-makes-eating-a-gameplay-mechanic-on-ps5",
+    "published": "2026-06-13T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Atelier Karia introduces an unconventional eating mechanic that affects character appearance as a core gameplay feature on PS5.",
+    "sources": []
+  },
+  {
+    "title": "Feature: Going Platinum: Ratchet & Clank: Rift Apart Is Still One of PS5's Best-Looking Games",
+    "url": "https://www.pushsquare.com/features/going-platinum-ratchet-and-clank-rift-apart-is-still-one-of-ps5s-best-looking-games",
+    "published": "2026-06-13T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "retro"
+    ],
+    "summary": "A personal account of earning a Platinum Trophy in Ratchet & Clank: Rift Apart, praising the game's visual quality on PS5.",
+    "sources": []
+  },
+  {
+    "title": "Feature: 'We Wanted to Avoid Pretending the Industry Is Perfect': How K-pop Idol Stories Is Delivering the Ultimate PS5 Fantasy for K-pop Fans",
+    "url": "https://www.pushsquare.com/features/we-wanted-to-avoid-pretending-the-industry-is-perfect-how-k-pop-idol-stories-is-delivering-the-ultimate-ps5-fantasy-for-k-pop-fans",
+    "published": "2026-06-13T17:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Wisageni Studio discusses creating K-pop Idol Stories for PS5, blending K-pop culture with game design through collaborations with songwriters and manhwa influences.",
+    "sources": []
+  },
+  {
+    "title": "Poll: Are You Happy with Your PS Plus Extra, Premium Games for June 2026?",
+    "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-extra-premium-games-for-june-2026",
+    "published": "2026-06-13T16:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "PlayStation Plus Extra lineup for June 2026 features Final Fantasy 16 as the headline title, prompting reader poll on subscription satisfaction.",
+    "sources": []
+  },
+  {
+    "title": "Game of the Month: 007 First Light (May 2026)",
+    "url": "https://www.pushsquare.com/features/game-of-the-month-007-first-light-may-2026",
+    "published": "2026-06-13T14:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "PushSquare's Game of the Month poll for May 2026 crowns 007 First Light as the community's favorite PS5 release.",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 7+ PS5 and PS Plus Games Are Coming Out Next Week (15th-21st June)",
+    "url": "https://www.pushsquare.com/guides/these-7plus-ps5-and-ps-plus-games-are-coming-out-next-week-15th-21st-june",
+    "published": "2026-06-13T11:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "Seven PS5 and PlayStation Plus games are releasing the week of June 15-21, led by Square Enix's The Adventures of Elliot and EA Sports UFC 6.",
+    "sources": []
+  },
+  {
+    "title": "Talking Point: What Are You Playing This Weekend? - Issue 637",
+    "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-637",
+    "published": "2026-06-13T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Push Square's weekly community discussion feature asking readers what games they're playing over the weekend.",
+    "sources": []
+  }
+]
