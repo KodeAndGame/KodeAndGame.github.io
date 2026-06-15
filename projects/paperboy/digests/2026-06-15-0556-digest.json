@@ -1,0 +1,1043 @@
+[
+  {
+    "title": "Epic Games is hiring a Security Engineer to champion Linux anti-cheat",
+    "url": "https://www.gamingonlinux.com/2026/06/epic-games-is-hiring-a-security-engineer-to-champion-linux-anti-cheat/",
+    "published": "2026-06-14T20:46:04+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 62,
+    "tags": [
+      "linux-gaming",
+      "gaming-industry",
+      "anti-cheat"
+    ],
+    "summary": "Epic Games is hiring a Senior Game Security Engineer to improve Easy Anti-Cheat compatibility on Linux, signaling potential improvements to Linux gaming support.",
+    "sources": []
+  },
+  {
+    "title": "The security situation with the Arch Linux AUR got a lot worse",
+    "url": "https://www.gamingonlinux.com/2026/06/the-security-situation-with-the-arch-linux-aur-got-a-lot-worse/",
+    "published": "2026-06-14T19:37:15+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Security vulnerabilities in the Arch Linux AUR package repository have escalated, posing risks to Linux gaming users who rely on community packages.",
+    "sources": []
+  },
+  {
+    "title": "Building a Retro Linux Gaming Computer Part 52: What Am I Going to Do With All This Cheese",
+    "url": "https://www.gamingonlinux.com/2026/06/building-a-retro-linux-gaming-computer-part-52-what-am-i-going-to-do-with-all-this-cheese/",
+    "published": "2026-06-14T19:03:54+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "gaming-history",
+      "retro"
+    ],
+    "summary": "A retrospective article examining the impact of Loki Software's closure on the landscape of commercial Linux gaming and its historical significance.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.2 To Raise LLVM/Clang Compiler Requirement, Add Support For Distributed ThinLTO",
+    "url": "https://www.phoronix.com/news/Linux-7.2-Kbuild",
+    "published": "2026-06-15T00:33:48+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Linux kernel 7.2 will increase LLVM/Clang compiler requirements and add distributed ThinLTO support in upcoming Kbuild updates.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.1 Released: New NTFS Driver, Intel FRED For Panther Lake, Faster Arc Graphics",
+    "url": "https://www.phoronix.com/news/Linux-7.1-Released",
+    "published": "2026-06-14T15:09:29+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware",
+      "linux-hardware"
+    ],
+    "summary": "Linux 7.1 kernel released with new NTFS driver, Intel FRED support, and Arc graphics improvements, arriving early due to Torvalds' travel schedule.",
+    "sources": []
+  },
+  {
+    "title": "Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack",
+    "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware",
+    "published": "2026-06-14T10:32:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 52,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Arch Linux AUR repository faces a second wave of more sophisticated malware attacks with obfuscated code, affecting the open-source gaming community's infrastructure.",
+    "sources": []
+  },
+  {
+    "title": "Revised AVX-512 xor_gen() Implementation For Linux RAID Yielding More Performance Gains",
+    "url": "https://www.phoronix.com/news/AVX-512-Xor-Gen-More-Perf",
+    "published": "2026-06-14T10:22:57+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "Linux kernel developers optimize RAID parity block generation with an improved AVX-512 implementation, offering modest performance improvements for storage operations.",
+    "sources": []
+  },
+  {
+    "title": "pkgcli As PackageKit's Modern, Nicer Command Line Interface",
+    "url": "https://www.phoronix.com/news/PackageKit-pkgcli",
+    "published": "2026-06-14T10:09:38+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 28,
+    "tags": [
+      "open-source",
+      "linux-gaming"
+    ],
+    "summary": "Developer Matthias Klumpp introduces pkgcli, a modern command-line interface for PackageKit package management, relevant to Linux gaming infrastructure.",
+    "sources": []
+  },
+  {
+    "title": "Is There Ever Going to be a Payoff Waiting for Pokemon Re-releases?",
+    "url": "https://www.resetera.com/threads/is-there-ever-going-to-be-a-payoff-waiting-for-pokemon-re-releases.1551064/",
+    "published": "2026-06-15T05:09:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Opinion piece questioning the slow pace of Pokemon re-releases on modern platforms compared to how other publishers handle classic game ports.",
+    "sources": []
+  },
+  {
+    "title": "Boosteroid (Gaming Cloud streaming service) is partnering with Argentum AI on $2.5 billion agreement for data centers",
+    "url": "https://www.resetera.com/threads/boosteroid-gaming-cloud-streaming-service-is-partnering-with-argentum-ai-on-2-5-billion-agreement-for-data-centers.1551058/",
+    "published": "2026-06-15T04:01:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-hardware"
+    ],
+    "summary": "Boosteroid partners with Argentum AI on a $2.5 billion data center infrastructure agreement to support cloud gaming and AI workloads across Europe.",
+    "sources": []
+  },
+  {
+    "title": "Harada, creator of Tekken 8, has finally added the long requested Waffle House",
+    "url": "https://www.resetera.com/threads/harada-creator-of-tekken-8-has-finally-added-the-long-requested-waffle-house.1551055/",
+    "published": "2026-06-15T03:57:37+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Tekken 8 creator Harada adds a Waffle House menu to his office as a nod to the fighting game community's long-running joke about the establishment.",
+    "sources": []
+  },
+  {
+    "title": "Super Mario Bros. Copy Sells for Record-Breaking $3 Million at Auction",
+    "url": "https://www.resetera.com/threads/super-mario-bros-copy-sells-for-record-breaking-3-million-at-auction.1551037/",
+    "published": "2026-06-15T03:00:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "gaming-news"
+    ],
+    "summary": "A PSA 9.6 A++ sealed copy of Super Mario Bros. sold for $3 million at auction, setting a new record for the most expensive video game ever sold.",
+    "sources": []
+  },
+  {
+    "title": "Disney is hiring a UX/UI game designer to work with external studios on projects using their IP; experience w/ Alien, Predator, The Simpsons preferred",
+    "url": "https://www.resetera.com/threads/disney-is-hiring-a-ux-ui-game-designer-to-work-with-external-studios-on-projects-using-their-ip-experience-w-alien-predator-the-simpsons-preferred.1551025/",
+    "published": "2026-06-15T02:15:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Disney is hiring a senior UX/UI game designer to oversee external studios developing games using Disney IP including Alien, Predator, and The Simpsons.",
+    "sources": []
+  },
+  {
+    "title": "Terrifier, Scooby Doo, Frank Stone, Diablo, and MUCH more coming to Dead By Daylight",
+    "url": "https://www.resetera.com/threads/terrifier-scooby-doo-frank-stone-diablo-and-much-more-coming-to-dead-by-daylight.1551022/",
+    "published": "2026-06-15T02:12:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 58,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Dead By Daylight celebrates 10 years with major game overhaul, dynamic weather system, and multiple new IP collaborations including Terrifier, Scooby-Doo, and Frank Stone.",
+    "sources": []
+  },
+  {
+    "title": "Paramount want games for Yellowstone, Tulsa King, and others",
+    "url": "https://www.resetera.com/threads/paramount-want-games-for-yellowstone-tulsa-king-and-others.1551013/",
+    "published": "2026-06-15T01:51:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Paramount is pursuing video game adaptations of its TV properties including Yellowstone and Tulsa King.",
+    "sources": []
+  },
+  {
+    "title": "POLL (bet?): Will Ocarina of Time 2026 be a basic 1:1 remake (like the 3DS one) or a full overhaul (like the recent RE games)?",
+    "url": "https://www.resetera.com/threads/poll-bet-will-ocarina-of-time-2026-be-a-basic-1-1-remake-like-the-3ds-one-or-a-full-overhaul-like-the-recent-re-games.1551010/",
+    "published": "2026-06-15T01:48:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community debate and speculation about whether the announced 2026 Ocarina of Time remake will be a faithful 1:1 port or a comprehensive overhaul like recent RE remakes.",
+    "sources": []
+  },
+  {
+    "title": "Housing in MMORPG games, do you use it? If so please show pictures",
+    "url": "https://www.resetera.com/threads/housing-in-mmorpg-games-do-you-use-it-if-so-please-show-pictures.1551004/",
+    "published": "2026-06-15T01:29:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion post about MMORPG housing features and personal usage patterns.",
+    "sources": []
+  },
+  {
+    "title": "Fellow Console Players: Another PS5 or Series X|S Instead of Next-Gen?",
+    "url": "https://www.resetera.com/threads/fellow-console-players-another-ps5-or-series-x-s-instead-of-next-gen.1551001/",
+    "published": "2026-06-15T01:05:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 22,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "A gamer discusses the economic rationale for buying backup current-gen consoles instead of waiting for next-generation hardware due to rising prices and extended cross-gen support.",
+    "sources": []
+  },
+  {
+    "title": "Did anyone play that Fromsoftware Steel Battelion Kinect game? Was it possible to play?",
+    "url": "https://www.resetera.com/threads/did-anyone-play-that-fromsoftware-steel-battelion-kinect-game-was-it-possible-to-play.1550992/",
+    "published": "2026-06-15T00:43:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion about the playability and reception of FromSoftware's Steel Battalion: Heavy Armor for Kinect, exploring whether the motion control implementation worked well enough for enjoyable gameplay.",
+    "sources": []
+  },
+  {
+    "title": "Would a Zero Mission-like remake of Zelda 1 be a good idea? What about other franchises?",
+    "url": "https://www.resetera.com/threads/would-a-zero-mission-like-remake-of-zelda-1-be-a-good-idea-what-about-other-franchises.1550986/",
+    "published": "2026-06-15T00:29:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "retro",
+      "gaming-news"
+    ],
+    "summary": "Fan discussion speculating on whether Nintendo should create a Zero Mission-style remake of the original Legend of Zelda game with updated graphics and modern design improvements.",
+    "sources": []
+  },
+  {
+    "title": "I am extremely excited for silent hill townfall and castlevania belmont's curse (KONAMI IS BACK thread)",
+    "url": "https://www.resetera.com/threads/i-am-extremely-excited-for-silent-hill-townfall-and-castlevania-belmonts-curse-konami-is-back-thread.1550977/",
+    "published": "2026-06-15T00:05:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Fan expresses enthusiasm for upcoming Konami titles including Silent Hill Townfall and Castlevania: Belmont's Curse based on recent franchise successes.",
+    "sources": []
+  },
+  {
+    "title": "Will OOT be a reimagining or a straight remake with cinematic flourishes?",
+    "url": "https://www.resetera.com/threads/will-oot-be-a-reimagining-or-a-straight-remake-with-cinematic-flourishes.1550965/",
+    "published": "2026-06-14T23:38:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Nintendo's Ocarina of Time remake announcement leaves questions about whether it will be a straight remake or substantial reimagining of the classic Zelda title.",
+    "sources": []
+  },
+  {
+    "title": "It's 1999, you got friends, food and time. What Mario Party (1) board do you pick for you and your pals?",
+    "url": "https://www.resetera.com/threads/its-1999-you-got-friends-food-and-time-what-mario-party-1-board-do-you-pick-for-you-and-your-pals.1550950/",
+    "published": "2026-06-14T22:57:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A nostalgic discussion asking readers to choose their favorite Mario Party 1 board from 1999, focusing on casual gaming memories.",
+    "sources": []
+  },
+  {
+    "title": "Do you believe in Vel-The Mighty Blue?",
+    "url": "https://www.resetera.com/threads/do-you-believe-in-vel-the-mighty-blue.1550926/",
+    "published": "2026-06-14T21:50:37+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A social media post discussing a character or game element called 'Vel-The Mighty Blue' that apparently was added to something but many players missed it.",
+    "sources": []
+  },
+  {
+    "title": "LTTP: The Last Faith - A flawed but tragically overlooked Bloodbornevania",
+    "url": "https://www.resetera.com/threads/lttp-the-last-faith-a-flawed-but-tragically-overlooked-bloodbornevania.1550914/",
+    "published": "2026-06-14T20:39:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "retro"
+    ],
+    "summary": "A retrospective analysis of The Last Faith, a Kickstarter-funded Bloodborne-inspired Metroidvania that underperformed commercially despite its ambitious design ambitions.",
+    "sources": []
+  },
+  {
+    "title": "Will GTA VI sell more copies on day one than GTA V sold?  The number is 11.2 million.",
+    "url": "https://www.resetera.com/threads/will-gta-vi-sell-more-copies-on-day-one-than-gta-v-sold-the-number-is-11-2-million.1550911/",
+    "published": "2026-06-14T20:33:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Speculation about GTA VI's potential day-one sales compared to GTA V's 11.2 million copies, with discussion of publisher expectations.",
+    "sources": []
+  },
+  {
+    "title": "Regarding the FFVII trilogy: I don't really understand the \"I'll wait until the third one is out to play them\" mindset in 2026",
+    "url": "https://www.resetera.com/threads/regarding-the-ffvii-trilogy-i-dont-really-understand-the-ill-wait-until-the-third-one-is-out-to-play-them-mindset-in-2026.1550905/",
+    "published": "2026-06-14T20:32:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player expresses confusion about the community's willingness to wait for the final FFVII Remake trilogy installment, citing concerns about series fatigue from the games' lengthy playtimes.",
+    "sources": []
+  },
+  {
+    "title": "Exactly 10 years ago, Breath of the Wild got it's name revealed in a very awesome trailer.",
+    "url": "https://www.resetera.com/threads/exactly-10-years-ago-breath-of-the-wild-got-its-name-revealed-in-a-very-awesome-trailer.1550899/",
+    "published": "2026-06-14T20:17:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "Anniversary reflection on The Legend of Zelda: Breath of the Wild's name reveal trailer from 10 years ago.",
+    "sources": []
+  },
+  {
+    "title": "Final Fantasy VII Remake crosses 10,000 concurrent users on Steam for the first time since it launched at just over 13k",
+    "url": "https://www.resetera.com/threads/final-fantasy-vii-remake-crosses-10-000-concurrent-users-on-steam-for-the-first-time-since-it-launched-at-just-over-13k.1550881/",
+    "published": "2026-06-14T19:25:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-platform",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Final Fantasy VII Remake reaches 10,000 concurrent Steam users for the first time since launch, driven by Summer Game Fest announcements and promotional discounts.",
+    "sources": []
+  },
+  {
+    "title": "[MP1st] Unannounced The Witcher Multiplayer Game Slated for PC & Mobile; Gameplay Details Revealed",
+    "url": "https://www.resetera.com/threads/mp1st-unannounced-the-witcher-multiplayer-game-slated-for-pc-mobile-gameplay-details-revealed.1550878/",
+    "published": "2026-06-14T19:15:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "leaks"
+    ],
+    "summary": "An unannounced free-to-play co-op action RPG set in The Witcher universe is in development for PC and mobile platforms.",
+    "sources": []
+  },
+  {
+    "title": "The Real City That Became a Myth | 1666 Amsterdam Devlog 01 (New Gameplay)",
+    "url": "https://www.resetera.com/threads/the-real-city-that-became-a-myth-1666-amsterdam-devlog-01-new-gameplay.1550851/",
+    "published": "2026-06-14T18:31:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "1666: Amsterdam devlog explores how the development team transformed historical Amsterdam into a fictional game world through research and artistic interpretation.",
+    "sources": []
+  },
+  {
+    "title": "Marsh - The Lost Maria Experience",
+    "url": "https://www.resetera.com/threads/marsh-the-lost-maria-experience.1550845/",
+    "published": "2026-06-14T18:15:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "retro",
+      "indie-games",
+      "community"
+    ],
+    "summary": "A video essay about Lost Maria, a mid-2000s RPGMaker game, showcasing obscure indie game history and community interest.",
+    "sources": []
+  },
+  {
+    "title": "So, about that basically finished Gears of War E-Day PS5 port. You think it will ever see the light of day?",
+    "url": "https://www.resetera.com/threads/so-about-that-basically-finished-gears-of-war-e-day-ps5-port-you-think-it-will-ever-see-the-light-of-day.1550818/",
+    "published": "2026-06-14T17:45:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "leaks",
+      "console-hardware"
+    ],
+    "summary": "A nearly completed PS5 port of Gears of War E-Day reportedly exists, raising questions about whether it will ever be officially released or leaked.",
+    "sources": []
+  },
+  {
+    "title": "I don\u2019t think I can take it anymore. Tomb Raider 2 is one of the most disappointing sequels ever.",
+    "url": "https://www.resetera.com/threads/i-don%E2%80%99t-think-i-can-take-it-anymore-tomb-raider-2-is-one-of-the-most-disappointing-sequels-ever.1550815/",
+    "published": "2026-06-14T17:43:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "retro",
+      "community"
+    ],
+    "summary": "A player shares their disappointment with Tomb Raider 2 after enjoying the first game, comparing the sequel unfavorably across multiple aspects.",
+    "sources": []
+  },
+  {
+    "title": "Do you think FF7 Revelations will have a dynamic day/night cycle?",
+    "url": "https://www.resetera.com/threads/do-you-think-ff7-revelations-will-have-a-dynamic-day-night-cycle.1550803/",
+    "published": "2026-06-14T16:58:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Community speculation about whether Final Fantasy VII Revelations will feature a dynamic day/night cycle, comparing it to the previous Rebirth installment.",
+    "sources": []
+  },
+  {
+    "title": "If you could only choose 1 game this holiday Ocarina time remake or GTA 6",
+    "url": "https://www.resetera.com/threads/if-you-could-only-choose-1-game-this-holiday-ocarina-time-remake-or-gta-6.1550800/",
+    "published": "2026-06-14T16:49:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion post asking users to choose between a hypothetical Ocarina of Time remake and GTA 6 for holiday gaming.",
+    "sources": []
+  },
+  {
+    "title": "Do you think we'll get Mario Super Sluggers on NSO?",
+    "url": "https://www.resetera.com/threads/do-you-think-well-get-mario-super-sluggers-on-nso.1550791/",
+    "published": "2026-06-14T16:21:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community discussion speculating about the possibility of Mario Super Sluggers being added to Nintendo Switch Online.",
+    "sources": []
+  },
+  {
+    "title": "Why don't MS/Sony take the Kindle approach? You could pay less for a console in exchange for more ads (they could also have a SKU with sub bundled)",
+    "url": "https://www.resetera.com/threads/why-dont-ms-sony-take-the-kindle-approach-you-could-pay-less-for-a-console-in-exchange-for-more-ads-they-could-also-have-a-sku-with-sub-bundled.1550788/",
+    "published": "2026-06-14T16:17:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Reddit user proposes ad-supported console pricing model similar to Amazon Kindle as a potential way to reduce next-gen console costs.",
+    "sources": []
+  },
+  {
+    "title": "Pony Island 2 development update: \"We might even get GTA 6 before Pony Island 2.\"",
+    "url": "https://www.resetera.com/threads/pony-island-2-development-update-we-might-even-get-gta-6-before-pony-island-2.1550767/",
+    "published": "2026-06-14T15:29:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "steam-platform",
+      "gaming-news"
+    ],
+    "summary": "Pony Island 2 developer humorously addresses delayed release by joking they might finish after GTA 6, explaining they're prioritizing quality over announcing a premature deadline.",
+    "sources": []
+  },
+  {
+    "title": "EDGE magazine coverage of Gears of War (2004 - 2006)  - Unreal Engine 3 tech demo to finished game",
+    "url": "https://www.resetera.com/threads/edge-magazine-coverage-of-gears-of-war-2004-2006-unreal-engine-3-tech-demo-to-finished-game.1550761/",
+    "published": "2026-06-14T15:17:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "EDGE magazine retrospective coverage of Gears of War's development from Unreal Engine 3 tech demo at E3 2004 through the finished 2006 release.",
+    "sources": []
+  },
+  {
+    "title": "What to do about smelly PC components?",
+    "url": "https://www.resetera.com/threads/what-to-do-about-smelly-pc-components.1550737/",
+    "published": "2026-06-14T14:22:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "steam-deck",
+      "pc-hardware",
+      "community"
+    ],
+    "summary": "A user seeks advice on removing odors from used PC components they plan to repurpose for a Steam Box living room project.",
+    "sources": []
+  },
+  {
+    "title": "Sony pulling back from PC means its pulling back from China (& other regions where console adoption is low)",
+    "url": "https://www.resetera.com/threads/sony-pulling-back-from-pc-means-its-pulling-back-from-china-other-regions-where-console-adoption-is-low.1550725/",
+    "published": "2026-06-14T13:10:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-industry",
+      "steam-platform",
+      "gaming-news"
+    ],
+    "summary": "Sony's reduced PC port strategy may signal strategic withdrawal from markets like China and India where console adoption is weak, with data showing China as a major Steam market for titles like Death Stranding 2.",
+    "sources": []
+  },
+  {
+    "title": "The Strange Holes of Gaming Hardware",
+    "url": "https://www.resetera.com/threads/the-strange-holes-of-gaming-hardware.1550686/",
+    "published": "2026-06-14T09:19:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "console-hardware",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "Community discussion reflecting on unusual hardware design choices across gaming consoles, particularly the PSP, and how modern standards like USB-C have improved consistency.",
+    "sources": []
+  },
+  {
+    "title": "LTTP: Void Stranger - Fascinating but frustrating",
+    "url": "https://www.resetera.com/threads/lttp-void-stranger-fascinating-but-frustrating.1550680/",
+    "published": "2026-06-14T07:53:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "A retrospective look at Void Stranger, an indie puzzle game with grid-based mechanics and dungeon exploration, highlighting both its fascinating and frustrating aspects.",
+    "sources": []
+  },
+  {
+    "title": "14-min off-screen Turok Origins gameplay on Switch 2 at SGF",
+    "url": "https://www.resetera.com/threads/14-min-off-screen-turok-origins-gameplay-on-switch-2-at-sgf.1550677/",
+    "published": "2026-06-14T07:15:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "console-hardware",
+      "handheld-gaming",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Turok Origins gameplay footage from Summer Game Fest showcases a 14-minute demo running on Nintendo Switch 2.",
+    "sources": []
+  },
+  {
+    "title": "Guide: FIFA Cover Stars - Every Athlete From 1993 To 2022",
+    "url": "https://www.timeextension.com/guides/fifa-cover-stars-every-athlete-from-1993-to-2022",
+    "published": "2026-06-14T16:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "game-discovery"
+    ],
+    "summary": "A retrospective guide documenting all FIFA video game cover stars from 1993 to 2022, coinciding with the World Cup 2026.",
+    "sources": []
+  },
+  {
+    "title": "Game Changer: Jikky\u014d\ufeff J. League: Perfect Striker / ISS 64 - Turning Japanese",
+    "url": "https://www.timeextension.com/features/game-changer-jikky-j-league-perfect-striker-iss-64-turning-japanese",
+    "published": "2026-06-14T14:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "game-discovery"
+    ],
+    "summary": "A retrospective article celebrating Konami's Jikky\u014d J. League: Perfect Striker for N64 as one of the best football video game representations, timed with the World Cup.",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (June 14th 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-june-14th-2026",
+    "published": "2026-06-14T12:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of retro gaming news covering classic titles like Crazy Taxi and Castlevania from the past week.",
+    "sources": []
+  },
+  {
+    "title": "The Making Of: FIFA Road To World Cup 98, The \"Greatest FIFA Of All Time\"",
+    "url": "https://www.timeextension.com/features/the-making-of-fifa-road-to-world-cup-98-the-greatest-fifa-of-all-time",
+    "published": "2026-06-14T10:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "game-dev"
+    ],
+    "summary": "A retrospective feature on FIFA Road to World Cup 98's development, highlighting developer perspectives on what many consider the series' greatest installment.",
+    "sources": []
+  },
+  {
+    "title": "How Croakwood captures the challenge of a townbuilder like Anno but avoids the stress and pressure",
+    "url": "https://www.rockpapershotgun.com/how-croakwood-captures-the-challenge-of-a-townbuilder-like-anno-but-avoids-the-stress-and-pressure",
+    "published": "2026-06-14T12:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Croakwood, a frog-themed townbuilder from Parkitect developer Texel Raptor, aims to deliver management game complexity while reducing traditional stress through thoughtful design choices.",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-814",
+    "published": "2026-06-14T09:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 0,
+    "tags": [],
+    "summary": "A personal essay about putting used furniture on the street for neighbors to take, unrelated to gaming.",
+    "sources": []
+  },
+  {
+    "title": "Campaign Early Access Now Included in Modern Warfare 4 PS5 Pre-Orders",
+    "url": "https://www.pushsquare.com/news/2026/06/campaign-early-access-now-included-in-modern-warfare-4-ps5-pre-orders",
+    "published": "2026-06-15T01:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Infinity Ward announces early campaign access for Modern Warfare 4 pre-orders starting October 16, 2026.",
+    "sources": []
+  },
+  {
+    "title": "Halo PS5 Poised to Sell Extremely Well, Topping PS Store Charts Around the World",
+    "url": "https://www.pushsquare.com/news/2026/06/halo-ps5-poised-to-sell-extremely-well-topping-ps-store-charts-around-the-world",
+    "published": "2026-06-15T00:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "This appears to be a fictional or satirical article about a non-existent Halo PS5 release, as Halo remains an Xbox exclusive franchise.",
+    "sources": []
+  },
+  {
+    "title": "Opinion: I'm So Glad Racing Games Are Finally Getting Interesting Again",
+    "url": "https://www.pushsquare.com/features/opinion-im-so-glad-racing-games-are-finally-getting-interesting-again",
+    "published": "2026-06-14T18:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Opinion piece arguing that racing games have become more interesting after a period of stagnation in the genre.",
+    "sources": []
+  },
+  {
+    "title": "Opinion: PS Plus Users, You Should Play Final Fantasy 16 (But Only If You Play It Like This)",
+    "url": "https://www.pushsquare.com/features/opinion-ps-plus-users-you-should-play-final-fantasy-16-but-only-if-you-play-it-like-this",
+    "published": "2026-06-14T15:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Opinion piece recommending Final Fantasy 16 to PS Plus subscribers with caveats about its departure from traditional JRPG gameplay.",
+    "sources": []
+  },
+  {
+    "title": "Xbox Wants Faster Fallout, Elder Scrolls Games to Bolster Business",
+    "url": "https://www.pushsquare.com/news/2026/06/xbox-wants-faster-fallout-elder-scrolls-games-to-bolster-business",
+    "published": "2026-06-14T14:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Microsoft's CEO Nadella indicates Xbox must become profitable faster, suggesting pressure to accelerate releases of major franchises like Fallout and Elder Scrolls to improve business sustainability.",
+    "sources": []
+  },
+  {
+    "title": "PS5 Controller's Best Features Are Finally Working Over Bluetooth on PC",
+    "url": "https://www.pushsquare.com/news/2026/06/ps5-controllers-best-features-are-finally-working-over-bluetooth-on-pc",
+    "published": "2026-06-14T13:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware",
+      "community",
+      "game-dev"
+    ],
+    "summary": "A third-party developer has created an app enabling PS5 DualSense controller features to work over Bluetooth on PC, addressing Sony's lack of native support.",
+    "sources": []
+  },
+  {
+    "title": "Feature: This Somber Platformer, Now 15-Years-Old, Deserves a Revisit on PS5",
+    "url": "https://www.pushsquare.com/features/this-somber-platformer-now-15-years-old-deserves-a-revisit-on-ps5",
+    "published": "2026-06-14T12:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "retro",
+      "gaming-news"
+    ],
+    "summary": "A retrospective feature recommends revisiting a 15-year-old Alice in Wonderland-themed platformer on PS5.",
+    "sources": []
+  }
+]
