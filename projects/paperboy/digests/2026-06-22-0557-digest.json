@@ -1,0 +1,987 @@
+[
+  {
+    "title": "Building a Retro Linux Gaming Computer Part 53: The Rabbit's Foot",
+    "url": "https://www.gamingonlinux.com/2026/06/building-a-retro-linux-gaming-computer-part-53-the-rabbits-foot/",
+    "published": "2026-06-21T19:15:03+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "retro",
+      "game-discovery"
+    ],
+    "summary": "A retrospective article examines Lugaru: The Rabbit's Foot as a notable native Linux game in a series about building retro Linux gaming computers.",
+    "sources": []
+  },
+  {
+    "title": "SteamOS 3.8.11 released to fix getting stuck on the Desktop Mode lock screen",
+    "url": "https://www.gamingonlinux.com/2026/06/steamos-3-8-11-released-to-fix-getting-stuck-on-the-desktop-mode-lock-screen/",
+    "published": "2026-06-21T08:48:03+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "steam-platform",
+      "linux-gaming",
+      "gaming-news"
+    ],
+    "summary": "Valve releases SteamOS 3.8.11 patch to fix a Desktop Mode lock screen issue affecting Steam Deck users.",
+    "sources": []
+  },
+  {
+    "title": "Early AMD GCN GPUs Seeing Improved GPU Recovery - Another Valve-Led Linux Improvement",
+    "url": "https://www.phoronix.com/news/AMD-Early-GCN-Better-Recovery",
+    "published": "2026-06-22T00:37:29+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 55,
+    "tags": [
+      "valve",
+      "linux-gaming",
+      "open-source",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Valve's Linux graphics driver team continues improving GPU recovery for older AMD GCN GPUs, enhancing stability for legacy hardware on Linux systems.",
+    "sources": []
+  },
+  {
+    "title": "zlib-rs 0.6.4 Released With Fix For Intel Raptor Lake Crash, SIMD Optimizations",
+    "url": "https://www.phoronix.com/news/zlib-rs-0.6.4",
+    "published": "2026-06-21T19:33:11+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "zlib-rs 0.6.4 releases with Intel Raptor Lake crash fix and SIMD optimizations for improved compression performance.",
+    "sources": []
+  },
+  {
+    "title": "Qualcomm Posts Linux Patches For HP EliteBook X G2q X2 Elite Laptop",
+    "url": "https://www.phoronix.com/news/HP-EliteBook-X-G2q-Linux",
+    "published": "2026-06-21T14:38:15+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Qualcomm releases Linux kernel patches to enable support for HP EliteBook X G2q laptops powered by Snapdragon X2 Elite processors.",
+    "sources": []
+  },
+  {
+    "title": "Mesa 26.2 Merges Vulkan Present Timing Support For X11/XWayland",
+    "url": "https://www.phoronix.com/news/Mesa-26.2-X11-Present-Timing",
+    "published": "2026-06-21T12:49:30+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 52,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Mesa 26.2 adds Vulkan present timing support for X11 and XWayland, improving graphics synchronization on Linux.",
+    "sources": []
+  },
+  {
+    "title": "Google's Gemini Partially Figures Out A Lengthy Linux Boot Time On Modern ASUS Laptop",
+    "url": "https://www.phoronix.com/news/Gemini-ASUS-Laptop-Boot-Time",
+    "published": "2026-06-21T10:43:53+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Google's Gemini AI helped diagnose and resolve a Linux boot time issue on an ASUS gaming laptop, revealing a firmware problem with a kernel patch now in development.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.2 Begins Making Preparations For NVIDIA \"Blackwell-Next\"",
+    "url": "https://www.phoronix.com/news/NVIDIA-Blackwell-Next-VFIO",
+    "published": "2026-06-21T09:55:56+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Linux 7.2 kernel begins initial preparations for NVIDIA's future \"Blackwell-Next\" GPU architecture through VFIO subsystem patches.",
+    "sources": []
+  },
+  {
+    "title": "Linux's KUnit Finally Supporting JUnit Output",
+    "url": "https://www.phoronix.com/news/Linux-KUnit-JUnit",
+    "published": "2026-06-21T09:45:14+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Linux's KUnit testing framework now supports JUnit output format for improved CI/CD system interoperability.",
+    "sources": []
+  },
+  {
+    "title": "I just discovered Everything is Crab and now I can't stop playing it",
+    "url": "https://www.resetera.com/threads/i-just-discovered-everything-is-crab-and-now-i-cant-stop-playing-it.1556941/",
+    "published": "2026-06-22T04:40:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "A player shares their enthusiasm for the indie roguelite game Everything is Crab, comparing it favorably to Spore's gameplay mechanics.",
+    "sources": []
+  },
+  {
+    "title": "What does -slop even mean anymore? (in the context of gaming)",
+    "url": "https://www.resetera.com/threads/what-does-slop-even-mean-anymore-in-the-context-of-gaming.1556938/",
+    "published": "2026-06-22T03:33:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion exploring how the term 'slop' has evolved from describing AI-generated games to becoming a catch-all pejorative for various gaming categories and platforms.",
+    "sources": []
+  },
+  {
+    "title": "games with particularly good lived-in detail (think arkham knight interiors)",
+    "url": "https://www.resetera.com/threads/games-with-particularly-good-lived-in-detail-think-arkham-knight-interiors.1556935/",
+    "published": "2026-06-22T03:32:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community discussion thread about games with detailed, immersive world-building and environmental design, using Star Wars Jedi: Survivor as an example.",
+    "sources": []
+  },
+  {
+    "title": "Character Redesigns That You Still Appreciate",
+    "url": "https://www.resetera.com/threads/character-redesigns-that-you-still-appreciate.1556926/",
+    "published": "2026-06-22T02:25:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion thread about video game character redesigns that players appreciate, featuring examples like Mega Man EXE Nero and Devil May Cry's Nero.",
+    "sources": []
+  },
+  {
+    "title": "(Spoilers) Is there a game series with more playable dads than Fire Emblem?",
+    "url": "https://www.resetera.com/threads/spoilers-is-there-a-game-series-with-more-playable-dads-than-fire-emblem.1556917/",
+    "published": "2026-06-22T01:12:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "A community discussion exploring the prevalence of playable father characters in the Fire Emblem series compared to other game franchises.",
+    "sources": []
+  },
+  {
+    "title": "Now that the GTA VI pre-orders are finally gonna open, the game feels real, and I can't wait to dive into a new R* title in 8 years",
+    "url": "https://www.resetera.com/threads/now-that-the-gta-vi-pre-orders-are-finally-gonna-open-the-game-feels-real-and-i-cant-wait-to-dive-into-a-new-r-title-in-8-years.1556908/",
+    "published": "2026-06-22T00:21:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A player expresses excitement about upcoming GTA VI pre-orders and reflects on Rockstar's immersive open-world design philosophy demonstrated in previous titles.",
+    "sources": []
+  },
+  {
+    "title": "I have messed with every setting yet RE9 continues to give me motion sickness",
+    "url": "https://www.resetera.com/threads/i-have-messed-with-every-setting-yet-re9-continues-to-give-me-motion-sickness.1556899/",
+    "published": "2026-06-22T00:09:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Player reports persistent motion sickness issues with Resident Evil 9 despite adjusting multiple settings, suspects missing FOV slider as potential cause.",
+    "sources": []
+  },
+  {
+    "title": "I think it's going Underappreciated How Strong the Art Direction in GTA 6 is. [It's Not doing Hyper Realism, The Graphics are Very Stylized]",
+    "url": "https://www.resetera.com/threads/i-think-its-going-underappreciated-how-strong-the-art-direction-in-gta-6-is-its-not-doing-hyper-realism-the-graphics-are-very-stylized.1556893/",
+    "published": "2026-06-22T00:05:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Opinion piece discussing GTA 6's stylized art direction and visual aesthetic compared to other acclaimed games.",
+    "sources": []
+  },
+  {
+    "title": "For the younger or patient gamers who jumped into acclaimed games well after their initial release dates, which classics have aged the best and worst?",
+    "url": "https://www.resetera.com/threads/for-the-younger-or-patient-gamers-who-jumped-into-acclaimed-games-well-after-their-initial-release-dates-which-classics-have-aged-the-best-and-worst.1556887/",
+    "published": "2026-06-21T23:46:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion about which classic games have aged well or poorly for players discovering them after release.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo Today to feature Splatoon Raiders comic \"Deep Cut's Island Misadventures,\" will receive updates leading up to game's release",
+    "url": "https://www.resetera.com/threads/nintendo-today-to-feature-splatoon-raiders-comic-deep-cuts-island-misadventures-will-receive-updates-leading-up-to-games-release.1556881/",
+    "published": "2026-06-21T23:40:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Nintendo is publishing a Splatoon Raiders promotional comic called 'Deep Cut's Island Misadventures' on the Nintendo Today app with planned updates before the game's release.",
+    "sources": []
+  },
+  {
+    "title": "The Last Of Us 2: Multiplayer mod announced for PC",
+    "url": "https://www.resetera.com/threads/the-last-of-us-2-multiplayer-mod-announced-for-pc.1556875/",
+    "published": "2026-06-21T23:23:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "pc-hardware",
+      "game-dev",
+      "community",
+      "indie-games"
+    ],
+    "summary": "A fan-made multiplayer mod for The Last of Us 2 is in development for PC with a targeted September 2026 release.",
+    "sources": []
+  },
+  {
+    "title": "Chrono Trigger vs Final Fantasy 7. Which do you prefer?",
+    "url": "https://www.resetera.com/threads/chrono-trigger-vs-final-fantasy-7-which-do-you-prefer.1556857/",
+    "published": "2026-06-21T23:01:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community poll/discussion comparing classic JRPGs Chrono Trigger and Final Fantasy 7, seeking user preferences and opinions.",
+    "sources": []
+  },
+  {
+    "title": "Did you ever deleted another person's save file?",
+    "url": "https://www.resetera.com/threads/did-you-ever-deleted-another-persons-save-file.1556854/",
+    "published": "2026-06-21T23:00:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community",
+      "gaming-history"
+    ],
+    "summary": "Community discussion thread about personal experiences with accidentally or intentionally deleting others' video game save files.",
+    "sources": []
+  },
+  {
+    "title": "POLL: WIll you be preordering GTA VI?",
+    "url": "https://www.resetera.com/threads/poll-will-you-be-preordering-gta-vi.1556845/",
+    "published": "2026-06-21T22:16:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community poll asking whether users plan to preorder Grand Theft Auto VI.",
+    "sources": []
+  },
+  {
+    "title": "Star Fox (2026) |OT| 3.0 You Can (Not) Advance",
+    "url": "https://www.resetera.com/threads/star-fox-2026-ot-3-0-you-can-not-advance.1556842/",
+    "published": "2026-06-21T22:13:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Velan Studios' Star Fox (2026) launches on Nintendo Switch 2 as a rail shooter with single-player campaign and competitive 4v4 multiplayer modes.",
+    "sources": []
+  },
+  {
+    "title": "The game you hate by the developer you love.",
+    "url": "https://www.resetera.com/threads/the-game-you-hate-by-the-developer-you-love.1556812/",
+    "published": "2026-06-21T21:02:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "A community discussion post where a player shares their inability to enjoy Hades despite loving other Supergiant Games titles.",
+    "sources": []
+  },
+  {
+    "title": "Concept Art Thread! (also a guessing game)",
+    "url": "https://www.resetera.com/threads/concept-art-thread-also-a-guessing-game.1556806/",
+    "published": "2026-06-21T20:35:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "A community member initiates a concept art guessing game thread where participants share artwork and attempt to identify the source games.",
+    "sources": []
+  },
+  {
+    "title": "CDPR co-CEO says a wave of games made fully with generative AI are coming, but he's not convinced this is the right path to follow",
+    "url": "https://www.resetera.com/threads/cdpr-co-ceo-says-a-wave-of-games-made-fully-with-generative-ai-are-coming-but-hes-not-convinced-this-is-the-right-path-to-follow.1556803/",
+    "published": "2026-06-21T20:35:15+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "CDPR co-CEO predicts an incoming wave of AI-generated games but expresses skepticism about their viability, noting the economic challenges for mid-tier developers in the AI era.",
+    "sources": []
+  },
+  {
+    "title": "Ocarina of Time Vs. Twilight Princess: Which is Better?",
+    "url": "https://www.resetera.com/threads/ocarina-of-time-vs-twilight-princess-which-is-better.1556773/",
+    "published": "2026-06-21T19:29:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community",
+      "retro"
+    ],
+    "summary": "Community poll comparing Ocarina of Time and Twilight Princess, prompted by rumors of a Switch 2 OoT remake.",
+    "sources": []
+  },
+  {
+    "title": "Do you have a plush of your favorite Pokemon?",
+    "url": "https://www.resetera.com/threads/do-you-have-a-plush-of-your-favorite-pokemon.1556767/",
+    "published": "2026-06-21T19:18:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community"
+    ],
+    "summary": "A community member shares their favorite Pokemon plushies and discusses difficulty finding quality merchandise.",
+    "sources": []
+  },
+  {
+    "title": "US ONLY Woot $380 XFX Swift AMD Radeon RX 9060 XT 16GB OC must use app to receive 20% discount. ($420 without discount)",
+    "url": "https://www.resetera.com/threads/us-only-woot-380-xfx-swift-amd-radeon-rx-9060-xt-16gb-oc-must-use-app-to-receive-20-discount-420-without-discount.1556755/",
+    "published": "2026-06-21T18:45:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Woot offers a discounted AMD Radeon RX 9060 XT graphics card at $380 with app-exclusive 20% discount in the US.",
+    "sources": []
+  },
+  {
+    "title": "Persona 6: Happy or Tragic ending (series spoilers ahead)",
+    "url": "https://www.resetera.com/threads/persona-6-happy-or-tragic-ending-series-spoilers-ahead.1556734/",
+    "published": "2026-06-21T18:10:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Analysis piece speculating about the tone and ending of Persona 6 based on the series' history of varying endings across previous installments.",
+    "sources": []
+  },
+  {
+    "title": "Dark Scrolls (doinksoft) launching tomorrow (Jun 22) for $10 will come with FREE copies of Gato Roboto & Gunbrella ($5 value at current sale prices).",
+    "url": "https://www.resetera.com/threads/dark-scrolls-doinksoft-launching-tomorrow-jun-22-for-10-will-come-with-free-copies-of-gato-roboto-gunbrella-5-value-at-current-sale-prices.1556710/",
+    "published": "2026-06-21T17:25:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Dark Scrolls launches tomorrow with bundled copies of two other indie games included in the $10 purchase.",
+    "sources": []
+  },
+  {
+    "title": "My first brand new Nintendo console in almost 3 decades",
+    "url": "https://www.resetera.com/threads/my-first-brand-new-nintendo-console-in-almost-3-decades.1556698/",
+    "published": "2026-06-21T17:06:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "handheld-gaming"
+    ],
+    "summary": "A user shares their personal experience purchasing a Nintendo Switch 2 for the first time in decades, prompted by a favorable price deal on the console bundle.",
+    "sources": []
+  },
+  {
+    "title": "So we\u2019re all playing Meccha Chameleon right?",
+    "url": "https://www.resetera.com/threads/so-we%E2%80%99re-all-playing-meccha-chameleon-right.1556695/",
+    "published": "2026-06-21T17:02:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Meccha Chameleon, a viral multiplayer game supporting up to 24 players where one hunts camouflaged players, has gained traction on Steam.",
+    "sources": []
+  },
+  {
+    "title": "Happy Father\u2019s Day to all the gaming daddies",
+    "url": "https://www.resetera.com/threads/happy-father%E2%80%99s-day-to-all-the-gaming-daddies.1556659/",
+    "published": "2026-06-21T15:34:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community"
+    ],
+    "summary": "A Father's Day greeting post acknowledging gaming fathers in the community.",
+    "sources": []
+  },
+  {
+    "title": "COMPILE founder Masamitsu \"Moo\" Niitani [Interview] - Rare Glimpse into Classic Japanese Game Development",
+    "url": "https://www.resetera.com/threads/compile-founder-masamitsu-moo-niitani-interview-rare-glimpse-into-classic-japanese-game-development.1556650/",
+    "published": "2026-06-21T14:59:15+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 58,
+    "tags": [
+      "gaming-history",
+      "game-dev",
+      "retro",
+      "community"
+    ],
+    "summary": "Interview with COMPILE founder Masamitsu Niitani provides insights into classic Japanese game development across multiple 80s and 90s console platforms.",
+    "sources": []
+  },
+  {
+    "title": "Metroid Prime 4: Best Federation Trooper Showdown",
+    "url": "https://www.resetera.com/threads/metroid-prime-4-best-federation-trooper-showdown.1556626/",
+    "published": "2026-06-21T14:05:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Opinion piece ranking the Federation Trooper characters introduced in Metroid Prime 4.",
+    "sources": []
+  },
+  {
+    "title": "XBOX Handheld logo appears on official Microsoft game pages",
+    "url": "https://www.resetera.com/threads/xbox-handheld-logo-appears-on-official-microsoft-game-pages.1556620/",
+    "published": "2026-06-21T13:53:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "console-hardware",
+      "handheld-gaming",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Microsoft officially teases an upcoming Xbox Handheld device by displaying its logo on game pages alongside existing platforms.",
+    "sources": []
+  },
+  {
+    "title": "So, I'm a Housemarque fan but I completely missed Saros. What the heck?",
+    "url": "https://www.resetera.com/threads/so-im-a-housemarque-fan-but-i-completely-missed-saros-what-the-heck.1556602/",
+    "published": "2026-06-21T13:22:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "gaming-industry"
+    ],
+    "summary": "Fan discusses missed marketing opportunity for Housemarque's new IP Saros, questioning Sony's promotional strategy and sales performance.",
+    "sources": []
+  },
+  {
+    "title": "Mighty No. 9 was released 10 years ago",
+    "url": "https://www.resetera.com/threads/mighty-no-9-was-released-10-years-ago.1556590/",
+    "published": "2026-06-21T12:58:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Mighty No. 9, the spiritual successor to Mega Man, marked its 10-year anniversary, reflecting on its mixed reception and legacy.",
+    "sources": []
+  },
+  {
+    "title": "10 years of VA-11 Hall-A",
+    "url": "https://www.resetera.com/threads/10-years-of-va-11-hall-a.1556566/",
+    "published": "2026-06-21T10:26:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Indie cyberpunk visual novel VA-11 Hall-A celebrates its 10th anniversary with developer Sukeban Games marking the milestone.",
+    "sources": []
+  },
+  {
+    "title": "SMTI and II deserve modern remakes or at least...ports",
+    "url": "https://www.resetera.com/threads/smti-and-ii-deserve-modern-remakes-or-at-least-ports.1556545/",
+    "published": "2026-06-21T09:52:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-dev",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Fan discusses the lack of modern ports or remakes for Shin Megami Tensei I and II, noting localization and accessibility issues.",
+    "sources": []
+  },
+  {
+    "title": "Leaked price on portuguese retailer website for GTA VI (Fnac)",
+    "url": "https://www.resetera.com/threads/leaked-price-on-portuguese-retailer-website-for-gta-vi-fnac.1556536/",
+    "published": "2026-06-21T09:25:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Portuguese retailer FNAC leaked GTA VI pricing ranging from \u20ac89.99 to \u20ac199.99 for multiple editions ahead of official announcement.",
+    "sources": []
+  },
+  {
+    "title": "Two Point Studios 10 year announcements - Hospital for console (SW2, XBOX X/S, PS5),  more DLC and... short movies?",
+    "url": "https://www.resetera.com/threads/two-point-studios-10-year-announcements-hospital-for-console-sw2-xbox-x-s-ps5-more-dlc-and-short-movies.1556527/",
+    "published": "2026-06-21T08:19:15+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "Two Point Studios announces 10-year milestone plans including Two Point Hospital coming to current-gen consoles, additional DLC, and expansion into short films.",
+    "sources": []
+  },
+  {
+    "title": "Place your bets: Will GTA6 Trailer 3 be captured on PS5 Pro?",
+    "url": "https://www.resetera.com/threads/place-your-bets-will-gta6-trailer-3-be-captured-on-ps5-pro.1556509/",
+    "published": "2026-06-21T06:19:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Speculation about whether GTA6's next trailer will be captured on PS5 Pro rather than standard PS5, tied to upcoming pre-order and marketing announcements.",
+    "sources": []
+  },
+  {
+    "title": "Game Changer: Sonic The Hedgehog - 35 Years Ago, A Short-But-Sweet Love Affair Was Born",
+    "url": "https://www.timeextension.com/features/game-changer-sonic-the-hedgehog-35-years-ago-a-short-but-sweet-love-affair-was-born",
+    "published": "2026-06-21T14:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "retro"
+    ],
+    "summary": "Retrospective celebrating Sonic the Hedgehog's 35-year legacy and cultural impact as one of gaming's most iconic characters.",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (June 21st 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-june-21st-2026",
+    "published": "2026-06-21T11:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "gaming-history"
+    ],
+    "summary": "Weekly roundup of retro gaming news covering Commodore phone, Sonic the Comic, and Earthbound-related stories.",
+    "sources": []
+  },
+  {
+    "title": "Proton Experimental Update Fixes Metal Gear Solid 5, HITMAN, Legend of Mana, And More",
+    "url": "https://steamdeckhq.com/news/proton-experimental-update-metal-gear-solid-5-2/",
+    "published": "2026-06-21T13:45:02+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 58,
+    "tags": [
+      "proton",
+      "steam-deck",
+      "linux-gaming",
+      "steam-platform"
+    ],
+    "summary": "Proton Experimental update brings compatibility fixes for Metal Gear Solid 5, HITMAN, Legend of Mana, and other titles.",
+    "sources": []
+  },
+  {
+    "title": "Small New SteamOS Update Fixes Virtual Keyboard On Desktop Mode Lockscreen",
+    "url": "https://steamdeckhq.com/news/small-new-steamos-update-fixes-virtual-keyboard-at-desktop-mode-lockscreen/",
+    "published": "2026-06-21T12:31:21+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "steam-platform"
+    ],
+    "summary": "SteamOS receives a minor update addressing a virtual keyboard accessibility issue on the desktop mode lockscreen.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with Thank You For Your Application - 2026-06-20 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-06-20-edition/index.html",
+    "published": "2026-06-21T13:17:26+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Weekly roundup of 6 newly verified or playable Steam Deck games, highlighting Thank You for Your Application as a Papers Please-like indie title.",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-815",
+    "published": "2026-06-21T10:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "A reflective column about Sunday leisure time, football, and momentary observations during a penalty kick.",
+    "sources": []
+  },
+  {
+    "title": "Rumour: GTA 6 Price Potentially Leaked by European Retailer",
+    "url": "https://www.pushsquare.com/news/2026/06/rumour-gta-6-price-potentially-leaked-by-european-retailer",
+    "published": "2026-06-21T18:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 52,
+    "tags": [
+      "gaming-news",
+      "leaks",
+      "gaming-industry"
+    ],
+    "summary": "A European retailer's website may have accidentally revealed GTA 6 pricing and SKU details ahead of the official pre-order announcement.",
+    "sources": []
+  },
+  {
+    "title": "PS5 Maker Admits First-Party Single Player Games Are Its 'Core Strength'",
+    "url": "https://www.pushsquare.com/news/2026/06/ps5-maker-admits-first-party-single-player-games-are-its-core-strength",
+    "published": "2026-06-21T13:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 52,
+    "tags": [
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Sony acknowledges that single-player games are PlayStation's core strength while maintaining some live service investment, with upcoming titles like God of War Laufey and Marvel's Wolverine in development.",
+    "sources": []
+  },
+  {
+    "title": "Sony May Mitigate Hardware Pricing Nightmare by Simply Selling Fewer PS5s",
+    "url": "https://www.pushsquare.com/news/2026/06/sony-may-mitigate-hardware-pricing-nightmare-by-simply-selling-fewer-ps5s",
+    "published": "2026-06-21T13:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 55,
+    "tags": [
+      "console-hardware",
+      "gaming-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Sony faces hardware pricing challenges affecting PS5 sales, with industry-wide price hike impacts also affecting competitors like Switch 2, Xbox, and Steam Deck.",
+    "sources": []
+  },
+  {
+    "title": "Halo PS5 Backtracks PS Plus Co-Op Demands, Says They Were a Mistake",
+    "url": "https://www.pushsquare.com/news/2026/06/halo-ps5-backtracks-ps-plus-co-op-demands-says-they-were-a-mistake",
+    "published": "2026-06-21T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "community"
+    ],
+    "summary": "Halo: Combat Evolved on PS5 requires both players to have PlayStation Plus subscriptions for local split-screen co-op, despite being an offline mode.",
+    "sources": []
+  }
+]
