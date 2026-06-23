@@ -1,0 +1,2228 @@
+[
+  {
+    "title": "Steam Machine pricing and launch announced and yes it's pricey",
+    "url": "https://www.gamingonlinux.com/2026/06/steam-machine-pricing-and-launch-announced-and-yes-its-pricey/",
+    "published": "2026-06-22T17:21:46+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 75,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "linux-gaming",
+      "gaming-hardware",
+      "console-hardware"
+    ],
+    "summary": "Valve announces Steam Machine pricing, positioning it as a premium Linux-based gaming device despite high costs.",
+    "sources": []
+  },
+  {
+    "title": "AMD release FSR Upscaling 4.1 for Radeon RX 7000 series / RDNA 3",
+    "url": "https://www.gamingonlinux.com/2026/06/amd-release-fsr-upscaling-4-1-for-radeon-rx-7000-series-rdna-3/",
+    "published": "2026-06-22T14:45:07+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 62,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware",
+      "gaming-news"
+    ],
+    "summary": "AMD releases FSR Upscaling 4.1 for Radeon RX 7000 series graphics cards, enabling improved performance and image quality for compatible games.",
+    "sources": []
+  },
+  {
+    "title": "MECCHA CHAMELEON is a hide-and-seek body painting game taking over Steam",
+    "url": "https://www.gamingonlinux.com/2026/06/meccha-chameleon-is-a-hide-and-seek-body-painting-game-taking-over-steam/",
+    "published": "2026-06-22T11:30:39+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "MECCHA CHAMELEON, a novel hide-and-seek game featuring body painting mechanics for camouflage, is gaining significant traction on Steam.",
+    "sources": []
+  },
+  {
+    "title": "Morrowind game engine OpenMW 0.51 released with modding and gamepad improvements",
+    "url": "https://www.gamingonlinux.com/2026/06/morrowind-game-engine-openmw-0-51-released-with-modding-and-gamepad-improvements/",
+    "published": "2026-06-22T09:14:10+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "open-source",
+      "game-dev",
+      "linux-gaming",
+      "retro",
+      "community"
+    ],
+    "summary": "OpenMW 0.51 releases with improvements to modding support and gamepad functionality for the open-source Morrowind engine.",
+    "sources": []
+  },
+  {
+    "title": "ScummVM 2026.3.0 brings more classic games to modern platforms",
+    "url": "https://www.gamingonlinux.com/2026/06/scummvm-2026-3-0-brings-more-classic-games-to-modern-platforms/",
+    "published": "2026-06-22T08:58:43+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 52,
+    "tags": [
+      "emulation",
+      "retro",
+      "open-source",
+      "game-discovery",
+      "linux-gaming"
+    ],
+    "summary": "ScummVM 2026.3.0 releases with expanded support for classic games on modern platforms.",
+    "sources": []
+  },
+  {
+    "title": "DLSS Updater 4.2.0 brings improved Linux support",
+    "url": "https://www.gamingonlinux.com/2026/06/dlss-updater-4-2-0-brings-improved-linux-support/",
+    "published": "2026-06-22T08:33:36+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "DLSS Updater 4.2.0 releases with improved Linux support and security updates.",
+    "sources": []
+  },
+  {
+    "title": "The AI warning for Steam browser plugin adds Steam search filtering",
+    "url": "https://www.gamingonlinux.com/2026/06/the-ai-warning-for-steam-browser-plugin-adds-steam-search-filtering/",
+    "published": "2026-06-22T08:07:05+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A Steam browser plugin has been updated to make it easier for users to filter out games using generative AI, providing more control over game discovery.",
+    "sources": []
+  },
+  {
+    "title": "dbrand Steam Machine Companion Cube case now up for pre-order",
+    "url": "https://www.gamingonlinux.com/2026/06/dbrand-steam-machine-companion-cube-case-now-up-for-pre-order/",
+    "published": "2026-06-22T07:44:46+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-deck",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "dbrand has opened pre-orders for a Steam Machine-themed Companion Cube case with full pricing and specifications revealed.",
+    "sources": []
+  },
+  {
+    "title": "The open source NVIDIA Vulkan driver (NVK) now has experimental DLSS support",
+    "url": "https://www.gamingonlinux.com/2026/06/the-open-source-nvidia-vulkan-driver-nvk-now-has-experimental-dlss-support/",
+    "published": "2026-06-22T07:22:46+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 72,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "nvidia",
+      "vulkan",
+      "dlss"
+    ],
+    "summary": "The open-source NVK Vulkan driver for Linux gains experimental DLSS support, expanding Linux gaming capabilities with hardware-accelerated upscaling technology.",
+    "sources": []
+  },
+  {
+    "title": "USB4STREAM Merged For Linux 7.2 To Quickly Send Data Between USB4 Connected Systems",
+    "url": "https://www.phoronix.com/news/USB4STREAM-In-Linux-7.2",
+    "published": "2026-06-22T21:00:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "pc-hardware"
+    ],
+    "summary": "USB4STREAM merged into Linux 7.2 kernel enables faster data transfers between USB4-connected systems with low latency capabilities.",
+    "sources": []
+  },
+  {
+    "title": "Intel Optimization Zone 1.1 Lays Out Tuning Recommendations For More Workloads",
+    "url": "https://www.phoronix.com/news/Intel-Optimization-Zone-1.1",
+    "published": "2026-06-22T18:45:09+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "pc-hardware",
+      "game-dev"
+    ],
+    "summary": "Intel releases Optimization Zone 1.1 with expanded tuning recommendations for more workloads on Intel hardware.",
+    "sources": []
+  },
+  {
+    "title": "Steam Machine Launches, Priced $1049 To $1428 USD",
+    "url": "https://www.phoronix.com/news/Steam-Machine-1049",
+    "published": "2026-06-22T17:33:59+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 75,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "linux-gaming",
+      "gaming-hardware",
+      "pc-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Valve announces Steam Machine pricing ranging from $1049 to $1428 USD for their SteamOS-based living room PC.",
+    "sources": []
+  },
+  {
+    "title": "Benchmarking Bcachefs 1.38.6: The First Release No Longer \"Experimental\"",
+    "url": "https://www.phoronix.com/review/bcachefs-1386",
+    "published": "2026-06-22T15:30:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "Bcachefs 1.38.6 reaches production-ready status with performance improvements, though its gaming relevance is indirect through Linux infrastructure.",
+    "sources": []
+  },
+  {
+    "title": "Xfce Wayland Compositor Sees First Preview/Alpha Release",
+    "url": "https://www.phoronix.com/news/Xfwl4-First-Release",
+    "published": "2026-06-22T14:37:10+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Xfce's new Wayland compositor Xfwl4 reaches its first alpha preview release after six months of development.",
+    "sources": []
+  },
+  {
+    "title": "Linux Finally Lands Battery/Charger Driver For 14 Year Old Microsoft Surface RT Tablet",
+    "url": "https://www.phoronix.com/news/Linux-Surface-RT-Charger-Driver",
+    "published": "2026-06-22T14:09:23+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source",
+      "gaming-hardware"
+    ],
+    "summary": "After 14 years, Linux kernel gains battery/charger driver support for the original Microsoft Surface RT tablet.",
+    "sources": []
+  },
+  {
+    "title": "AMD Updates ROCDXG To Deliver Better ROCm Experience On WSL",
+    "url": "https://www.phoronix.com/news/AMD-librocdxg-1.2.1",
+    "published": "2026-06-22T12:53:05+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "amd",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "AMD releases an updated ROCDXG library to improve ROCm compute stack performance on Windows Subsystem for Linux.",
+    "sources": []
+  },
+  {
+    "title": "Miracle-WM Mir-Based Wayland Compositor Aiming For v1.0 Later This Year",
+    "url": "https://www.phoronix.com/news/Miracle-WM-0.10",
+    "published": "2026-06-22T11:12:01+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "linux-hardware"
+    ],
+    "summary": "Miracle-WM, a Mir-based Wayland compositor, releases v0.10 with plans to reach v1.0 later in 2024.",
+    "sources": []
+  },
+  {
+    "title": "Valve Creates The Ray-Tracing Inspector \"RTI\" To Help Further Optimize Linux GPU Drivers",
+    "url": "https://www.phoronix.com/news/Mesa-Ray-Tracing-Inspector-RTI",
+    "published": "2026-06-22T10:33:33+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 72,
+    "tags": [
+      "valve",
+      "linux-gaming",
+      "open-source",
+      "pc-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Valve has created the Ray-Tracing Inspector (RTI) tool for Mesa 26.1 to help optimize Vulkan ray-tracing performance on Linux graphics drivers for better Steam Play compatibility.",
+    "sources": []
+  },
+  {
+    "title": "OneXPlayer Configuration Driver Merged For Linux 7.2 Along With Other New Hardware",
+    "url": "https://www.phoronix.com/news/Linux-7.2-HID",
+    "published": "2026-06-22T10:18:28+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 62,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "handheld-gaming",
+      "gaming-hardware"
+    ],
+    "summary": "OneXPlayer configuration driver merged into Linux 7.2 kernel with HID subsystem updates, improving handheld gaming device support on Linux.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.2 sched_ext Continues Working Toward Sub-Scheduler Support",
+    "url": "https://www.phoronix.com/news/Linux-7.2-sched-ext",
+    "published": "2026-06-22T09:59:21+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "Linux 7.2 kernel advances sched_ext extensible scheduler support with improved BPF-based sub-scheduler capabilities.",
+    "sources": []
+  },
+  {
+    "title": "Horror \"spot the difference\" game Japan Stigmatized Property 3 might be delayed or canceled",
+    "url": "https://www.resetera.com/threads/horror-spot-the-difference-game-japan-stigmatized-property-3-might-be-delayed-or-canceled.1558036/",
+    "published": "2026-06-23T04:32:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Japanese indie developer Loxarc announces potential delay or cancellation of horror game Japan Stigmatized Property 3, originally scheduled for August 2026.",
+    "sources": []
+  },
+  {
+    "title": "Call of Duty x Persona 5: Royal....?",
+    "url": "https://www.resetera.com/threads/call-of-duty-x-persona-5-royal.1558024/",
+    "published": "2026-06-23T03:53:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "A leaked video suggests a crossover collaboration between Call of Duty and Persona 5: Royal, though details remain unconfirmed.",
+    "sources": []
+  },
+  {
+    "title": "Capcom Spotlight announced for June 25 at 2pm PT. Focused on Monster Hunter Stories 3: Twisted Reflection, Dragon's Dogma 2: Dark Arisen, and Onimusha",
+    "url": "https://www.resetera.com/threads/capcom-spotlight-announced-for-june-25-at-2pm-pt-focused-on-monster-hunter-stories-3-twisted-reflection-dragons-dogma-2-dark-arisen-and-onimusha.1557991/",
+    "published": "2026-06-23T02:10:37+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Capcom announces a June 25 Spotlight presentation covering Monster Hunter Stories 3, Dragon's Dogma 2: Dark Arisen, and Onimusha: Way of the Sword.",
+    "sources": []
+  },
+  {
+    "title": "MSI's product marketing lead says there's \"much room for another price hike\" in the handheld PC market; these devices should be targeting power users",
+    "url": "https://www.resetera.com/threads/msis-product-marketing-lead-says-theres-much-room-for-another-price-hike-in-the-handheld-pc-market-these-devices-should-be-targeting-power-users.1557988/",
+    "published": "2026-06-23T01:57:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "handheld-gaming",
+      "gaming-hardware",
+      "pc-hardware",
+      "gaming-industry"
+    ],
+    "summary": "MSI's marketing lead suggests handheld PC market has room for further price increases, positioning premium devices like the $1,800 Claw 8 EX AI+ toward power users rather than mainstream consumers.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo Music breaks Jawmuncher\u2019s Sanity, adds Mario Kart World Free Roam SM64, MK64, and Yoshi\u2019s Story tracks.",
+    "url": "https://www.resetera.com/threads/nintendo-music-breaks-jawmuncher%E2%80%99s-sanity-adds-mario-kart-world-free-roam-sm64-mk64-and-yoshi%E2%80%99s-story-tracks.1557979/",
+    "published": "2026-06-23T01:49:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Nintendo Music adds Mario Kart World Free Roam tracks from classic games, with a community member jokingly citing the confusion as reason for delaying Dino Crisis Remake coverage.",
+    "sources": []
+  },
+  {
+    "title": "Rhythm Heaven Groove demo out now",
+    "url": "https://www.resetera.com/threads/rhythm-heaven-groove-demo-out-now.1557964/",
+    "published": "2026-06-23T01:19:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "A demo for Rhythm Heaven Groove is now available on the Nintendo eShop.",
+    "sources": []
+  },
+  {
+    "title": "Are you happy with Nintendo Music replacing GC Virtual Console Titles on NSO?",
+    "url": "https://www.resetera.com/threads/are-you-happy-with-nintendo-music-replacing-gc-virtual-console-titles-on-nso.1557958/",
+    "published": "2026-06-23T01:16:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "nintendo",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion speculates that Nintendo Music subscription may have replaced GameCube Virtual Console releases on Nintendo Switch Online.",
+    "sources": []
+  },
+  {
+    "title": "Rain98 is a lo-fi psycho-thriller romance adventure with amazing vibes (2026 release)",
+    "url": "https://www.resetera.com/threads/rain98-is-a-lo-fi-psycho-thriller-romance-adventure-with-amazing-vibes-2026-release.1557940/",
+    "published": "2026-06-23T01:06:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "game-dev"
+    ],
+    "summary": "Rain98, an upcoming lo-fi psycho-thriller romance adventure, explores themes of anxiety and fear with a planned 2026 release.",
+    "sources": []
+  },
+  {
+    "title": "Most garbage companion",
+    "url": "https://www.resetera.com/threads/most-garbage-companion.1557931/",
+    "published": "2026-06-23T00:43:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Player shares frustration about an annoying companion character in indie game 'The Adventures of Elliot' due to excessive and repetitive dialogue.",
+    "sources": []
+  },
+  {
+    "title": "Show me a teaser for a dead/canceled game that lives in your head rent free.",
+    "url": "https://www.resetera.com/threads/show-me-a-teaser-for-a-dead-canceled-game-that-lives-in-your-head-rent-free.1557925/",
+    "published": "2026-06-23T00:04:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "community",
+      "game-dev"
+    ],
+    "summary": "Community discussion thread about canceled games, featuring teasers for projects from the Fabula Nova Crystallis franchise that never materialized.",
+    "sources": []
+  },
+  {
+    "title": "Did Nintendo FIRE this man?!",
+    "url": "https://www.resetera.com/threads/did-nintendo-fire-this-man.1557922/",
+    "published": "2026-06-22T23:59:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "fan-made",
+      "zelda",
+      "game-dev"
+    ],
+    "summary": "YouTuber CryZENx has abandoned a decade-long fan-made Unreal Engine remake of The Legend of Zelda: Ocarina of Time, likely due to cease-and-desist pressure from Nintendo.",
+    "sources": []
+  },
+  {
+    "title": "Shin Megami Tensei 70% off (20 usd) on PSN Mid-Year sale + many others",
+    "url": "https://www.resetera.com/threads/shin-megami-tensei-70-off-20-usd-on-psn-mid-year-sale-many-others.1557910/",
+    "published": "2026-06-22T23:24:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "PlayStation Network's mid-year sale features steep discounts on major titles including Shin Megami Tensei V, Final Fantasy VII Rebirth, and other popular games.",
+    "sources": []
+  },
+  {
+    "title": "The often forgotten difficulty in playing old gta games at their best without a pc is worth discussing",
+    "url": "https://www.resetera.com/threads/the-often-forgotten-difficulty-in-playing-old-gta-games-at-their-best-without-a-pc-is-worth-discussing.1557907/",
+    "published": "2026-06-22T23:15:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "console-hardware"
+    ],
+    "summary": "A discussion of the challenges in playing classic Grand Theft Auto games at their best, highlighting licensing issues and removed content in remasters and backward-compatible versions.",
+    "sources": []
+  },
+  {
+    "title": "4-Pack $25 Nintendo eShop and Playstation Digital Gift Cards - $85 for Costco Members",
+    "url": "https://www.resetera.com/threads/4-pack-25-nintendo-eshop-and-playstation-digital-gift-cards-85-for-costco-members.1557901/",
+    "published": "2026-06-22T23:07:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Costco is offering discounted bundles of Nintendo eShop and PlayStation digital gift cards at $85 for a 4-pack through June 26th.",
+    "sources": []
+  },
+  {
+    "title": "Is Persona 5 going to beat Final Fantasy VII(OG) and become the best selling JRPG?",
+    "url": "https://www.resetera.com/threads/is-persona-5-going-to-beat-final-fantasy-vii-og-and-become-the-best-selling-jrpg.1557892/",
+    "published": "2026-06-22T22:49:15+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 52,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Persona 5 Royal has sold 8.7M copies, bringing the Persona 5 franchise to approximately 12M total sales, approaching but not yet surpassing Final Fantasy VII's 15.5M sales record.",
+    "sources": []
+  },
+  {
+    "title": "What is the UGLIEST game?",
+    "url": "https://www.resetera.com/threads/what-is-the-ugliest-game.1557880/",
+    "published": "2026-06-22T22:38:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion thread asking users to share and discuss games with poor or unappealing visual aesthetics.",
+    "sources": []
+  },
+  {
+    "title": "any primary console owners going to pick up a Steam machine to test the waters in PC gaming?",
+    "url": "https://www.resetera.com/threads/any-primary-console-owners-going-to-pick-up-a-steam-machine-to-test-the-waters-in-pc-gaming.1557877/",
+    "published": "2026-06-22T22:37:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "handheld-gaming",
+      "pc-hardware",
+      "community"
+    ],
+    "summary": "Community discussion about Steam Deck as an entry point for console gamers into PC gaming, with concerns about pricing.",
+    "sources": []
+  },
+  {
+    "title": "Where have all the pool/snooker/billiards games gone?!",
+    "url": "https://www.resetera.com/threads/where-have-all-the-pool-snooker-billiards-games-gone.1557862/",
+    "published": "2026-06-22T22:05:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-history"
+    ],
+    "summary": "Community discussion lamenting the disappearance of quality pool and snooker games from the market since the mid-2010s.",
+    "sources": []
+  },
+  {
+    "title": "So with all the Steam Machine/Valve stuff today, I got the itch to convert my secondary PC to a Linux machine... Bazzite experiences?",
+    "url": "https://www.resetera.com/threads/so-with-all-the-steam-machine-valve-stuff-today-i-got-the-itch-to-convert-my-secondary-pc-to-a-linux-machine-bazzite-experiences.1557856/",
+    "published": "2026-06-22T22:02:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "linux-gaming",
+      "community"
+    ],
+    "summary": "User seeks community experiences and advice about converting a secondary PC to Bazzite Linux for gaming.",
+    "sources": []
+  },
+  {
+    "title": "[Jason Schreier] Why Everyone Wants A 'Live-Service' Game",
+    "url": "https://www.resetera.com/threads/jason-schreier-why-everyone-wants-a-live-service-game.1557850/",
+    "published": "2026-06-22T21:51:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Jason Schreier explores why game companies are increasingly focused on live-service games as a risk mitigation strategy.",
+    "sources": []
+  },
+  {
+    "title": "The Nintendo 64 was released 30 years ago (June 23, 1996)",
+    "url": "https://www.resetera.com/threads/the-nintendo-64-was-released-30-years-ago-june-23-1996.1557847/",
+    "published": "2026-06-22T21:49:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "console-hardware",
+      "nintendo"
+    ],
+    "summary": "Nintendo 64 marks its 30th anniversary since its June 23, 1996 launch, celebrating the influential console that brought iconic franchises like The Legend of Zelda: Ocarina of Time, Animal Crossing, and Super Smash Bros. to market.",
+    "sources": []
+  },
+  {
+    "title": "Todd Howard says that Marvel's BLADE is still happening [UP: Quote might be outdated]",
+    "url": "https://www.resetera.com/threads/todd-howard-says-that-marvels-blade-is-still-happening-up-quote-might-be-outdated.1557787/",
+    "published": "2026-06-22T20:38:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Todd Howard confirms Marvel's Blade game is still in development at Arkane Studios, though his May 2024 quote predates recent Xbox organizational changes.",
+    "sources": []
+  },
+  {
+    "title": "EVR Studio, the Korean development studio behind \"MUDANG: Two Hearts\", has seemingly gone bankrupt",
+    "url": "https://www.resetera.com/threads/evr-studio-the-korean-development-studio-behind-mudang-two-hearts-has-seemingly-gone-bankrupt.1557775/",
+    "published": "2026-06-22T20:22:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Korean developer EVR Studio, creator of the Xbox-showcased game MUDANG: Two Hearts, has reportedly gone bankrupt.",
+    "sources": []
+  },
+  {
+    "title": "SOME Steam Machines have one 16GB DDR5 stick rather than two 8GB due to sourcing issues; single channel could cause performance penalty in some titles",
+    "url": "https://www.resetera.com/threads/some-steam-machines-have-one-16gb-ddr5-stick-rather-than-two-8gb-due-to-sourcing-issues-single-channel-could-cause-performance-penalty-in-some-titles.1557751/",
+    "published": "2026-06-22T20:09:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "gaming-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Some Steam Machines shipped with a single 16GB DDR5 RAM stick instead of dual 8GB due to sourcing constraints, potentially impacting performance in certain games that benefit from dual-channel memory.",
+    "sources": []
+  },
+  {
+    "title": "Sonic 35th Birthday livestream happening June 23rd at 9:30 AM PT. Who knows what we'll see.",
+    "url": "https://www.resetera.com/threads/sonic-35th-birthday-livestream-happening-june-23rd-at-9-30-am-pt-who-knows-what-well-see.1557694/",
+    "published": "2026-06-22T19:04:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Sonic the Hedgehog will celebrate its 35th anniversary with a livestream event on June 23rd featuring influencers and fans.",
+    "sources": []
+  },
+  {
+    "title": "Dbrand and Valve collaboration - and a potential teaser at the end\u2026",
+    "url": "https://www.resetera.com/threads/dbrand-and-valve-collaboration-and-a-potential-teaser-at-the-end%E2%80%A6.1557691/",
+    "published": "2026-06-22T18:58:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "Dbrand and Valve collaboration announcement with cryptic teasing of potential future product or accessory, sparking community speculation.",
+    "sources": []
+  },
+  {
+    "title": "Dimhaven: The Lost Source |OT| New Myst-like from the makers of Quern (demo available!)",
+    "url": "https://www.resetera.com/threads/dimhaven-the-lost-source-ot-new-myst-like-from-the-makers-of-quern-demo-available.1557688/",
+    "published": "2026-06-22T18:52:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Dimhaven, a new Myst-like puzzle adventure game from the makers of Quern, is announced with a demo now available.",
+    "sources": []
+  },
+  {
+    "title": "Bohemia Interactive releases ArmA: Cold War Assault Remastered demo + source code for 25th anniversary",
+    "url": "https://www.resetera.com/threads/bohemia-interactive-releases-arma-cold-war-assault-remastered-demo-source-code-for-25th-anniversary.1557685/",
+    "published": "2026-06-22T18:43:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-history",
+      "gaming-news",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "Bohemia Interactive releases remastered demo and source code for ArmA: Cold War Assault on its 25th anniversary, featuring widescreen support and improved modern hardware compatibility.",
+    "sources": []
+  },
+  {
+    "title": "Valve implies the Steam Machine was originally going to be priced around ~$800, before the memory and storage cost crisis",
+    "url": "https://www.resetera.com/threads/valve-implies-the-steam-machine-was-originally-going-to-be-priced-around-800-before-the-memory-and-storage-cost-crisis.1557649/",
+    "published": "2026-06-22T18:31:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Valve reveals Steam Machine was originally planned to cost around $800 before memory and storage cost increases drove the price up to $1,049.",
+    "sources": []
+  },
+  {
+    "title": "Square Enix managing to destroy Deus Ex and Sleeping Dogs is still one of more baffling things they did",
+    "url": "https://www.resetera.com/threads/square-enix-managing-to-destroy-deus-ex-and-sleeping-dogs-is-still-one-of-more-baffling-things-they-did.1557646/",
+    "published": "2026-06-22T18:26:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Opinion piece reflecting on Square Enix's mismanagement of the Deus Ex and Sleeping Dogs franchises and the resulting void in their respective genres.",
+    "sources": []
+  },
+  {
+    "title": "A Microsoft researcher built a goat-powered LLM in Age of Empires II to prove it's not sentient",
+    "url": "https://www.resetera.com/threads/a-microsoft-researcher-built-a-goat-powered-llm-in-age-of-empires-ii-to-prove-its-not-sentient.1557643/",
+    "published": "2026-06-22T18:26:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "A Microsoft researcher used Age of Empires II and goats to demonstrate a creative argument about LLM sentience, blending game mechanics with AI philosophy.",
+    "sources": []
+  },
+  {
+    "title": "Starting with the SteamOS 3.8 release, you can put together your own Steam Machine using whatever PC parts you want.",
+    "url": "https://www.resetera.com/threads/starting-with-the-steamos-3-8-release-you-can-put-together-your-own-steam-machine-using-whatever-pc-parts-you-want.1557589/",
+    "published": "2026-06-22T17:59:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "steam-platform",
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "SteamOS 3.8 now allows users to build custom Steam Machines using standard PC components, expanding Valve's ecosystem beyond official hardware.",
+    "sources": []
+  },
+  {
+    "title": "[TheVerge] Valve will finally let you build your own Steam Machine with SteamOS for desktop",
+    "url": "https://www.resetera.com/threads/theverge-valve-will-finally-let-you-build-your-own-steam-machine-with-steamos-for-desktop.1557583/",
+    "published": "2026-06-22T17:58:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Valve enables users to build custom Steam Machines with SteamOS 3.8, expanding desktop PC gaming options beyond official hardware.",
+    "sources": []
+  },
+  {
+    "title": "How many games did you play during Next Fest?",
+    "url": "https://www.resetera.com/threads/how-many-games-did-you-play-during-next-fest.1557580/",
+    "published": "2026-06-22T17:49:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community discussion post about Steam Next Fest participation, asking users to share their play count and top discoveries.",
+    "sources": []
+  },
+  {
+    "title": "[TheVerge] Valve explains why it isn\u2019t subsidizing the Steam Machine",
+    "url": "https://www.resetera.com/threads/theverge-valve-explains-why-it-isn%E2%80%99t-subsidizing-the-steam-machine.1557514/",
+    "published": "2026-06-22T17:37:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Valve explains its philosophy against subsidizing Steam Machine hardware, emphasizing open ecosystems over the closed console model of selling hardware at a loss.",
+    "sources": []
+  },
+  {
+    "title": "Characters whose popularity outstrips the system they're on",
+    "url": "https://www.resetera.com/threads/characters-whose-popularity-outstrips-the-system-theyre-on.1557508/",
+    "published": "2026-06-22T17:19:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Discussion exploring how certain video game characters gain popularity that exceeds their original platform or franchise, using Super Robot Wars model kit announcements as an example.",
+    "sources": []
+  },
+  {
+    "title": "Should Ocarina of Time Remake show what happens at the castle after Link gets all three Spiritual Stones",
+    "url": "https://www.resetera.com/threads/should-ocarina-of-time-remake-show-what-happens-at-the-castle-after-link-gets-all-three-spiritual-stones.1557436/",
+    "published": "2026-06-22T17:08:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Community discussion about whether a potential Ocarina of Time remake should show additional story content regarding the Castle's fate after Ganondorf's takeover.",
+    "sources": []
+  },
+  {
+    "title": "Steam Machine - Review Thread",
+    "url": "https://www.resetera.com/threads/steam-machine-review-thread.1557433/",
+    "published": "2026-06-22T17:04:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "steam-platform",
+      "gaming-hardware",
+      "gaming-news"
+    ],
+    "summary": "Collection of review videos and articles about Steam Machine from various tech and gaming outlets.",
+    "sources": []
+  },
+  {
+    "title": "IGN - BREAKING: The pricing for Valve's Steam Machine has finally been revealed, with the 512GB starting at $1049 without a controller (1349$ 2TB)",
+    "url": "https://www.resetera.com/threads/ign-breaking-the-pricing-for-valves-steam-machine-has-finally-been-revealed-with-the-512gb-starting-at-1049-without-a-controller-1349-2tb.1557427/",
+    "published": "2026-06-22T17:02:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "steam-platform",
+      "valve",
+      "gaming-hardware",
+      "handheld-gaming",
+      "gaming-news"
+    ],
+    "summary": "Valve announces Steam Machine pricing starting at $1049 for 512GB model, marking a significant entry into the dedicated gaming hardware market.",
+    "sources": []
+  },
+  {
+    "title": "Kojima Productions\u2019 OD: New Screenshot and short interview",
+    "url": "https://www.resetera.com/threads/kojima-productions%E2%80%99-od-new-screenshot-and-short-interview.1557424/",
+    "published": "2026-06-22T16:56:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Kojima Productions shares new screenshot and brief interview details about OD during Xbox's 25th anniversary coverage, with updates on production involving Hunter Schafer and late actor Norman Reedus's involvement.",
+    "sources": []
+  },
+  {
+    "title": "Retroid Announces The Retroid Pocket Nova, A New 4:3 \"Modern OLED\" Handheld",
+    "url": "https://www.timeextension.com/news/2026/06/retroid-announces-the-retroid-pocket-nova-a-new-43-modern-oled-handheld",
+    "published": "2026-06-22T17:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "handheld-gaming",
+      "emulation",
+      "gaming-hardware"
+    ],
+    "summary": "Retroid announces the Pocket Nova, a new 4:3 OLED handheld emulation device designed to improve upon the previous Pocket Mini.",
+    "sources": []
+  },
+  {
+    "title": "Unreleased Football Title 'Premier Eleven' Is Finally Playable On Dreamcast, Just In Time For The World Cup",
+    "url": "https://www.timeextension.com/news/2026/06/unreleased-football-title-premier-eleven-is-finally-playable-on-dreamcast-just-in-time-for-the-world-cup",
+    "published": "2026-06-22T16:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "retro",
+      "emulation",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "An unreleased Dreamcast-based football game 'Premier Eleven' has been preserved and made playable through community emulation efforts, coinciding with the 2026 World Cup.",
+    "sources": []
+  },
+  {
+    "title": "\"I No Longer Wish To Spend My Limited Free Time Dealing With Negativity\" - Sega Mania Kills Sonic The Comic AI Fan Remaster",
+    "url": "https://www.timeextension.com/news/2026/06/i-no-longer-wish-to-spend-my-limited-free-time-dealing-with-negativity-sega-mania-kills-sonic-the-comic-ai-fan-remaster",
+    "published": "2026-06-22T13:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-community",
+      "retro",
+      "ai-generated-content"
+    ],
+    "summary": "A Sonic the Comic AI fan remaster project was cancelled after community backlash over its use of generative AI, with creators citing negativity from a small group of critics.",
+    "sources": []
+  },
+  {
+    "title": "\"No Generative AI Used In This Project\" - Wallop The Wallaby Is Coming To The Genesis / Mega Drive Soon",
+    "url": "https://www.timeextension.com/news/2026/06/no-generative-ai-used-in-this-project-wallop-the-wallaby-is-coming-to-the-genesis-mega-drive-soon",
+    "published": "2026-06-22T13:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "retro",
+      "console-hardware",
+      "game-dev"
+    ],
+    "summary": "I Heart Pizza announces Wallop The Wallaby, a new authentic 16-bit Genesis/Mega Drive game from developer Sikthehedgehog, coming to modern systems as well.",
+    "sources": []
+  },
+  {
+    "title": "Review: EverDrive GBA Pro - Praise The Sun!",
+    "url": "https://www.timeextension.com/reviews/everdrive-gba-pro-praise-the-sun",
+    "published": "2026-06-22T12:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "retro",
+      "emulation",
+      "gaming-hardware",
+      "game-discovery"
+    ],
+    "summary": "Krikzz releases an upgraded EverDrive GBA Pro flash cartridge, continuing the legendary line of retro gaming hardware devices.",
+    "sources": []
+  },
+  {
+    "title": "\"I Think I Have Made History With My Remake\" - Fan Remake Of Zelda: Ocarina Of Time \"Officially Stopped\" After 10 Years",
+    "url": "https://www.timeextension.com/news/2026/06/i-think-i-have-made-history-with-my-remake-fan-remake-of-zelda-ocarina-of-time-officially-stopped-after-10-years",
+    "published": "2026-06-22T10:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "nintendo",
+      "fan-projects",
+      "game-remake"
+    ],
+    "summary": "A decade-long fan remake of Zelda: Ocarina of Time in Unreal Engine 5 has been officially discontinued after Nintendo announced an official remake for Switch 2.",
+    "sources": []
+  },
+  {
+    "title": "Anbernic's Next Handheld Does A Great Impression Of Nintendo's Switch Lite",
+    "url": "https://www.timeextension.com/news/2026/06/anbernics-next-handheld-does-a-great-impression-of-nintendos-switch-lite",
+    "published": "2026-06-22T10:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "handheld-gaming",
+      "emulation",
+      "gaming-hardware",
+      "console-hardware"
+    ],
+    "summary": "Anbernic's upcoming 55G1 handheld closely resembles Nintendo's Switch Lite design while featuring Hall Effect sticks and triggers for emulation gaming.",
+    "sources": []
+  },
+  {
+    "title": "\"Finally, The Time Has Come\" - Richard Garriott Is Reclaiming The Rights To Ultima",
+    "url": "https://www.timeextension.com/news/2026/06/finally-the-time-has-come-richard-garriott-is-reclaiming-the-rights-to-ultima",
+    "published": "2026-06-22T08:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 78,
+    "tags": [
+      "gaming-history",
+      "gaming-industry",
+      "game-dev",
+      "retro"
+    ],
+    "summary": "Richard Garriott is reclaiming the rights to the legendary Ultima franchise from Electronic Arts after 32 years, potentially enabling a revival of the series dormant since 1999.",
+    "sources": []
+  },
+  {
+    "title": "Valve Explains Why the Steam Machine is Shipping with Single-Channel DDR5 Memory",
+    "url": "https://steamdeckhq.com/news/steam-machine-single-channel-valve-explains/",
+    "published": "2026-06-22T20:11:23+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "valve",
+      "steam-deck",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Valve provides technical justification for Steam Machine's single-channel DDR5 memory configuration choice.",
+    "sources": []
+  },
+  {
+    "title": "Valve Reportedly Hoped to Sell the Steam Machine for $749",
+    "url": "https://steamdeckhq.com/news/valve-steam-machine-original-price/",
+    "published": "2026-06-22T18:59:19+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-hardware",
+      "gaming-history"
+    ],
+    "summary": "Valve reportedly aimed to price the Steam Machine at $749 instead of the actual $1,049 launch price, suggesting internal pricing strategy differed from market reality.",
+    "sources": []
+  },
+  {
+    "title": "Valve Gives The Green Light to Install SteamOS On Desktops To Create Our Own Steam Machines",
+    "url": "https://steamdeckhq.com/news/valve-gives-green-light-to-install-steamos-on-desktop/",
+    "published": "2026-06-22T17:50:06+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 75,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "linux-gaming",
+      "gaming-hardware",
+      "steam-deck"
+    ],
+    "summary": "Valve officially permits SteamOS installation on desktop PCs, enabling users to build custom Steam Machines.",
+    "sources": []
+  },
+  {
+    "title": "The Steam Machine Will Start At $1,049 And Shipments Begin Next Week",
+    "url": "https://steamdeckhq.com/news/the-steam-machine-will-start-at-1049/",
+    "published": "2026-06-22T17:19:48+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 75,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-hardware",
+      "handheld-gaming",
+      "gaming-news"
+    ],
+    "summary": "Valve announces Steam Machine pricing starting at $1,049 with shipments beginning next week and randomized reservation queue access.",
+    "sources": []
+  },
+  {
+    "title": "New Xbox Handheld Logo Appears On Official Xbox Game Pages",
+    "url": "https://steamdeckhq.com/news/xbox-handheld-logo-appears-on-xbox-game-pages/",
+    "published": "2026-06-22T16:09:33+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 72,
+    "tags": [
+      "console-hardware",
+      "handheld-gaming",
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "Official Xbox Game Pass pages now display dedicated Xbox Handheld logos, suggesting Microsoft is planning a first-party handheld device.",
+    "sources": []
+  },
+  {
+    "title": "FSR 4 Support Is Coming To The ROG Ally X And Other Z1 Extreme Handhelds",
+    "url": "https://steamdeckhq.com/news/fsr-4-support-is-coming-to-the-rog-ally-x/",
+    "published": "2026-06-22T15:16:43+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 62,
+    "tags": [
+      "handheld-gaming",
+      "gaming-hardware",
+      "pc-hardware"
+    ],
+    "summary": "FSR 4 support is coming to the ROG Ally X and other Z1 Extreme handhelds, enabling better performance on these popular portable gaming devices.",
+    "sources": []
+  },
+  {
+    "title": "Steam Deck Verified/Playable Highlights 6/15/26 - 6/21/26",
+    "url": "https://steamdeckhq.com/news/steam-deck-verified-highlights-6-15-26-6-21-26/",
+    "published": "2026-06-22T13:20:37+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-deck",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of newly verified and playable games on Steam Deck, featuring titles like Into the Dead: Our Darkest Days and MECCHA CHAMELEON.",
+    "sources": []
+  },
+  {
+    "title": "Valve Adds FSR 4 Directly To Proton Experimental and Steam",
+    "url": "https://steamdeckhq.com/news/valve-adds-fsr-4-to-steam-proton-experimental/",
+    "published": "2026-06-22T11:06:20+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 75,
+    "tags": [
+      "valve",
+      "steam-deck",
+      "proton",
+      "steam-platform",
+      "gaming-hardware",
+      "linux-gaming"
+    ],
+    "summary": "Valve integrates AMD's FSR 4 upscaling technology directly into Proton and Steam, simplifying performance enhancement for Steam Deck and Linux games.",
+    "sources": []
+  },
+  {
+    "title": "Retroid Teases New 4:3 OLED Handheld: The Pocket Nova",
+    "url": "https://steamdeckhq.com/news/retroid-teases-43-oled-handheld-pocket-nova/",
+    "published": "2026-06-22T10:25:45+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 62,
+    "tags": [
+      "handheld-gaming",
+      "gaming-hardware",
+      "console-hardware"
+    ],
+    "summary": "Retroid announces the Pocket Nova, an upcoming handheld gaming device featuring a 4:3 OLED screen.",
+    "sources": []
+  },
+  {
+    "title": "The dBrand Companion Cube Steam Machine Case Is Live, And We Have One",
+    "url": "https://steamdeckhq.com/news/dbrand-companion-cube-steam-machine-case-is-live/",
+    "published": "2026-06-22T09:19:54+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "gaming-hardware",
+      "valve"
+    ],
+    "summary": "dbrand releases a Companion Cube-themed case for the Steam Machine, with a hands-on review unit available.",
+    "sources": []
+  },
+  {
+    "title": "dbrand Companion Cube is now live",
+    "url": "https://overkill.wtf/notes/dbrand-companion-cube",
+    "published": "2026-06-22T07:20:00+00:00",
+    "feed_name": "overkill Media",
+    "feed_tags": [
+      "steam-deck",
+      "linux-gaming"
+    ],
+    "significance": 25,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "dbrand releases a Portal-themed protective enclosure case for the Steam Machine with two pricing tiers and premium packaging options.",
+    "sources": []
+  },
+  {
+    "title": "Fumito Ueda and I discuss a large robot head",
+    "url": "https://www.gamefile.news/p/fumito-ueda-gen-atlas-interview",
+    "published": "2026-06-23T00:33:07+00:00",
+    "feed_name": "Game File",
+    "feed_tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Fumito Ueda discusses his upcoming game featuring unexpected guns and a large robot head in an interview about his creative direction.",
+    "sources": []
+  },
+  {
+    "title": "EA is reportedly laying off recruitment, customer support, safety, and IT staff",
+    "url": "https://www.gamesindustry.biz/ea-is-reportedly-laying-off-recruitment-customer-support-safety-and-it-staff",
+    "published": "2026-06-22T21:29:34+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry"
+    ],
+    "summary": "EA is reportedly laying off staff across recruitment, customer support, safety, and IT departments in another round of company restructuring.",
+    "sources": []
+  },
+  {
+    "title": "Volunteer-led RTS BAR signs publishing deal with Hooded Horse",
+    "url": "https://www.gamesindustry.biz/volunteer-led-rts-bar-signs-publishing-deal-with-hooded-horse",
+    "published": "2026-06-22T20:53:28+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Volunteer-developed RTS game Beyond All Reason secures publishing partnership with Hooded Horse.",
+    "sources": []
+  },
+  {
+    "title": "Obsidian sued in class action lawsuit over alleged \"systematic pattern of wage and hour violations\"",
+    "url": "https://www.gamesindustry.biz/obsidian-sued-in-class-action-lawsuit-over-alleged-systematic-pattern-of-wage-and-hour-violations",
+    "published": "2026-06-22T20:18:56+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Obsidian Entertainment faces a class action lawsuit alleging systematic wage and hour violations under California labor law.",
+    "sources": []
+  },
+  {
+    "title": "Valve's Steam Machine price starts at $1049 / \u00a3879; original pricing \"no longer viable\" due to hardware supply issues",
+    "url": "https://www.gamesindustry.biz/valves-steam-machine-price-starts-at-1049-879-original-pricing-no-longer-viable-due-to-hardware-supply-issues",
+    "published": "2026-06-22T17:00:00+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 75,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-hardware",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Valve announces Steam Machine pricing ($1,049-$1,349) with lottery-based availability, citing hardware supply constraints affecting original pricing plans.",
+    "sources": []
+  },
+  {
+    "title": "\"You just look at the number and go, 'What happened?'\" \u2013  The developers of RV There Yet? on their surprise, multi-million selling success",
+    "url": "https://www.gamesindustry.biz/you-just-look-at-the-number-and-go-what-happened-the-developers-of-rv-there-yet-on-their-surprise-multi-million-selling-success",
+    "published": "2026-06-22T14:43:55+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 72,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "RV There Yet? exceeded all expectations by selling 2 million units in 8 days, far surpassing developer Nuggets Entertainment's initial projection of 20,000 annual sales.",
+    "sources": []
+  },
+  {
+    "title": "Marvel Contest of Champions studio Kabam lays off unknown number of staff in LA office consolidation",
+    "url": "https://www.gamesindustry.biz/marvel-contest-of-champions-studio-kabam-lays-off-unknown-number-of-staff-in-la-office-consolidation",
+    "published": "2026-06-22T09:55:00+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Kabam, developer of Marvel Contest of Champions, has laid off staff as part of an LA office consolidation.",
+    "sources": []
+  },
+  {
+    "title": "CD Projekt joint-CEO says it's \"fair\" that the studio \"lost the faith\" of some of its audience after Cyberpunk 2077 launch",
+    "url": "https://www.gamesindustry.biz/cd-projekt-joint-ceo-says-its-fair-that-the-studio-lost-the-faith-of-some-of-its-audience-after-cyberpunk-2077-launch",
+    "published": "2026-06-22T09:24:20+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "CD Projekt's joint-CEO acknowledges the studio lost audience trust due to Cyberpunk 2077's problematic launch.",
+    "sources": []
+  },
+  {
+    "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+    "url": "https://www.gamesindustry.biz/ubisoft-co-founder-claude-guillemot-has-died-in-a-plane-crash",
+    "published": "2026-06-22T09:04:01+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 85,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Ubisoft co-founder Claude Guillemot died in a plane crash, marking a significant loss to the gaming industry.",
+    "sources": []
+  },
+  {
+    "title": "Calcolo!",
+    "url": "https://www.hardcoregaming101.net/calcolo/",
+    "published": "2026-06-22T19:32:51+00:00",
+    "feed_name": "Hardcore Gaming 101",
+    "feed_tags": [
+      "retro",
+      "gaming-history"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Calcolo is a puzzle-shooter hybrid game combining falling object mechanics with shoot-em-up elements, similar to Puyo Puyo with shooting gameplay influences.",
+    "sources": []
+  },
+  {
+    "title": "EA are making another round of layoffs as they seek \"to better meet fans\u2019 changing needs\", according to reports",
+    "url": "https://www.rockpapershotgun.com/ea-are-making-another-round-of-layoffs-as-they-seek-to-better-meet-fans-changing-needs-according-to-reports",
+    "published": "2026-06-22T18:30:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "EA announces another round of layoffs affecting recruitment, IT, customer support, and trust and safety divisions across multiple regions.",
+    "sources": []
+  },
+  {
+    "title": "\"It's too dangerous for us to speculate\": Valve don't know if Steam Machine prices will drop in the future, after admitting that \"some people are going to priced out\"",
+    "url": "https://www.rockpapershotgun.com/steam-machine-price-valve-interview",
+    "published": "2026-06-22T18:01:51+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-hardware",
+      "console-hardware"
+    ],
+    "summary": "Valve's new Steam Machine starts at \u00a3879/$1049 and Valve admits they cannot predict future price drops due to volatile component costs.",
+    "sources": []
+  },
+  {
+    "title": "Steam Machine review: A singular living room PC that's more expensive than I'd like, but too special not to love",
+    "url": "https://www.rockpapershotgun.com/steam-machine-review",
+    "published": "2026-06-22T17:00:19+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "steam-platform",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "A review of Valve's new Steam Machine living room PC highlights its unique position as a capable alternative to traditional PCs, though its nearly \u00a3900 price point raises questions about market viability.",
+    "sources": []
+  },
+  {
+    "title": "Steam Machine prices start at \u00a3879 / $1049, Valve confirm, as \"randomised reservations\" open for the SteamOS PC",
+    "url": "https://www.rockpapershotgun.com/steam-machine-prices-start-at-879-1049-valve-confirm-as-randomised-reservations-open-for-the-steamos-pc",
+    "published": "2026-06-22T17:00:12+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 75,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-hardware",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Valve officially announces Steam Machine pricing starting at \u00a3879/$1,049 and opens randomized reservation system for orders.",
+    "sources": []
+  },
+  {
+    "title": "In strategy game Scream Operator, you run every inch of a haunted house ride from the all-important pre-show to the Chainsaw Guys",
+    "url": "https://www.rockpapershotgun.com/in-strategy-game-scream-operator-you-run-every-inch-of-a-haunted-house-ride-from-the-all-important-pre-show-to-the-chainsaw-guys",
+    "published": "2026-06-22T15:23:33+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 32,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Scream Operator is a cosy-spooky haunted house management strategy game where players optimize scares and guest experiences to maximize fear and profits.",
+    "sources": []
+  },
+  {
+    "title": "Gothic 1 Remake review -  the classic RPG returns with countless subtle improvements",
+    "url": "https://www.rockpapershotgun.com/gothic-1-remake-review-the-classic-rpg-returns-with-countless-subtle-improvements",
+    "published": "2026-06-22T13:34:38+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-history",
+      "pc-hardware"
+    ],
+    "summary": "Gothic 1 Remake successfully modernizes the classic 2001 German RPG while preserving its distinctive design philosophy, earning critical praise for its balanced approach between faithful recreation and contemporary improvements.",
+    "sources": []
+  },
+  {
+    "title": "Geareo is an extremely pleasing clockwork building game with pull-out model kits and flippable paper manuals",
+    "url": "https://www.rockpapershotgun.com/geareo-is-an-extremely-pleasing-clockwork-building-game-featuring-pull-out-model-kits-with-flippable-paper-manuals",
+    "published": "2026-06-22T12:35:42+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Geareo is an indie puzzle game featuring realistic clockwork mechanics with physical model kits and interactive paper manuals.",
+    "sources": []
+  },
+  {
+    "title": "Accidentally thrusting Morrowind to death just got more difficult, thanks to engine reimplemention OpenMW's chunky new update",
+    "url": "https://www.rockpapershotgun.com/accidentally-thrusting-morrowind-to-death-just-got-more-difficult-thanks-to-engine-reimplemention-openmws-chunky-new-update",
+    "published": "2026-06-22T11:30:21+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "open-source",
+      "game-dev",
+      "retro",
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "OpenMW, an open-source engine reimplementation of The Elder Scrolls 3: Morrowind, released an update that fixes accidental physics-related crashes on modern hardware.",
+    "sources": []
+  },
+  {
+    "title": "This week in PC games: synthpunk platforming, haunted house hoovering, and a game about growing a black hole",
+    "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-synthpunk-platforming-haunted-house-hoovering-and-a-game-about-growing-a-black-hole",
+    "published": "2026-06-22T10:41:33+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "A weekly PC games roundup featuring new releases including a synthpunk platformer, a haunted house cleaning game, and a black hole growth game.",
+    "sources": []
+  },
+  {
+    "title": "CD Projekt boss \"knows for a fact\" a surge of games made purely with generative AI are coming, but doubts \"whether this is really the path to follow\"",
+    "url": "https://www.rockpapershotgun.com/cd-projekt-boss-knows-for-a-fact-a-surge-of-games-made-purely-with-generative-ai-are-coming-but-doubts-whether-this-is-really-the-path-to-follow",
+    "published": "2026-06-22T10:07:08+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "game-dev",
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "CD Projekt CEO predicts an influx of AI-generated games while expressing skepticism about their viability as a development approach.",
+    "sources": []
+  },
+  {
+    "title": "Steam Machine pricing starts at $1,049 for 512GB model",
+    "url": "https://www.gamedeveloper.com/pc/steam-machine-pricing-starts-at-1-049-for-512gb-model",
+    "published": "2026-06-22T20:07:34+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-platform",
+      "gaming-hardware",
+      "valve"
+    ],
+    "summary": "Steam Machine pricing begins at $1,049 for the 512GB model, marking a premium entry point for Valve's gaming PC device.",
+    "sources": []
+  },
+  {
+    "title": "Report: EA conducts layoffs in Hyderabad, India and the US",
+    "url": "https://www.gamedeveloper.com/business/report-ea-conducts-layoffs-in-hyderabad-india-and-the-us",
+    "published": "2026-06-22T18:05:56+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry"
+    ],
+    "summary": "EA conducts layoffs affecting recruitment, customer support, trust and safety, and IT teams across Hyderabad and US locations.",
+    "sources": []
+  },
+  {
+    "title": "Ubisoft eliminates 93 roles in San Francisco",
+    "url": "https://www.gamedeveloper.com/business/ubisoft-eliminates-93-roles-in-san-francisco",
+    "published": "2026-06-22T17:38:03+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Ubisoft eliminates 93 positions in its San Francisco office according to a California WARN notice.",
+    "sources": []
+  },
+  {
+    "title": "Godot confirms it tolerates 'some AI assistance' but rejects 'vibe coded' tag",
+    "url": "https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations",
+    "published": "2026-06-22T15:35:26+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "open-source",
+      "community"
+    ],
+    "summary": "Godot project clarifies its policy on AI-assisted contributions, accepting thoughtful AI assistance but rejecting low-effort 'vibe coded' pull requests.",
+    "sources": []
+  },
+  {
+    "title": "French union STJV to commence national strike outside Quantic Dream",
+    "url": "https://www.gamedeveloper.com/business/french-union-stjv-to-commence-national-strike-outside-quantic-dream",
+    "published": "2026-06-22T14:49:33+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "French game workers union STJV plans national strike at Quantic Dream to protest layoffs and workplace instability.",
+    "sources": []
+  },
+  {
+    "title": "'Larger budgets and longer schedules do not lead to better games:' Thank You For Your Application recoups dev costs in 22 hours",
+    "url": "https://www.gamedeveloper.com/business/-larger-budgets-and-longer-schedules-do-not-lead-to-better-games-thank-you-for-your-application-recoups-dev-costs-in-22-hours",
+    "published": "2026-06-22T10:54:50+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Indie game 'Thank You For Your Application' by a fresh university team recouped its development costs in just 22 hours, challenging assumptions about budget and timeline requirements for game success.",
+    "sources": []
+  },
+  {
+    "title": "Obituary: Ubisoft co-founder Claude Guillemot dies in plane crash",
+    "url": "https://www.gamedeveloper.com/business/obituary-ubisoft-co-founder-claude-guillemot-killed-in-plane-crash",
+    "published": "2026-06-22T09:32:02+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 85,
+    "tags": [
+      "gaming-industry",
+      "gaming-history"
+    ],
+    "summary": "Ubisoft co-founder Claude Guillemot has died in a plane crash, marking a significant loss for the gaming industry he helped shape.",
+    "sources": []
+  },
+  {
+    "title": "Capcom Showcase Confirmed for This Week, Onimusha and Dragon's Dogma 2 DLC in the Spotlight",
+    "url": "https://www.pushsquare.com/news/2026/06/capcom-showcase-confirmed-for-this-week-onimusha-and-dragons-dogma-2-dlc-in-the-spotlight",
+    "published": "2026-06-23T02:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Capcom announces a Showcase event for June 25th featuring updates on Onimusha, Dragon's Dogma 2 DLC, and Monster Hunter Stories 3.",
+    "sources": []
+  },
+  {
+    "title": "Remember Korean Stealth Game MUDANG? Looks Like It's Not Coming Out",
+    "url": "https://www.pushsquare.com/news/2026/06/remember-korean-stealth-game-mudang-looks-like-its-not-coming-out",
+    "published": "2026-06-23T00:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Korean stealth game MUDANG: Two Hearts has been cancelled after developer EVR Studio filed for bankruptcy.",
+    "sources": []
+  },
+  {
+    "title": "Wolverine PS5 Will Win Awards for These Outstanding Accessibility and Difficulty Options",
+    "url": "https://www.pushsquare.com/news/2026/06/wolverine-ps5-will-win-awards-for-these-outstanding-accessibility-and-difficulty-options",
+    "published": "2026-06-22T23:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Insomniac Games' Marvel's Wolverine for PS5 features extensive accessibility and difficulty options to accommodate a wide range of players.",
+    "sources": []
+  },
+  {
+    "title": "SEGA Shares Lifetime Sales Update for Persona, Metaphor, and Like a Dragon",
+    "url": "https://www.pushsquare.com/news/2026/06/sega-shares-lifetime-sales-update-for-persona-metaphor-and-like-a-dragon",
+    "published": "2026-06-22T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "SEGA releases updated lifetime sales figures for major RPG franchises including Persona and Metaphor, showing continued healthy performance across its role-playing portfolio.",
+    "sources": []
+  },
+  {
+    "title": "Opinion: The PS6 Cannot Come Out in This Era of $1,000+ Consoles",
+    "url": "https://www.pushsquare.com/features/opinion-the-ps6-cannot-come-out-in-this-era-of-usd1000plus-consoles",
+    "published": "2026-06-22T20:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Opinion piece argues that PlayStation 6 cannot launch in current market climate where high-end consoles like Steam Machine exceed $1,000, fundamentally changing console pricing expectations.",
+    "sources": []
+  },
+  {
+    "title": "'They Said I'm Crazy': Kojima's New Single Player Horror Like Nothing Seen Before",
+    "url": "https://www.pushsquare.com/news/2026/06/they-said-im-crazy-kojimas-new-single-player-horror-like-nothing-seen-before",
+    "published": "2026-06-22T19:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "Hideo Kojima's horror game OD, published by Xbox Game Studios, promises groundbreaking innovation despite uncertainty around PS5 release status.",
+    "sources": []
+  },
+  {
+    "title": "'Absolutely Sensational': Tom Holland and Zendaya Love the Marvel's Spider-Man Games",
+    "url": "https://www.pushsquare.com/news/2026/06/absolutely-sensational-tom-holland-and-zendaya-love-the-marvels-spider-man-games",
+    "published": "2026-06-22T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Tom Holland and Zendaya express appreciation for Insomniac Games' Marvel's Spider-Man video game series.",
+    "sources": []
+  },
+  {
+    "title": "Valve's New Steam Machine Costs Almost Twice as Much as a PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/valves-new-steam-machine-costs-almost-twice-as-much-as-a-ps5",
+    "published": "2026-06-22T17:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 65,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "console-hardware",
+      "gaming-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Valve's new Steam Machine is priced nearly double that of a PS5 with comparable performance, raising questions about its market viability as a console disruptor.",
+    "sources": []
+  },
+  {
+    "title": "The Last of Us 2 Is Finally Getting Multiplayer, But Naughty Dog Ain't Making It",
+    "url": "https://www.pushsquare.com/news/2026/06/the-last-of-us-2-is-finally-getting-multiplayer-but-naughty-dog-aint-making-it",
+    "published": "2026-06-22T16:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "community",
+      "game-dev"
+    ],
+    "summary": "A fan modder is creating a multiplayer version for The Last of Us 2 after Naughty Dog cancelled its own live service multiplayer project.",
+    "sources": []
+  },
+  {
+    "title": "The Witcher 4 Can't Be Another Cyberpunk 2077, and CD Projekt Red Knows It",
+    "url": "https://www.pushsquare.com/news/2026/06/the-witcher-4-cant-be-another-cyberpunk-2077-and-cd-projekt-red-knows-it",
+    "published": "2026-06-22T14:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "CD Projekt Red acknowledges lessons learned from Cyberpunk 2077's troubled launch and commits to avoiding similar issues with The Witcher 4's development.",
+    "sources": []
+  },
+  {
+    "title": "God of War Laufey Part of PS5 Dev's Plans from the Start, Pitched in 2018",
+    "url": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-part-of-ps5-devs-plans-from-the-start-pitched-in-2018",
+    "published": "2026-06-22T13:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "God of War Laufey was conceived by Santa Monica Studio as early as 2018, with creative director Cory Barlog showing concept art to actor Deborah Ann Woll during the original God of War pitch.",
+    "sources": []
+  },
+  {
+    "title": "Rumour: Marvel Poised to Attack Free-to-Play RPG Market with 'Project Comet'",
+    "url": "https://www.pushsquare.com/news/2026/06/rumour-marvel-poised-to-attack-free-to-play-rpg-market-with-project-comet",
+    "published": "2026-06-22T13:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "leaks",
+      "gaming-industry"
+    ],
+    "summary": "Marvel is reportedly developing a free-to-play gacha-based action RPG called 'Project Comet' featuring playable heroes and villains.",
+    "sources": []
+  },
+  {
+    "title": "Feature: 40+ PS5, PS4 Games to Buy in PS Store's Mid-Year Deals Sale",
+    "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-mid-year-deals-sale",
+    "published": "2026-06-22T11:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "PlayStation Store's Mid-Year Deals sale offers discounts on 40+ PS5 and PS4 games through July 1st, 2026.",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 5+ PS5 Games Are Coming Out This Week (22nd-28th June)",
+    "url": "https://www.pushsquare.com/guides/these-5plus-ps5-games-are-coming-out-this-week-22nd-28th-june",
+    "published": "2026-06-22T11:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of PS5 game releases for June 22-28, with Dead or Alive 6: Last Round being the notable title arriving on the platform.",
+    "sources": []
+  },
+  {
+    "title": "The Call of Duty: Black Ops PS5 Ports Might Be $40 Each without Any DLC",
+    "url": "https://www.pushsquare.com/news/2026/06/the-call-of-duty-black-ops-ps5-ports-might-be-usd40-each-without-any-dlc",
+    "published": "2026-06-22T10:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 52,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Activision may charge $40 each for PS5 ports of Call of Duty: Black Ops games without DLC included, drawing criticism for the pricing of ports of older PS3 titles.",
+    "sources": []
+  }
+]
