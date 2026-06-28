@@ -1,0 +1,1210 @@
+[
+  {
+    "title": "Nourish: A New Wayland Compositor Powered By Vulkan With Infinite Scrolling/Panning",
+    "url": "https://www.phoronix.com/news/Nourish-Wayland-Compositor",
+    "published": "2026-06-28T00:52:23+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "open-source",
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "Nourish, a new Vulkan-powered Wayland compositor, introduces infinite scrolling and panning capabilities for expanded workspace functionality.",
+    "sources": []
+  },
+  {
+    "title": "Reserved THP Feature Proposed For Linux To Combine The Best Of HugeTLB & THP",
+    "url": "https://www.phoronix.com/news/Reserved-THP-Linux",
+    "published": "2026-06-27T16:50:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "A Linux kernel developer proposes a new Reserved THP feature combining HugeTLB and THP functionality to improve memory management.",
+    "sources": []
+  },
+  {
+    "title": "Linux MD RAID5 Seeing Scalability Improvements Up To 17%",
+    "url": "https://www.phoronix.com/news/Linux-MD-RAID5-Scalability-Work",
+    "published": "2026-06-27T11:17:06+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "Linux kernel patches improve MD RAID5 scalability by up to 17%, potentially benefiting high-performance storage configurations.",
+    "sources": []
+  },
+  {
+    "title": "GNOME AI Assistant Adds Image Generation Support",
+    "url": "https://www.phoronix.com/news/GNOME-Newelle-Image-Gen",
+    "published": "2026-06-27T10:43:29+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 28,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "GNOME's AI assistant Newelle 1.4.5 adds image generation capabilities and redesigned chat interface, though primarily a general productivity tool with limited gaming relevance.",
+    "sources": []
+  },
+  {
+    "title": "KDE Plasma 6.7.2 To Fix KWin's Most Common Crash, Plasma 6.8 To Not Crash When Ejecting CDs",
+    "url": "https://www.phoronix.com/news/KDE-Plasma-This-Week-Crashes",
+    "published": "2026-06-27T10:29:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "KDE Plasma 6.7.2 will fix KWin's most common crash while Plasma 6.8 addresses CD ejection issues and transitions to Wayland-only, with limited direct gaming relevance.",
+    "sources": []
+  },
+  {
+    "title": "COSMIC's New System Monitor Is Looking Very Slick",
+    "url": "https://www.phoronix.com/news/COSMIC-System-Monitor",
+    "published": "2026-06-27T10:02:31+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "community"
+    ],
+    "summary": "System76's COSMIC desktop environment is developing a new system monitor tool as GNOME 51 works on its own replacement.",
+    "sources": []
+  },
+  {
+    "title": "James McCloud is not exactly winning father of the year (new Star Fox lore)",
+    "url": "https://www.resetera.com/threads/james-mccloud-is-not-exactly-winning-father-of-the-year-new-star-fox-lore.1563145/",
+    "published": "2026-06-28T04:32:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-history",
+      "game-discovery"
+    ],
+    "summary": "A Star Fox game reveals through its Holoviewer that Fox's father James took out an 80-year loan for the Great Fox, leaving Fox with inherited debt.",
+    "sources": []
+  },
+  {
+    "title": "[Wccftech] Jefferies Warns Memory Prices Will Surge 50% in Q3 2026 and Another 40% in Q4, With No Relief Until 2028",
+    "url": "https://www.resetera.com/threads/wccftech-jefferies-warns-memory-prices-will-surge-50-in-q3-2026-and-another-40-in-q4-with-no-relief-until-2028.1563142/",
+    "published": "2026-06-28T04:26:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Jefferies projects significant memory price increases of 50% in Q3 2026 and 40% in Q4 2026, with no relief expected until 2028, potentially impacting PC and gaming hardware costs.",
+    "sources": []
+  },
+  {
+    "title": "Would you buy a \"$999\" PS6?",
+    "url": "https://www.resetera.com/threads/would-you-buy-a-999-ps6.1563127/",
+    "published": "2026-06-28T02:16:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Forum discussion speculates on PS6 pricing potentially reaching $999 based on hardware leaker rumors and AI-driven cost increases.",
+    "sources": []
+  },
+  {
+    "title": "Mina the Hollower announced for Rivals of Aether II in 2027 as guest character",
+    "url": "https://www.resetera.com/threads/mina-the-hollower-announced-for-rivals-of-aether-ii-in-2027-as-guest-character.1563112/",
+    "published": "2026-06-28T01:15:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Mina the Hollower has been announced as a guest character for Rivals of Aether II, releasing in 2027.",
+    "sources": []
+  },
+  {
+    "title": "Mina the Hollower and Gouie join Rivals of Aether 2",
+    "url": "https://www.resetera.com/threads/mina-the-hollower-and-gouie-join-rivals-of-aether-2.1563109/",
+    "published": "2026-06-28T01:15:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "indie-games"
+    ],
+    "summary": "Rivals of Aether 2 announces two new characters\u2014original character Gouie arriving in August and guest character Mina the Hollower planned for 2027, with all DLC characters available for free.",
+    "sources": []
+  },
+  {
+    "title": "Tormented Souls 2 is a MEAN game. (And I love it)",
+    "url": "https://www.resetera.com/threads/tormented-souls-2-is-a-mean-game-and-i-love-it.1563106/",
+    "published": "2026-06-28T01:05:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-news",
+      "retro"
+    ],
+    "summary": "A player reviews Tormented Souls 2, praising its challenging difficulty compared to the first game's easier normal mode.",
+    "sources": []
+  },
+  {
+    "title": "can we just properly remake goldeneye already? and not as a (bad) call of duty game like we already got",
+    "url": "https://www.resetera.com/threads/can-we-just-properly-remake-goldeneye-already-and-not-as-a-bad-call-of-duty-game-like-we-already-got.1563100/",
+    "published": "2026-06-28T00:07:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "retro",
+      "leaks"
+    ],
+    "summary": "Community discussion advocates for a proper GoldenEye remake by Microsoft rather than another Call of Duty adaptation, citing the leaked XBLA port's renewed popularity.",
+    "sources": []
+  },
+  {
+    "title": "Namco Bandai why aren't you rereleasing the Ridge Racer games?",
+    "url": "https://www.resetera.com/threads/namco-bandai-why-arent-you-rereleasing-the-ridge-racer-games.1563064/",
+    "published": "2026-06-27T22:22:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "retro"
+    ],
+    "summary": "Community member questions why Namco Bandai hasn't re-released Ridge Racer 6 & 7 despite expired exclusivity agreements, citing the series' historical popularity.",
+    "sources": []
+  },
+  {
+    "title": "LTTP: Stray aka cute little kitty roams a post apocalyptic slum",
+    "url": "https://www.resetera.com/threads/lttp-stray-aka-cute-little-kitty-roams-a-post-apocalyptic-slum.1563058/",
+    "published": "2026-06-27T22:04:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "A player shares their positive experience with Stray, praising its cat animations, environmental design, and storytelling in this indie game set in a post-apocalyptic world.",
+    "sources": []
+  },
+  {
+    "title": "Dust : Origins - New game by Airship Syndicate - kickstarter announced",
+    "url": "https://www.resetera.com/threads/dust-origins-new-game-by-airship-syndicate-kickstarter-announced.1563052/",
+    "published": "2026-06-27T22:02:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Airship Syndicate, creators of Darksiders and Ruined King, announces Kickstarter for sci-fi action game Dust: Origins launching July 28, 2026.",
+    "sources": []
+  },
+  {
+    "title": "Robo-Ky will release for Guilty Gear Strive on July 2",
+    "url": "https://www.resetera.com/threads/robo-ky-will-release-for-guilty-gear-strive-on-july-2.1563028/",
+    "published": "2026-06-27T21:18:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Robo-Ky character announced for Guilty Gear Strive with a July 2 release date.",
+    "sources": []
+  },
+  {
+    "title": "Have you ever purchased a game just because of its soundtrack?",
+    "url": "https://www.resetera.com/threads/have-you-ever-purchased-a-game-just-because-of-its-soundtrack.1563025/",
+    "published": "2026-06-27T21:11:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion post about purchasing games primarily based on their soundtracks, using Ace Combat 7 as an example.",
+    "sources": []
+  },
+  {
+    "title": "How do you feel about Uncharted 3: Drake\u2019s Deception",
+    "url": "https://www.resetera.com/threads/how-do-you-feel-about-uncharted-3-drake%E2%80%99s-deception.1563022/",
+    "published": "2026-06-27T21:10:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion post about the relative lack of attention Uncharted 3 receives compared to other games in the franchise.",
+    "sources": []
+  },
+  {
+    "title": "Granblue Fantasy Versus Rising: Id Reveal Trailer (Launches: 9/17/26)",
+    "url": "https://www.resetera.com/threads/granblue-fantasy-versus-rising-id-reveal-trailer-launches-9-17-26.1563010/",
+    "published": "2026-06-27T20:42:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Granblue Fantasy Versus Rising reveals character Id with a launch date of September 17, 2026, while the free version offers full roster access during Evo Week.",
+    "sources": []
+  },
+  {
+    "title": "Granblue Fantasy Versus Rising: Id Teaser (also, Switch 2 version announced)",
+    "url": "https://www.resetera.com/threads/granblue-fantasy-versus-rising-id-teaser-also-switch-2-version-announced.1563007/",
+    "published": "2026-06-27T20:40:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Granblue Fantasy Versus Rising announces Id character and Nintendo Switch 2 version launching September 17th.",
+    "sources": []
+  },
+  {
+    "title": "Features that all games should adopt",
+    "url": "https://www.resetera.com/threads/features-that-all-games-should-adopt.1562989/",
+    "published": "2026-06-27T20:12:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Opinion piece arguing that game recap features, like those in Pok\u00e9mon FireRed, should become standard in RPGs to help players remember story progress between sessions.",
+    "sources": []
+  },
+  {
+    "title": "What\u2019s your favorite Warioland game?",
+    "url": "https://www.resetera.com/threads/what%E2%80%99s-your-favorite-warioland-game.1562953/",
+    "published": "2026-06-27T19:12:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community member shares personal preferences about their favorite Warioland games and discusses the franchise's evolution.",
+    "sources": []
+  },
+  {
+    "title": "So, is this the last flight out of nam for PC building?",
+    "url": "https://www.resetera.com/threads/so-is-this-the-last-flight-out-of-nam-for-pc-building.1562938/",
+    "published": "2026-06-27T18:53:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "pc-hardware",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A user expresses concerns about rising PC hardware prices and considers pivoting from Xbox to a Linux-capable PC.",
+    "sources": []
+  },
+  {
+    "title": "i've long pondered what i think could be a solution to shader compilation stutter/compilation times on pc",
+    "url": "https://www.resetera.com/threads/ive-long-pondered-what-i-think-could-be-a-solution-to-shader-compilation-stutter-compilation-times-on-pc.1562935/",
+    "published": "2026-06-27T18:50:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "pc-hardware",
+      "game-dev"
+    ],
+    "summary": "A community member proposes standardizing common shaders at the driver level to reduce shader compilation stutter on PC, similar to fixed-function hardware approaches.",
+    "sources": []
+  },
+  {
+    "title": "Valve working on list of features for Steam Machine",
+    "url": "https://www.resetera.com/threads/valve-working-on-list-of-features-for-steam-machine.1562932/",
+    "published": "2026-06-27T18:44:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "console-hardware",
+      "gaming-hardware",
+      "gaming-news"
+    ],
+    "summary": "Valve confirms Steam Machine will receive ongoing software support and feature updates comparable to the Steam Deck's post-launch development.",
+    "sources": []
+  },
+  {
+    "title": "Kepler_L2 says the BoM (bill of materials) cost of the PS6 has increased by ~$200 since the $760 number he quoted March, putting it close to $1000",
+    "url": "https://www.resetera.com/threads/kepler_l2-says-the-bom-bill-of-materials-cost-of-the-ps6-has-increased-by-200-since-the-760-number-he-quoted-march-putting-it-close-to-1000.1562929/",
+    "published": "2026-06-27T18:41:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "console-hardware",
+      "gaming-hardware",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Industry analyst Kepler_L2 reports PS6 bill of materials costs have risen ~$200 to near $1000, suggesting potential retail pricing pressures for Sony's next console.",
+    "sources": []
+  },
+  {
+    "title": "Do you prefer the writing/voice acting of the original Star Fox 64 or the Switch 2 remake?",
+    "url": "https://www.resetera.com/threads/do-you-prefer-the-writing-voice-acting-of-the-original-star-fox-64-or-the-switch-2-remake.1562893/",
+    "published": "2026-06-27T17:28:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion comparing voice acting and writing preferences between the original Star Fox 64 and a Switch 2 remake.",
+    "sources": []
+  },
+  {
+    "title": "Now that Star Fox is back, let\u2019s hope F-Zero is next",
+    "url": "https://www.resetera.com/threads/now-that-star-fox-is-back-let%E2%80%99s-hope-f-zero-is-next.1562890/",
+    "published": "2026-06-27T17:21:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-dev"
+    ],
+    "summary": "Opinion piece discussing hopes for a new F-Zero game following Star Fox's revival, suggesting it needs only HD graphics and online play.",
+    "sources": []
+  },
+  {
+    "title": "Forever Winter - Mother Courage Lifecycle",
+    "url": "https://www.resetera.com/threads/forever-winter-mother-courage-lifecycle.1562872/",
+    "published": "2026-06-27T16:35:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "A player shares a cinematic from Forever Winter, expressing renewed interest in the game based on its visual quality.",
+    "sources": []
+  },
+  {
+    "title": "What do you think is the future of the Metal Gear Solid franchise?",
+    "url": "https://www.resetera.com/threads/what-do-you-think-is-the-future-of-the-metal-gear-solid-franchise.1562863/",
+    "published": "2026-06-27T16:02:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A community discussion post speculating about the future of the Metal Gear Solid franchise based on personal gaming experience.",
+    "sources": []
+  },
+  {
+    "title": "Windows Central - \"This doesn\u2019t represent pre-order data,\" Xbox disputes reports of PS5 crushing GTA 6 preorder demand",
+    "url": "https://www.resetera.com/threads/windows-central-this-doesn%E2%80%99t-represent-pre-order-data-xbox-disputes-reports-of-ps5-crushing-gta-6-preorder-demand.1562851/",
+    "published": "2026-06-27T15:50:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Xbox disputes reports claiming PS5 is outselling Xbox 8-to-1 on GTA 6 preorders, stating the affiliate data doesn't represent actual preorder figures.",
+    "sources": []
+  },
+  {
+    "title": "Will the constant hardware price increase make devs slow down/pause graphical improvements?",
+    "url": "https://www.resetera.com/threads/will-the-constant-hardware-price-increase-make-devs-slow-down-pause-graphical-improvements.1562794/",
+    "published": "2026-06-27T14:21:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "pc-hardware",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Community discussion questioning whether rising hardware costs will pressure game developers to slow graphical improvements and maintain broader accessibility.",
+    "sources": []
+  },
+  {
+    "title": "do you enjoy metas that destroy any semblance of the original game design?",
+    "url": "https://www.resetera.com/threads/do-you-enjoy-metas-that-destroy-any-semblance-of-the-original-game-design.1562791/",
+    "published": "2026-06-27T14:19:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player discusses frustration with evolved competitive metas in Gears of War multiplayer that diverge from original game design, specifically the wall bouncing technique that became dominant.",
+    "sources": []
+  },
+  {
+    "title": "An ode to that time me and my buddy got jacked on coke and beat Halo 2 Legendary Co-op",
+    "url": "https://www.resetera.com/threads/an-ode-to-that-time-me-and-my-buddy-got-jacked-on-coke-and-beat-halo-2-legendary-co-op.1562788/",
+    "published": "2026-06-27T14:14:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A personal retrospective essay about discovering and playing Halo 2 with a friend during their youth.",
+    "sources": []
+  },
+  {
+    "title": "It seems insane to make Gears of War exclusive while raising console prices *and* not really being available to buy outside North America",
+    "url": "https://www.resetera.com/threads/it-seems-insane-to-make-gears-of-war-exclusive-while-raising-console-prices-and-not-really-being-available-to-buy-outside-north-america.1562770/",
+    "published": "2026-06-27T13:37:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Community discussion criticizing Gears of War exclusivity strategy amid rising console prices and limited global availability.",
+    "sources": []
+  },
+  {
+    "title": "shadPS4 (PS4 emulator) developers have announced shadNet, allowing users to play emulated PS4 games online with each other (based on RPCN)",
+    "url": "https://www.resetera.com/threads/shadps4-ps4-emulator-developers-have-announced-shadnet-allowing-users-to-play-emulated-ps4-games-online-with-each-other-based-on-rpcn.1562764/",
+    "published": "2026-06-27T13:18:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "emulation",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "shadPS4 emulator developers announce shadNet, enabling online multiplayer functionality for emulated PS4 games through a community-built network service.",
+    "sources": []
+  },
+  {
+    "title": "[TechRadar] Lenovo declares a 'new normal' for higher memory pricing in the 2030s, while Microsoft forecasts prices to double again in a year",
+    "url": "https://www.resetera.com/threads/techradar-lenovo-declares-a-new-normal-for-higher-memory-pricing-in-the-2030s-while-microsoft-forecasts-prices-to-double-again-in-a-year.1562761/",
+    "published": "2026-06-27T13:06:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Lenovo and Microsoft warn of sustained higher memory pricing through the 2030s, with forecasts suggesting RAM costs could double within a year.",
+    "sources": []
+  },
+  {
+    "title": "Youtuber is trying to create Space Cadet Pinball as a real pinball table",
+    "url": "https://www.resetera.com/threads/youtuber-is-trying-to-create-space-cadet-pinball-as-a-real-pinball-table.1562758/",
+    "published": "2026-06-27T13:05:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "community",
+      "gaming-history"
+    ],
+    "summary": "A YouTuber is attempting to build a real-world pinball machine based on the classic Windows Space Cadet Pinball game.",
+    "sources": []
+  },
+  {
+    "title": "Ace Combat 7 : Skies Unknown has reached 7.5 Million sales",
+    "url": "https://www.resetera.com/threads/ace-combat-7-skies-unknown-has-reached-7-5-million-sales.1562749/",
+    "published": "2026-06-27T12:59:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Ace Combat 7: Skies Unknown has achieved 7.5 million sales, marking a significant commercial milestone for the long-running flight combat franchise.",
+    "sources": []
+  },
+  {
+    "title": "What are things that people say they want to see in games, but those things already exist?",
+    "url": "https://www.resetera.com/threads/what-are-things-that-people-say-they-want-to-see-in-games-but-those-things-already-exist.1562743/",
+    "published": "2026-06-27T12:48:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion exploring game features players request that already exist in other games or franchises, highlighting awareness gaps among gamers.",
+    "sources": []
+  },
+  {
+    "title": "What's the first game you got, and the first game you bought?",
+    "url": "https://www.resetera.com/threads/whats-the-first-game-you-got-and-the-first-game-you-bought.1562728/",
+    "published": "2026-06-27T12:10:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community",
+      "retro"
+    ],
+    "summary": "Community member shares nostalgic personal gaming history starting with NES Super Mario Bros and first purchased game Starfox 64.",
+    "sources": []
+  },
+  {
+    "title": "LTTP - Final Fantasy VI",
+    "url": "https://www.resetera.com/threads/lttp-final-fantasy-vi.1562707/",
+    "published": "2026-06-27T10:48:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Personal retrospective of playing Final Fantasy VI for the first time and reflections on missing the SNES era in Europe.",
+    "sources": []
+  },
+  {
+    "title": "Are games still using compressed audio?",
+    "url": "https://www.resetera.com/threads/are-games-still-using-compressed-audio.1562695/",
+    "published": "2026-06-27T10:15:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Community discussion questioning whether modern games have moved away from compressed audio given digital distribution's lack of storage constraints.",
+    "sources": []
+  },
+  {
+    "title": "The first 30 minutes of Assassin\u2019s Creed: Black Flag Resynced has leaked on Chinese streaming service Bilibili",
+    "url": "https://www.resetera.com/threads/the-first-30-minutes-of-assassin%E2%80%99s-creed-black-flag-resynced-has-leaked-on-chinese-streaming-service-bilibili.1562686/",
+    "published": "2026-06-27T09:57:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Gameplay footage from the first 30 minutes of Assassin's Creed: Black Flag Resynced has leaked on Chinese streaming platform Bilibili.",
+    "sources": []
+  },
+  {
+    "title": "[THR] There are \"no plans for Grand Theft Auto VI discs to be printed \u2014 not at launch, and not months after\"",
+    "url": "https://www.resetera.com/threads/thr-there-are-no-plans-for-grand-theft-auto-vi-discs-to-be-printed-%E2%80%94-not-at-launch-and-not-months-after.1562665/",
+    "published": "2026-06-27T08:04:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Rockstar Games confirms Grand Theft Auto VI will be digital-only at launch with no plans to print physical discs, marking a significant shift in AAA game distribution.",
+    "sources": []
+  },
+  {
+    "title": "Feature: \"It Was A Full-On Assault\" - How Sega's \"Disruptive\" Marketing Led To A Starring Role In A Cult 2000s Comedy",
+    "url": "https://www.timeextension.com/features/it-was-a-full-on-assault-how-segas-disruptive-marketing-led-to-a-starring-role-in-a-cult-2000s-comedy",
+    "published": "2026-06-27T15:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "gaming-industry"
+    ],
+    "summary": "A retrospective feature examining Sega's aggressive marketing tactics in the early 2000s and its product placement in the cult comedy film Josie & the Pussycats, marking the film's 25th anniversary.",
+    "sources": []
+  },
+  {
+    "title": "Feature: \"A Rare Piece Of Brazilian Video Game History\" - How Capcom's Sega-Powered 'Slip Stream' Almost Starred Ayrton Senna",
+    "url": "https://www.timeextension.com/features/a-rare-piece-of-brazilian-video-game-history-how-capcoms-sega-powered-slip-stream-almost-starred-ayrton-senna",
+    "published": "2026-06-27T13:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "arcade",
+      "game-dev"
+    ],
+    "summary": "A deep dive into Slip Stream, a rare Capcom arcade racing game for Sega's System 32 hardware that was apparently only distributed in Brazil and nearly featured Formula 1 driver Ayrton Senna.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Deck Beta Client Update Changes Maximum Game Resolution Settings",
+    "url": "https://steamdeckhq.com/news/steam-deck-beta-client-maximum-game-resolution-settings/",
+    "published": "2026-06-27T17:16:47+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "steam-platform"
+    ],
+    "summary": "Steam Deck Beta Client receives an update that modifies Maximum Game Resolution settings for improved display configuration.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with Fish and Dimhaven The lost Source - 2026-06-27 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-06-27-edition/index.html",
+    "published": "2026-06-27T16:46:58+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Weekly roundup of 10 newly released games verified or playable on Steam Deck, highlighting Fish and Dimhaven as notable releases.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games with Native Linux Builds, including Cozy Cleaner - 2026-06-24 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-06-24-edition/index.html",
+    "published": "2026-06-27T12:17:20+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "steam-platform",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "103 games with native Linux builds released on Steam in one week, representing 12.8% of new releases, including the cozy game Cozy Cleaner.",
+    "sources": []
+  },
+  {
+    "title": "Joy Malignant is a photobashed, dice-based RPG where every choice you make affects how your faceless body looks",
+    "url": "https://www.rockpapershotgun.com/joy-malignant-is-a-photobashed-dice-based-rpg-where-every-choice-you-make-affects-how-your-faceless-body-looks",
+    "published": "2026-06-27T21:55:30+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Joy Malignant is a dice-based indie RPG inspired by Citizen Sleeper where player choices dynamically affect character appearance and perception.",
+    "sources": []
+  },
+  {
+    "title": "Bloodwoven is a survival immersive sim set in a world built on top of the frozen corpse of a god",
+    "url": "https://www.rockpapershotgun.com/bloodwoven-is-a-survival-immersive-sim-set-in-a-world-built-on-top-of-the-frozen-corpse-of-a-god",
+    "published": "2026-06-27T20:46:29+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Bloodwoven, a survival immersive sim from the developers of Blood West, is set in a world built atop a frozen god's corpse and offers unique environmental storytelling and gameplay flexibility.",
+    "sources": []
+  },
+  {
+    "title": "Oh no, that's Lenovo saying they think these RAM prices will be the new normal and may never go back to how they were",
+    "url": "https://www.rockpapershotgun.com/oh-no-thats-lenovo-saying-they-think-these-ram-prices-will-be-the-new-normal-and-may-never-go-back-to-how-they-were",
+    "published": "2026-06-27T18:07:55+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 55,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Lenovo predicts elevated RAM prices will persist as the new normal into 2030, suggesting price relief may not be forthcoming.",
+    "sources": []
+  },
+  {
+    "title": "Civilization 7 devs talk 20th century leaders, controversial historical figures, and dealing with colonialism in 4X strategy games",
+    "url": "https://www.rockpapershotgun.com/civilization-7-devs-talk-20th-century-leaders-controversial-historical-figures-and-dealing-with-colonialism-in-4x-strategy-games",
+    "published": "2026-06-27T16:58:12+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 55,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Firaxis addresses community questions about Civilization 7's design choices regarding historical leaders, 20th century figures, and handling of colonialism themes in the 4X strategy game.",
+    "sources": []
+  },
+  {
+    "title": "Star Wars Eclipse \"literally cannot be finished\" if layoffs go through, its devs reportedly say",
+    "url": "https://www.rockpapershotgun.com/star-wars-eclipse-literally-cannot-be-finished-if-layoffs-go-through-its-devs-reportedly-say",
+    "published": "2026-06-27T15:54:52+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "Quantic Dream developers warn that Star Wars Eclipse cannot be completed if planned layoffs proceed, amid union strikes over 115 job cuts at the studio.",
+    "sources": []
+  },
+  {
+    "title": "From Hydro Drift Ninjas to Sonic Napoleons: I spent far too long definitively ranking Tokyo Xtreme Racer\u2019s best opponent names",
+    "url": "https://www.rockpapershotgun.com/from-hydro-drift-ninjas-to-sonic-napoleons-i-spent-far-too-long-definitively-ranking-tokyo-xtreme-racers-best-opponent-names",
+    "published": "2026-06-27T14:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "retro",
+      "community"
+    ],
+    "summary": "A gaming enthusiast ranks and discusses the best opponent names from the classic Tokyo Xtreme Racer racing game series.",
+    "sources": []
+  },
+  {
+    "title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-388",
+    "published": "2026-06-27T07:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A casual weekend gaming discussion piece where the author reflects on their plans, mixing personal activity with a prompt for community engagement about what games people are playing.",
+    "sources": []
+  },
+  {
+    "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
+    "url": "https://www.gamedeveloper.com/business/analysts-attempt-to-make-sense-of-xbox-s-exclusivity-mindset-shift",
+    "published": "2026-06-26T14:15:00+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Industry analysts discuss Microsoft's shift in Xbox exclusivity strategy and the company's approach to previously underutilized franchises.",
+    "sources": []
+  },
+  {
+    "title": "Rumour: PS6 Costs Sony Almost $1,000 to Make Right Now",
+    "url": "https://www.pushsquare.com/news/2026/06/rumour-ps6-costs-sony-almost-usd1000-to-make-right-now",
+    "published": "2026-06-27T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 62,
+    "tags": [
+      "console-hardware",
+      "gaming-hardware",
+      "leaks",
+      "gaming-industry"
+    ],
+    "summary": "Hardware analyst predicts PS6 manufacturing costs around $960, suggesting potential $699 launch price with heavy subsidy.",
+    "sources": []
+  },
+  {
+    "title": "Feature: Going Platinum: This Black and White PS5 Gem Is Full of Colour, Character, and Fun Trophies",
+    "url": "https://www.pushsquare.com/features/going-platinum-this-black-and-white-ps5-gem-is-full-of-colour-character-and-fun-trophies",
+    "published": "2026-06-27T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A gaming journalist achieves their 30th platinum trophy by completing Toem, a black and white puzzle game with colorful gameplay.",
+    "sources": []
+  },
+  {
+    "title": "Sony Will Permanently Delete 550+ Movies You Already Paid For",
+    "url": "https://www.pushsquare.com/news/2026/06/sony-will-permanently-delete-550plus-movies-you-already-paid-for",
+    "published": "2026-06-27T17:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-industry",
+      "consumer-rights",
+      "digital-ownership",
+      "gaming-news"
+    ],
+    "summary": "Sony is permanently deleting 550+ movies from players' digital libraries, highlighting the risks of digital ownership compared to physical media.",
+    "sources": []
+  },
+  {
+    "title": "Talking Point: Is GTA 6's Dodgy Ultimate Edition a Deal-Breaker?",
+    "url": "https://www.pushsquare.com/features/talking-point-is-gta-6s-dodgy-ultimate-edition-a-deal-breaker",
+    "published": "2026-06-27T16:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "GTA 6 pre-orders have opened with criticism over the Ultimate Edition's value proposition, generating significant industry discussion.",
+    "sources": []
+  },
+  {
+    "title": "Microsoft Responds to Reports of GTA 6 PS5 Pre-Orders Trouncing Xbox",
+    "url": "https://www.pushsquare.com/news/2026/06/microsoft-responds-to-reports-of-gta-6-ps5-pre-orders-trouncing-xbox",
+    "published": "2026-06-27T15:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Microsoft responds to reports that GTA 6 PS5 pre-orders are outselling Xbox versions 6:1, attributing it to Sony's marketing efforts and calling for real data verification.",
+    "sources": []
+  },
+  {
+    "title": "GTA 6 PS5 Disc Hopes Seemingly Dashed by Rockstar Source",
+    "url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-disc-hopes-seemingly-dashed-by-rockstar-source",
+    "published": "2026-06-27T13:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "GTA 6 will launch on PS5 as a digital code in a box rather than a physical Blu-ray disc, likely to prevent retail leaks of the highly anticipated title.",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 7+ PS5 Games Are Coming Out Next Week (29th-5th July)",
+    "url": "https://www.pushsquare.com/guides/these-7plus-ps5-games-are-coming-out-next-week-29th-5th-july",
+    "published": "2026-06-27T11:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-discovery"
+    ],
+    "summary": "A roundup of 7+ PlayStation 5 games releasing between July 29th and August 5th, including Monopoly: Star Wars Heroes vs. Villains.",
+    "sources": []
+  },
+  {
+    "title": "Talking Point: What Are You Playing This Weekend? - Issue 639",
+    "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-639",
+    "published": "2026-06-27T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Weekly gaming discussion column featuring staff picks and personal gaming plans for the weekend.",
+    "sources": []
+  }
+]
