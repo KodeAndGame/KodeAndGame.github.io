@@ -1,0 +1,1120 @@
+[
+  {
+    "title": "Mageia 10 Released For This Linux Distribution Carrying On The Mandrake Legacy",
+    "url": "https://www.phoronix.com/news/Mageia-10-Released",
+    "published": "2026-06-29T01:10:08+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Mageia 10, a Linux distribution descended from Mandrake/Mandriva, has been released with new ISO images available.",
+    "sources": []
+  },
+  {
+    "title": "Arch Linux's Archinstall 4.4 Adds Dank Material Shell + Niri Desktop Option",
+    "url": "https://www.phoronix.com/news/Arch-Linux-Archinstall-4.4",
+    "published": "2026-06-29T00:41:53+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Archinstall 4.4 adds new desktop environment options including Niri, with updates ahead of Arch Linux's July 2026 ISO refresh.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.2-rc1 Released: \"Things Look Reasonably Normal\" While Landing AMDGPU HDMI 2.1 FRL, AMD ISP4 & CAS",
+    "url": "https://www.phoronix.com/news/Linux-7.2-rc1-Released",
+    "published": "2026-06-28T20:04:19+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Linux 7.2-rc1 released with improvements to AMDGPU HDMI 2.1 FRL and AMD ISP4 support, entering testing phase before stable release.",
+    "sources": []
+  },
+  {
+    "title": "USB4STREAM, Optimizations, Jay & Other Popular Intel Linux News From This Quarter",
+    "url": "https://www.phoronix.com/news/Intel-Linux-Q2-2026",
+    "published": "2026-06-28T18:49:28+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware",
+      "gaming-news"
+    ],
+    "summary": "Quarterly roundup of popular Intel Linux and open-source developments including USB4STREAM and various optimizations.",
+    "sources": []
+  },
+  {
+    "title": "CachyOS June 2026 OS Released With More Performance Optimizations",
+    "url": "https://www.phoronix.com/news/CachyOS-June-2026-Released",
+    "published": "2026-06-28T14:49:10+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "CachyOS releases June 2026 version with performance optimizations for Arch Linux-based distribution.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 To Introduce DRM \"Color Format\" Property With AMD GPU Driver Support",
+    "url": "https://www.phoronix.com/news/Linux-7.3-DRM-Color-Format",
+    "published": "2026-06-28T13:34:22+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware",
+      "linux-hardware"
+    ],
+    "summary": "Linux 7.3 kernel will introduce DRM color format property with initial AMD GPU driver support for improved graphics handling.",
+    "sources": []
+  },
+  {
+    "title": "Linux Dropping Old Drivers, AI Detected Vulnerabilities & Other Kernel Highlights Of Q2",
+    "url": "https://www.phoronix.com/news/Linux-Kernel-Q2-2026",
+    "published": "2026-06-28T11:00:55+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "gaming-news"
+    ],
+    "summary": "A recap of Q2 2026 Linux kernel developments including driver changes and security improvements, with limited direct gaming implications.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.2 Surpasses More Than 43 Million Lines In The Kernel Tree",
+    "url": "https://www.phoronix.com/news/Linux-7.2-43-Million-Lines",
+    "published": "2026-06-28T10:47:06+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Linux kernel 7.2 reaches over 43 million lines of code as the merge window closes, marking continued development of the core operating system.",
+    "sources": []
+  },
+  {
+    "title": "Vim Patches Yielding Faster GTK3 Wayland Performance: \"Major Milestone\"",
+    "url": "https://www.phoronix.com/news/Vim-GTK3-Wayland-Faster",
+    "published": "2026-06-28T10:24:36+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Vim GTK3 Wayland performance improvements are coming through pending patches, marking better Linux display server support for the text editor.",
+    "sources": []
+  },
+  {
+    "title": "Steam Deck Beta Client Update: June 27th",
+    "url": "https://store.steampowered.com/news/app/1675200/view/701020348316910809",
+    "published": "2026-06-28T18:58:35+00:00",
+    "feed_name": "Steam Deck Official Updates",
+    "feed_tags": [
+      "steam-deck",
+      "valve"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-deck",
+      "valve"
+    ],
+    "summary": "Steam Deck Beta Client update addresses UI error on Settings and Game Properties pages for third-party handheld devices.",
+    "sources": []
+  },
+  {
+    "title": "How Easy Was Game Discovery For You As a Kid?",
+    "url": "https://www.resetera.com/threads/how-easy-was-game-discovery-for-you-as-a-kid.1563505/",
+    "published": "2026-06-29T03:36:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-history",
+      "retro",
+      "community"
+    ],
+    "summary": "A nostalgic reflection on how difficult game discovery was in the pre-internet era, using Game Boy Color availability as a case study.",
+    "sources": []
+  },
+  {
+    "title": "RTTP: Not a Hero | Not Resident Evil | Devolver's Turbo Wildcard from Roll7",
+    "url": "https://www.resetera.com/threads/rttp-not-a-hero-not-resident-evil-devolvers-turbo-wildcard-from-roll7.1563499/",
+    "published": "2026-06-29T02:51:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Roll7 and Devolver Digital announce a new isometric-perspective game with custom graphics technology developed over six years of indie development.",
+    "sources": []
+  },
+  {
+    "title": "Games that you enjoyed even more on your 2nd (or 3rd, or 4th....) playthrough",
+    "url": "https://www.resetera.com/threads/games-that-you-enjoyed-even-more-on-your-2nd-or-3rd-or-4th-playthrough.1563496/",
+    "published": "2026-06-29T01:58:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion thread about games that improve or remain enjoyable on subsequent playthroughs, with a user sharing their experience replaying Dragon Quest XI.",
+    "sources": []
+  },
+  {
+    "title": "Marvel Tokon: Blade, Deadpool and Loki announced as the final base roster characters",
+    "url": "https://www.resetera.com/threads/marvel-tokon-blade-deadpool-and-loki-announced-as-the-final-base-roster-characters.1563490/",
+    "published": "2026-06-29T01:39:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Marvel Tokon announces Blade, Deadpool, and Loki as the final base roster characters for the fighting game.",
+    "sources": []
+  },
+  {
+    "title": "Art of Fighting 3 adds King and Yuri and Rebalancing fixes",
+    "url": "https://www.resetera.com/threads/art-of-fighting-3-adds-king-and-yuri-and-rebalancing-fixes.1563484/",
+    "published": "2026-06-29T00:20:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Art of Fighting 3 receives character additions (King and Yuri) and rebalancing updates, likely as part of a modern port with rollback netcode.",
+    "sources": []
+  },
+  {
+    "title": "Art of Fighting 3 Reignite Announced (full roster re-balance, 2 new characters, rollback netcode)",
+    "url": "https://www.resetera.com/threads/art-of-fighting-3-reignite-announced-full-roster-re-balance-2-new-characters-rollback-netcode.1563478/",
+    "published": "2026-06-29T00:14:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Art of Fighting 3 Reignite announced with full roster rebalance, 2 new characters, rollback netcode, and new sprites.",
+    "sources": []
+  },
+  {
+    "title": "always impressed when i realize a 3d game has no baked lighting. can you think of some good examples?",
+    "url": "https://www.resetera.com/threads/always-impressed-when-i-realize-a-3d-game-has-no-baked-lighting-can-you-think-of-some-good-examples.1563472/",
+    "published": "2026-06-29T00:00:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-dev",
+      "community"
+    ],
+    "summary": "Community discussion about video games that use dynamic lighting instead of baked lighting, with examples and technical considerations.",
+    "sources": []
+  },
+  {
+    "title": "Xbox Has Frozen 3rd-Party Game Pass Deals per Industry Podcast",
+    "url": "https://www.resetera.com/threads/xbox-has-frozen-3rd-party-game-pass-deals-per-industry-podcast.1563469/",
+    "published": "2026-06-28T23:33:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Xbox has reportedly frozen third-party Game Pass deals according to an industry podcast, signaling a potential shift in the subscription service's content strategy.",
+    "sources": []
+  },
+  {
+    "title": "What do you want Ocarina of Time remake to be more like: Star Fox or Final Fantasy VII",
+    "url": "https://www.resetera.com/threads/what-do-you-want-ocarina-of-time-remake-to-be-more-like-star-fox-or-final-fantasy-vii.1563463/",
+    "published": "2026-06-28T22:52:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Community discussion speculating on what approach an Ocarina of Time remake should take regarding faithfulness versus expansion.",
+    "sources": []
+  },
+  {
+    "title": "Is cloud streaming an (unfortunate) answer to the current inflating market?",
+    "url": "https://www.resetera.com/threads/is-cloud-streaming-an-unfortunate-answer-to-the-current-inflating-market.1563460/",
+    "published": "2026-06-28T22:46:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-hardware",
+      "pc-hardware",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Community discussion exploring whether cloud streaming services like GeForce Now offer better value than traditional hardware upgrades amid rising console and PC costs.",
+    "sources": []
+  },
+  {
+    "title": "Playing more Pikmin after Pikmin 4 - especially for a younger kid",
+    "url": "https://www.resetera.com/threads/playing-more-pikmin-after-pikmin-4-especially-for-a-younger-kid.1563451/",
+    "published": "2026-06-28T22:15:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Parent seeks recommendations for Pikmin games to play with their 6-year-old child after enjoying Pikmin 4 together.",
+    "sources": []
+  },
+  {
+    "title": "TEKKEN 8 \u2013 Bob Gameplay Reveal Trailer",
+    "url": "https://www.resetera.com/threads/tekken-8-%E2%80%93-bob-gameplay-reveal-trailer.1563442/",
+    "published": "2026-06-28T22:01:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Bandai Namco releases a gameplay reveal trailer for Bob, a character in the fighting game TEKKEN 8.",
+    "sources": []
+  },
+  {
+    "title": "Virtua Fighter Crossroads: Bakunawa Killer Announcement Trailer",
+    "url": "https://www.resetera.com/threads/virtua-fighter-crossroads-bakunawa-killer-announcement-trailer.1563439/",
+    "published": "2026-06-28T21:36:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Virtua Fighter Crossroads announces a new character called the Bakunawa Killer with a story trailer involving Pai Chan's investigation.",
+    "sources": []
+  },
+  {
+    "title": "Lux and Samira: New Champion Reveals - Evo 2026 | 2XKO",
+    "url": "https://www.resetera.com/threads/lux-and-samira-new-champion-reveals-evo-2026-2xko.1563427/",
+    "published": "2026-06-28T21:22:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Riot Games reveals new champions Lux and Samira for 2XKO fighting game at Evo 2026.",
+    "sources": []
+  },
+  {
+    "title": "Can you imagine if when GTA6 comes out the reviews are just.......ok?",
+    "url": "https://www.resetera.com/threads/can-you-imagine-if-when-gta6-comes-out-the-reviews-are-just-ok.1563424/",
+    "published": "2026-06-28T21:19:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community member speculates about hypothetical scenario where GTA6 receives middling critical reviews despite high anticipation.",
+    "sources": []
+  },
+  {
+    "title": "What game most destroyed audience good will in a franchise? *Suicide Squad: Kill the Justice League Spoilers*",
+    "url": "https://www.resetera.com/threads/what-game-most-destroyed-audience-good-will-in-a-franchise-suicide-squad-kill-the-justice-league-spoilers.1563421/",
+    "published": "2026-06-28T21:05:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion analyzing Suicide Squad: Kill the Justice League as a franchise-damaging game that alienated fans through genre and tone shifts from the Arkham series.",
+    "sources": []
+  },
+  {
+    "title": "Kingdom Hearts references/easter eggs in other games and media",
+    "url": "https://www.resetera.com/threads/kingdom-hearts-references-easter-eggs-in-other-games-and-media.1563409/",
+    "published": "2026-06-28T21:00:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion about Kingdom Hearts easter eggs and references found in other media, sparked by a My Adventures with Superman episode.",
+    "sources": []
+  },
+  {
+    "title": "The director of the next mainline Final Fantasy has a message for you\u2026",
+    "url": "https://www.resetera.com/threads/the-director-of-the-next-mainline-final-fantasy-has-a-message-for-you%E2%80%A6.1563400/",
+    "published": "2026-06-28T20:28:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "leaks"
+    ],
+    "summary": "A purported Final Fantasy director shares a humorous post featuring an unrelated song, likely a joke or hoax rather than genuine news.",
+    "sources": []
+  },
+  {
+    "title": "Sand: Raiders of Sophie is Sea of Thieves in the desert and I love it",
+    "url": "https://www.resetera.com/threads/sand-raiders-of-sophie-is-sea-of-thieves-in-the-desert-and-i-love-it.1563349/",
+    "published": "2026-06-28T18:02:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "Sand: Raiders of Sophie, a Sea of Thieves-inspired extraction shooter in early access on Steam, offers desert-based PvP looting gameplay that impressed players in initial sessions.",
+    "sources": []
+  },
+  {
+    "title": "For all the D&D Bards out there where Seducing and Charm was the path out of Harm: Dragon Kisser is out now for the low price of FREE.",
+    "url": "https://www.resetera.com/threads/for-all-the-d-d-bards-out-there-where-seducing-and-charm-was-the-path-out-of-harm-dragon-kisser-is-out-now-for-the-low-price-of-free.1563337/",
+    "published": "2026-06-28T17:54:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "Dragon Kisser, a free indie soulslike game focused on romance and charisma mechanics, is now available on Steam.",
+    "sources": []
+  },
+  {
+    "title": "tomb raider underworld had complex and challenging platforming that resembled \"traversal\" in other games but was anything but",
+    "url": "https://www.resetera.com/threads/tomb-raider-underworld-had-complex-and-challenging-platforming-that-resembled-traversal-in-other-games-but-was-anything-but.1563334/",
+    "published": "2026-06-28T17:44:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "game-design"
+    ],
+    "summary": "Analysis of Tomb Raider Underworld's platforming design as a bridge between cinematic traversal and challenging gameplay mechanics.",
+    "sources": []
+  },
+  {
+    "title": "Meets The Hastings; Astrobot for Car Insurance.",
+    "url": "https://www.resetera.com/threads/meets-the-hastings-astrobot-for-car-insurance.1563301/",
+    "published": "2026-06-28T16:53:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 0,
+    "tags": [],
+    "summary": "UK insurance company Hastings Direct launches advertising campaign featuring animated robot knight characters, unrelated to gaming.",
+    "sources": []
+  },
+  {
+    "title": "The legendary Takenobu Mitsuyoshi from SEGA sings in Denshattack!",
+    "url": "https://www.resetera.com/threads/the-legendary-takenobu-mitsuyoshi-from-sega-sings-in-denshattack.1563277/",
+    "published": "2026-06-28T16:10:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Legendary SEGA composer Takenobu Mitsuyoshi performs vocals for the game Denshattack.",
+    "sources": []
+  },
+  {
+    "title": "Chris Dring - Globaly A new AAA SP game tends to do about 75% - 80% of its sales (at launch) on PlayStation vs Xbox. Number is often lower for MP game",
+    "url": "https://www.resetera.com/threads/chris-dring-globaly-a-new-aaa-sp-game-tends-to-do-about-75-80-of-its-sales-at-launch-on-playstation-vs-xbox-number-is-often-lower-for-mp-game.1563268/",
+    "published": "2026-06-28T15:44:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Industry analyst Chris Dring reports that AAA single-player games typically achieve 75-80% of launch sales on PlayStation compared to Xbox, with multiplayer titles showing lower PlayStation dominance.",
+    "sources": []
+  },
+  {
+    "title": "Could AI-enabled hacking delete GTAVI?",
+    "url": "https://www.resetera.com/threads/could-ai-enabled-hacking-delete-gtavi.1563265/",
+    "published": "2026-06-28T15:36:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Speculative discussion about whether AI-enabled hacking could compromise GTA VI's online services, reflecting broader cybersecurity concerns.",
+    "sources": []
+  },
+  {
+    "title": "How to approach the Fate series ?",
+    "url": "https://www.resetera.com/threads/how-to-approach-the-fate-series.1563262/",
+    "published": "2026-06-28T15:35:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A player asks for advice on how to approach the Fate visual novel series and whether gacha games are necessary to enjoy it.",
+    "sources": []
+  },
+  {
+    "title": "Is it possible to build a PC as small as the Steam Machine (~3.8L or less volume) that is at least as powerful, for the same or less cost? (new parts)",
+    "url": "https://www.resetera.com/threads/is-it-possible-to-build-a-pc-as-small-as-the-steam-machine-3-8l-or-less-volume-that-is-at-least-as-powerful-for-the-same-or-less-cost-new-parts.1563253/",
+    "published": "2026-06-28T14:42:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "pc-hardware",
+      "steam-deck",
+      "gaming-hardware"
+    ],
+    "summary": "A user seeks advice on building a compact PC comparable to the Steam Machine in performance and cost using off-the-shelf components and small form factor cases.",
+    "sources": []
+  },
+  {
+    "title": "Thinking about biting the bullet on a PS5 Pro because i am  scared of more Ram price increases.",
+    "url": "https://www.resetera.com/threads/thinking-about-biting-the-bullet-on-a-ps5-pro-because-i-am-scared-of-more-ram-price-increases.1563238/",
+    "published": "2026-06-28T14:22:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "console-hardware",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "A consumer shares personal deliberation about purchasing a PS5 Pro amid concerns about future RAM price increases and PS6 release timing.",
+    "sources": []
+  },
+  {
+    "title": "Spanky \"Bat a Swing\" is a rhythm-based 3D platformer",
+    "url": "https://www.resetera.com/threads/spanky-bat-a-swing-is-a-rhythm-based-3d-platformer.1563229/",
+    "published": "2026-06-28T13:49:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Spanky 'Bat-a-Swing,' a rhythm-based 3D platformer inspired by 1930s cartoons and electro swing, is a funded Kickstarter project coming to multiple platforms.",
+    "sources": []
+  },
+  {
+    "title": "Tom Cruise And Julia Roberts Were Once Pitched As Master Chief And Cortana For Halo 2",
+    "url": "https://www.resetera.com/threads/tom-cruise-and-julia-roberts-were-once-pitched-as-master-chief-and-cortana-for-halo-2.1563217/",
+    "published": "2026-06-28T13:02:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "Tom Cruise and Julia Roberts were once pitched to play Master Chief and Cortana in a live-action Halo 2 adaptation that never materialized.",
+    "sources": []
+  },
+  {
+    "title": "Dualsense Edge users, was your purchase validated?",
+    "url": "https://www.resetera.com/threads/dualsense-edge-users-was-your-purchase-validated.1563214/",
+    "published": "2026-06-28T12:56:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-hardware",
+      "console-hardware",
+      "community"
+    ],
+    "summary": "Community discussion about the value proposition of Sony's DualSense Edge controller compared to Xbox Elite alternatives.",
+    "sources": []
+  },
+  {
+    "title": "[AUTOMATON] STRANGER THAN HEAVEN Interview with Yokoyama (No Era Switching, More Serious Substories, Less Minigames, Casting)",
+    "url": "https://www.resetera.com/threads/automaton-stranger-than-heaven-interview-with-yokoyama-no-era-switching-more-serious-substories-less-minigames-casting.1563205/",
+    "published": "2026-06-28T11:33:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "AUTOMATON interview reveals development details for an upcoming Yokoyama project, including naming decisions, creative direction choices around era-switching and minigames, and casting considerations.",
+    "sources": []
+  },
+  {
+    "title": "Cyberpunk Edgerunners 2 is coming to Netflix in Fall 2026",
+    "url": "https://www.resetera.com/threads/cyberpunk-edgerunners-2-is-coming-to-netflix-in-fall-2026.1563193/",
+    "published": "2026-06-28T10:07:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Netflix announces Cyberpunk Edgerunners Season 2 animated series premiere scheduled for Fall 2026.",
+    "sources": []
+  },
+  {
+    "title": "What would win The Mid-Year Game Awards?",
+    "url": "https://www.resetera.com/threads/what-would-win-the-mid-year-game-awards.1563190/",
+    "published": "2026-06-28T09:55:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Speculative article predicting hypothetical Game Awards winners if the ceremony occurred mid-year, featuring games like Saros and 007 First Light.",
+    "sources": []
+  },
+  {
+    "title": "What's Your Most Anticipated Title Going Into the Second Half of 2026 and Why?",
+    "url": "https://www.resetera.com/threads/whats-your-most-anticipated-title-going-into-the-second-half-of-2026-and-why.1563181/",
+    "published": "2026-06-28T08:34:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion thread about anticipated games for the second half of 2026, featuring user opinions on titles like Forza Horizon 6 and Kirby Air Riders.",
+    "sources": []
+  },
+  {
+    "title": "Path of Exile 2 platform receivables by distribution channel/platform (GGG Annual Report)",
+    "url": "https://www.resetera.com/threads/path-of-exile-2-platform-receivables-by-distribution-channel-platform-ggg-annual-report.1563175/",
+    "published": "2026-06-28T08:27:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Grinding Gear Games' 2025 annual report reveals platform-specific trade receivables data, showing unpaid balances owed to the studio as of year-end.",
+    "sources": []
+  },
+  {
+    "title": "What's the last AAA game you played and quick review it",
+    "url": "https://www.resetera.com/threads/whats-the-last-aaa-game-you-played-and-quick-review-it.1563160/",
+    "published": "2026-06-28T07:01:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community member shares brief review of 007 First Light, rating it 6/10 for fun set pieces but excessive walking sections.",
+    "sources": []
+  },
+  {
+    "title": "Console Generations: yay or nay?",
+    "url": "https://www.resetera.com/threads/console-generations-yay-or-nay.1563157/",
+    "published": "2026-06-28T06:52:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Opinion piece questioning the viability of traditional console generations amid rising hardware costs and questioning whether the generational model remains viable.",
+    "sources": []
+  },
+  {
+    "title": "2025 Australian & New Zealand Video Game Consumer Sales Snapshots",
+    "url": "https://www.resetera.com/threads/2025-australian-new-zealand-video-game-consumer-sales-snapshots.1563154/",
+    "published": "2026-06-28T06:47:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "A forum post discussing 2025 video game consumer sales data for the Australian and New Zealand markets.",
+    "sources": []
+  },
+  {
+    "title": "40fps Console Gaming Thread",
+    "url": "https://www.resetera.com/threads/40fps-console-gaming-thread.1563151/",
+    "published": "2026-06-28T06:18:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "Community discussion explaining the technical benefits of 40fps gaming modes as a compromise between 30fps and 60fps performance.",
+    "sources": []
+  },
+  {
+    "title": "Feature: Nintendo On Drugs, No TV Until '76 And Rampant Piracy - How South Africa's Crazy Video Game History Shaped Me As A Gamer",
+    "url": "https://www.timeextension.com/features/nintendo-on-drugs-no-tv-until-76-and-rampant-piracy-how-south-africas-crazy-video-game-history-shaped-me-as-a-gamer",
+    "published": "2026-06-28T13:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A personal retrospective on South Africa's unique gaming history, including Famiclone systems and piracy, and its influence on the author's gaming perspective.",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (June 28th 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-june-28th-2026",
+    "published": "2026-06-28T11:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of retro gaming news covering Sonic pinball, Retroid Pocket Nova, and Star Fox 64.",
+    "sources": []
+  },
+  {
+    "title": "Humble's Arc System Works Bundle Is Perfect For Fighting Genre Fans on the Steam Deck",
+    "url": "https://steamdeckhq.com/news/humbles-arc-system-works-evo-2026-bundle/",
+    "published": "2026-06-28T12:48:17+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Humble Bundle's Arc System Works EVO collection offers 11 fighting games optimized for Steam Deck at a discounted price.",
+    "sources": []
+  },
+  {
+    "title": "Steam Next Fest 2026 June: Recap",
+    "url": "https://boilingsteam.com/steam-next-fest-2026-jun/index.html",
+    "published": "2026-06-28T14:21:36+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Steam Next Fest June 2026 concluded with a selection of notable game demos available for players to try.",
+    "sources": []
+  },
+  {
+    "title": "Visual novel Coffee Talk Tokyo serves up an image of 'Cool Japan,' but not much more",
+    "url": "https://www.rockpapershotgun.com/visual-novel-coffee-talk-tokyo-serves-up-an-image-of-cool-japan-but-not-much-more",
+    "published": "2026-06-28T13:32:36+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Coffee Talk Tokyo, a visual novel sequel set in Japan, is reviewed as lacking the thematic depth and worldbuilding that made the original Seattle-set game engaging.",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-816",
+    "published": "2026-06-28T09:30:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "A weekly gaming news roundup column featuring editorial commentary and links to notable stories from the prior week.",
+    "sources": []
+  },
+  {
+    "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
+    "url": "https://www.gamedeveloper.com/business/analysts-attempt-to-make-sense-of-xbox-s-exclusivity-mindset-shift",
+    "published": "2026-06-26T14:15:00+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Industry analysts discuss Microsoft's shift in Xbox exclusivity strategy and the company's approach to previously underutilized franchises.",
+    "sources": []
+  },
+  {
+    "title": "Blade, Loki, Deadpool announced for MARVEL T\u014dkon: Fighting Souls",
+    "url": "https://blog.playstation.com/2026/06/28/blade-loki-deadpool-announced-for-marvel-tokon-fighting-souls/",
+    "published": "2026-06-29T01:38:56+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Marvel T\u014dkon: Fighting Souls announces new character additions including Blade, Loki, and Deadpool as part of the final 'Samurai Outriders' team reveal at EVO 2026.",
+    "sources": []
+  },
+  {
+    "title": "Bob Is Back and Bigger Than Ever in Tekken 8 on PS5",
+    "url": "https://www.pushsquare.com/news/2026/06/bob-is-back-and-bigger-than-ever-in-tekken-8-on-ps5",
+    "published": "2026-06-28T23:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Bandai Namco reveals gameplay footage of returning character Bob in Tekken 8 for PS5, showing the character with a new larger appearance and food items.",
+    "sources": []
+  },
+  {
+    "title": "This PS5 Open World Game Is Adding an Entire Fantasy RPG as an Extra Activity",
+    "url": "https://www.pushsquare.com/news/2026/06/this-ps5-open-world-game-is-adding-an-entire-fantasy-rpg-as-an-extra-activity",
+    "published": "2026-06-28T23:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "A PS5 open world game is adding a full fantasy RPG as a mini-activity in an upcoming July update.",
+    "sources": []
+  },
+  {
+    "title": "PS5 Dominates Xbox for Single Player Games, New Data Suggests",
+    "url": "https://www.pushsquare.com/news/2026/06/ps5-dominates-xbox-for-single-player-games-new-data-suggests",
+    "published": "2026-06-28T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Data shows PS5 dominates Xbox for single-player AAA game sales at launch, with PS5 capturing 75-80% of copies, largely attributable to its significantly larger install base of 93 million units versus Xbox's 35 million.",
+    "sources": []
+  },
+  {
+    "title": "These 4 New Challengers Are Coming to Some of PS5's Best Fighting Games",
+    "url": "https://www.pushsquare.com/news/2026/06/these-4-new-challengers-are-coming-to-some-of-ps5s-best-fighting-games",
+    "published": "2026-06-28T14:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "New character announcements for multiple fighting games, including BlazBlue: Central Fiction, revealed at EVO 2024 championship event in Los Angeles.",
+    "sources": []
+  },
+  {
+    "title": "Hyped Avatar Fighting Game Adds These 5 Characters After PS5 Launch",
+    "url": "https://www.pushsquare.com/news/2026/06/hyped-avatar-fighting-game-adds-these-5-characters-after-ps5-launch",
+    "published": "2026-06-28T12:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Avatar Legends: The Fighting Game confirms its Year 1 DLC pass with five new characters following its PS5 launch.",
+    "sources": []
+  }
+]
