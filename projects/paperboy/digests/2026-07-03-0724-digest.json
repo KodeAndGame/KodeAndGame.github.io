@@ -1,0 +1,1968 @@
+[
+  {
+    "title": "Proton Experimental gets fixes for DEATHLOOP, DRAGON QUEST BUILDERS and more",
+    "url": "https://www.gamingonlinux.com/2026/07/proton-experimental-gets-fixes-for-deathloop-dragon-quest-builders-and-more/",
+    "published": "2026-07-03T06:57:05+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 55,
+    "tags": [
+      "proton",
+      "steam-deck",
+      "linux-gaming",
+      "steam-platform"
+    ],
+    "summary": "Proton Experimental receives updates fixing compatibility issues for DEATHLOOP, DRAGON QUEST BUILDERS and other Windows games on Linux/SteamOS platforms.",
+    "sources": []
+  },
+  {
+    "title": "NVIDIA reveal games coming to GeForce NOW in July including Assassin's Creed Black Flag Resynced",
+    "url": "https://www.gamingonlinux.com/2026/07/nvidia-reveal-games-coming-to-geforce-now-in-july-including-assassins-creed-black-flag-resynced/",
+    "published": "2026-07-02T15:25:16+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "pc-hardware",
+      "game-discovery"
+    ],
+    "summary": "NVIDIA announces new games coming to GeForce NOW in July 2026, including Assassin's Creed Black Flag Resynced.",
+    "sources": []
+  },
+  {
+    "title": "Pet Chamber is an experimental incremental tamagotchi horror game made on Steam Deck",
+    "url": "https://www.gamingonlinux.com/2026/07/pet-chamber-is-an-experimental-incremental-tamagotchi-horror-game-made-on-steam-deck/",
+    "published": "2026-07-02T13:36:40+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "indie-games",
+      "game-discovery",
+      "linux-gaming"
+    ],
+    "summary": "Pet Chamber is an experimental incremental tamagotchi horror game developed on Steam Deck featuring a unique survival premise.",
+    "sources": []
+  },
+  {
+    "title": "Mech-building auto battler 'Cats in the Shell' announced by former Tencent / NetEase devs",
+    "url": "https://www.gamingonlinux.com/2026/07/mech-building-auto-battler-cats-in-the-shell-announced-by-former-tencent-netease-devs/",
+    "published": "2026-07-02T13:19:30+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Former Tencent/NetEase developers announce Cats in the Shell, a new mech-building auto battler game from newly formed Raven Studio.",
+    "sources": []
+  },
+  {
+    "title": "Assassin's Creed Black Flag Resynced is Steam Deck Verified / SteamOS Compatible ahead of release",
+    "url": "https://www.gamingonlinux.com/2026/07/assassins-creed-black-flag-resynced-is-steam-deck-verified-steamos-compatible-ahead-of-release/",
+    "published": "2026-07-02T09:05:59+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 62,
+    "tags": [
+      "steam-deck",
+      "steam-platform",
+      "gaming-news"
+    ],
+    "summary": "Ubisoft's Assassin's Creed Black Flag Resynced has achieved Steam Deck Verified status ahead of its July 9th release.",
+    "sources": []
+  },
+  {
+    "title": "Steam Survey - June 2026 shows Linux dip to 3.69%",
+    "url": "https://www.gamingonlinux.com/2026/07/steam-survey-june-2026-shows-linux-dip-to-3-69-percent/",
+    "published": "2026-07-02T07:44:33+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 55,
+    "tags": [
+      "steam-platform",
+      "linux-gaming",
+      "gaming-news",
+      "pc-hardware"
+    ],
+    "summary": "Steam Hardware Survey for June 2026 reports a decline in Linux gaming market share to 3.69%.",
+    "sources": []
+  },
+  {
+    "title": "SteamOS gets fixes for Steam Machine, MSI Claw, Legion Go and fixes for desktop Steam too",
+    "url": "https://www.gamingonlinux.com/2026/07/steamos-gets-fixes-for-steam-machine-msi-claw-legion-go-and-fixes-for-desktop-steam-too/",
+    "published": "2026-07-02T07:11:08+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "steam-platform",
+      "linux-gaming",
+      "gaming-hardware"
+    ],
+    "summary": "SteamOS receives bug fixes and improvements for multiple handheld gaming devices including Steam Machine, MSI Claw, and Legion Go, plus desktop Steam updates.",
+    "sources": []
+  },
+  {
+    "title": "ReactOS Implements First Windows NT6 System Call In Step Toward Vista Compatibility",
+    "url": "https://www.phoronix.com/news/ReactOS-First-NT6-Syscall",
+    "published": "2026-07-03T00:22:38+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "windows-compatibility",
+      "pc-hardware"
+    ],
+    "summary": "ReactOS project implements its first Windows NT6 system call, marking progress toward Vista and later Windows version compatibility.",
+    "sources": []
+  },
+  {
+    "title": "Fedora 45 Considering x86_64 Shadow Stack Usage By Default",
+    "url": "https://www.phoronix.com/news/Fedora-45-Consider-Shadow-Stack",
+    "published": "2026-07-02T21:17:35+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Fedora 45 is considering enabling x86_64 Shadow Stack by default for improved security on modern Intel and AMD processors.",
+    "sources": []
+  },
+  {
+    "title": "EFS File-System Slated For Removal With Linux 7.3 After 20+ Years Unmaintained",
+    "url": "https://www.phoronix.com/news/EFS-File-System-Removal-Coming",
+    "published": "2026-07-02T17:39:06+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "gaming-history"
+    ],
+    "summary": "The unmaintained EFS file-system driver, used for legacy SGI IRIX systems, is slated for removal from Linux 7.3 after over 20 years without maintenance.",
+    "sources": []
+  },
+  {
+    "title": "Linux Kernel Developers Again Discussing AI Agent Attribution - Potentially Dropping It",
+    "url": "https://www.phoronix.com/news/Linux-AI-Attribution-Again",
+    "published": "2026-07-02T15:11:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "gaming-industry"
+    ],
+    "summary": "Linux kernel developers are reconsidering their policy on attributing AI-assisted patches, debating whether to maintain, revise, or eliminate the current 'Assisted-by' tagging requirement.",
+    "sources": []
+  },
+  {
+    "title": "RISC-V RVV Vector Performance Benchmarks With The SpacemiT K3 SoC",
+    "url": "https://www.phoronix.com/review/risc-v-rvv-vector-benchmarks",
+    "published": "2026-07-02T14:10:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware",
+      "linux-gaming"
+    ],
+    "summary": "Technical benchmarks of RISC-V RVV vector performance on the SpacemiT K3 SoC show promising results for this emerging processor architecture.",
+    "sources": []
+  },
+  {
+    "title": "Intel Posts Initial GCC Compiler Patches For AI Compute Extensions \"ACE\"",
+    "url": "https://www.phoronix.com/news/Intel-GCC-ACE-AI-Patches",
+    "published": "2026-07-02T13:08:38+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "pc-hardware",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Intel submits initial GCC compiler patches for AI Compute Extensions (ACE), an x86 instruction set successor to AMX for machine learning optimization.",
+    "sources": []
+  },
+  {
+    "title": "Vibe Coded X11 Server Written In Rust Adds Xinerama, FreeBSD Support & Other Features",
+    "url": "https://www.phoronix.com/news/YSERVER-1.3-Released",
+    "published": "2026-07-02T12:15:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "open-source",
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "YSERVER, a Rust-written X11 display server, releases version 1.3 with added Xinerama and FreeBSD support.",
+    "sources": []
+  },
+  {
+    "title": "KDE Plasma Affected By Arbitrary Code Execution To Break Sandboxes With \"Open New Window\"",
+    "url": "https://www.phoronix.com/news/KDE-Plasma-ACE-New-Window",
+    "published": "2026-07-02T11:51:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "gaming-hardware",
+      "open-source"
+    ],
+    "summary": "A critical arbitrary code execution vulnerability affecting KDE Plasma's sandbox security was publicly disclosed, potentially impacting Linux gaming systems that use this desktop environment.",
+    "sources": []
+  },
+  {
+    "title": "Linux Looking To Retire A Number Of Old ARM Platforms In Early 2027",
+    "url": "https://www.phoronix.com/news/Linux-Drop-Old-ARM-2027",
+    "published": "2026-07-02T10:18:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Linux kernel maintainers propose deprecating and removing support for outdated ARM platforms and features by early 2027, affecting legacy hardware compatibility.",
+    "sources": []
+  },
+  {
+    "title": "FFmpeg Introduces Vulkan APV Encoder",
+    "url": "https://www.phoronix.com/news/FFmpeg-Vulkan-Encoder-APV",
+    "published": "2026-07-02T10:04:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "pc-hardware",
+      "game-dev"
+    ],
+    "summary": "FFmpeg adds Vulkan-accelerated encoding support for the APV video codec, complementing its existing Vulkan-accelerated decoding capabilities.",
+    "sources": []
+  },
+  {
+    "title": "Rusticl OpenCL Driver Improving Hardware Utilization In Mesa 26.2",
+    "url": "https://www.phoronix.com/news/Rusticl-Better-Utilization-Mesa",
+    "published": "2026-07-02T09:54:21+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 52,
+    "tags": [
+      "open-source",
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Red Hat engineer optimizes Rusticl OpenCL driver in Mesa 26.2 for improved hardware utilization across Gallium3D drivers.",
+    "sources": []
+  },
+  {
+    "title": "JPEG-XL libjxl 0.12 Brings More Performance Optimizations",
+    "url": "https://www.phoronix.com/news/JPEG-XL-libjxl-0.12",
+    "published": "2026-07-02T09:44:14+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "open-source"
+    ],
+    "summary": "JPEG-XL libjxl 0.12 release includes performance optimizations for image encoding and decoding.",
+    "sources": []
+  },
+  {
+    "title": "Box3D Debuts As New Open-Source 3D Physics Engine",
+    "url": "https://www.phoronix.com/news/Box3D-Open-Source-3D-Physics",
+    "published": "2026-07-02T09:35:13+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 58,
+    "tags": [
+      "open-source",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Box2D creator Erin Catto releases Box3D, a new open-source 3D physics engine forked from the popular Box2D 2D physics engine.",
+    "sources": []
+  },
+  {
+    "title": "Steam Deck Beta Client Update: July 2nd",
+    "url": "https://store.steampowered.com/news/app/1675200/view/701020348316913462",
+    "published": "2026-07-02T22:12:43+00:00",
+    "feed_name": "Steam Deck Official Updates",
+    "feed_tags": [
+      "steam-deck",
+      "valve"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "steam-platform"
+    ],
+    "summary": "Steam Deck beta client update restores resolution options, fixes Remote Play offline device display, and addresses SteamRT3 game launch issues.",
+    "sources": []
+  },
+  {
+    "title": "Uncharted 2: Among Thieves",
+    "url": "https://www.resetera.com/threads/uncharted-2-among-thieves.1567867/",
+    "published": "2026-07-03T06:57:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "emulation",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A user shares their experience replaying Uncharted 2 via RPCS3 emulator as part of revisiting the series.",
+    "sources": []
+  },
+  {
+    "title": "Alternative Media that reminds you of Specific Game Consoles",
+    "url": "https://www.resetera.com/threads/alternative-media-that-reminds-you-of-specific-game-consoles.1567864/",
+    "published": "2026-07-03T06:26:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A community discussion thread about media that aesthetically or stylistically resembles specific game consoles, sparked by a YouTube video recommendation.",
+    "sources": []
+  },
+  {
+    "title": "Why isn't Sony considering a boutique/niche exclusive option of selling physical titles for $100-200+ for the hardcore collectors?",
+    "url": "https://www.resetera.com/threads/why-isnt-sony-considering-a-boutique-niche-exclusive-option-of-selling-physical-titles-for-100-200-for-the-hardcore-collectors.1567861/",
+    "published": "2026-07-03T06:13:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "A gaming enthusiast discusses their desire for premium $100-200+ physical collector's editions with included discs, questioning why Sony hasn't pursued this niche market segment.",
+    "sources": []
+  },
+  {
+    "title": "Marvel Rivals has introduced a swimsuit skin for Captain America",
+    "url": "https://www.resetera.com/threads/marvel-rivals-has-introduced-a-swimsuit-skin-for-captain-america.1567858/",
+    "published": "2026-07-03T06:04:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Marvel Rivals adds a swimsuit skin cosmetic for the Captain America character.",
+    "sources": []
+  },
+  {
+    "title": "I know we are getting diminishing returns on graphics, but are we also seeing it more severely intrageneration?",
+    "url": "https://www.resetera.com/threads/i-know-we-are-getting-diminishing-returns-on-graphics-but-are-we-also-seeing-it-more-severely-intrageneration.1567852/",
+    "published": "2026-07-03T05:29:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "console-hardware"
+    ],
+    "summary": "A discussion forum post questioning whether graphics improvements within a single console generation have become less pronounced over time compared to historical trends.",
+    "sources": []
+  },
+  {
+    "title": "Hard truth: You want positive change in the game industry? Don't buy GTA 6.",
+    "url": "https://www.resetera.com/threads/hard-truth-you-want-positive-change-in-the-game-industry-dont-buy-gta-6.1567849/",
+    "published": "2026-07-03T05:27:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "consumer-advocacy"
+    ],
+    "summary": "Opinion piece arguing that declining to purchase GTA 6 could pressure Sony and Microsoft toward more consumer-friendly industry practices.",
+    "sources": []
+  },
+  {
+    "title": "Are you going to be priced out from AAA D1 gaming?",
+    "url": "https://www.resetera.com/threads/are-you-going-to-be-priced-out-from-aaa-d1-gaming.1567846/",
+    "published": "2026-07-03T05:13:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Opinion piece exploring whether rising AAA game prices and the shift to digital sales may price out consumers from day-one AAA gaming purchases.",
+    "sources": []
+  },
+  {
+    "title": "Today I impulse bought a PS4 Pro",
+    "url": "https://www.resetera.com/threads/today-i-impulse-bought-a-ps4-pro.1567834/",
+    "published": "2026-07-03T04:14:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "console-hardware",
+      "handheld-gaming"
+    ],
+    "summary": "A user shares their personal experience of impulse-buying a used PS4 Pro despite preferring handheld gaming and already owning SteamOS handhelds and Switch 2.",
+    "sources": []
+  },
+  {
+    "title": "Is there anything that scratches that Slayers/Lunar/Grandia itch these days?",
+    "url": "https://www.resetera.com/threads/is-there-anything-that-scratches-that-slayers-lunar-grandia-itch-these-days.1567831/",
+    "published": "2026-07-03T03:30:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Community discussion seeking modern game recommendations similar to classic 90s fantasy RPGs like Lunar and Grandia with comedic tone and colorful casts.",
+    "sources": []
+  },
+  {
+    "title": "If digital is the future, where are you buying your digital games?",
+    "url": "https://www.resetera.com/threads/if-digital-is-the-future-where-are-you-buying-your-digital-games.1567813/",
+    "published": "2026-07-03T02:17:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "game-discovery"
+    ],
+    "summary": "Opinion piece questioning where gamers will purchase digital games as the industry shifts away from physical media.",
+    "sources": []
+  },
+  {
+    "title": "Developer Interview for Meccha Chameleon! Behind the Worldwide Hit Created by Just Two People in About Two Months",
+    "url": "https://www.resetera.com/threads/developer-interview-for-meccha-chameleon-behind-the-worldwide-hit-created-by-just-two-people-in-about-two-months.1567804/",
+    "published": "2026-07-03T01:43:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Two independent developers behind the hit indie game Meccha Chameleon discuss their rapid development process and philosophy in a developer interview.",
+    "sources": []
+  },
+  {
+    "title": "Sony\u2019s PlayStation disc factory is already being repurposed",
+    "url": "https://www.resetera.com/threads/sony%E2%80%99s-playstation-disc-factory-is-already-being-repurposed.1567792/",
+    "published": "2026-07-03T01:40:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Sony is repurposing its PlayStation disc manufacturing facility to produce optical microlenses as physical game media demand collapses, with production dropping 90% by 2028.",
+    "sources": []
+  },
+  {
+    "title": "What would be the Mt. Rushmore of fighting game companies/studios?",
+    "url": "https://www.resetera.com/threads/what-would-be-the-mt-rushmore-of-fighting-game-companies-studios.1567777/",
+    "published": "2026-07-03T01:13:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion about which four fighting game companies/studios are most iconic and foundational to the genre's history.",
+    "sources": []
+  },
+  {
+    "title": "Does anyone play series X on an ultrawide monitor?",
+    "url": "https://www.resetera.com/threads/does-anyone-play-series-x-on-an-ultrawide-monitor.1567771/",
+    "published": "2026-07-03T00:35:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "A gamer discusses technical challenges with playing Xbox Series X on an ultrawide monitor, noting display lag and ghosting issues when using 16:9 scaling.",
+    "sources": []
+  },
+  {
+    "title": "If \"digital goods\" are the future, what would a more pro-consumer digital rights management (DRM) look like?",
+    "url": "https://www.resetera.com/threads/if-digital-goods-are-the-future-what-would-a-more-pro-consumer-digital-rights-management-drm-look-like.1567762/",
+    "published": "2026-07-03T00:14:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "drm",
+      "consumer-rights"
+    ],
+    "summary": "Opinion piece exploring what consumer-friendly digital rights management could look like as physical game media declines and digital distribution becomes dominant.",
+    "sources": []
+  },
+  {
+    "title": "Persona 4 Revival Protagonist Rizzle Trailer",
+    "url": "https://www.resetera.com/threads/persona-4-revival-protagonist-rizzle-trailer.1567750/",
+    "published": "2026-07-03T00:10:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A new trailer for Persona 4 Revival Protagonist Rizzle has been released, showcasing gameplay and character content.",
+    "sources": []
+  },
+  {
+    "title": "Switch 2 Metaphor: ReFantazio port Impressions in Docked Mode at Anime Expo.",
+    "url": "https://www.resetera.com/threads/switch-2-metaphor-refantazio-port-impressions-in-docked-mode-at-anime-expo.1567738/",
+    "published": "2026-07-02T23:49:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 58,
+    "tags": [
+      "console-hardware",
+      "gaming-hardware",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Hands-on impressions of Metaphor: ReFantazio running on Switch 2 in docked mode show mostly stable 60 FPS with minor dips and noticeable resolution/temporal upscaling tradeoffs.",
+    "sources": []
+  },
+  {
+    "title": "Is there any reality where Microsoft would pull a 2013 Sony?",
+    "url": "https://www.resetera.com/threads/is-there-any-reality-where-microsoft-would-pull-a-2013-sony.1567729/",
+    "published": "2026-07-02T23:33:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Opinion piece speculating whether Microsoft could emulate Sony's successful 2013 PR turnaround amid current Xbox challenges and studio closures.",
+    "sources": []
+  },
+  {
+    "title": "Teem Beef working on a  Morrowind(OpenMW) port for standalone VR headsets",
+    "url": "https://www.resetera.com/threads/teem-beef-working-on-a-morrowind-openmw-port-for-standalone-vr-headsets.1567726/",
+    "published": "2026-07-02T23:30:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "vr",
+      "open-source",
+      "game-dev",
+      "retro"
+    ],
+    "summary": "Teem Beef announces progress on an OpenMW port of Morrowind for standalone VR headsets, sharing development context and current status.",
+    "sources": []
+  },
+  {
+    "title": "Documenting the times digital licenses have been revoked (among other issues)",
+    "url": "https://www.resetera.com/threads/documenting-the-times-digital-licenses-have-been-revoked-among-other-issues.1567723/",
+    "published": "2026-07-02T23:20:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "consumer-rights",
+      "digital-licensing",
+      "gaming-news"
+    ],
+    "summary": "A compilation effort documenting instances of digital game license revocations and accessibility issues across storefronts, highlighted by concerns over PlayStation's shift away from physical media by 2028.",
+    "sources": []
+  },
+  {
+    "title": "Perfect Dark was canceled 1 year ago today",
+    "url": "https://www.resetera.com/threads/perfect-dark-was-canceled-1-year-ago-today.1567708/",
+    "published": "2026-07-02T23:09:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "gaming-history",
+      "console-hardware"
+    ],
+    "summary": "Reflecting on the one-year anniversary of Microsoft's cancellation of Perfect Dark and closure of The Initiative studio during major layoffs.",
+    "sources": []
+  },
+  {
+    "title": "PlayStation physical vs digital data is often misinterpreted, many games still sell more physically",
+    "url": "https://www.resetera.com/threads/playstation-physical-vs-digital-data-is-often-misinterpreted-many-games-still-sell-more-physically.1567690/",
+    "published": "2026-07-02T22:33:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Data analysis challenges the often-cited 78% PlayStation digital sales figure, revealing it includes digital-only releases, older titles, DLC, and indie games while many major games still sell more physically.",
+    "sources": []
+  },
+  {
+    "title": "[Game Informer] The Blood Of Dawnwalker Is Wide Open, But Its Many Choices Have Many Consequences | Cover Story",
+    "url": "https://www.resetera.com/threads/game-informer-the-blood-of-dawnwalker-is-wide-open-but-its-many-choices-have-many-consequences-cover-story.1567675/",
+    "published": "2026-07-02T22:12:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Game Informer's cover story explores The Blood Of Dawnwalker's open-world design with branching choices and consequences affecting how players approach the main quest.",
+    "sources": []
+  },
+  {
+    "title": "Closing the PS3 store cuts off the only way to affordably purchase some very rare and otherwise expensive games",
+    "url": "https://www.resetera.com/threads/closing-the-ps3-store-cuts-off-the-only-way-to-affordably-purchase-some-very-rare-and-otherwise-expensive-games.1567672/",
+    "published": "2026-07-02T22:10:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "gaming-industry",
+      "console-hardware",
+      "community"
+    ],
+    "summary": "PlayStation's closure of the PS3 digital store removes the only affordable legitimate way to purchase rare and expensive legacy games, forcing collectors toward expensive physical copies or used markets.",
+    "sources": []
+  },
+  {
+    "title": "BallisticNG dev announces Aster League: 2179 \"this is BallisticNG small vehicles with a Crash Team Racing twist.\" - Physics test available now!",
+    "url": "https://www.resetera.com/threads/ballisticng-dev-announces-aster-league-2179-this-is-ballisticng-small-vehicles-with-a-crash-team-racing-twist-physics-test-available-now.1567669/",
+    "published": "2026-07-02T21:46:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "BallisticNG developer announces Aster League: 2179, a new arcade racing game combining small vehicle combat with Crash Team Racing mechanics, with a physics test demo now available.",
+    "sources": []
+  },
+  {
+    "title": "[WindowsCentral] \u201cI\u2019ve heard the plan is, if they can\u2019t find a buyer, they\u2019ll see the studios through to complete the games that have been announced.\u201d",
+    "url": "https://www.resetera.com/threads/windowscentral-%E2%80%9Ci%E2%80%99ve-heard-the-plan-is-if-they-can%E2%80%99t-find-a-buyer-they%E2%80%99ll-see-the-studios-through-to-complete-the-games-that-have-been-announced-%E2%80%9D.1567666/",
+    "published": "2026-07-02T21:46:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "A source claims that if studios from a company sale cannot find buyers, the parent company plans to fund completion of already-announced games while allowing studios to go independent or be acquired.",
+    "sources": []
+  },
+  {
+    "title": "How prevalent is disc rot?",
+    "url": "https://www.resetera.com/threads/how-prevalent-is-disc-rot.1567648/",
+    "published": "2026-07-02T21:27:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Discussion about the prevalence and impact of disc rot on retro gaming collections across different platforms and generations.",
+    "sources": []
+  },
+  {
+    "title": "[Destructoid] France\u2019s left-wing presidential candidate has opinions on GTA 6 and the discless PlayStation fiasco",
+    "url": "https://www.resetera.com/threads/destructoid-france%E2%80%99s-left-wing-presidential-candidate-has-opinions-on-gta-6-and-the-discless-playstation-fiasco.1567645/",
+    "published": "2026-07-02T21:13:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "French left-wing presidential candidate Jean-Luc M\u00e9lenchon criticizes Sony's discless PlayStation strategy and GTA 6, appealing to gamers ahead of next year's election.",
+    "sources": []
+  },
+  {
+    "title": "College Football 27 pc performance thread",
+    "url": "https://www.resetera.com/threads/college-football-27-pc-performance-thread.1567621/",
+    "published": "2026-07-02T20:57:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "pc-hardware",
+      "gaming-news"
+    ],
+    "summary": "College Football 27 system requirements and performance specifications thread for PC gaming.",
+    "sources": []
+  },
+  {
+    "title": "Grubb says Arkane\u2019s Blade is pretty far along, were going to show gameplay this year and release 2027, confused by rumored cancellation",
+    "url": "https://www.resetera.com/threads/grubb-says-arkane%E2%80%99s-blade-is-pretty-far-along-were-going-to-show-gameplay-this-year-and-release-2027-confused-by-rumored-cancellation.1567564/",
+    "published": "2026-07-02T19:31:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Industry insider Jeff Grubb reports that Arkane's Blade is well into development with planned 2024 gameplay reveal and 2027 release, contradicting earlier cancellation rumors.",
+    "sources": []
+  },
+  {
+    "title": "PNP Games (small Canadian retail chain) posts change.org petition: Don't Kill the Disc - Tell Sony to Keep Physical PlayStation Games",
+    "url": "https://www.resetera.com/threads/pnp-games-small-canadian-retail-chain-posts-change-org-petition-dont-kill-the-disc-tell-sony-to-keep-physical-playstation-games.1567561/",
+    "published": "2026-07-02T19:29:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "community"
+    ],
+    "summary": "Canadian retailer PNP Games launches Change.org petition opposing Sony's decision to discontinue physical game discs for PlayStation in 2028, with GTA VI confirmed as digital-only.",
+    "sources": []
+  },
+  {
+    "title": "Has anyone else's character preference changed as they got older?",
+    "url": "https://www.resetera.com/threads/has-anyone-elses-character-preference-changed-as-they-got-older.1567558/",
+    "published": "2026-07-02T19:21:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community"
+    ],
+    "summary": "A gamer reflects on how their character preference evolved from exclusively male to enjoying female characters as they aged, inviting community discussion.",
+    "sources": []
+  },
+  {
+    "title": "Valve is working on Pyrowave video codec (ultra low latency) integration for Steam Game Streaming",
+    "url": "https://www.resetera.com/threads/valve-is-working-on-pyrowave-video-codec-ultra-low-latency-integration-for-steam-game-streaming.1567555/",
+    "published": "2026-07-02T19:16:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-hardware",
+      "pc-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Valve is integrating Pyrowave, an ultra-low-latency video codec optimized for GPU encoding, into Steam Game Streaming to reduce streaming latency.",
+    "sources": []
+  },
+  {
+    "title": "Bloomberg: Top \u2018Suicide Squad\u2019 Developers Say the Flop Made Them Not Want to Make Games Anymore",
+    "url": "https://www.resetera.com/threads/bloomberg-top-%E2%80%98suicide-squad%E2%80%99-developers-say-the-flop-made-them-not-want-to-make-games-anymore.1567537/",
+    "published": "2026-07-02T19:11:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Top developers behind the commercially unsuccessful Suicide Squad game express burnout and reluctance to continue making games due to the project's failure.",
+    "sources": []
+  },
+  {
+    "title": "Has digital made you more selective over your game purchases, compared to physical?",
+    "url": "https://www.resetera.com/threads/has-digital-made-you-more-selective-over-your-game-purchases-compared-to-physical.1567534/",
+    "published": "2026-07-02T19:07:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion about how the shift from physical to digital game purchases has affected consumer buying habits and risk tolerance.",
+    "sources": []
+  },
+  {
+    "title": "Origami | Midgar Studio (Edge of Eternity / Memories) has been shut down by court-ordered liquidation.",
+    "url": "https://www.resetera.com/threads/origami-midgar-studio-edge-of-eternity-memories-has-been-shut-down-by-court-ordered-liquidation.1567531/",
+    "published": "2026-07-02T19:04:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "game-dev",
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Midgar Studio has been shut down through court-ordered liquidation as part of the Nacon Group's bankruptcy, leaving their five-year-in-development title Edge of Memories in limbo.",
+    "sources": []
+  },
+  {
+    "title": "[PushSquare] Sony Abandons Social Media for 24 Hours+ After Controversially Killing Physical Games",
+    "url": "https://www.resetera.com/threads/pushsquare-sony-abandons-social-media-for-24-hours-after-controversially-killing-physical-games.1567525/",
+    "published": "2026-07-02T18:44:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Sony has ceased all social media activity for over 24 hours following major backlash against its decision to discontinue physical games.",
+    "sources": []
+  },
+  {
+    "title": "\"PS5 Will Be My Last Console\": After 45K Votes, 86% of DF Viewers Say Sony Should Reconsider Killing Physical Games",
+    "url": "https://www.resetera.com/threads/ps5-will-be-my-last-console-after-45k-votes-86-of-df-viewers-say-sony-should-reconsider-killing-physical-games.1567510/",
+    "published": "2026-07-02T18:41:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "A Digital Foundry poll shows 86% of 45,000 viewers oppose Sony's plan to discontinue physical PS5 games starting January 2028, raising questions about the company's digital-only direction.",
+    "sources": []
+  },
+  {
+    "title": "[Poll] How long do you think Xbox Series and PS5 consoles are going to be receiving big new game releases?",
+    "url": "https://www.resetera.com/threads/poll-how-long-do-you-think-xbox-series-and-ps5-consoles-are-going-to-be-receiving-big-new-game-releases.1567507/",
+    "published": "2026-07-02T18:40:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Community poll discussing the potential lifespan of PS5 and Xbox Series consoles amid speculation about next-generation hardware announcements.",
+    "sources": []
+  },
+  {
+    "title": "As of today, there are no more first-party games announced for Nintendo Switch",
+    "url": "https://www.resetera.com/threads/as-of-today-there-are-no-more-first-party-games-announced-for-nintendo-switch.1567456/",
+    "published": "2026-07-02T17:31:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "nintendo",
+      "console-hardware",
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Nintendo has no first-party games remaining in its Switch pipeline as development shifts focus to Switch 2, marking the effective end of the console's lifecycle.",
+    "sources": []
+  },
+  {
+    "title": "\"Like Having A Dead Body Handcuffed To You\" - Co-Founder Of Codemasters Predicted The Death Of Physical Media 13 Years Ago",
+    "url": "https://www.timeextension.com/news/2026/07/like-having-a-dead-body-handcuffed-to-you-co-founder-of-codemasters-predicted-the-death-of-physical-media-13-years-ago",
+    "published": "2026-07-02T16:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "A Codemasters co-founder's 2013 prediction about physical media's decline has proven prescient following Sony's announcement of abandoning physical media for PS5 and future consoles.",
+    "sources": []
+  },
+  {
+    "title": "Random: Evercade Pokes Fun At Sony Killing Physical Media On PlayStation",
+    "url": "https://www.timeextension.com/news/2026/07/random-evercade-pokes-fun-at-sony-killing-physical-media-on-playstation",
+    "published": "2026-07-02T14:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 55,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Evercade mocks Sony's decision to eliminate physical media from PlayStation 5 and make the PS6 digital-only, highlighting the contrast with physical game distribution.",
+    "sources": []
+  },
+  {
+    "title": "The Video Game History Foundation Wants \"Meaningful Solutions\" From The ESA For \"Preserving Digital-Only Content\"",
+    "url": "https://www.timeextension.com/news/2026/07/the-video-game-history-foundation-wants-meaningful-solutions-from-the-esa-for-preserving-digital-only-content",
+    "published": "2026-07-02T13:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-history",
+      "gaming-industry",
+      "console-hardware",
+      "community"
+    ],
+    "summary": "The Video Game History Foundation calls on the ESA to develop legal solutions for preserving digital-only games as PlayStation discontinues disc production and closes PS3/Vita digital storefronts.",
+    "sources": []
+  },
+  {
+    "title": "The Amiga Game 'Worms: The Director's Cut' Is Getting An \"Official Expansion Pack\" This Year, From The Original Creator",
+    "url": "https://www.timeextension.com/news/2026/07/the-amiga-game-worms-the-directors-cut-is-getting-an-official-expansion-pack-this-year-from-the-original-creator",
+    "published": "2026-07-02T12:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Original Worms creator Andy Davidson is releasing a free expansion pack for Amiga's Worms: The Director's Cut this August.",
+    "sources": []
+  },
+  {
+    "title": "M2's 'Ganbare Goemon' Collection Hides A Never-Before-Ported Konami Shoot 'Em Up",
+    "url": "https://www.timeextension.com/news/2026/07/m2s-ganbare-goemon-collection-hides-a-never-before-ported-konami-shoot-em-up",
+    "published": "2026-07-02T10:45:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "game-discovery",
+      "retro",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "M2's new Ganbare Goemon collection for Switch, PS5, and Steam includes a previously unported 1991 Konami Famicom shoot 'em up, Crisis Force, as a bonus game.",
+    "sources": []
+  },
+  {
+    "title": "Empire Interactive Withdraws From \"3DO Project\" Due To \"Likelihood Of Prolonged Legal Disputes\"",
+    "url": "https://www.timeextension.com/news/2026/07/empire-interactive-withdraws-from-3do-project-due-to-likelihood-of-prolonged-legal-disputes",
+    "published": "2026-07-02T09:45:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "retro",
+      "gaming-industry",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Empire Interactive withdraws from the 3DO Project just days after acquiring its trademark and IP due to unexpected legal complications and rights fragmentation.",
+    "sources": []
+  },
+  {
+    "title": "ZERO PARADES: For Dead Spies Developers Talk Steam Deck Optimization",
+    "url": "https://steamdeckhq.com/news/zero-parades-steam-deck-optimization/",
+    "published": "2026-07-02T18:46:34+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "game-dev",
+      "pc-hardware"
+    ],
+    "summary": "ZA/UM Studio discusses optimization efforts for ZERO PARADES: For Dead Spies on Steam Deck.",
+    "sources": []
+  },
+  {
+    "title": "Free Games + Amazon Prime For Your Steam Deck and Handhelds - 7/2/26:",
+    "url": "https://steamdeckhq.com/news/free-games-for-your-steam-deck-7-2-26/",
+    "published": "2026-07-02T18:17:31+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "handheld-gaming",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "River City Girls 2 and LONESTAR are among the free games available this week for Steam Deck and handheld users.",
+    "sources": []
+  },
+  {
+    "title": "10 Best First-Person Shooters on Steam Deck in the Steam Summer Sale 2026",
+    "url": "https://steamdeckhq.com/news/10-best-shooters-steam-deck-steam-summer-sale/",
+    "published": "2026-07-02T16:50:36+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-deck",
+      "game-discovery"
+    ],
+    "summary": "A listicle recommending 10 first-person shooters available on Steam Deck during the 2026 Summer Sale.",
+    "sources": []
+  },
+  {
+    "title": "Tomb Raider: Legacy of Atlantis Feels Like The Original Games With A Gorgeous Facelift - Summer Game Fest 2026",
+    "url": "https://steamdeckhq.com/news/tomb-raider-legacy-of-atlantis-summer-game-fest-2026/",
+    "published": "2026-07-02T13:37:34+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "gaming-history"
+    ],
+    "summary": "Tomb Raider: Legacy of Atlantis showcased at Summer Game Fest 2026 combines classic original game design with modern graphics for a nostalgia-driven experience.",
+    "sources": []
+  },
+  {
+    "title": "New SteamOS Updates Fix Final Fantasy 7 Rebirth And Add More OneXPlayer Controller Support",
+    "url": "https://steamdeckhq.com/news/steamos-updates-fix-final-fantasy-7-rebirth/",
+    "published": "2026-07-02T12:18:03+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 52,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "steam-platform",
+      "proton",
+      "linux-gaming"
+    ],
+    "summary": "New SteamOS updates fix Final Fantasy VII Rebirth compatibility issues and expand OneXPlayer controller support for Steam Deck.",
+    "sources": []
+  },
+  {
+    "title": "Save the date: the GamesIndustry.biz HR Summit returns in October",
+    "url": "https://www.gamesindustry.biz/save-the-date-the-gamesindustrybiz-hr-summit-returns-in-october",
+    "published": "2026-07-02T13:43:31+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-industry"
+    ],
+    "summary": "GamesIndustry.biz HR Summit returns for its fourth year in October with early bird tickets now available.",
+    "sources": []
+  },
+  {
+    "title": "\"The goal isn't to build something that burns brightly for a few years and disappears\" \u2013 Cosmic Division CEO on launching a \"responsibly ambitious\" studio",
+    "url": "https://www.gamesindustry.biz/the-goal-isnt-to-build-something-that-burns-brightly-for-a-few-years-and-disappears-cosmic-division-ceo-on-launching-a-responsibly-ambitious-studio",
+    "published": "2026-07-02T13:33:27+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Former Housemarque director Harry Krueger launches new indie studio Cosmic Division in Helsinki with a focus on sustainable, long-term game development.",
+    "sources": []
+  },
+  {
+    "title": "Creator-distributed discount codes drive massive uptake of game storefronts, according to new Tebex data",
+    "url": "https://www.gamesindustry.biz/creator-distributed-discount-codes-drive-massive-uptake-of-game-storefronts-according-to-new-tebex-data",
+    "published": "2026-07-02T13:00:00+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Tebex research shows creator-distributed discount codes significantly boost game storefront revenue, though concentrated among top-tier creators.",
+    "sources": []
+  },
+  {
+    "title": "Sega Europe vet Jurgen Post steps down as West Studios COO, Rovio's Alex Pelletier-Normand taking his place",
+    "url": "https://www.gamesindustry.biz/sega-europe-vet-post-steps-down-as-west-studios-coo-rovios-pelletier-normand-taking-his-place",
+    "published": "2026-07-02T12:00:00+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Jurgen Post steps down as West Studios COO, with Rovio's Alex Pelletier-Normand taking over the position.",
+    "sources": []
+  },
+  {
+    "title": "Kepler Interactive acquires stake in indie publisher Oro Interactive from venture capital firm",
+    "url": "https://www.gamesindustry.biz/kepler-interactive-acquires-stake-in-indie-publisher-oro-interactive-from-venture-capital-firm",
+    "published": "2026-07-02T08:53:14+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "gaming-industry"
+    ],
+    "summary": "Kepler Interactive acquires a stake in indie publisher Oro Interactive in a venture capital transaction.",
+    "sources": []
+  },
+  {
+    "title": "Union raises concerns over gender pay gaps, bonus management, and crunch at Rockstar",
+    "url": "https://www.gamesindustry.biz/union-raises-concerns-over-gender-pay-gaps-bonus-management-and-crunch-at-rockstar",
+    "published": "2026-07-02T07:21:12+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Rockstar union members raise concerns about gender pay gaps, mandatory overtime, and bonus management practices.",
+    "sources": []
+  },
+  {
+    "title": "\"I could feel myself coming apart at the seams\": Suicide Squad leads on almost leaving the games industry after its failure",
+    "url": "https://www.rockpapershotgun.com/i-could-feel-myself-coming-apart-at-the-seams-suicide-squad-leads-on-almost-leaving-the-games-industry-after-its-failure",
+    "published": "2026-07-02T20:26:20+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Suicide Squad: Kill the Justice League's co-director and associate design director describe the emotional toll of the game's failure and their consideration of leaving the industry.",
+    "sources": []
+  },
+  {
+    "title": "Ithaca is a road trip RPG about climate resistance and dealing with the hostage you have in your trunk",
+    "url": "https://www.rockpapershotgun.com/ithaca-is-a-road-trip-rpg-about-climate-resistance-and-dealing-with-the-hostage-you-have-in-your-trunk",
+    "published": "2026-07-02T19:24:07+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Ithaca is an upcoming indie narrative road-trip RPG with environmental themes and ethical decision-making mechanics.",
+    "sources": []
+  },
+  {
+    "title": "That's a bummer: Frictional's Soma follow-up Ontos has been delayed into 2027",
+    "url": "https://www.rockpapershotgun.com/thats-a-bummer-frictionals-soma-follow-up-ontos-has-been-delayed-into-2027",
+    "published": "2026-07-02T17:07:52+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "indie-games"
+    ],
+    "summary": "Frictional Games delays Ontos, the follow-up to Soma, from 2024 to 2027.",
+    "sources": []
+  },
+  {
+    "title": "Seoul-set MMO shooter Cinder City halves its RAM requirements, after initial specs listed 64GB of memory",
+    "url": "https://www.rockpapershotgun.com/seoul-set-mmo-shooter-cinder-city-halves-its-ram-requirements-after-initial-specs-listed-64gb-of-memory",
+    "published": "2026-07-02T16:43:30+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "pc-hardware",
+      "game-dev"
+    ],
+    "summary": "Cinder City adjusts its system requirements after being called out for initially demanding 64GB of RAM, reducing recommended specs to 32GB while increasing GPU requirements.",
+    "sources": []
+  },
+  {
+    "title": "The Video Game History Foundation calls on the ESA to offer \"meaningful solutions\" for preserving digital-only games",
+    "url": "https://www.rockpapershotgun.com/the-video-game-history-foundation-calls-on-the-esa-to-offer-meaningful-solutions-for-preserving-digital-only-games",
+    "published": "2026-07-02T16:11:06+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-history",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "The Video Game History Foundation calls on the ESA to provide meaningful solutions for preserving digital-only games, responding to Sony's decision to cease physical game production by 2028.",
+    "sources": []
+  },
+  {
+    "title": "\"You can literally reroute a river into a desert and cause it to bloom\": Star Wars Galaxies lead says of his new sandbox MMO Stars Reach",
+    "url": "https://www.rockpapershotgun.com/you-can-literally-reroute-a-river-into-a-desert-and-cause-it-to-bloom-star-wars-galaxies-lead-says-of-his-new-sandbox-mmo-stars-reach",
+    "published": "2026-07-02T14:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "mmo",
+      "game-dev",
+      "sandbox",
+      "indie-games"
+    ],
+    "summary": "Raph Koster, legendary MMO designer, discusses his ambitious new sandbox MMO Stars Reach featuring procedurally generated worlds with physics-based environmental manipulation mechanics.",
+    "sources": []
+  },
+  {
+    "title": "Flask is a grim brew of homunculus autobattling and hand-drawn alchemy, and it\u2019s got a new demo on Steam",
+    "url": "https://www.rockpapershotgun.com/flask-is-a-grim-brew-of-homunculus-autobattling-and-hand-drawn-alchemy-and-its-got-a-new-demo-on-steam",
+    "published": "2026-07-02T13:00:12+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Flask, a hand-drawn deckbuilding autobattler demo, is now available on Steam.",
+    "sources": []
+  },
+  {
+    "title": "Valheim 1.0 won\u2019t update the survival game\u2019s sparse oceans, reveal devs Iron Gate, who add it\u2019s \"too soon to say\" how long post-release updates will continue",
+    "url": "https://www.rockpapershotgun.com/valheim-10-wont-update-the-survival-games-sparse-oceans-reveal-devs-iron-gate-who-add-its-too-soon-to-say-how-long-post-release-updates-will-continue",
+    "published": "2026-07-02T11:52:53+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "indie-games"
+    ],
+    "summary": "Valheim 1.0 releasing in September will add the Deep North biome but skip ocean updates, with developer Iron Gate declining to commit to a post-release update timeline.",
+    "sources": []
+  },
+  {
+    "title": "Onimusha: Way of the Sword release date pushed forward, its devs deciding they'd rather fight vampires than cosmic entities and Scottish horrors",
+    "url": "https://www.rockpapershotgun.com/onimusha-way-of-the-sword-release-date-pushed-forward-its-devs-deciding-theyd-rather-fight-vampires-than-cosmic-entities-and-scottish-horrors",
+    "published": "2026-07-02T10:39:45+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Capcom has moved up the release date of Onimusha: Way of the Sword from September 25th to September 4th to avoid competing with other major titles.",
+    "sources": []
+  },
+  {
+    "title": "New Fallout 4 quest mod starring an iconic Elder Scrolls voice actor has you solve an eccentric gang war over a long-dead starlet's vault of mysterious goodies",
+    "url": "https://www.rockpapershotgun.com/new-fallout-4-quest-mod-starring-an-iconic-elder-scrolls-voice-actor-has-you-solve-an-eccentric-gang-war-over-a-long-dead-starlets-vault-of-mysterious-goodies",
+    "published": "2026-07-02T09:41:40+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "community",
+      "fallout",
+      "mod"
+    ],
+    "summary": "A group of Fallout 4 modders and voice actor Wes Johnson have created a new charity quest mod involving rival gangs competing over a vault of pre-war artifacts.",
+    "sources": []
+  },
+  {
+    "title": "Union workers establish hardship fund to support devs impacted by layoffs",
+    "url": "https://www.gamedeveloper.com/business/union-workers-establish-hardship-fund-to-support-devs-impacted-by-layoffs",
+    "published": "2026-07-02T10:20:16+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Union workers establish a hardship fund providing up to $5,000 in support for game developers affected by industry layoffs.",
+    "sources": []
+  },
+  {
+    "title": "Ubisoft taps former 2K president Christoph Hartmann to oversee Tom Clancy franchise",
+    "url": "https://www.gamedeveloper.com/business/ubisoft-taps-former-2k-president-christoph-hartmann-to-oversee-shooter-franchises",
+    "published": "2026-07-02T09:34:43+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Ubisoft appoints former 2K president Christoph Hartmann to lead its Tom Clancy franchise division, overseeing The Division, Ghost Recon, and Splinter Cell.",
+    "sources": []
+  },
+  {
+    "title": "Players\u2019 Choice: Vote for June 2026\u2019s best new game",
+    "url": "https://blog.playstation.com/2026/07/02/players-choice-vote-for-june-2026s-best-new-game/",
+    "published": "2026-07-02T15:00:04+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "PlayStation Blog invites players to vote on their favorite new game releases from June 2026 in a monthly community poll.",
+    "sources": []
+  },
+  {
+    "title": "What Dune: Awakening brings to PlayStation 5 Sept 22",
+    "url": "https://blog.playstation.com/2026/07/02/what-dune-awakening-brings-to-playstation-5-sept-22/",
+    "published": "2026-07-02T13:00:18+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Dune: Awakening, an open-world survival game, launches on PlayStation 5 on September 22.",
+    "sources": []
+  },
+  {
+    "title": "Rumour: Xbox Is 'Heavily Evaluating' Halo's Future Just Weeks Before Its PS5 Debut",
+    "url": "https://www.pushsquare.com/news/2026/07/rumour-xbox-is-heavily-evaluating-halos-future-just-weeks-before-its-ps5-debut",
+    "published": "2026-07-02T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "leaks",
+      "console-hardware"
+    ],
+    "summary": "Xbox is reportedly heavily evaluating Halo's future amid studio turmoil and upcoming PlayStation 5 release, signaling potential major shifts in the franchise's direction.",
+    "sources": []
+  },
+  {
+    "title": "Guide: All PS Plus Games Available Now",
+    "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
+    "published": "2026-07-02T22:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A comprehensive guide tracking all current PS Plus subscription games across tiers and platforms with upcoming additions and expiry dates.",
+    "sources": []
+  },
+  {
+    "title": "PS5 Is Finally Getting Its Own Beyblade Game",
+    "url": "https://www.pushsquare.com/news/2026/07/ps5-is-finally-getting-its-own-beyblade-game",
+    "published": "2026-07-02T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "PS5 is receiving its first Beyblade game, marking the franchise's return to PlayStation after a long absence since the PSP era.",
+    "sources": []
+  },
+  {
+    "title": "SOMA Dev Pushes PS5 Thriller ONTOS to 2027",
+    "url": "https://www.pushsquare.com/news/2026/07/soma-dev-pushes-ps5-thriller-ontos-to-2027",
+    "published": "2026-07-02T18:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "Frictional Games delays PS5 psychological thriller ONTOS to 2027 to fully achieve its creative vision.",
+    "sources": []
+  },
+  {
+    "title": "Reaction: PlayStation's Reputation Is at Rock Bottom - Where Do We Go from Here?",
+    "url": "https://www.pushsquare.com/features/reaction-playstations-reputation-is-at-rock-bottom-where-do-we-go-from-here",
+    "published": "2026-07-02T17:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Analysis piece discussing PlayStation's declining brand reputation and fan sentiment, questioning what steps Sony should take to recover perception.",
+    "sources": []
+  },
+  {
+    "title": "I Waited All Gen for a K-pop Game, Then Got Two on PS5 at Once",
+    "url": "https://www.pushsquare.com/news/2026/07/i-waited-all-gen-for-a-k-pop-game-then-got-two-on-ps5-at-once",
+    "published": "2026-07-02T16:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 28,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Two K-pop themed games are coming to PS5, including the anticipated K-pop Idol Stories management game and a new K-pop Demon Hunters title from Microids.",
+    "sources": []
+  },
+  {
+    "title": "Dune: Awakening Announces Physical PS5 Release with the Most Unfortunate Timing",
+    "url": "https://www.pushsquare.com/news/2026/07/dune-awakening-announces-physical-ps5-release-with-the-most-unfortunate-timing",
+    "published": "2026-07-02T15:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Dune: Awakening's physical PS5 release announcement comes awkwardly timed with Sony's decision to reduce physical game support, creating an ironic contrast in messaging.",
+    "sources": []
+  },
+  {
+    "title": "The Outer Worlds Dev Obsidian Not at Risk of Closure, It's Now Claimed",
+    "url": "https://www.pushsquare.com/news/2026/07/the-outer-worlds-dev-obsidian-not-at-risk-of-closure-its-now-claimed",
+    "published": "2026-07-02T14:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Conflicting reports emerge regarding Obsidian Entertainment's status within Xbox Games Studios, with the developer reportedly at risk of closure alongside several other first-party studios.",
+    "sources": []
+  },
+  {
+    "title": "Sony Abandons Social Media for 24 Hours+ After Controversially Killing Physical Games",
+    "url": "https://www.pushsquare.com/news/2026/07/sony-abandons-social-media-for-24-hoursplus-after-controversially-killing-physical-games",
+    "published": "2026-07-02T14:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 85,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Sony announced it will cease manufacturing physical games by 2028, then went silent on social media amid controversy over the decision.",
+    "sources": []
+  },
+  {
+    "title": "Attack on Titan 3 Goes Open World, Locks Down Winter Release Window on PS5",
+    "url": "https://www.pushsquare.com/news/2026/07/attack-on-titan-3-goes-open-world-locks-down-winter-release-window-on-ps5",
+    "published": "2026-07-02T13:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Attack on Titan 3 reveals open world gameplay and confirms winter release window for PS5.",
+    "sources": []
+  },
+  {
+    "title": "Indie Physical Game Publishers 'Deeply Saddened' by PlayStation's All-Digital Gambit",
+    "url": "https://www.pushsquare.com/news/2026/07/indie-physical-game-publishers-deeply-saddened-by-playstations-all-digital-gambit",
+    "published": "2026-07-02T13:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "indie-games"
+    ],
+    "summary": "Sony's decision to cease physical game disc production by 2028 has drawn criticism from indie physical game publishers and fans concerned about digital-only gaming.",
+    "sources": []
+  },
+  {
+    "title": "PS6 May Not Be the Only Fully Digital Console Next-Gen",
+    "url": "https://www.pushsquare.com/news/2026/07/ps6-may-not-be-the-only-fully-digital-console-next-gen",
+    "published": "2026-07-02T12:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 75,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Reports indicate both PlayStation 6 and Xbox's Project Helix will launch without disc drives, marking a significant industry shift toward fully digital next-generation consoles.",
+    "sources": []
+  },
+  {
+    "title": "Sony's Been Planning All-Digital Future for 'Some Time', Unlikely to Reverse Decision on Game Discs",
+    "url": "https://www.pushsquare.com/news/2026/07/sonys-been-planning-all-digital-future-for-some-time-unlikely-to-reverse-decision-on-game-discs",
+    "published": "2026-07-02T12:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Sony confirms commitment to discontinuing physical game disc manufacturing by 2028, with Austrian facility beginning staff retraining for the transition.",
+    "sources": []
+  },
+  {
+    "title": "Everyone's Clowning on Sony's Decision to Go All-Digital, and Rightly So",
+    "url": "https://www.pushsquare.com/news/2026/07/everyones-clowning-on-sonys-decision-to-go-all-digital-and-rightly-so",
+    "published": "2026-07-02T11:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 75,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Sony faces significant backlash from gaming community over its all-digital console strategy announcement.",
+    "sources": []
+  },
+  {
+    "title": "'It Kills My Desire to Develop for the PS5': Acclaimed Indie Devastated by Sony's Physical Games Decision",
+    "url": "https://www.pushsquare.com/news/2026/07/it-kills-my-desire-to-develop-for-the-ps5-acclaimed-indie-devastated-by-sonys-physical-games-decision",
+    "published": "2026-07-02T10:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "indie-games",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Indie developer Billy Basso expresses dismay over Sony's decision to discontinue physical PS5 games by 2028, citing the loss of physical releases as a major motivation for his work.",
+    "sources": []
+  },
+  {
+    "title": "PlayStation's Plan to Kill Physical Games Has Spawned Not One But Many Online Petitions",
+    "url": "https://www.pushsquare.com/news/2026/07/playstations-plan-to-kill-physical-games-has-spawned-not-one-but-many-online-petitions",
+    "published": "2026-07-02T10:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "PlayStation announces plan to discontinue physical game disc production by 2028, shifting entirely to digital distribution via PS Store.",
+    "sources": []
+  }
+]
