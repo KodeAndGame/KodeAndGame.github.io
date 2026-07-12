@@ -1,0 +1,1090 @@
+[
+  {
+    "title": "Blizzard fix up Diablo IV crashing on SteamOS / Linux",
+    "url": "https://www.gamingonlinux.com/2026/07/blizzard-fix-up-diablo-iv-crashing-on-steamos-linux/",
+    "published": "2026-07-11T10:04:25+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 62,
+    "tags": [
+      "steam-deck",
+      "linux-gaming",
+      "gaming-news"
+    ],
+    "summary": "Blizzard has fixed crashing issues in Diablo IV on SteamOS and Linux following the latest season update.",
+    "sources": []
+  },
+  {
+    "title": "DLSS Updater 4.3.0 for Linux has \"grown into a full Proton Upscalers panel\"",
+    "url": "https://www.gamingonlinux.com/2026/07/dlss-updater-4-3-0-for-linux-has-grown-into-a-full-proton-upscalers-panel/",
+    "published": "2026-07-11T09:35:26+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "proton",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "DLSS Updater 4.3.0 for Linux has expanded into a comprehensive Proton Upscalers panel, improving open-source gaming tool capabilities.",
+    "sources": []
+  },
+  {
+    "title": "Steam Beta adds Steam Machine Verified information to the interface",
+    "url": "https://www.gamingonlinux.com/2026/07/steam-beta-adds-steam-machine-verified-information-to-the-interface/",
+    "published": "2026-07-11T08:57:01+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-platform",
+      "valve",
+      "linux-gaming"
+    ],
+    "summary": "Steam Beta now displays Steam Machine Verified information in its interface, adding visibility to compatibility status.",
+    "sources": []
+  },
+  {
+    "title": "Valve fix up Marvel Rivals on SteamOS / Linux with Proton Hotfix",
+    "url": "https://www.gamingonlinux.com/2026/07/valve-fix-up-marvel-rivals-on-steamos-linux-with-proton-hotfix/",
+    "published": "2026-07-11T08:43:50+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 55,
+    "tags": [
+      "valve",
+      "steam-deck",
+      "proton",
+      "linux-gaming",
+      "steam-platform"
+    ],
+    "summary": "Valve released a Proton hotfix to resolve compatibility issues with Marvel Rivals on SteamOS and Linux.",
+    "sources": []
+  },
+  {
+    "title": "Wine 11.13 arrives with better support for input pointers and more",
+    "url": "https://www.gamingonlinux.com/2026/07/wine-11-13-arrives-with-better-support-for-input-pointers-and-more/",
+    "published": "2026-07-11T08:34:19+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "wine"
+    ],
+    "summary": "Wine 11.13 release introduces improved input pointer support and various fixes for the Windows compatibility layer.",
+    "sources": []
+  },
+  {
+    "title": "Debian 13.6 Released To Ship All The Latest Security Fixes, Reverts GeoIP Database",
+    "url": "https://www.phoronix.com/news/Debian-13.6-Released",
+    "published": "2026-07-11T14:31:23+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Debian 13.6 point release delivers security fixes and maintenance updates including GeoIP database revert, relevant to Linux gaming infrastructure.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.2-rc3 Bringing Display Detection Improvement To Help Some Multi-GPU Systems",
+    "url": "https://www.phoronix.com/news/Linux-7.3-rc3-Multi-GPU-Fix",
+    "published": "2026-07-11T13:20:01+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "linux-hardware"
+    ],
+    "summary": "Linux 7.2-rc3 introduces display detection improvements for multi-GPU systems, a technical development relevant to gaming on Linux.",
+    "sources": []
+  },
+  {
+    "title": "LLVM Merges x86 LFI \"Lightweight Fault Isolation\" Target For In-Process Sandboxing",
+    "url": "https://www.phoronix.com/news/LLVM-x86-LFI-Merged",
+    "published": "2026-07-11T10:12:09+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "game-dev",
+      "pc-hardware"
+    ],
+    "summary": "LLVM merges x86 LFI target for lightweight in-process code sandboxing, following earlier AArch64 support.",
+    "sources": []
+  },
+  {
+    "title": "KDE Developers Continue Landing More Features For Plasma 6.8",
+    "url": "https://www.phoronix.com/news/Plasma-6.8-Spectacle-Audio",
+    "published": "2026-07-11T09:51:44+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "KDE developers are implementing additional features for the Plasma 6.8 desktop environment update.",
+    "sources": []
+  },
+  {
+    "title": "Mesa's Rusticl Now Enables Arm Mali Panfrost Driver Support By Default",
+    "url": "https://www.phoronix.com/news/Mesa-Rusticl-Panfrost-Default",
+    "published": "2026-07-11T08:00:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Mesa's Rusticl driver now enables default support for Arm Mali Panfrost graphics, improving compatibility for Linux-based gaming on Arm devices.",
+    "sources": []
+  },
+  {
+    "title": "Nvidia giving out free physical cards at  BilibiliWorld 2026(Not GPU card, but TCG card)",
+    "url": "https://www.resetera.com/threads/nvidia-giving-out-free-physical-cards-at-bilibiliworld-2026-not-gpu-card-but-tcg-card.1575379/",
+    "published": "2026-07-12T05:01:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "Nvidia is distributing free physical trading cards featuring GPU designs and tech demos at BilibiliWorld 2026, joining the trading card collectibles trend.",
+    "sources": []
+  },
+  {
+    "title": "Which game that currently doesn\u2019t have one, would you love to see a prequel for?",
+    "url": "https://www.resetera.com/threads/which-game-that-currently-doesn%E2%80%99t-have-one-would-you-love-to-see-a-prequel-for.1575367/",
+    "published": "2026-07-12T03:17:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion thread asking gamers which existing games they would like to see prequels for and what such stories might entail.",
+    "sources": []
+  },
+  {
+    "title": "PlayStation Studios |OT51| Insert T\u014dkon",
+    "url": "https://www.resetera.com/threads/playstation-studios-ot51-insert-t%C5%8Dkon.1575361/",
+    "published": "2026-07-12T02:43:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A PlayStation Studios discussion thread (OT51) about Naughty Dog's history, appearing to be a routine community forum post rather than a news story.",
+    "sources": []
+  },
+  {
+    "title": "The Exit 8 movie is probably the best Silent Hill movie we are going to get",
+    "url": "https://www.resetera.com/threads/the-exit-8-movie-is-probably-the-best-silent-hill-movie-we-are-going-to-get.1575358/",
+    "published": "2026-07-12T02:30:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A viewer discusses how the Exit 8 movie captures the atmosphere and themes of Silent Hill better than official Silent Hill film adaptations.",
+    "sources": []
+  },
+  {
+    "title": "In Animal Crossing New Horizons, Isabelle is using the Panasonic Let's Note CF-RZ series laptop",
+    "url": "https://www.resetera.com/threads/in-animal-crossing-new-horizons-isabelle-is-using-the-panasonic-lets-note-cf-rz-series-laptop.1575346/",
+    "published": "2026-07-12T01:51:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Animal Crossing: New Horizons fans identify a specific Panasonic laptop model visible in the game as a detail easter egg.",
+    "sources": []
+  },
+  {
+    "title": "It sucks that Saints Row 1 never got any sort of re-release",
+    "url": "https://www.resetera.com/threads/it-sucks-that-saints-row-1-never-got-any-sort-of-re-release.1575328/",
+    "published": "2026-07-12T00:57:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "A fan expresses nostalgia for Saints Row 1 and wishes it would receive a modern re-release.",
+    "sources": []
+  },
+  {
+    "title": "What do you use to make the Switch 2 more comfortable in Hand Handle  mode?",
+    "url": "https://www.resetera.com/threads/what-do-you-use-to-make-the-switch-2-more-comfortable-in-hand-handle-mode.1575325/",
+    "published": "2026-07-12T00:51:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "handheld-gaming",
+      "console-hardware",
+      "community"
+    ],
+    "summary": "Community discussion about ergonomic solutions and grip attachments for making the Nintendo Switch 2 more comfortable to hold in handheld mode for users with smaller hands.",
+    "sources": []
+  },
+  {
+    "title": "Soulframe Open Preludes Weekend (permanent access to Alpha)",
+    "url": "https://www.resetera.com/threads/soulframe-open-preludes-weekend-permanent-access-to-alpha.1575298/",
+    "published": "2026-07-11T22:55:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "linux-gaming"
+    ],
+    "summary": "Soulframe opens its alpha weekend with permanent access, offering a chill alternative to Warframe with story-driven gameplay and Linux support.",
+    "sources": []
+  },
+  {
+    "title": "Takeover 2 - Now with a little bit of The 90s Arcade Racer",
+    "url": "https://www.resetera.com/threads/takeover-2-now-with-a-little-bit-of-the-90s-arcade-racer.1575283/",
+    "published": "2026-07-11T22:24:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "Takeover 2, a full 3D beat'em up sequel inspired by Streets of Rage, launches with a playable Steam demo featuring multiple characters and game modes.",
+    "sources": []
+  },
+  {
+    "title": "Warframe: Tau official trailer - coming 2026",
+    "url": "https://www.resetera.com/threads/warframe-tau-official-trailer-coming-2026.1575280/",
+    "published": "2026-07-11T22:23:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Digital Extremes revealed Warframe: Tau, a new expansion coming in 2026, with an extensive live demo at Tennocon 2026.",
+    "sources": []
+  },
+  {
+    "title": "Requesting advice for a new GPU / video card",
+    "url": "https://www.resetera.com/threads/requesting-advice-for-a-new-gpu-video-card.1575241/",
+    "published": "2026-07-11T21:42:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "pc-hardware"
+    ],
+    "summary": "A user seeks advice on upgrading their GPU from an RTX 2070 Super in their 2022-built system.",
+    "sources": []
+  },
+  {
+    "title": "Demos that unsold you on a game",
+    "url": "https://www.resetera.com/threads/demos-that-unsold-you-on-a-game.1575232/",
+    "published": "2026-07-11T21:12:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "User shares experience where Pikmin 4's demo convinced them not to purchase the game due to excessive dialogue, tutorials, and gameplay that felt boring compared to previous entries.",
+    "sources": []
+  },
+  {
+    "title": "Rumor: Fortnite Chapter 7 Season 4 might be Gaming Legends Season (First Non-Disney Full Battle Pass Collab)",
+    "url": "https://www.resetera.com/threads/rumor-fortnite-chapter-7-season-4-might-be-gaming-legends-season-first-non-disney-full-battle-pass-collab.1575223/",
+    "published": "2026-07-11T20:54:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "leaks",
+      "game-discovery"
+    ],
+    "summary": "Leakers suggest Fortnite Chapter 7 Season 4 may feature a Gaming Legends theme with Sonic potentially in the battle pass, marking the first non-Disney full collaboration of its kind.",
+    "sources": []
+  },
+  {
+    "title": "Microsoft loses Brazilian court case after telling hacked Xbox user to re-purchase games \u2014 tech giant ordered to restore Xbox account with all games",
+    "url": "https://www.resetera.com/threads/microsoft-loses-brazilian-court-case-after-telling-hacked-xbox-user-to-re-purchase-games-%E2%80%94-tech-giant-ordered-to-restore-xbox-account-with-all-games.1575220/",
+    "published": "2026-07-11T20:50:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "A Brazilian court ordered Microsoft to restore an Xbox user's account and digital library after the company demanded he repurchase games following a hacking incident, marking a significant legal setback for the tech giant.",
+    "sources": []
+  },
+  {
+    "title": "[InsiderGaming] New Details On What Was Cut From Ghost Recon Project OVR",
+    "url": "https://www.resetera.com/threads/insidergaming-new-details-on-what-was-cut-from-ghost-recon-project-ovr.1575205/",
+    "published": "2026-07-11T20:23:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "leaks",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Insider Gaming reports on cut features from Ghost Recon Project OVR, including proximity mines and a workbench customization system, based on leaked documents.",
+    "sources": []
+  },
+  {
+    "title": "ChromeHounds war mode comes back online for its 20th anniversary (fan server)",
+    "url": "https://www.resetera.com/threads/chromehounds-war-mode-comes-back-online-for-its-20th-anniversary-fan-server.1575202/",
+    "published": "2026-07-11T20:18:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-history",
+      "community",
+      "open-source",
+      "gaming-news"
+    ],
+    "summary": "Fan-run server project OpenCombas successfully restores ChromeHounds' War mode for the mecha game's 20th anniversary, enabling full faction-based territorial combat previously unavailable since the official servers went offline.",
+    "sources": []
+  },
+  {
+    "title": "Games you liked and were taken offline forever",
+    "url": "https://www.resetera.com/threads/games-you-liked-and-were-taken-offline-forever.1575181/",
+    "published": "2026-07-11T19:09:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Community discussion highlights the issue of completed games becoming unplayable due to server shutdowns, using a delisted One Piece match-3 title as an example of digital preservation concerns.",
+    "sources": []
+  },
+  {
+    "title": "Assassins Creed Shadows on a deep discount right now on PSN and Ubisoft store.",
+    "url": "https://www.resetera.com/threads/assassins-creed-shadows-on-a-deep-discount-right-now-on-psn-and-ubisoft-store.1575166/",
+    "published": "2026-07-11T18:35:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Assassin's Creed Shadows is currently on sale at a historic low discount on PSN and the Ubisoft store.",
+    "sources": []
+  },
+  {
+    "title": "My local Walmart's game section really surprised me",
+    "url": "https://www.resetera.com/threads/my-local-walmarts-game-section-really-surprised-me.1575163/",
+    "published": "2026-07-11T18:17:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A personal anecdote about discovering physical game retail availability at a local Walmart, reflecting on broader retail trends in gaming.",
+    "sources": []
+  },
+  {
+    "title": "Do you play any GaaS games? Why or why not?",
+    "url": "https://www.resetera.com/threads/do-you-play-any-gaas-games-why-or-why-not.1575118/",
+    "published": "2026-07-11T17:15:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion thread about player attitudes toward Games-as-a-Service titles and why certain players struggle to maintain engagement with popular GaaS games.",
+    "sources": []
+  },
+  {
+    "title": "Marvel T\u014dkon: Fighting Souls\u2019 Episode Mode is written by Kieron Gillen, will feature boss fights against both The Promoter & The Champion",
+    "url": "https://www.resetera.com/threads/marvel-t%C5%8Dkon-fighting-souls%E2%80%99-episode-mode-is-written-by-kieron-gillen-will-feature-boss-fights-against-both-the-promoter-the-champion.1575100/",
+    "published": "2026-07-11T17:06:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Marvel T\u014dkon: Fighting Souls' Episode Mode will be written by Kieron Gillen and feature boss fights against The Promoter and The Champion as part of Year 1 DLC.",
+    "sources": []
+  },
+  {
+    "title": "[CharlieIntel] CoD BO1/BO2 ports on PlayStation have more players online than Black Ops 7 does combined on all platforms, sources say",
+    "url": "https://www.resetera.com/threads/charlieintel-cod-bo1-bo2-ports-on-playstation-have-more-players-online-than-black-ops-7-does-combined-on-all-platforms-sources-say.1575097/",
+    "published": "2026-07-11T17:05:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Legacy Call of Duty ports on PlayStation reportedly have higher concurrent player counts than the current Black Ops 7 across all platforms, reflecting player sentiment toward the franchise.",
+    "sources": []
+  },
+  {
+    "title": "WWE Wrestler Luis Mart\u00ednez aka \"Damian Priest\" potentially voicing \"The Hood\" in Marvel Rivals",
+    "url": "https://www.resetera.com/threads/wwe-wrestler-luis-mart%C3%ADnez-aka-damian-priest-potentially-voicing-the-hood-in-marvel-rivals.1575085/",
+    "published": "2026-07-11T16:35:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "WWE wrestler Damian Priest hints at voicing The Hood character in Marvel Rivals through a cryptic social media post.",
+    "sources": []
+  },
+  {
+    "title": "The 111 highest-rated video game music tracks on Rate Your Music (with links)",
+    "url": "https://www.resetera.com/threads/the-111-highest-rated-video-game-music-tracks-on-rate-your-music-with-links.1575079/",
+    "published": "2026-07-11T16:13:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-culture",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "A curated list of the 111 highest-rated video game music tracks on Rate Your Music, highlighting community preferences across gaming history.",
+    "sources": []
+  },
+  {
+    "title": "Fire Emblem Fortune's Weave New Info (Lords, Tacticians, and Weapons)",
+    "url": "https://www.resetera.com/threads/fire-emblem-fortunes-weave-new-info-lords-tacticians-and-weapons.1575055/",
+    "published": "2026-07-11T15:50:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "community"
+    ],
+    "summary": "Community member summarizes new information about Fire Emblem Fortune's Weave fan project including lords, tacticians, and weapons details from social media updates.",
+    "sources": []
+  },
+  {
+    "title": "I fired up Mirror's Edge again today and...",
+    "url": "https://www.resetera.com/threads/i-fired-up-mirrors-edge-again-today-and.1575043/",
+    "published": "2026-07-11T15:14:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A nostalgic personal reflection on revisiting Mirror's Edge and lamenting DICE's creative evolution under EA ownership.",
+    "sources": []
+  },
+  {
+    "title": "Highlight the promising smaller/indie games coming in H2 2026",
+    "url": "https://www.resetera.com/threads/highlight-the-promising-smaller-indie-games-coming-in-h2-2026.1575040/",
+    "published": "2026-07-11T15:13:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "A curated showcase of promising indie games releasing in H2 2026, featuring titles like Heave Ho 2 as alternatives to major AAA releases.",
+    "sources": []
+  },
+  {
+    "title": "Palworld 1.0 launched with 700k CCU on Steam",
+    "url": "https://www.resetera.com/threads/palworld-1-0-launched-with-700k-ccu-on-steam.1575028/",
+    "published": "2026-07-11T15:03:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "steam-platform",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Palworld reached 1.0 release milestone with 700,000 concurrent users on Steam, demonstrating significant mainstream success for the creature-collecting game.",
+    "sources": []
+  },
+  {
+    "title": "Shironeko Project for Switch by COLOPL LIVES! Now also on S2 and out in 2027 in JP, first gameplay shown",
+    "url": "https://www.resetera.com/threads/shironeko-project-for-switch-by-colopl-lives-now-also-on-s2-and-out-in-2027-in-jp-first-gameplay-shown.1575022/",
+    "published": "2026-07-11T14:58:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Shironeko Project for Nintendo Switch, delayed since 2018, finally shows gameplay and is confirmed for Switch 2 release in 2027 in Japan.",
+    "sources": []
+  },
+  {
+    "title": "One of the main things that make the Mass Effect universe so rich is that it was never meant to be a universe",
+    "url": "https://www.resetera.com/threads/one-of-the-main-things-that-make-the-mass-effect-universe-so-rich-is-that-it-was-never-meant-to-be-a-universe.1575016/",
+    "published": "2026-07-11T14:51:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-history"
+    ],
+    "summary": "Opinion piece discussing Mass Effect's narrative design philosophy and how the trilogy's ending reflected its story-first approach to worldbuilding.",
+    "sources": []
+  },
+  {
+    "title": "PS3 Party Games",
+    "url": "https://www.resetera.com/threads/ps3-party-games.1575013/",
+    "published": "2026-07-11T14:42:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "A user seeks recommendations for PS3 party games suitable for family gatherings on a jailbroken console.",
+    "sources": []
+  },
+  {
+    "title": "Yo dawg, we heard you like Super Mario Kart so we put SMK in your Super Mario World so you could play SMK while playing SMW.",
+    "url": "https://www.resetera.com/threads/yo-dawg-we-heard-you-like-super-mario-kart-so-we-put-smk-in-your-super-mario-world-so-you-could-play-smk-while-playing-smw.1575007/",
+    "published": "2026-07-11T14:31:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "homebrew",
+      "community",
+      "game-dev"
+    ],
+    "summary": "A Super Mario World ROM hack creatively embeds a playable Super Mario Kart level within the game, showcasing fan creativity in retro game modification.",
+    "sources": []
+  },
+  {
+    "title": "Total War: WARHAMMER 40,000 - BiliBili World Gameplay Video",
+    "url": "https://www.resetera.com/threads/total-war-warhammer-40-000-bilibili-world-gameplay-video.1574989/",
+    "published": "2026-07-11T13:53:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A gameplay video of Total War: WARHAMMER 40,000 has surfaced on BiliBili, offering early footage of the upcoming strategy game.",
+    "sources": []
+  },
+  {
+    "title": "Spotting video game music in real life feels awesome (Chrono Trigger video inside)",
+    "url": "https://www.resetera.com/threads/spotting-video-game-music-in-real-life-feels-awesome-chrono-trigger-video-inside.1574926/",
+    "published": "2026-07-11T09:31:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A gamer shares a video of someone playing Chrono Trigger's 'Wind Scene' on a musical instrument under a bridge in Japan and invites others to share similar real-world encounters with video game music.",
+    "sources": []
+  },
+  {
+    "title": "Assassin's Creed Shadows on Switch 2 is really  running and looking good after all the Updates",
+    "url": "https://www.resetera.com/threads/assassins-creed-shadows-on-switch-2-is-really-running-and-looking-good-after-all-the-updates.1574914/",
+    "published": "2026-07-11T08:48:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "handheld-gaming",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Assassin's Creed Shadows on Switch 2 has improved significantly through updates, with better handheld visuals and more stable performance, though some framerate issues remain.",
+    "sources": []
+  },
+  {
+    "title": "Dead Space 2 is the true action/horror game RE tries to be",
+    "url": "https://www.resetera.com/threads/dead-space-2-is-the-true-action-horror-game-re-tries-to-be.1574911/",
+    "published": "2026-07-11T07:46:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Opinion piece comparing Dead Space 2's action-horror balance favorably to Resident Evil 9's approach to blending genres.",
+    "sources": []
+  },
+  {
+    "title": "Baseball game fans - Konami's eBaseball\u2122: PRO SPIRIT 2026 releases this week on PS5 / PC",
+    "url": "https://www.resetera.com/threads/baseball-game-fans-konamis-ebaseball%E2%84%A2-pro-spirit-2026-releases-this-week-on-ps5-pc.1574893/",
+    "published": "2026-07-11T06:17:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Konami launches eBaseball: PRO SPIRIT 2026 on PS5 and PC as an alternative to MLB The Show.",
+    "sources": []
+  },
+  {
+    "title": "Humble's Narrative 12 for $10 Bundle Has Some Fantastic Steam Deck Titles For Cheap",
+    "url": "https://steamdeckhq.com/news/humble-narrative-12-for-10-bundle/",
+    "published": "2026-07-11T16:05:48+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 32,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Humble Bundle offers a narrative-focused bundle of 12 games mostly playable on Steam Deck for $10.",
+    "sources": []
+  },
+  {
+    "title": "Updates /Playing page",
+    "url": "https://overkill.wtf/notes/updates-playing-page",
+    "published": "2026-07-11T18:45:00+00:00",
+    "feed_name": "overkill Media",
+    "feed_tags": [
+      "steam-deck",
+      "linux-gaming"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A personal gaming website's /playing page receives an update with improved data management and Steam API integration for automatic playtime tracking.",
+    "sources": []
+  },
+  {
+    "title": "Updated /Reading page",
+    "url": "https://overkill.wtf/notes/updated-reading-page",
+    "published": "2026-07-11T07:35:00+00:00",
+    "feed_name": "overkill Media",
+    "feed_tags": [
+      "steam-deck",
+      "linux-gaming"
+    ],
+    "significance": 5,
+    "tags": [
+      "community"
+    ],
+    "summary": "A personal website update adding automated book tracking and reading statistics features using AI-assisted code generation.",
+    "sources": []
+  },
+  {
+    "title": "Ubisoft warns of risk of releasing games too late, 'when market anticipation has waned'",
+    "url": "https://www.gamefile.news/p/ubisoft-2026-annual-report-changes",
+    "published": "2026-07-11T15:08:05+00:00",
+    "feed_name": "Game File",
+    "feed_tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Ubisoft's annual report highlights concerns about delayed game releases losing market momentum and removes claims about microtransactions enhancing fun.",
+    "sources": []
+  },
+  {
+    "title": "Digital Extremes finally reveal Warframe: Tau, the sci-fi shooter's long-awaited second solar system, and it's a gruesome place indeed",
+    "url": "https://www.rockpapershotgun.com/digital-extremes-finally-reveal-warframe-tau-the-sci-fi-shooters-long-awaited-second-solar-system-and-its-a-gruesome-place-indeed",
+    "published": "2026-07-11T22:21:54+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Digital Extremes reveals Warframe: Tau, a long-awaited second solar system expansion featuring noir-themed areas, new factions, and a detective-styled Warframe character.",
+    "sources": []
+  },
+  {
+    "title": "Fantasy action-RPG Soulframe is open to all players for a limited time, with a new dark progression path, wolf mounts, and a Warsongs origin quest on the way",
+    "url": "https://www.rockpapershotgun.com/fantasy-action-rpg-soulframe-is-open-to-all-players-for-a-limited-time-with-a-new-dark-progression-path-wolf-mounts-and-a-warsongs-origin-quest-on-the-way",
+    "published": "2026-07-11T17:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "indie-games"
+    ],
+    "summary": "Soulframe adds new content including wolf mounts, Warsongs quest, and Vadagar dark progression path while opening to all players for limited time.",
+    "sources": []
+  },
+  {
+    "title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-390",
+    "published": "2026-07-11T07:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A gaming digest column discussing what readers are playing over the weekend, framed around the author's personal schedule.",
+    "sources": []
+  },
+  {
+    "title": "Marvel Tokon's Single Player Penned by Kieron Gillen, Features Five Stories and Boss Fights",
+    "url": "https://www.pushsquare.com/news/2026/07/marvel-tokons-single-player-penned-by-kieron-gillen-features-five-stories-and-boss-fights",
+    "published": "2026-07-11T19:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Marvel Tokon: Fighting Souls' single player mode features five story campaigns written by Kieron Gillen, each illustrated by different artists, with boss fights against obscure characters.",
+    "sources": []
+  },
+  {
+    "title": "'Bare Bones' PS5 Black Ops Ports Reportedly Have More Players Than Latest Game, Already Best Sellers on PS Store",
+    "url": "https://www.pushsquare.com/news/2026/07/bare-bones-ps5-black-ops-ports-reportedly-have-more-players-than-latest-game-already-best-sellers-on-ps-store",
+    "published": "2026-07-11T18:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Remastered PS5 ports of Call of Duty Black Ops 1 and 2 are reportedly attracting more players than the latest Black Ops 7 and have become top sellers on the PS Store.",
+    "sources": []
+  },
+  {
+    "title": "College Football 27 to Remove Single Player Microtransactions After Fans Threatened Boycott",
+    "url": "https://www.pushsquare.com/news/2026/07/college-football-27-to-remove-single-player-microtransactions-after-fans-threatened-boycott",
+    "published": "2026-07-11T17:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "EA Sports removes single-player microtransactions from College Football 27 following fan backlash and boycott threats.",
+    "sources": []
+  },
+  {
+    "title": "AC Black Flag: Resynced Records Two Million Sales in Opening Day Booty",
+    "url": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-records-two-million-sales-in-opening-day-booty",
+    "published": "2026-07-11T13:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Assassin's Creed: Black Flag Resynced achieves two million sales in its first day, outperforming the recent Assassin's Creed Shadows launch.",
+    "sources": []
+  },
+  {
+    "title": "Avowed 2 May Still Happen, Obsidian Skeleton Crew Continues Work",
+    "url": "https://www.pushsquare.com/news/2026/07/avowed-2-may-still-happen-obsidian-skeleton-crew-continues-work",
+    "published": "2026-07-11T12:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Obsidian Entertainment's skeleton crew continues work on a potential Avowed sequel despite internal cancellation, as Microsoft's massive layoffs and studio closures reshape Xbox's first-party development.",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 13+ PS5 Games Are Coming Out Next Week (13th-19th July)",
+    "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-13th-19th-july",
+    "published": "2026-07-11T11:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "A roundup of 13+ PS5 games releasing in the week of July 13-19, including titles like Denshattack and K-Pop Idol Stories.",
+    "sources": []
+  },
+  {
+    "title": "Talking Point: What Are You Playing This Weekend? - Issue 641",
+    "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-641",
+    "published": "2026-07-11T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion thread featuring gaming recommendations for the weekend, with mention of The Finals' new Galaxy Masters season.",
+    "sources": []
+  }
+]
