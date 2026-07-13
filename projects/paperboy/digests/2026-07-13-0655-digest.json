@@ -1,0 +1,852 @@
+[
+  {
+    "title": "Linux 7.2-rc3 Released: Close To The \"New Normal\"",
+    "url": "https://www.phoronix.com/news/Linux-7.2-rc3-Released",
+    "published": "2026-07-12T21:59:23+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Linux 7.2-rc3 release candidate is available for testing ahead of the stable August release, continuing the kernel development cycle.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.2 Enabling UltraRISC RISC-V Support In The Default Kernel Build",
+    "url": "https://www.phoronix.com/news/Linux-7.2-UltraRISC-RISC-V",
+    "published": "2026-07-12T20:25:10+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-hardware",
+      "pc-hardware",
+      "open-source"
+    ],
+    "summary": "Linux 7.2 enables default kernel support for UltraRISC RISC-V processors, expanding RISC-V architecture coverage in standard builds.",
+    "sources": []
+  },
+  {
+    "title": "HFI BIOS Aims To Provide A POST-Like Power On Screen & BIOS Setup Utility For RISC-V",
+    "url": "https://www.phoronix.com/news/Harmonic-Firmware-Initiative",
+    "published": "2026-07-12T10:50:22+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-hardware",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "HFI initiative aims to create standardized POST and BIOS setup utilities for RISC-V boards, similar to x86 systems.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.2-rc3 Bringing Fixes For The SEGA Dreamcast Drivers In 2026",
+    "url": "https://www.phoronix.com/news/Linux-7.2-rc3-SEGA-Dreamcast",
+    "published": "2026-07-12T10:31:16+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "retro",
+      "emulation",
+      "linux-hardware"
+    ],
+    "summary": "Linux 7.2-rc3 kernel includes fixes for SEGA Dreamcast drivers as part of routine kernel development.",
+    "sources": []
+  },
+  {
+    "title": "Realtek RTL8723BS WiFi Linux Driver Hardened Against Malicious WiFi Access Points",
+    "url": "https://www.phoronix.com/news/Realtek-RTL8723BS-WiFi-Bad-APs",
+    "published": "2026-07-12T10:15:39+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Realtek RTL8723BS WiFi driver receives security hardening fixes for Linux 7.2-rc3 to prevent out-of-bounds behavior from malicious access points.",
+    "sources": []
+  },
+  {
+    "title": "Xenosaga Episode I: Der Wille zur Macht (Open Spoilers)",
+    "url": "https://www.resetera.com/threads/xenosaga-episode-i-der-wille-zur-macht-open-spoilers.1575805/",
+    "published": "2026-07-13T06:48:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A player shares their experience playing through Xenosaga Episode I and discusses differences between Japanese and US versions of the game.",
+    "sources": []
+  },
+  {
+    "title": "Frequent Checkpointing is as Big of an Issue in Modern Games as Handholding/Giving Away Answers to Players (Rant)",
+    "url": "https://www.resetera.com/threads/frequent-checkpointing-is-as-big-of-an-issue-in-modern-games-as-handholding-giving-away-answers-to-players-rant.1575790/",
+    "published": "2026-07-13T05:41:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player critiques frequent checkpointing in modern AAA games as a design issue that discourages player learning and resourcefulness.",
+    "sources": []
+  },
+  {
+    "title": "Panic Bomber W (SNES) freely added to Super Bomberman Collection!",
+    "url": "https://www.resetera.com/threads/panic-bomber-w-snes-freely-added-to-super-bomberman-collection.1575787/",
+    "published": "2026-07-13T05:29:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "retro",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Panic Bomber W (SNES) is being added for free to Super Bomberman Collection via update on August 20.",
+    "sources": []
+  },
+  {
+    "title": "LTTP: Disco Elysium. What should a beginner know?",
+    "url": "https://www.resetera.com/threads/lttp-disco-elysium-what-should-a-beginner-know.1575778/",
+    "published": "2026-07-13T04:31:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A new player seeks beginner advice for playing Disco Elysium, their first CRPG experience.",
+    "sources": []
+  },
+  {
+    "title": "What's your favorite traditional/traditional-ish RPG of the last 11 years?",
+    "url": "https://www.resetera.com/threads/whats-your-favorite-traditional-traditional-ish-rpg-of-the-last-11-years.1575772/",
+    "published": "2026-07-13T04:27:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion thread asking for favorite traditional RPGs from the last 11 years, with users sharing personal experiences with games like Baldur's Gate 3, Cyberpunk 2077, and Final Fantasy 7 Remake.",
+    "sources": []
+  },
+  {
+    "title": "NSO is very good, maybe the best online/achievements setup but they've all been good since 7th gen",
+    "url": "https://www.resetera.com/threads/nso-is-very-good-maybe-the-best-online-achievements-setup-but-theyve-all-been-good-since-7th-gen.1575739/",
+    "published": "2026-07-13T00:00:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A community member discusses Nintendo Switch Online's achievement and online features, comparing them favorably to other platforms' implementations.",
+    "sources": []
+  },
+  {
+    "title": "Capcom's Final Fight (1989) was peak Beat 'em up action. SNES had four FF games but it took Sega CD's FFCD (1993) to get it right for the home",
+    "url": "https://www.resetera.com/threads/capcoms-final-fight-1989-was-peak-beat-em-up-action-snes-had-four-ff-games-but-it-took-sega-cds-ffcd-1993-to-get-it-right-for-the-home.1575736/",
+    "published": "2026-07-12T23:25:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "console-hardware"
+    ],
+    "summary": "A retrospective analysis comparing Capcom's Final Fight arcade classic and its various home console ports across SNES and Sega CD versions.",
+    "sources": []
+  },
+  {
+    "title": "Gaming News Has Been Depressing...What are Some Games of the Last Two Gens That have Inspired Joy in You?",
+    "url": "https://www.resetera.com/threads/gaming-news-has-been-depressing-what-are-some-games-of-the-last-two-gens-that-have-inspired-joy-in-you.1575715/",
+    "published": "2026-07-12T22:18:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A community member shares personal gaming experiences and seeks recommendations for joyful games from recent console generations amid broader industry concerns.",
+    "sources": []
+  },
+  {
+    "title": "A major issue with Sony's ending disc production announcement is the lack of assurance to users about forward compatibility for physical libraries",
+    "url": "https://www.resetera.com/threads/a-major-issue-with-sonys-ending-disc-production-announcement-is-the-lack-of-assurance-to-users-about-forward-compatibility-for-physical-libraries.1575712/",
+    "published": "2026-07-12T22:16:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Consumer concerns raised over Sony's lack of forward compatibility guarantees for physical game libraries following disc production discontinuation announcement.",
+    "sources": []
+  },
+  {
+    "title": "Less than a day after raising over $2 million for Doctors Without Borders, Games Done Quick partners with Saudi-backed SNK for a Metal Slug stream",
+    "url": "https://www.resetera.com/threads/less-than-a-day-after-raising-over-2-million-for-doctors-without-borders-games-done-quick-partners-with-saudi-backed-snk-for-a-metal-slug-stream.1575700/",
+    "published": "2026-07-12T21:53:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "speedrunning",
+      "community",
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Games Done Quick faced backlash after announcing a partnership with Saudi-backed SNK for a Metal Slug stream, shortly after raising $2.4 million for charity, leading to an early end to their showcase.",
+    "sources": []
+  },
+  {
+    "title": "Sony Bank Clears US Office of the Comptroller of the Currency Hurdle for Dollar Stablecoin, used for \"digital content across Sony's ecosystem\" in 2027",
+    "url": "https://www.resetera.com/threads/sony-bank-clears-us-office-of-the-comptroller-of-the-currency-hurdle-for-dollar-stablecoin-used-for-digital-content-across-sonys-ecosystem-in-2027.1575688/",
+    "published": "2026-07-12T21:40:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-industry"
+    ],
+    "summary": "Sony Bank receives OCC approval to establish a national trust bank and issue a dollar-backed stablecoin for digital content transactions across Sony's ecosystem starting in 2027.",
+    "sources": []
+  },
+  {
+    "title": "Clean rip of Your Affection Remake from P4R @ Bilibiliwolrd Dance Performance.",
+    "url": "https://www.resetera.com/threads/clean-rip-of-your-affection-remake-from-p4r-bilibiliwolrd-dance-performance.1575673/",
+    "published": "2026-07-12T21:27:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A clean audio rip of the Your Affection Remake from Persona 4 Royal performed at Bilibili World Dance Performance is shared online.",
+    "sources": []
+  },
+  {
+    "title": "It Has Been Well Over a Year Since Powering On The PS5 or XSX. Been PC Only for the First Time Ever... Time to Sell the Consoles?",
+    "url": "https://www.resetera.com/threads/it-has-been-well-over-a-year-since-powering-on-the-ps5-or-xsx-been-pc-only-for-the-first-time-ever-time-to-sell-the-consoles.1575664/",
+    "published": "2026-07-12T20:48:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-hardware",
+      "console-hardware"
+    ],
+    "summary": "A long-time console gamer shares their experience transitioning to PC-only gaming and considers selling their PS5 and Xbox Series X after over a year of inactivity.",
+    "sources": []
+  },
+  {
+    "title": "The Assassin\u2019s Creed series has sold more than 250 million games worldwide.",
+    "url": "https://www.resetera.com/threads/the-assassin%E2%80%99s-creed-series-has-sold-more-than-250-million-games-worldwide.1575655/",
+    "published": "2026-07-12T20:26:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Assassin's Creed franchise surpasses 250 million lifetime sales globally, with Black Flag Resynced reaching 2 million copies sold.",
+    "sources": []
+  },
+  {
+    "title": "Soulframe | TennoCon 2026 Warsongs Live Gameplay Demo (32 minutes)",
+    "url": "https://www.resetera.com/threads/soulframe-tennocon-2026-warsongs-live-gameplay-demo-32-minutes.1575646/",
+    "published": "2026-07-12T20:00:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Digital Extremes showcases 32 minutes of Soulframe gameplay at TennoCon 2026, demonstrating the live service game that serves as a sister title to Warframe.",
+    "sources": []
+  },
+  {
+    "title": "Sony Bank Clears U.S. Hurdle For Stablecoin That Could Be Used Across PlayStation And Crunchyroll",
+    "url": "https://www.resetera.com/threads/sony-bank-clears-u-s-hurdle-for-stablecoin-that-could-be-used-across-playstation-and-crunchyroll.1575643/",
+    "published": "2026-07-12T19:51:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Sony Bank receives conditional U.S. approval to establish a national trust bank, with plans to develop a stablecoin for use across PlayStation and Crunchyroll.",
+    "sources": []
+  },
+  {
+    "title": "Persona 3 released 20 years ago today",
+    "url": "https://www.resetera.com/threads/persona-3-released-20-years-ago-today.1575640/",
+    "published": "2026-07-12T19:43:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "Persona 3 celebrates its 20th anniversary today, marking two decades since the game that transformed the Persona series and Atlus as a studio.",
+    "sources": []
+  },
+  {
+    "title": "[Fortune] \u2018Sony essentially destroys its own defense\u2019: How its disc-free PS5 plan triggered a $457M lawsuit and undercut its antitrust defense",
+    "url": "https://www.resetera.com/threads/fortune-%E2%80%98sony-essentially-destroys-its-own-defense%E2%80%99-how-its-disc-free-ps5-plan-triggered-a-457m-lawsuit-and-undercut-its-antitrust-defense.1575637/",
+    "published": "2026-07-12T19:13:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "legal"
+    ],
+    "summary": "Dutch consumer group files $457M lawsuit against Sony on behalf of 1.7M users, claiming the disc-free PS5 strategy and 30% PlayStation Store commission will inflate game prices and undercut Sony's antitrust defenses.",
+    "sources": []
+  },
+  {
+    "title": "What the hell happened to the Resume activity cards ?",
+    "url": "https://www.resetera.com/threads/what-the-hell-happened-to-the-resume-activity-cards.1575628/",
+    "published": "2026-07-12T19:08:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-platform",
+      "community"
+    ],
+    "summary": "User reports disappearance of Resume activity cards feature from Steam games and seeks explanation for the removal.",
+    "sources": []
+  },
+  {
+    "title": "PS5 Emulator sharpemu is now booting games.",
+    "url": "https://www.resetera.com/threads/ps5-emulator-sharpemu-is-now-booting-games.1575619/",
+    "published": "2026-07-12T18:24:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "emulation",
+      "console-hardware",
+      "open-source",
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "The experimental PS5 emulator sharpemu has reached a milestone by successfully booting games using a translation layer approach similar to shadps4.",
+    "sources": []
+  },
+  {
+    "title": "You make fun of ball and gun gamers but a lot of era are a sword and potions gamer",
+    "url": "https://www.resetera.com/threads/you-make-fun-of-ball-and-gun-gamers-but-a-lot-of-era-are-a-sword-and-potions-gamer.1575592/",
+    "published": "2026-07-12T17:39:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion about gaming preferences and how certain forums stereotype players who favor specific game genres like JRPGs and soulslikes.",
+    "sources": []
+  },
+  {
+    "title": "Ubisoft warns of risk of releasing games too late, 'when market anticipation has waned'",
+    "url": "https://www.resetera.com/threads/ubisoft-warns-of-risk-of-releasing-games-too-late-when-market-anticipation-has-waned.1575571/",
+    "published": "2026-07-12T16:50:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Ubisoft's annual investor filing warns that releasing games too late can cause market anticipation to wane, highlighting timing risks in game development and launch strategy.",
+    "sources": []
+  },
+  {
+    "title": "Critically panned games with a cool/interesting premise that you would love to see better executed",
+    "url": "https://www.resetera.com/threads/critically-panned-games-with-a-cool-interesting-premise-that-you-would-love-to-see-better-executed.1575562/",
+    "published": "2026-07-12T16:34:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 18,
+    "tags": [
+      "game-dev",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community discussion about underexecuted game concepts, using Hydrophobia as an example of a technically interesting game that suffered from poor overall design.",
+    "sources": []
+  },
+  {
+    "title": "Which Monster Hunter would you recommend to a new player?",
+    "url": "https://www.resetera.com/threads/which-monster-hunter-would-you-recommend-to-a-new-player.1575556/",
+    "published": "2026-07-12T16:20:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A new player asks for recommendations on which Monster Hunter game to start with, including older titles.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo Switch 2 camera for $9.99 at GameStop",
+    "url": "https://www.resetera.com/threads/nintendo-switch-2-camera-for-9-99-at-gamestop.1575547/",
+    "published": "2026-07-12T16:10:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "handheld-gaming",
+      "gaming-news"
+    ],
+    "summary": "A Nintendo Switch 2 camera accessory is being sold at GameStop for $9.99.",
+    "sources": []
+  },
+  {
+    "title": "Are there other games that capture the feeling of the combo detonations from Mass Effect 2/3?",
+    "url": "https://www.resetera.com/threads/are-there-other-games-that-capture-the-feeling-of-the-combo-detonations-from-mass-effect-2-3.1575544/",
+    "published": "2026-07-12T16:10:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community discussion seeking game recommendations similar to Mass Effect 2/3's combo detonation mechanic.",
+    "sources": []
+  },
+  {
+    "title": "Just realized Playstation\u2019s move to all Digital throws a wrench into importing region-exclusive titles",
+    "url": "https://www.resetera.com/threads/just-realized-playstation%E2%80%99s-move-to-all-digital-throws-a-wrench-into-importing-region-exclusive-titles.1575529/",
+    "published": "2026-07-12T15:38:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "PlayStation's shift to all-digital distribution creates barriers for fans seeking to import region-exclusive titles that previously had physical releases.",
+    "sources": []
+  },
+  {
+    "title": "Atari are going strong with remasters and collections (even from other companies, wat), what do you want to see next?",
+    "url": "https://www.resetera.com/threads/atari-are-going-strong-with-remasters-and-collections-even-from-other-companies-wat-what-do-you-want-to-see-next.1575502/",
+    "published": "2026-07-12T14:34:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Atari discusses its strategy of releasing remasters and collections, including titles from other companies, and solicits community feedback on future releases.",
+    "sources": []
+  },
+  {
+    "title": "Rebs Gaming: Leadership at Halo Studios is mismanaging the Halo franchise and mistreating employees.",
+    "url": "https://www.resetera.com/threads/rebs-gaming-leadership-at-halo-studios-is-mismanaging-the-halo-franchise-and-mistreating-employees.1575484/",
+    "published": "2026-07-12T13:41:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "leaks",
+      "game-dev"
+    ],
+    "summary": "Rebs Gaming alleges serious leadership and workplace misconduct issues at Halo Studios, including mistreatment of employees and mismanagement of the franchise.",
+    "sources": []
+  },
+  {
+    "title": "I Miss Batman Arkham Free Flow Combat",
+    "url": "https://www.resetera.com/threads/i-miss-batman-arkham-free-flow-combat.1575481/",
+    "published": "2026-07-12T13:19:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Opinion piece discussing nostalgia for Batman Arkham's Free Flow combat system and lamenting modern gaming's move away from combo-based mechanics.",
+    "sources": []
+  },
+  {
+    "title": "Screenshots you can hear and feel",
+    "url": "https://www.resetera.com/threads/screenshots-you-can-hear-and-feel.1575463/",
+    "published": "2026-07-12T12:48:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "A brief announcement or teaser with minimal context provided.",
+    "sources": []
+  },
+  {
+    "title": "What current generation games have amazing sound design?",
+    "url": "https://www.resetera.com/threads/what-current-generation-games-have-amazing-sound-design.1575454/",
+    "published": "2026-07-12T12:17:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion thread about current generation games with notable sound design, highlighting Dead Space remake and Demon's Souls remake.",
+    "sources": []
+  },
+  {
+    "title": "Assassin's Creed franchise has sold over 250M units worldwide; up 20M since September 2025",
+    "url": "https://www.resetera.com/threads/assassins-creed-franchise-has-sold-over-250m-units-worldwide-up-20m-since-september-2025.1575448/",
+    "published": "2026-07-12T11:37:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Assassin's Creed franchise surpasses 250 million units sold worldwide, with the Black Flag remaster reaching 2 million copies sold.",
+    "sources": []
+  },
+  {
+    "title": "How was God of War: Ascension?",
+    "url": "https://www.resetera.com/threads/how-was-god-of-war-ascension.1575445/",
+    "published": "2026-07-12T11:22:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion about God of War: Ascension's legacy and why it's often overlooked compared to other entries in the franchise.",
+    "sources": []
+  },
+  {
+    "title": "Baddest or scandalous things you did in multiplayer or singleplayer games",
+    "url": "https://www.resetera.com/threads/baddest-or-scandalous-things-you-did-in-multiplayer-or-singleplayer-games.1575424/",
+    "published": "2026-07-12T09:10:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community members share anecdotes about memorable multiplayer pranks and single-player exploits from classic games like Battlefield Bad Company 2 and Tomb Raider 2.",
+    "sources": []
+  },
+  {
+    "title": "Why are so few Western gaming media covering BiliBili World aka the Chinese equivalent of Gamescom / TGS? Any recommendations for coverage?",
+    "url": "https://www.resetera.com/threads/why-are-so-few-western-gaming-media-covering-bilibili-world-aka-the-chinese-equivalent-of-gamescom-tgs-any-recommendations-for-coverage.1575403/",
+    "published": "2026-07-12T07:44:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-discovery"
+    ],
+    "summary": "User discusses lack of Western gaming media coverage of BiliBili World, a major Chinese gaming event with 400k+ attendees featuring significant game announcements and Steam integration.",
+    "sources": []
+  },
+  {
+    "title": "Earliest you got in line for a midnight release?",
+    "url": "https://www.resetera.com/threads/earliest-you-got-in-line-for-a-midnight-release.1575400/",
+    "published": "2026-07-12T07:44:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community"
+    ],
+    "summary": "Community members share anecdotes about arriving early for midnight game releases.",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (July 12th 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-july-12th-2026",
+    "published": "2026-07-12T17:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of retro gaming news including Super Mario Bros. Special, Rhapsody: A Musical Adventure, and Evercade price adjustments.",
+    "sources": []
+  },
+  {
+    "title": "Bubsy 4D",
+    "url": "https://www.hardcoregaming101.net/bubsy-4d/",
+    "published": "2026-07-12T20:02:34+00:00",
+    "feed_name": "Hardcore Gaming 101",
+    "feed_tags": [
+      "retro",
+      "gaming-history"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-history",
+      "retro"
+    ],
+    "summary": "Atari SA announces Bubsy 4D, a new entry in the Bubsy franchise after acquiring the character rights in 2023.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with Palworld and Cat Mail Co. - 2026-07-11 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-07-11-edition/index.html",
+    "published": "2026-07-12T14:31:42+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Weekly roundup of four newly released games verified or playable on Steam Deck, including Palworld's 1.0 launch and indie title Cat Mail Co.",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-818",
+    "published": "2026-07-12T09:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "A weekly roundup column introducing various gaming and non-gaming articles for Sunday reading, primarily a content curation piece rather than gaming news.",
+    "sources": []
+  },
+  {
+    "title": "PS5's Physical Disc Debacle Will Attract More Anger if This Xbox Rumour Is True",
+    "url": "https://www.pushsquare.com/news/2026/07/ps5s-physical-disc-debacle-will-attract-more-anger-if-this-xbox-rumour-is-true",
+    "published": "2026-07-12T12:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "A rumored Xbox announcement may reignite controversy around Sony's decision to discontinue PS5 physical disc manufacturing by 2028.",
+    "sources": []
+  },
+  {
+    "title": "Hands On: In Its Eleventh Season, The Finals Is Better Than Ever",
+    "url": "https://www.pushsquare.com/features/hands-on-in-its-eleventh-season-the-finals-is-better-than-ever",
+    "published": "2026-07-12T12:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "The Finals enters Season 11 with improvements to new player experience and quality-of-life changes, positioning the game as better than ever ahead of a larger Season 12 update.",
+    "sources": []
+  }
+]
