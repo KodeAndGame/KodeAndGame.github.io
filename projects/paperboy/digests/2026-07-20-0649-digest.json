@@ -1,0 +1,719 @@
+[
+  {
+    "title": "Linux 7.2-rc4 Released: Looking Like The \"New Normal\"",
+    "url": "https://www.phoronix.com/news/Linux-7.2-rc4-Released",
+    "published": "2026-07-19T21:16:16+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware"
+    ],
+    "summary": "Linux 7.2-rc4 kernel release candidate is now available for testing, continuing the weekly development cycle.",
+    "sources": []
+  },
+  {
+    "title": "The Last MPEG-4 Visual Patent Has Expired",
+    "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+    "published": "2026-07-19T14:24:30+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "open-source",
+      "gaming-industry",
+      "pc-hardware"
+    ],
+    "summary": "The final MPEG-4 Part 2 patent has expired, potentially reducing licensing costs and barriers for developers using this video codec.",
+    "sources": []
+  },
+  {
+    "title": "FFmpeg Lands Latest AVX-512 Optimization: 1.372x Faster In Pixel Format Conversion",
+    "url": "https://www.phoronix.com/news/FFmpeg-AVX-512-1.372x",
+    "published": "2026-07-19T11:00:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "pc-hardware",
+      "open-source",
+      "gaming-news"
+    ],
+    "summary": "FFmpeg gains AVX-512 optimization achieving 1.372x speedup in pixel format conversion on modern processors.",
+    "sources": []
+  },
+  {
+    "title": "Legion Y700 Gen4 Tablet Powered By Snapdragon 8 Elite Seeing Linux Patches",
+    "url": "https://www.phoronix.com/news/Lenovo-Y700-Gen4-Linux-Patches",
+    "published": "2026-07-19T10:29:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "handheld-gaming",
+      "gaming-hardware"
+    ],
+    "summary": "The Legion Y700 Gen4 tablet is receiving Linux patches to enable native Linux support outside of Android, with potential mainline kernel integration.",
+    "sources": []
+  },
+  {
+    "title": "More ASUS Motherboards To Enjoy Working Sensor Monitoring With Linux 7.3",
+    "url": "https://www.phoronix.com/news/Linux-7.3-More-ASUS-Sensors",
+    "published": "2026-07-19T10:17:04+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware",
+      "linux-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Additional ASUS motherboards gain functional sensor monitoring support in Linux 7.3 through open-source community efforts.",
+    "sources": []
+  },
+  {
+    "title": "If you missed the console demo of The Eternal Life of Goldman - Like me - Play it!",
+    "url": "https://www.resetera.com/threads/if-you-missed-the-console-demo-of-the-eternal-life-of-goldman-like-me-play-it.1581847/",
+    "published": "2026-07-20T06:34:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "A user enthusiastically recommends trying the console demo for indie game The Eternal Life of Goldman after discovering it on their PS wishlist.",
+    "sources": []
+  },
+  {
+    "title": "Virtua Fighter 5 Turns 20!",
+    "url": "https://www.resetera.com/threads/virtua-fighter-5-turns-20.1581844/",
+    "published": "2026-07-20T06:21:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "community"
+    ],
+    "summary": "Virtua Fighter 5 celebrates its 20th anniversary with nostalgic community reflections on the classic fighting game.",
+    "sources": []
+  },
+  {
+    "title": "AC Odyssey or Immortals Fenyx Rising?",
+    "url": "https://www.resetera.com/threads/ac-odyssey-or-immortals-fenyx-rising.1581826/",
+    "published": "2026-07-20T03:18:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery"
+    ],
+    "summary": "A player seeks recommendations between Assassin's Creed Odyssey and Immortals Fenyx Rising for exploring Ancient Greece.",
+    "sources": []
+  },
+  {
+    "title": "Assassin's Creed RPG era, ranked? Which one is the best?",
+    "url": "https://www.resetera.com/threads/assassins-creed-rpg-era-ranked-which-one-is-the-best.1581817/",
+    "published": "2026-07-20T02:07:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A player seeks recommendations on which Assassin's Creed RPG-era game to play next, comparing Shadows, Odyssey, and other entries in the series.",
+    "sources": []
+  },
+  {
+    "title": "The dispatcher in Vice City knows what area you\u2019re in, type of vehicle and colour of it. What are some other horse\u2019s balls moments in older games?",
+    "url": "https://www.resetera.com/threads/the-dispatcher-in-vice-city-knows-what-area-you%E2%80%99re-in-type-of-vehicle-and-colour-of-it-what-are-some-other-horse%E2%80%99s-balls-moments-in-older-games.1581808/",
+    "published": "2026-07-20T01:10:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "community"
+    ],
+    "summary": "Community discussion highlighting impressive detail design in Grand Theft Auto: Vice City where the dispatcher accurately describes player location and vehicle details.",
+    "sources": []
+  },
+  {
+    "title": "4K/60 Ghost Recon WILDLANDS?!",
+    "url": "https://www.resetera.com/threads/4k-60-ghost-recon-wildlands.1581790/",
+    "published": "2026-07-20T00:15:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "pc-hardware"
+    ],
+    "summary": "Rumor or leak discussing potential 4K/60fps performance for Ghost Recon Wildlands, likely related to emulation or a specific platform port.",
+    "sources": []
+  },
+  {
+    "title": "Would you tolerate Xbox making another 50% of devs redundant after they've shipped their games this financial year?",
+    "url": "https://www.resetera.com/threads/would-you-tolerate-xbox-making-another-50-of-devs-redundant-after-theyve-shipped-their-games-this-financial-year.1581784/",
+    "published": "2026-07-20T00:02:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Analysis suggests Xbox may conduct additional layoffs after current fiscal year titles ship, with over 1,000 positions still unaccounted for following previous redundancies.",
+    "sources": []
+  },
+  {
+    "title": "Never played a Xenosaga game but hot damn this music rules",
+    "url": "https://www.resetera.com/threads/never-played-a-xenosaga-game-but-hot-damn-this-music-rules.1581772/",
+    "published": "2026-07-19T23:16:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A user shares appreciation for Xenosaga's soundtrack, expressing discovery of the series' music quality.",
+    "sources": []
+  },
+  {
+    "title": "With More Prices Increases Expected In The Future, How Much Do You Expect The Switch 2 To Sell In It\u2019s Lifetime?",
+    "url": "https://www.resetera.com/threads/with-more-prices-increases-expected-in-the-future-how-much-do-you-expect-the-switch-2-to-sell-in-it%E2%80%99s-lifetime.1581763/",
+    "published": "2026-07-19T22:59:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Nintendo's president hints at future price increases for Switch beyond the September hike, prompting discussion about lifetime sales projections amid pricing concerns.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo Store UK adds a jumbo Donkey Kong plush (releasing 12th November) for... the same price as a Switch 2 (\u00a3395.99)",
+    "url": "https://www.resetera.com/threads/nintendo-store-uk-adds-a-jumbo-donkey-kong-plush-releasing-12th-november-for-the-same-price-as-a-switch-2-%C2%A3395-99.1581751/",
+    "published": "2026-07-19T22:15:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Nintendo UK's online store is selling a jumbo Donkey Kong plush toy for \u00a3395.99, matching the price of a Switch 2 console.",
+    "sources": []
+  },
+  {
+    "title": "Best way to play the xeno series games in 2026?  NO SPOILERS",
+    "url": "https://www.resetera.com/threads/best-way-to-play-the-xeno-series-games-in-2026-no-spoilers.1581742/",
+    "published": "2026-07-19T21:57:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Community discussion post asking for recommendations on how to play games in the Xeno series and whether all entries are worth playing.",
+    "sources": []
+  },
+  {
+    "title": "Will Rockstar finally allow players to store any vehicle permanently in GTA VI?",
+    "url": "https://www.resetera.com/threads/will-rockstar-finally-allow-players-to-store-any-vehicle-permanently-in-gta-vi.1581730/",
+    "published": "2026-07-19T21:22:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Speculation about whether GTA VI will allow players to permanently store any stolen vehicle, a feature long requested by the series' community.",
+    "sources": []
+  },
+  {
+    "title": "Y\u2019all think LABO is dead? Any hardware benefits of a 2.0 for Switch 2?",
+    "url": "https://www.resetera.com/threads/y%E2%80%99all-think-labo-is-dead-any-hardware-benefits-of-a-2-0-for-switch-2.1581685/",
+    "published": "2026-07-19T19:28:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "console-hardware",
+      "handheld-gaming",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion speculating about the future of Nintendo Labo and potential hardware improvements for a Switch 2 iteration.",
+    "sources": []
+  },
+  {
+    "title": "When a game becomes unrecognisable over the years (Party Animals)",
+    "url": "https://www.resetera.com/threads/when-a-game-becomes-unrecognisable-over-the-years-party-animals.1581682/",
+    "published": "2026-07-19T19:28:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A retrospective analysis of how Party Animals evolved from its Gang Beasts-inspired origins through development and release, examining the changes made to the game over time.",
+    "sources": []
+  },
+  {
+    "title": "Path of Titans players held a tribute to Sam Neill",
+    "url": "https://www.resetera.com/threads/path-of-titans-players-held-a-tribute-to-sam-neill.1581667/",
+    "published": "2026-07-19T18:54:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Path of Titans players organized a touching tribute to actor Sam Neill, who passed away, demonstrating community appreciation for his iconic role in Jurassic Park.",
+    "sources": []
+  },
+  {
+    "title": "Intro to cancelled Kingdom Hearts: Missing Link has been leaked",
+    "url": "https://www.resetera.com/threads/intro-to-cancelled-kingdom-hearts-missing-link-has-been-leaked.1581655/",
+    "published": "2026-07-19T18:08:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Leaked intro footage reveals cancelled Kingdom Hearts: Missing Link mobile game featured astronaut protagonists, sparking speculation about the title's cancelled development.",
+    "sources": []
+  },
+  {
+    "title": "Which XBLA Summer of Arcade lineup was the best?",
+    "url": "https://www.resetera.com/threads/which-xbla-summer-of-arcade-lineup-was-the-best.1581613/",
+    "published": "2026-07-19T16:00:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "console-hardware",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A retrospective discussion asking readers to compare and rank the Xbox Live Arcade Summer of Arcade promotional lineups from different years.",
+    "sources": []
+  },
+  {
+    "title": "Mario Kart World",
+    "url": "https://www.resetera.com/threads/mario-kart-world.1581604/",
+    "published": "2026-07-19T15:09:37+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A personal enthusiast review praising Mario Kart World's open-world design and gameplay mechanics compared to Mario Kart 8.",
+    "sources": []
+  },
+  {
+    "title": "I think EA/Bioware made a big mistake in not including/adding ME3MP for the Legendary Edition",
+    "url": "https://www.resetera.com/threads/i-think-ea-bioware-made-a-big-mistake-in-not-including-adding-me3mp-for-the-legendary-edition.1581580/",
+    "published": "2026-07-19T14:06:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Fan opinion piece discussing EA/BioWare's decision to exclude Mass Effect 3 multiplayer from the Legendary Edition remaster.",
+    "sources": []
+  },
+  {
+    "title": "Hype Check - Halo: Campaign Evolved",
+    "url": "https://www.resetera.com/threads/hype-check-halo-campaign-evolved.1581568/",
+    "published": "2026-07-19T12:55:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "Halo: Campaign Evolved is launching soon in early access, marking Master Chief's debut in Unreal Engine with community hype assessment.",
+    "sources": []
+  },
+  {
+    "title": "PlayStation Using Bots To Defend Physical Games Decision Following Backlash",
+    "url": "https://www.resetera.com/threads/playstation-using-bots-to-defend-physical-games-decision-following-backlash.1581544/",
+    "published": "2026-07-19T10:21:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "community",
+      "gaming-news"
+    ],
+    "summary": "PlayStation allegedly deploys bots to counter public backlash against its decision to discontinue physical disc production, while facing criticism from consumers and partners.",
+    "sources": []
+  },
+  {
+    "title": "Gears of War 2 Fan PC Port is Out",
+    "url": "https://www.resetera.com/threads/gears-of-war-2-fan-pc-port-is-out.1581535/",
+    "published": "2026-07-19T08:49:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 42,
+    "tags": [
+      "game-dev",
+      "community",
+      "pc-hardware",
+      "gaming-news",
+      "emulation"
+    ],
+    "summary": "A fan has completed and released an unofficial PC port of the cancelled Gears of War 2 PC version, making the previously unfinished port playable.",
+    "sources": []
+  },
+  {
+    "title": "Do you think Resident Evil 9 has good replay value? [HEAVY SPOILERS INSIDE]",
+    "url": "https://www.resetera.com/threads/do-you-think-resident-evil-9-has-good-replay-value-heavy-spoilers-inside.1581532/",
+    "published": "2026-07-19T08:49:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Reddit discussion post asking community opinions on Resident Evil 9's replay value and replayability compared to other games in the series.",
+    "sources": []
+  },
+  {
+    "title": "Xbox Series X is still an incredible piece of hardware",
+    "url": "https://www.resetera.com/threads/xbox-series-x-is-still-an-incredible-piece-of-hardware.1581529/",
+    "published": "2026-07-19T08:41:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "console-hardware",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "A user shares their positive experience returning to Xbox Series X after attempting to transition to PC gaming, praising the console's hardware quality and controller ergonomics.",
+    "sources": []
+  },
+  {
+    "title": "Sky: Children of Light - Dear Van Gogh Launch",
+    "url": "https://www.resetera.com/threads/sky-children-of-light-dear-van-gogh-launch.1581526/",
+    "published": "2026-07-19T08:31:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Sky: Children of Light launches its Season of Van Gogh, a narrative-driven experience inspired by the artist's life and work, designed as an accessible one-to-two hour experience for both players and newcomers.",
+    "sources": []
+  },
+  {
+    "title": "I'll never understand the stupid advertising of Earthbound",
+    "url": "https://www.resetera.com/threads/ill-never-understand-the-stupid-advertising-of-earthbound.1581523/",
+    "published": "2026-07-19T07:50:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A user discusses frustrations with Earthbound's original marketing strategy and missed advertising opportunities.",
+    "sources": []
+  },
+  {
+    "title": "We Can Now Make Our Own Steam Machine Companion Cube Case",
+    "url": "https://steamdeckhq.com/news/we-make-steam-machine-companion-cube-case/",
+    "published": "2026-07-19T19:07:06+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "community",
+      "homebrew",
+      "gaming-hardware"
+    ],
+    "summary": "Community members can now 3D print custom Portal Companion Cube cases for Steam devices using publicly available designs.",
+    "sources": []
+  },
+  {
+    "title": "Bloody Roar 2",
+    "url": "https://www.hardcoregaming101.net/bloody-roar-2/",
+    "published": "2026-07-19T15:14:06+00:00",
+    "feed_name": "Hardcore Gaming 101",
+    "feed_tags": [
+      "retro",
+      "gaming-history"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "retro"
+    ],
+    "summary": "Retrospective analysis of Bloody Roar 2 as an improved sequel to the original arcade fighting game, favored by series fans.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck: Awesome week with The Mermaid Mask and Denshattack! - 2026-07-18 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-07-18-edition/index.html",
+    "published": "2026-07-19T14:25:31+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Weekly roundup of 14 newly released games verified as playable on Steam Deck, highlighting adventure game The Mermaid Mask and arcade game Denshattack.",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-819",
+    "published": "2026-07-19T10:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A Japanese racing series features cars sponsored by gaming properties including the horse girl game Umamusume Pretty Derby, highlighting unusual crossovers between gaming and motorsports.",
+    "sources": []
+  },
+  {
+    "title": "Review: K-Pop Idol Stories: Road to Debut (PS5) - Dreams Come True (If the RNG Co-Operates)",
+    "url": "https://www.pushsquare.com/reviews/ps5/k-pop-idol-stories-road-to-debut",
+    "published": "2026-07-19T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Review of K-Pop Idol Stories: Road to Debut for PS5, a tycoon management game with RNG mechanics that limits player creativity and customization options.",
+    "sources": []
+  },
+  {
+    "title": "Feature: Going Platinum: It Was a Pleasure to Grind Returnal for That RNG Trophy",
+    "url": "https://www.pushsquare.com/features/going-platinum-it-was-a-pleasure-to-grind-returnal-for-that-rng-trophy",
+    "published": "2026-07-19T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player shares their experience earning the Platinum Trophy in Returnal, documenting their 32nd platinum achievement.",
+    "sources": []
+  },
+  {
+    "title": "Two of PS5's Biggest Games Will Crossover This Winter",
+    "url": "https://www.pushsquare.com/news/2026/07/two-of-ps5s-biggest-games-will-crossover-this-winter",
+    "published": "2026-07-19T14:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Zenless Zone Zero's v3.1 update will feature a crossover event with Honkai: Star Rail as part of the game's second anniversary celebration.",
+    "sources": []
+  },
+  {
+    "title": "'I Need to Take Time to Reset': Award-Winning Actress Leaves One of PS5's Most Promising Games",
+    "url": "https://www.pushsquare.com/news/2026/07/i-need-to-take-time-to-reset-award-winning-actress-leaves-one-of-ps5s-most-promising-games",
+    "published": "2026-07-19T13:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Award-winning actress Jennifer English departs from the PS5 fantasy action game Tides of Annihilation to take time away from work.",
+    "sources": []
+  },
+  {
+    "title": "'It Isn't Something Carved in Stone': Xbox Still Unclear on Future PS5 Ports",
+    "url": "https://www.pushsquare.com/news/2026/07/it-isnt-something-carved-in-stone-xbox-still-unclear-on-future-ps5-ports",
+    "published": "2026-07-19T13:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Xbox leadership remains non-committal about which future games might still come to PlayStation 5 despite the company's recent return to console exclusivity strategy.",
+    "sources": []
+  }
+]
