@@ -1,0 +1,783 @@
+[
+  {
+    "title": "Valve begin improving account switching in the latest Steam Beta",
+    "url": "https://www.gamingonlinux.com/2026/07/valve-begin-improving-account-switching-in-the-latest-steam-beta/",
+    "published": "2026-07-25T09:02:16+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "GE-Proton 11-3 brings better OptiScaler integration, AMD FSR4 improvements and lots of game fixes",
+    "url": "https://www.gamingonlinux.com/2026/07/ge-proton-11-3-brings-better-optiscaler-integration-amd-fsr4-improvements-and-lots-of-game-fixes/",
+    "published": "2026-07-25T08:46:57+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Wine 11.14 brings improvements for DirectSound, BCrypt, FreeBSD",
+    "url": "https://www.gamingonlinux.com/2026/07/wine-11-14-brings-improvements-for-directsound-bcrypt-freebsd/",
+    "published": "2026-07-25T08:38:16+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Ubuntu Touch 24.04-2.0 Released With Support For Notches & Rounded Corners",
+    "url": "https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.0-Release",
+    "published": "2026-07-26T00:15:55+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Fedora Working To Establish Conflict of Interest Policy",
+    "url": "https://www.phoronix.com/news/Fedora-Conflict-Interest-Draft",
+    "published": "2026-07-25T16:37:04+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Kiwi Menu Continues Bringing macOS Vibes To GNOME",
+    "url": "https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes",
+    "published": "2026-07-25T11:00:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "GNU C Library 2.44 Released With /etc/tunables.conf, More Optimizations",
+    "url": "https://www.phoronix.com/news/GNU-C-Library-glibc-2.44",
+    "published": "2026-07-25T10:39:52+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "KDE Plasma 6.8 Introducing New kscreenctl Tool",
+    "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-kscreenctl",
+    "published": "2026-07-25T10:29:52+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "wish ubisoft had kept using the Jade Engine",
+    "url": "https://www.resetera.com/threads/wish-ubisoft-had-kept-using-the-jade-engine.1587394/",
+    "published": "2026-07-26T05:20:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "HGiG + FMM is so much better than Dynamic Tone mapping for HDR gaming",
+    "url": "https://www.resetera.com/threads/hgig-fmm-is-so-much-better-than-dynamic-tone-mapping-for-hdr-gaming.1587382/",
+    "published": "2026-07-26T03:46:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Avatar Legends : The Fighting Game Launches at 12,211 Concurrent Users.",
+    "url": "https://www.resetera.com/threads/avatar-legends-the-fighting-game-launches-at-12-211-concurrent-users.1587355/",
+    "published": "2026-07-26T01:58:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "No seriously, WHAT was Sega thinking with the surprise Saturn launch?",
+    "url": "https://www.resetera.com/threads/no-seriously-what-was-sega-thinking-with-the-surprise-saturn-launch.1587340/",
+    "published": "2026-07-26T01:23:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Did anyone pick up the AI slop-filled mess that is FRONT MISSION 3: Remake earlier this year?",
+    "url": "https://www.resetera.com/threads/did-anyone-pick-up-the-ai-slop-filled-mess-that-is-front-mission-3-remake-earlier-this-year.1587334/",
+    "published": "2026-07-26T01:16:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "PSA: If you manually set Switch / Switch 2 DLC to not download and it gets delisted, there is no way to download it again in the future",
+    "url": "https://www.resetera.com/threads/psa-if-you-manually-set-switch-switch-2-dlc-to-not-download-and-it-gets-delisted-there-is-no-way-to-download-it-again-in-the-future.1587310/",
+    "published": "2026-07-26T00:29:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Interesting Wolfenstein (2009) Steam page changes ahead of QuakeCon",
+    "url": "https://www.resetera.com/threads/interesting-wolfenstein-2009-steam-page-changes-ahead-of-quakecon.1587307/",
+    "published": "2026-07-25T23:52:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "More games like Signalis, Conscript and Darkwood?",
+    "url": "https://www.resetera.com/threads/more-games-like-signalis-conscript-and-darkwood.1587292/",
+    "published": "2026-07-25T23:46:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Which Final Fantasy title (ALL titles, not just mainline) has your favorite music?",
+    "url": "https://www.resetera.com/threads/which-final-fantasy-title-all-titles-not-just-mainline-has-your-favorite-music.1587268/",
+    "published": "2026-07-25T22:48:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Tempest Rising: The Veti's Wrath announced | Expansion for Tempest Rising",
+    "url": "https://www.resetera.com/threads/tempest-rising-the-vetis-wrath-announced-expansion-for-tempest-rising.1587265/",
+    "published": "2026-07-25T22:42:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Newzoo charts: Meccha Chameleon was 2nd behind Fortnite in PC revenue for June",
+    "url": "https://www.resetera.com/threads/newzoo-charts-meccha-chameleon-was-2nd-behind-fortnite-in-pc-revenue-for-june.1587256/",
+    "published": "2026-07-25T22:04:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Dungeons & Dragons\u2019 next major product announcement leaks--and it's WORLD OF WARCRAFT",
+    "url": "https://www.resetera.com/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.1587235/",
+    "published": "2026-07-25T21:28:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Brightis (ps1 game devloped by quintet) has now an english fan translation",
+    "url": "https://www.resetera.com/threads/brightis-ps1-game-devloped-by-quintet-has-now-an-english-fan-translation.1587172/",
+    "published": "2026-07-25T20:08:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "[Digital Foundry] Oliver Mackenzie's redemption (he has a cat)",
+    "url": "https://www.resetera.com/threads/digital-foundry-oliver-mackenzies-redemption-he-has-a-cat.1587103/",
+    "published": "2026-07-25T17:36:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "We're...never getting another Killer Instinct are we?",
+    "url": "https://www.resetera.com/threads/were-never-getting-another-killer-instinct-are-we.1587100/",
+    "published": "2026-07-25T17:23:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Does anyone remember Prima Games' very last published book, \"Women in Gaming\" before they were shut down as a book publisher?",
+    "url": "https://www.resetera.com/threads/does-anyone-remember-prima-games-very-last-published-book-women-in-gaming-before-they-were-shut-down-as-a-book-publisher.1587094/",
+    "published": "2026-07-25T17:19:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Forsaken Realms: Vahrin's Call, an action RPG inspired by Fable and The Elder Scrolls, releases on July 27, 2026",
+    "url": "https://www.resetera.com/threads/forsaken-realms-vahrins-call-an-action-rpg-inspired-by-fable-and-the-elder-scrolls-releases-on-july-27-2026.1587076/",
+    "published": "2026-07-25T16:37:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "RTTP: Persona 5 (Royale) - Some of this writing is wild",
+    "url": "https://www.resetera.com/threads/rttp-persona-5-royale-some-of-this-writing-is-wild.1587067/",
+    "published": "2026-07-25T16:16:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Final Fantasy XIV arrives on Nintendo Switch 2 on August 4th",
+    "url": "https://www.resetera.com/threads/final-fantasy-xiv-arrives-on-nintendo-switch-2-on-august-4th.1587058/",
+    "published": "2026-07-25T15:53:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Well-trodden game mechanics that need to be refined or removed altogether?",
+    "url": "https://www.resetera.com/threads/well-trodden-game-mechanics-that-need-to-be-refined-or-removed-altogether.1587025/",
+    "published": "2026-07-25T14:51:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Downfall of Yellowsky \"real time showcase\" (Chinese Cultivation genre 3d Hades-like)",
+    "url": "https://www.resetera.com/threads/downfall-of-yellowsky-real-time-showcase-chinese-cultivation-genre-3d-hades-like.1587010/",
+    "published": "2026-07-25T14:17:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Any good sequel ass sequels lately?",
+    "url": "https://www.resetera.com/threads/any-good-sequel-ass-sequels-lately.1587007/",
+    "published": "2026-07-25T14:02:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Should Ubisoft do an Assassin's Creed Black Flag 2?",
+    "url": "https://www.resetera.com/threads/should-ubisoft-do-an-assassins-creed-black-flag-2.1586986/",
+    "published": "2026-07-25T13:14:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "They should be putting their own CapCut in these games",
+    "url": "https://www.resetera.com/threads/they-should-be-putting-their-own-capcut-in-these-games.1586983/",
+    "published": "2026-07-25T13:06:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Halfway through the year and I'm a little surprised my most gut-wrenching moments of the year so far are from a Diablo expansion pack.",
+    "url": "https://www.resetera.com/threads/halfway-through-the-year-and-im-a-little-surprised-my-most-gut-wrenching-moments-of-the-year-so-far-are-from-a-diablo-expansion-pack.1586977/",
+    "published": "2026-07-25T12:55:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Konix Multisystem \"Slipstream\" console with built-in controllers - EGM + Video Games & Computer Entertainment articles, 1989-1990",
+    "url": "https://www.resetera.com/threads/konix-multisystem-slipstream-console-with-built-in-controllers-egm-video-games-computer-entertainment-articles-1989-1990.1586971/",
+    "published": "2026-07-25T12:48:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "So...why aren't there more AAA SP Cyberpunk or Pirate Games?",
+    "url": "https://www.resetera.com/threads/so-why-arent-there-more-aaa-sp-cyberpunk-or-pirate-games.1586962/",
+    "published": "2026-07-25T12:30:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Kassandra Actress Melissanthi Mahut, (AC Odyssey), Is Doing Performance Capture For A Project, \"More On This In June Next Year\"",
+    "url": "https://www.resetera.com/threads/kassandra-actress-melissanthi-mahut-ac-odyssey-is-doing-performance-capture-for-a-project-more-on-this-in-june-next-year.1586953/",
+    "published": "2026-07-25T12:16:37+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "RTTP: Bayonetta 2 - I hate it but I love it",
+    "url": "https://www.resetera.com/threads/rttp-bayonetta-2-i-hate-it-but-i-love-it.1586950/",
+    "published": "2026-07-25T12:00:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Final Fantasy XIV Online releases August 4 on Nintendo Switch 2 (1 month of free trial for testing, pre-orders start today)",
+    "url": "https://www.resetera.com/threads/final-fantasy-xiv-online-releases-august-4-on-nintendo-switch-2-1-month-of-free-trial-for-testing-pre-orders-start-today.1586929/",
+    "published": "2026-07-25T10:29:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "New FF14 8-Man Raid Series in Evercold is a Collab with FF7",
+    "url": "https://www.resetera.com/threads/new-ff14-8-man-raid-series-in-evercold-is-a-collab-with-ff7.1586926/",
+    "published": "2026-07-25T10:18:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Games with unvoiced characters, but with vocal-driven music tracks you consider the canon voices for those characters",
+    "url": "https://www.resetera.com/threads/games-with-unvoiced-characters-but-with-vocal-driven-music-tracks-you-consider-the-canon-voices-for-those-characters.1586923/",
+    "published": "2026-07-25T10:01:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "FINAL FANTASY XIV: Evercold - Extended Teaser Trailer",
+    "url": "https://www.resetera.com/threads/final-fantasy-xiv-evercold-extended-teaser-trailer.1586893/",
+    "published": "2026-07-25T08:10:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Thick As Thieves ending development after layoffs at developer",
+    "url": "https://www.resetera.com/threads/thick-as-thieves-ending-development-after-layoffs-at-developer.1586890/",
+    "published": "2026-07-25T08:08:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The Making Of: A Nightmare On Elm Street - The Much-Maligned NES Game That Changed How Rare Worked Forever",
+    "url": "https://www.timeextension.com/features/the-making-of-a-nightmare-on-elm-street-the-much-maligned-nes-game-that-changed-how-rare-worked-forever",
+    "published": "2026-07-25T13:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Humble's Animal Style Bundle Has 8 Great Steam Deck Games",
+    "url": "https://steamdeckhq.com/news/humble-animal-style-bundle-steam-deck-games/",
+    "published": "2026-07-25T14:14:05+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Proton GE 11-3 Releases With OptiScaler Integration, More FSR 4 Support, and Tons of Game Fixes",
+    "url": "https://steamdeckhq.com/news/proton-ge-11-3-optiscaler-integration/",
+    "published": "2026-07-25T13:34:11+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Commit cinematic sacrilege in Baldur's Gate 3 with this true third-person camera mod",
+    "url": "https://www.rockpapershotgun.com/commit-cinematic-sacrilege-in-baldurs-gate-3-with-this-true-third-person-camera-mod",
+    "published": "2026-07-25T21:51:54+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Ringwyrm might have a nasty sounding name, but its action horror, fantasy Soviet vibes are too compelling to ignore",
+    "url": "https://www.rockpapershotgun.com/ringwyrm-might-have-a-nasty-sounding-name-but-its-action-horror-fantasy-soviet-vibes-are-too-compelling-to-ignore",
+    "published": "2026-07-25T20:32:57+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Thick as Thieves studio does what triple-A won't: keep its game playable",
+    "url": "https://www.rockpapershotgun.com/thick-as-thieves-studio-does-what-triple-a-wont-keep-its-game-playable",
+    "published": "2026-07-25T18:00:27+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Sega like physical games too, says their president, but with the shift to digital they're keeping the humble PC in mind",
+    "url": "https://www.rockpapershotgun.com/sega-like-physical-games-too-says-their-president-but-with-the-shift-to-digital-theyre-keeping-the-humble-pc-in-mind",
+    "published": "2026-07-25T17:20:49+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Final Fantasy 14's Evercold expansion brings aboard a Final Fantasy 7 collab and a job that's all about fighting with massive shields",
+    "url": "https://www.rockpapershotgun.com/final-fantasy-14s-evercold-expansion-brings-aboard-a-final-fantasy-7-collab-and-a-job-thats-all-about-fighting-with-massive-shields",
+    "published": "2026-07-25T16:14:45+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-392",
+    "published": "2026-07-25T07:01:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "'We Sincerely Apologise': Marvel Tokon the Latest Sony Game to Be Busted on PC",
+    "url": "https://www.pushsquare.com/news/2026/07/we-sincerely-apologise-marvel-tokon-the-latest-sony-game-to-be-busted-on-pc",
+    "published": "2026-07-25T20:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "'It's Setting Up for Something So Amazing': Sony Confirms New God of War Starring Kratos",
+    "url": "https://www.pushsquare.com/news/2026/07/its-setting-up-for-something-so-amazing-sony-confirms-new-god-of-war-starring-kratos",
+    "published": "2026-07-25T19:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 18+ PS5 Games Are Coming Out Next Week (27th-2nd August)",
+    "url": "https://www.pushsquare.com/guides/these-18plus-ps5-games-are-coming-out-next-week-27th-2nd-august",
+    "published": "2026-07-25T11:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Talking Point: What Are You Playing This Weekend? - Issue 643",
+    "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-643",
+    "published": "2026-07-25T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  }
+]
