@@ -1,0 +1,1363 @@
+[
+  {
+    "title": "AMD Begins Posting Display Core Next 6 \"DCN6\" Linux Patches For RDNA5 GPUs",
+    "url": "https://www.phoronix.com/news/AMD-DCN6-Linux-Start",
+    "published": "2026-08-01T00:29:25+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "AMD Publishes CDNA5 ISA Documentation For Instinct MI455X",
+    "url": "https://www.phoronix.com/news/AMD-CDNA5-ISA-Documentation",
+    "published": "2026-07-31T20:29:05+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The First Open-Source Firmware Released For Modern AMD Ryzen AM5 Platform",
+    "url": "https://www.phoronix.com/news/OSS-Firmware-MSI-B850-P-WIFI",
+    "published": "2026-07-31T18:04:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Shotcut 26.7 Video Editor Released With Stock Asset Library",
+    "url": "https://www.phoronix.com/news/Shotcut-26.7-Released",
+    "published": "2026-07-31T17:50:05+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Nouveau Preparing To Finally Enable Atomic Mode-Setting By Default",
+    "url": "https://www.phoronix.com/news/Nouveau-Atomic-Mode-Setting-26",
+    "published": "2026-07-31T15:22:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Arch Linux AUR Under Another Wave Of Malicious Packages, Package Adoptions Halted",
+    "url": "https://www.phoronix.com/news/Arch-Linux-AUR-Adoptions-Halted",
+    "published": "2026-07-31T13:59:23+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 To Allow Tuning AMD P-State Dynamic EPP With Per CPU Core Granularity",
+    "url": "https://www.phoronix.com/news/Linux-7.3-AMD-Per-Core-Dynamic",
+    "published": "2026-07-31T13:18:59+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Servo 0.4 Browser Engine Gets More Websites Rendering Correctly",
+    "url": "https://www.phoronix.com/news/Servo-0.4-Released",
+    "published": "2026-07-31T11:01:10+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Nouveau Patch For Linux 7.3 Allows For NVK Vulkan Video Atop NVIDIA NVDEC",
+    "url": "https://www.phoronix.com/news/Linux-7.3-Nouveau-NVDEC",
+    "published": "2026-07-31T10:20:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "x86_64 Shadow Stack By Default Retargeted For Fedora 46",
+    "url": "https://www.phoronix.com/news/Fedora-46-Shadow-Stack-Plans",
+    "published": "2026-07-31T10:04:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Vulkan 1.4.358 Released With New Image Tiling Control Extension",
+    "url": "https://www.phoronix.com/news/Vulkan-1.4.358",
+    "published": "2026-07-31T09:53:13+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Sound Fixes For Linux 7.2-rc6: \"Far Larger Than Wished\"",
+    "url": "https://www.phoronix.com/news/Linux-7.2-rc6-Sound-Fixes",
+    "published": "2026-07-31T09:26:56+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Black Ops 2 Port Has a Hacker That's Making the Game Unplayable for Many",
+    "url": "https://www.resetera.com/threads/black-ops-2-port-has-a-hacker-thats-making-the-game-unplayable-for-many.1592776/",
+    "published": "2026-08-01T05:57:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "John Linneman (DF): Console Performance This Gen \"Best Since the 16-bit 2D era\"",
+    "url": "https://www.resetera.com/threads/john-linneman-df-console-performance-this-gen-best-since-the-16-bit-2d-era.1592764/",
+    "published": "2026-08-01T05:20:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "I got around to checking out the Ganbare Goemon series recently",
+    "url": "https://www.resetera.com/threads/i-got-around-to-checking-out-the-ganbare-goemon-series-recently.1592758/",
+    "published": "2026-08-01T05:03:37+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "South Korean Court Rules That Gameplay Is a Concept and Not Protected by Copyright <NCSoft(Lineage W) vs Kakao Games(ROM: Remember Of Majesty)>",
+    "url": "https://www.resetera.com/threads/south-korean-court-rules-that-gameplay-is-a-concept-and-not-protected-by-copyright-ncsoft-lineage-w-vs-kakao-games-rom-remember-of-majesty.1592755/",
+    "published": "2026-08-01T04:33:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "\u6f5b\u95be\u9650\u754c Exiledge - 3rd person shooter from Playstation China Hero Project gameplay from China Joy 2026",
+    "url": "https://www.resetera.com/threads/%E6%BD%9B%E9%96%BE%E9%99%90%E7%95%8C-exiledge-3rd-person-shooter-from-playstation-china-hero-project-gameplay-from-china-joy-2026.1592743/",
+    "published": "2026-08-01T03:36:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Heard y'all like Jazz. ATLUS announces Persona 5 Special Big Band Concert 2025 Live Album coming to streaming services August 1st.",
+    "url": "https://www.resetera.com/threads/heard-yall-like-jazz-atlus-announces-persona-5-special-big-band-concert-2025-live-album-coming-to-streaming-services-august-1st.1592740/",
+    "published": "2026-08-01T03:26:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "TLOU2 cinematic trailer is still probably my favorite ever",
+    "url": "https://www.resetera.com/threads/tlou2-cinematic-trailer-is-still-probably-my-favorite-ever.1592737/",
+    "published": "2026-08-01T03:25:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Dhaba: Land of Watermarks - Another China souls like from the  China Hero Project initiative demo shown at ChinaJoy 2026",
+    "url": "https://www.resetera.com/threads/dhaba-land-of-watermarks-another-china-souls-like-from-the-china-hero-project-initiative-demo-shown-at-chinajoy-2026.1592719/",
+    "published": "2026-08-01T02:01:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Didyouknowgaming did another cancelled Zelda game video, some alarming stuff alluded to",
+    "url": "https://www.resetera.com/threads/didyouknowgaming-did-another-cancelled-zelda-game-video-some-alarming-stuff-alluded-to.1592698/",
+    "published": "2026-08-01T01:15:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What are some games that define you as a person?",
+    "url": "https://www.resetera.com/threads/what-are-some-games-that-define-you-as-a-person.1592692/",
+    "published": "2026-08-01T00:52:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "How are people who bought the Virtual Boy Switch headset feeling about their purchase?",
+    "url": "https://www.resetera.com/threads/how-are-people-who-bought-the-virtual-boy-switch-headset-feeling-about-their-purchase.1592686/",
+    "published": "2026-08-01T00:40:37+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Are there GZdoom shooters that have level design more detailed or elaborate than the vanilla Doom games? I'd like recommendations",
+    "url": "https://www.resetera.com/threads/are-there-gzdoom-shooters-that-have-level-design-more-detailed-or-elaborate-than-the-vanilla-doom-games-id-like-recommendations.1592683/",
+    "published": "2026-08-01T00:24:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What was the first game you ever owned as a kid?",
+    "url": "https://www.resetera.com/threads/what-was-the-first-game-you-ever-owned-as-a-kid.1592680/",
+    "published": "2026-08-01T00:21:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "XBOX Game Studios |OT 38|",
+    "url": "https://www.resetera.com/threads/xbox-game-studios-ot-38.1592677/",
+    "published": "2026-08-01T00:00:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Rare Nintendo Famicombox units found in perfectly operational state in a Japanese \"love hotel\"",
+    "url": "https://www.resetera.com/threads/rare-nintendo-famicombox-units-found-in-perfectly-operational-state-in-a-japanese-love-hotel.1592659/",
+    "published": "2026-07-31T23:15:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Rare Nintendo DS dev cart listed on eBay for $9,000+ could contain a lost Pok\u00e9mon game unplayable since 2005 that deleted itself",
+    "url": "https://www.resetera.com/threads/rare-nintendo-ds-dev-cart-listed-on-ebay-for-9-000-could-contain-a-lost-pok%C3%A9mon-game-unplayable-since-2005-that-deleted-itself.1592647/",
+    "published": "2026-07-31T23:11:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "PC Gaming ERA | August 2026 - Darth Vader is Luke Skywalker's Father",
+    "url": "https://www.resetera.com/threads/pc-gaming-era-august-2026-darth-vader-is-luke-skywalkers-father.1592641/",
+    "published": "2026-07-31T23:00:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "[Digital Foundry/John Linneman] Heard from sources Microsoft would continue disk support before the 'reset;' sees a future where disk is supported",
+    "url": "https://www.resetera.com/threads/digital-foundry-john-linneman-heard-from-sources-microsoft-would-continue-disk-support-before-the-reset-sees-a-future-where-disk-is-supported.1592638/",
+    "published": "2026-07-31T22:49:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Have Carol/Captain Marvel and Blade ever had a relationship in the comics? (Midnight Suns)",
+    "url": "https://www.resetera.com/threads/have-carol-captain-marvel-and-blade-ever-had-a-relationship-in-the-comics-midnight-suns.1592608/",
+    "published": "2026-07-31T21:50:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Baba Is You: The Board Game and (from UFO 50) Party House: Deckbuilding Game announced. Coming to Kickstarter on Sep 15th",
+    "url": "https://www.resetera.com/threads/baba-is-you-the-board-game-and-from-ufo-50-party-house-deckbuilding-game-announced-coming-to-kickstarter-on-sep-15th.1592605/",
+    "published": "2026-07-31T21:46:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Nintendhogs DS Official Soundtrack by Louie Zong (fan made conceptual soundtracks for nonexistent video game)",
+    "url": "https://www.resetera.com/threads/nintendhogs-ds-official-soundtrack-by-louie-zong-fan-made-conceptual-soundtracks-for-nonexistent-video-game.1592569/",
+    "published": "2026-07-31T21:05:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Anyone else learning to love Zelda Skyward Sword?",
+    "url": "https://www.resetera.com/threads/anyone-else-learning-to-love-zelda-skyward-sword.1592563/",
+    "published": "2026-07-31T20:50:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "[GVMERS] The History of Mass Effect",
+    "url": "https://www.resetera.com/threads/gvmers-the-history-of-mass-effect.1592557/",
+    "published": "2026-07-31T20:36:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Your Game of the Month - July 2026 (Any Game)",
+    "url": "https://www.resetera.com/threads/your-game-of-the-month-july-2026-any-game.1592554/",
+    "published": "2026-07-31T20:34:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "\"Lighthouse\" - a Banjo-Kazooie PC Port by Harbour Masters - has just been released!",
+    "url": "https://www.resetera.com/threads/lighthouse-a-banjo-kazooie-pc-port-by-harbour-masters-has-just-been-released.1592551/",
+    "published": "2026-07-31T20:33:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "[One Take Schreier] How One Game Studio Wasted Six Years Trying To Beat Grand Theft Auto",
+    "url": "https://www.resetera.com/threads/one-take-schreier-how-one-game-studio-wasted-six-years-trying-to-beat-grand-theft-auto.1592524/",
+    "published": "2026-07-31T20:03:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Assassin\u2019s Creed Black Flag Resynced Still Has Ubisoft\u2019s Awful Dialogue Audio and Fonts",
+    "url": "https://www.resetera.com/threads/assassin%E2%80%99s-creed-black-flag-resynced-still-has-ubisoft%E2%80%99s-awful-dialogue-audio-and-fonts.1592518/",
+    "published": "2026-07-31T19:53:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Video Game Sounds That Automatically Filled You With Dread Upon Hearing",
+    "url": "https://www.resetera.com/threads/video-game-sounds-that-automatically-filled-you-with-dread-upon-hearing.1592515/",
+    "published": "2026-07-31T19:52:37+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Unity is no longer the leader \u2014 Godot has become the most popular engine at GMTK Game Jam 2026",
+    "url": "https://www.resetera.com/threads/unity-is-no-longer-the-leader-%E2%80%94-godot-has-become-the-most-popular-engine-at-gmtk-game-jam-2026.1592494/",
+    "published": "2026-07-31T19:32:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "DYKG | Metacritic Got Ocarina Of Time's Score Wrong",
+    "url": "https://www.resetera.com/threads/dykg-metacritic-got-ocarina-of-times-score-wrong.1592488/",
+    "published": "2026-07-31T19:20:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Shift Up releases AI music video for Stellar Blade: Bloodrain",
+    "url": "https://www.resetera.com/threads/shift-up-releases-ai-music-video-for-stellar-blade-bloodrain.1592482/",
+    "published": "2026-07-31T19:17:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Mrwhosetheboss - The Gaming Market is Starting to Break",
+    "url": "https://www.resetera.com/threads/mrwhosetheboss-the-gaming-market-is-starting-to-break.1592470/",
+    "published": "2026-07-31T19:10:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "If We Ever Got A Digital Devil Saga 3, What Would You Want?",
+    "url": "https://www.resetera.com/threads/if-we-ever-got-a-digital-devil-saga-3-what-would-you-want.1592416/",
+    "published": "2026-07-31T17:57:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "A song from Deltarune Chapter 6's soundtrack might have leaked on Apple Music",
+    "url": "https://www.resetera.com/threads/a-song-from-deltarune-chapter-6s-soundtrack-might-have-leaked-on-apple-music.1592356/",
+    "published": "2026-07-31T16:58:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Did \"We have Data to head into this direction\" ever work for a console manufacturer",
+    "url": "https://www.resetera.com/threads/did-we-have-data-to-head-into-this-direction-ever-work-for-a-console-manufacturer.1592326/",
+    "published": "2026-07-31T16:40:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The over 17 year legacy of the CoD Zombies \"Easter Egg\" Song.",
+    "url": "https://www.resetera.com/threads/the-over-17-year-legacy-of-the-cod-zombies-easter-egg-song.1592323/",
+    "published": "2026-07-31T16:39:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Marvel T\u014dkon: Fighting Souls | Launch Trailer",
+    "url": "https://www.resetera.com/threads/marvel-t%C5%8Dkon-fighting-souls-launch-trailer.1592227/",
+    "published": "2026-07-31T15:07:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Any Splatoon newcomers out there with Raiders as your first game? What do you think of it?",
+    "url": "https://www.resetera.com/threads/any-splatoon-newcomers-out-there-with-raiders-as-your-first-game-what-do-you-think-of-it.1592215/",
+    "published": "2026-07-31T15:00:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What are you playing this weekend? [7/31 - 8/2/26]",
+    "url": "https://www.resetera.com/threads/what-are-you-playing-this-weekend-7-31-8-2-26.1592212/",
+    "published": "2026-07-31T15:00:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "As someone who doesn't follow basketball even one little bit, the box art for NBA 2K27 is very intriguing to me",
+    "url": "https://www.resetera.com/threads/as-someone-who-doesnt-follow-basketball-even-one-little-bit-the-box-art-for-nba-2k27-is-very-intriguing-to-me.1592209/",
+    "published": "2026-07-31T14:58:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Look Familiar? Meet The KONKR Pocket Advance, AYANEO's New Game Boy Advance-Inspired Handheld",
+    "url": "https://www.timeextension.com/news/2026/07/look-familiar-meet-the-konkr-pocket-advance-ayaneos-new-game-boy-advance-inspired-handheld",
+    "published": "2026-07-31T16:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The Neo Geo Shmup 'Project Neon' Is Coming To Modern Consoles, Starting Today With Xbox Platforms",
+    "url": "https://www.timeextension.com/news/2026/07/the-neo-geo-shmup-project-neon-is-coming-to-modern-consoles-starting-today-with-xbox-platforms",
+    "published": "2026-07-31T13:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Love Etrian Odyssey, Wizardy, & Shin Megami Tensei? This New Dungeon RPG Could Be Right Up Your Street",
+    "url": "https://www.timeextension.com/news/2026/07/love-etrian-odyssey-wizardy-and-shin-megami-tensei-this-new-dungeon-rpg-could-be-right-up-your-street",
+    "published": "2026-07-31T12:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Hands On: Taki Udon's Console Mode Finally Gives MiSTer FPGA the Accessibility I've Always Craved",
+    "url": "https://www.timeextension.com/features/hands-on-taki-udons-console-mode-finally-gives-mister-fpga-the-accessibility-ive-always-craved",
+    "published": "2026-07-31T11:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "\"The Blood Drained From My Face\" - 97 Copies Of Never-Before-Seen Super Mario Bros. Variant Found In Wisconsin Retro Store",
+    "url": "https://www.timeextension.com/news/2026/07/the-blood-drained-from-my-face-97-copies-of-never-before-seen-super-mario-bros-variant-found-in-wisconsin-retro-store",
+    "published": "2026-07-31T10:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "8 Years After Its Original Release, Lumines Remastered Is Now Available On Android & iOS",
+    "url": "https://www.timeextension.com/news/2026/07/8-years-after-its-original-release-lumines-remastered-is-now-available-on-android-and-ios",
+    "published": "2026-07-31T09:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Zelda: Link To The Past Gets A Dual-Screen Port On 3DS, With Help From AI",
+    "url": "https://www.timeextension.com/news/2026/07/zelda-link-to-the-past-gets-a-dual-screen-port-on-3ds-with-help-from-ai",
+    "published": "2026-07-31T08:45:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Disney Shows Its Steam Deck Animatronic Controller In New Video",
+    "url": "https://steamdeckhq.com/news/disney-shows-steam-deck-animatronic-controller/",
+    "published": "2026-07-31T18:32:56+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Ace Combat 8 Doesn't Look Like It Will Run On Steam Deck At All",
+    "url": "https://steamdeckhq.com/news/ace-combat-8-doesnt-look-like-will-run-steam-deck/",
+    "published": "2026-07-31T17:33:24+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Xbox is (probably) not for sale | Opinion",
+    "url": "https://www.gamesindustry.biz/xbox-is-probably-not-for-sale-opinion",
+    "published": "2026-07-31T15:21:24+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "\"We will not live on past successes or be trapped by past failures\" \u2013 Xbox CEO outlines priorities to turn platform around in FY27",
+    "url": "https://www.gamesindustry.biz/we-will-not-live-on-past-successes-or-be-trapped-by-past-failures-xbox-ceo-outlines-priorities-to-turn-platform-around-in-fy27",
+    "published": "2026-07-31T13:40:23+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Unity announces dedicated engine support for Netflix Games",
+    "url": "https://www.gamesindustry.biz/unity-announces-dedicated-engine-for-netflix-games",
+    "published": "2026-07-31T12:59:19+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "PlayStation reports flat Q1 sales, says it's \"cautiously moving forward\" with halting physical disc production",
+    "url": "https://www.gamesindustry.biz/playstation-reports-flat-q1-sales-says-its-cautiously-moving-forward-with-halting-physical-disc-production",
+    "published": "2026-07-31T11:21:17+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "EA acquisition set to close on August 4 following approval from required regulatory bodies",
+    "url": "https://www.gamesindustry.biz/ea-acquisition-set-to-close-on-august-4-following-approval-from-required-regulatory-bodies",
+    "published": "2026-07-31T09:47:25+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Roblox Q2 revenue rises 36% to $1.5bn",
+    "url": "https://www.gamesindustry.biz/roblox-q2-revenue-rises-36-to-15bn",
+    "published": "2026-07-31T07:52:59+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "How do PC player demographics change at 50 hours vs. 30 minutes?",
+    "url": "https://newsletter.gamediscover.co/p/how-do-pc-player-demographics-change",
+    "published": "2026-07-31T19:21:58+00:00",
+    "feed_name": "GameDiscoverCo Newsletter",
+    "feed_tags": [
+      "indie-games",
+      "gaming-industry",
+      "game-discovery"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games with Native Linux Builds with Dodo Duckie and Tormentum II - 2026-07-29 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-07-29-edition/index.html",
+    "published": "2026-07-31T16:51:22+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "All the RPS Supporter rewards for July 2026: space battles, messy desks, and puzzling dreams",
+    "url": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-july-2026-space-battles-messy-desks-and-puzzling-dreams",
+    "published": "2026-07-31T17:31:36+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Massive Fallout: New Vegas mod Fallout: New California hits GOG, offering another way to get some \"proper, story-driven Fallout\" in your belly",
+    "url": "https://www.rockpapershotgun.com/massive-fallout-new-vegas-mod-fallout-new-california-hits-gog-offering-another-way-to-get-some-proper-story-driven-fallout-in-your-belly",
+    "published": "2026-07-31T16:12:02+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Nexus Mods update their generative AI-made mod tagging policy, dividing one label into three for more specific search filtering",
+    "url": "https://www.rockpapershotgun.com/nexus-mods-update-their-generative-ai-made-mod-tagging-policy-dividing-one-label-into-three-for-more-specific-search-filtering",
+    "published": "2026-07-31T15:18:18+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "20 years ago, Dead Rising showed a different path for open worlds, and more games should pinch its ideas",
+    "url": "https://www.rockpapershotgun.com/20-years-ago-dead-rising-showed-a-different-path-for-open-worlds-and-more-games-should-pinch-its-ideas",
+    "published": "2026-07-31T13:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "EA expect their $55 billion sale to Saudi Arabia and private equity firms to close next week, with \"all regulatory approvals required\" in place",
+    "url": "https://www.rockpapershotgun.com/ea-expect-their-55-billion-sale-to-saudi-arabia-and-private-equity-firms-to-close-next-week-with-all-regulatory-approvals-required-in-place",
+    "published": "2026-07-31T09:52:45+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "A former Assassin's Creed dev is making a ghost-hunting horror mystery based on visits to abandoned convents, in which your greatest weapon is a chunky instant camera",
+    "url": "https://www.rockpapershotgun.com/a-former-assassins-creed-dev-is-making-a-ghost-hunting-horror-mystery-based-on-visits-to-abandoned-convents-in-which-your-greatest-weapon-is-a-chunky-instant-camera",
+    "published": "2026-07-31T09:27:37+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "EA clears US regulatory approvals in take-private deal",
+    "url": "https://www.gamedeveloper.com/business/ea-says-all-regulatory-approvals-have-been-cleared-for-its-take-private-deal",
+    "published": "2026-07-31T19:06:37+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Xbox CEO declares priorities after 'reset'",
+    "url": "https://www.gamedeveloper.com/business/xbox-ceo-declares-priorities-after-reset-",
+    "published": "2026-07-31T15:45:42+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "GDC Side Quest - A Sit-Down With The Indomitable Sam Beart",
+    "url": "https://www.gamedeveloper.com/audio/gdc-side-quest-a-sit-down-with-the-indomitable-sam-beart",
+    "published": "2026-07-31T14:15:00+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Double Fine cuts staff, Xbox's revenue decline, and Leon Kennedy pays off - Patch Notes #63",
+    "url": "https://www.gamedeveloper.com/business/xbox-perpetual-hardware-revenue-decline-leon-kennedy-pays-off-and-double-fine-cuts-staff-patch-notes-63",
+    "published": "2026-07-31T13:00:00+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "These 8+ PS5, PS4 Games Will Be Delisted or Disabled in August 2026",
+    "url": "https://www.pushsquare.com/news/2026/07/these-8plus-ps5-ps4-games-will-be-delisted-or-disabled-in-august-2026",
+    "published": "2026-07-31T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Six Years of Genshin Impact Support Culminates in Next Month's Sequel-Sized PS5 Update",
+    "url": "https://www.pushsquare.com/news/2026/07/six-years-of-genshin-impact-support-culminates-in-next-months-sequel-sized-ps5-update",
+    "published": "2026-07-31T17:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Rumour: LEGO Astro Bot Sweetens the Deal on Leaked PS1 Set",
+    "url": "https://www.pushsquare.com/news/2026/07/rumour-lego-astro-bot-sweetens-the-deal-on-leaked-ps1-set",
+    "published": "2026-07-31T17:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Marvel Tokon's Energetic Launch Trailer Will Get You Hyped for the PS5, PC Fighter",
+    "url": "https://www.pushsquare.com/news/2026/07/marvel-tokons-energetic-launch-trailer-will-get-you-hyped-for-the-ps5-pc-fighter",
+    "published": "2026-07-31T16:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Guide: All PS Plus Games Available Now",
+    "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
+    "published": "2026-07-31T15:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A comprehensive guide tracking all current PS Plus subscription games across tiers and platforms with upcoming additions and expiry dates.",
+    "sources": []
+  },
+  {
+    "title": "Soulslike Enjoyers, the Open Beta for Action RPG Mortal Shell 2 Is Live Right Now on PS5",
+    "url": "https://www.pushsquare.com/news/2026/07/soulslike-enjoyers-the-open-beta-for-action-rpg-mortal-shell-2-is-live-right-now-on-ps5",
+    "published": "2026-07-31T14:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Tom Holland Loves The Last of Us 2 So Much He Won't Watch the HBO Series",
+    "url": "https://www.pushsquare.com/news/2026/07/tom-holland-loves-the-last-of-us-2-so-much-he-wont-watch-the-hbo-series",
+    "published": "2026-07-31T14:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "'We Are Not Seeing Any Impact on Our Business': Sony Says Physical Disc Backlash Is Having Zero Effect",
+    "url": "https://www.pushsquare.com/news/2026/07/we-are-not-seeing-any-impact-on-our-business-sony-says-physical-disc-backlash-is-having-zero-effect",
+    "published": "2026-07-31T13:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "PS5's Monthly Active Users Increased Again, PS Plus Making More Money Than Ever",
+    "url": "https://www.pushsquare.com/news/2026/07/ps5s-monthly-active-users-increased-again-ps-plus-making-more-money-than-ever",
+    "published": "2026-07-31T13:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Recovering Balatro Players Should Probably Stay Away from CloverPit, Coming to PS5 Next Month",
+    "url": "https://www.pushsquare.com/news/2026/07/recovering-balatro-players-should-probably-stay-away-from-cloverpit-coming-to-ps5-next-month",
+    "published": "2026-07-31T13:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Sony Has Secured Enough Memory to Meet PS5's Projected Sales Through March 2027",
+    "url": "https://www.pushsquare.com/news/2026/07/sony-has-secured-enough-memory-to-meet-ps5s-projected-sales-through-march-2027",
+    "published": "2026-07-31T12:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "PlayStation Expects Record Breaking Fiscal Year for PS5, Despite Economic Challenges",
+    "url": "https://www.pushsquare.com/news/2026/07/playstation-expects-record-breaking-fiscal-year-for-ps5-despite-economic-challenges",
+    "published": "2026-07-31T12:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "'I Feel Profoundly Disappointed': Stellar Blade Dev Destroyed for 'AI Slop' Music Video",
+    "url": "https://www.pushsquare.com/news/2026/07/i-feel-profoundly-disappointed-stellar-blade-dev-destroyed-for-ai-slop-music-video",
+    "published": "2026-07-31T11:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "You Can Now Play One of PSP's Best Games on Mobile",
+    "url": "https://www.pushsquare.com/news/2026/07/you-can-now-play-one-of-psps-best-games-on-mobile",
+    "published": "2026-07-31T11:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Sony Knows How You Feel About No More Discs, But It's Not Going to Reverse Course",
+    "url": "https://www.pushsquare.com/news/2026/07/sony-knows-how-you-feel-about-no-more-discs-but-its-not-going-to-reverse-course",
+    "published": "2026-07-31T10:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "PS5 Crawls Past 95 Million Units, Sales Down 36% Year-on-Year",
+    "url": "https://www.pushsquare.com/news/2026/07/ps5-crawls-past-95-million-units-sales-down-36percent-year-on-year",
+    "published": "2026-07-31T09:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  }
+]
