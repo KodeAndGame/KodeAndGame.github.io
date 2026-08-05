@@ -1,0 +1,1403 @@
+[
+  {
+    "title": "NVIDIA now supporting the Linux Vendor Firmware Service (LVFS) as a premier sponsor",
+    "url": "https://www.gamingonlinux.com/2026/08/nvidia-now-supporting-the-linux-vendor-firmware-service-lvfs-as-a-premier-sponsor/",
+    "published": "2026-08-04T16:28:19+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Settlement building co-op action-adventure Necesse 'Rust & Romance' update is a big one",
+    "url": "https://www.gamingonlinux.com/2026/08/settlement-building-co-op-action-adventure-necesse-rust-romance-update-is-a-big-one/",
+    "published": "2026-08-04T15:47:31+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Lighthouse, the Harbour Masters PC port of Banjo Kazooie is out now",
+    "url": "https://www.gamingonlinux.com/2026/08/lighthouse-the-harbour-masters-pc-port-of-banjo-kazooie-is-out-now/",
+    "published": "2026-08-04T15:37:47+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Gears of War: E-Day gets a multiplayer deep dive and open Beta details",
+    "url": "https://www.gamingonlinux.com/2026/08/gears-of-war-e-day-gets-a-multiplayer-deep-dive-and-open-beta-details/",
+    "published": "2026-08-04T09:22:42+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Wordless prehistoric sci-fi adventure Theropods launches August 20",
+    "url": "https://www.gamingonlinux.com/2026/08/wordless-prehistoric-sci-fi-adventure-theropods-launches-august-20/",
+    "published": "2026-08-04T08:29:23+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Monster Hunter Wilds sees a permanent price drop",
+    "url": "https://www.gamingonlinux.com/2026/08/monster-hunter-wilds-sees-a-permanent-price-drop/",
+    "published": "2026-08-04T08:21:05+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Denuvo DRM has been removed from Atomic Heart",
+    "url": "https://www.gamingonlinux.com/2026/08/denuvo-drm-has-been-removed-from-atomic-heart/",
+    "published": "2026-08-04T08:11:52+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "AMD Posts Proposal & Linux Patches For eSPI Subsystem",
+    "url": "https://www.phoronix.com/news/AMD-eSPI-Linux-Patches",
+    "published": "2026-08-05T00:33:08+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "AMD openSIL & Coreboot Pull Requests For Phoenix AM5 Support",
+    "url": "https://www.phoronix.com/news/AMD-openSIL-Phoenix-AM5-PR",
+    "published": "2026-08-04T14:07:29+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "NVIDIA Becomes A Premier Sponsor Of LVFS / Fwupd",
+    "url": "https://www.phoronix.com/news/NVIDIA-Premier-Sponsor-LVFS",
+    "published": "2026-08-04T13:43:44+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux Foundation Announces Tokenomics Foundation For \"Economics & ROI Of AI Value\"",
+    "url": "https://www.phoronix.com/news/Linux-Foundation-Tokenomics",
+    "published": "2026-08-04T12:14:14+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux's Staging Area To Now Reject LLM-Generated Patches, Except For Real Security Fixes",
+    "url": "https://www.phoronix.com/news/Linux-Staging-Reject-LLMs",
+    "published": "2026-08-04T10:29:29+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Wild Linker 0.10 Released With GDB Index Support, Mitigation For Btrfs Performance",
+    "url": "https://www.phoronix.com/news/Wild-Linker-0.10",
+    "published": "2026-08-04T10:14:21+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 To Fix MSI Claw M-Center Keys For Ryzen Z2 Extreme Powered Handheld",
+    "url": "https://www.phoronix.com/news/Linux-7.3-MSI-Claw-M-Center-Key",
+    "published": "2026-08-04T09:57:59+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Family of Deceased Son Demands Inheritance of Gaming Accounts,  Court Rules Company Must Cooperate",
+    "url": "https://www.resetera.com/threads/family-of-deceased-son-demands-inheritance-of-gaming-accounts-court-rules-company-must-cooperate.1595569/",
+    "published": "2026-08-05T02:08:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Do yourselves a favor: play Dragon Hopper.",
+    "url": "https://www.resetera.com/threads/do-yourselves-a-favor-play-dragon-hopper.1595566/",
+    "published": "2026-08-05T01:53:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Alinea: July\u2019s top PlayStation games by copies: BLOPS #1/#2 (8.2M+3M), Black Flag #3 (1.6M), EA CFB27 #5 (1.1M), Palworld #8 (479k), Halo CE #9 (351k)",
+    "url": "https://www.resetera.com/threads/alinea-july%E2%80%99s-top-playstation-games-by-copies-blops-1-2-8-2m-3m-black-flag-3-1-6m-ea-cfb27-5-1-1m-palworld-8-479k-halo-ce-9-351k.1595548/",
+    "published": "2026-08-05T01:10:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Pok\u00e9mon x Adidas 30th Anniversary Footwear Collection is releasing September 2026",
+    "url": "https://www.resetera.com/threads/pok%C3%A9mon-x-adidas-30th-anniversary-footwear-collection-is-releasing-september-2026.1595512/",
+    "published": "2026-08-04T23:44:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Rust Fan Sues Police After Swatting Incident Leaves Him Paralyzed",
+    "url": "https://www.resetera.com/threads/rust-fan-sues-police-after-swatting-incident-leaves-him-paralyzed.1595506/",
+    "published": "2026-08-04T23:17:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "EA is now a private company as $55 billion deal closes",
+    "url": "https://www.resetera.com/threads/ea-is-now-a-private-company-as-55-billion-deal-closes.1595404/",
+    "published": "2026-08-04T20:45:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Kynseed - a beautiful life sim made by creators of the Fable series | console release",
+    "url": "https://www.resetera.com/threads/kynseed-a-beautiful-life-sim-made-by-creators-of-the-fable-series-console-release.1595401/",
+    "published": "2026-08-04T20:40:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "My 43 Year Backlog",
+    "url": "https://www.resetera.com/threads/my-43-year-backlog.1595374/",
+    "published": "2026-08-04T20:06:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Capcom Confirms That Onimusha Way Of The Sword Will Be A \"Wide-Linear\" Game",
+    "url": "https://www.resetera.com/threads/capcom-confirms-that-onimusha-way-of-the-sword-will-be-a-wide-linear-game.1595347/",
+    "published": "2026-08-04T19:30:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Humble Choice August 2026: LaD: Infinite Wealth, Dead Cells + DLC, TMNT: Shredder's Revenge Ultimate Edition, more",
+    "url": "https://www.resetera.com/threads/humble-choice-august-2026-lad-infinite-wealth-dead-cells-dlc-tmnt-shredders-revenge-ultimate-edition-more.1595314/",
+    "published": "2026-08-04T19:15:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Whats your favorite game to watch?",
+    "url": "https://www.resetera.com/threads/whats-your-favorite-game-to-watch.1595302/",
+    "published": "2026-08-04T18:54:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Genigods: Nezha Heroine Model to Be Redesigned Following Player Feedback",
+    "url": "https://www.resetera.com/threads/genigods-nezha-heroine-model-to-be-redesigned-following-player-feedback.1595203/",
+    "published": "2026-08-04T17:55:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Classic Playstation Racers That Need Resurrecting On PS5/PS6.....",
+    "url": "https://www.resetera.com/threads/classic-playstation-racers-that-need-resurrecting-on-ps5-ps6.1595176/",
+    "published": "2026-08-04T17:32:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Do you think modern Capcom will ever make beat'em ups or other side scrollers again?",
+    "url": "https://www.resetera.com/threads/do-you-think-modern-capcom-will-ever-make-beatem-ups-or-other-side-scrollers-again.1595134/",
+    "published": "2026-08-04T17:19:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Marvel Rivals: The Hood Gameplay Trailer",
+    "url": "https://www.resetera.com/threads/marvel-rivals-the-hood-gameplay-trailer.1595062/",
+    "published": "2026-08-04T16:01:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Tomb Raider Prime Video show finishes filming by end of summer. Estimated release in 2027",
+    "url": "https://www.resetera.com/threads/tomb-raider-prime-video-show-finishes-filming-by-end-of-summer-estimated-release-in-2027.1595032/",
+    "published": "2026-08-04T15:49:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Exclusive: LotRO's The Wolves of Mordor Expansion Brings Two Ambitious New Systems To Middle-earth This Fall",
+    "url": "https://www.resetera.com/threads/exclusive-lotros-the-wolves-of-mordor-expansion-brings-two-ambitious-new-systems-to-middle-earth-this-fall.1595026/",
+    "published": "2026-08-04T15:42:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What is your single biggest personal regret within this video game hobby?",
+    "url": "https://www.resetera.com/threads/what-is-your-single-biggest-personal-regret-within-this-video-game-hobby.1595017/",
+    "published": "2026-08-04T15:30:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "gaming publisher idea: Publisher that specializes in new games for retro systems",
+    "url": "https://www.resetera.com/threads/gaming-publisher-idea-publisher-that-specializes-in-new-games-for-retro-systems.1594972/",
+    "published": "2026-08-04T15:05:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Nintendo Music adds 10 preview tracks for Fire Emblem Fortune\u2019s Weave",
+    "url": "https://www.resetera.com/threads/nintendo-music-adds-10-preview-tracks-for-fire-emblem-fortune%E2%80%99s-weave.1594939/",
+    "published": "2026-08-04T14:34:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "(Trope) What games have the best prison sequence or prison chapter?",
+    "url": "https://www.resetera.com/threads/trope-what-games-have-the-best-prison-sequence-or-prison-chapter.1594912/",
+    "published": "2026-08-04T13:54:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "[Polygon] After Spider-Man: Brand New Day, everyone's playing the PS5 games again",
+    "url": "https://www.resetera.com/threads/polygon-after-spider-man-brand-new-day-everyones-playing-the-ps5-games-again.1594855/",
+    "published": "2026-08-04T13:19:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Is anybody else's gaming RNG luck bad? Like........statistical improbability bad?",
+    "url": "https://www.resetera.com/threads/is-anybody-elses-gaming-rng-luck-bad-like-statistical-improbability-bad.1594852/",
+    "published": "2026-08-04T13:14:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Retro Rewind (VHS rental shop sim) adding game rentals this Fall",
+    "url": "https://www.resetera.com/threads/retro-rewind-vhs-rental-shop-sim-adding-game-rentals-this-fall.1594849/",
+    "published": "2026-08-04T13:09:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Do you think that when a game is cross-gen, it makes the previous-generation version even worse?",
+    "url": "https://www.resetera.com/threads/do-you-think-that-when-a-game-is-cross-gen-it-makes-the-previous-generation-version-even-worse.1594840/",
+    "published": "2026-08-04T13:01:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "New \"final\" beta of Pokemon Reloaded - a story-driven fangame with real time Pokemon battles combat just released!",
+    "url": "https://www.resetera.com/threads/new-final-beta-of-pokemon-reloaded-a-story-driven-fangame-with-real-time-pokemon-battles-combat-just-released.1594834/",
+    "published": "2026-08-04T12:55:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "If only one more X-Men character was added to Marvel Tokon, who should it be?",
+    "url": "https://www.resetera.com/threads/if-only-one-more-x-men-character-was-added-to-marvel-tokon-who-should-it-be.1594816/",
+    "published": "2026-08-04T12:43:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Swimming In 7s | What's your favorite 7/10 game of all time?",
+    "url": "https://www.resetera.com/threads/swimming-in-7s-whats-your-favorite-7-10-game-of-all-time.1594813/",
+    "published": "2026-08-04T12:34:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Isowulf - experience Wolfenstein 3D as isometric top-down shooter",
+    "url": "https://www.resetera.com/threads/isowulf-experience-wolfenstein-3d-as-isometric-top-down-shooter.1594720/",
+    "published": "2026-08-04T09:57:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "You land in 2001 and tell then gamers what the game industry looks like 25 years later. What would they think you\u2019re making up?",
+    "url": "https://www.resetera.com/threads/you-land-in-2001-and-tell-then-gamers-what-the-game-industry-looks-like-25-years-later-what-would-they-think-you%E2%80%99re-making-up.1594636/",
+    "published": "2026-08-04T07:52:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Feature: As Physical Media Rides Off Into The Sunset, MiSTer FPGA Is Helping Me Value My Collection More Than Ever",
+    "url": "https://www.timeextension.com/features/as-physical-media-rides-off-into-the-sunset-mister-fpga-is-helping-me-value-my-collection-more-than-ever",
+    "published": "2026-08-04T16:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "\"The Alliance Is Counting On You\" - Support For Star Wars Rebel Assault I & II Is Coming To ScummVM",
+    "url": "https://www.timeextension.com/news/2026/08/the-alliance-is-counting-on-you-support-for-star-wars-rebel-assault-i-and-ii-is-coming-to-scummvm",
+    "published": "2026-08-04T15:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Compile's Spriggan Mark 2: Re-Terraform Project Has Been Translated Into English",
+    "url": "https://www.timeextension.com/news/2026/08/compiles-spriggan-mark-2-re-terraform-project-has-been-translated-into-english",
+    "published": "2026-08-04T14:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "\"The Circle Is Closing\" - Duo Of Deals Establishes A \"Clear Framework For Commodore And Amiga\"",
+    "url": "https://www.timeextension.com/news/2026/08/the-circle-is-closing-duo-of-deals-establishes-a-clear-framework-for-commodore-and-amiga",
+    "published": "2026-08-04T13:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Here's Why LucasArts Couldn't Call Their Game Star Wars Episode 1: Podracer",
+    "url": "https://www.timeextension.com/news/2026/08/heres-why-lucasarts-couldnt-call-their-game-star-wars-episode-1-podracer",
+    "published": "2026-08-04T12:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "\"I'd Rather Disappoint Some People\" - Dev Behind Tool That \"Ports\" Game Boy Games To GBA Pivots To AI",
+    "url": "https://www.timeextension.com/news/2026/08/id-rather-disappoint-some-people-dev-behind-tool-that-ports-game-boy-games-to-gba-pivots-to-ai",
+    "published": "2026-08-04T11:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "This New Patch Lets You Play Chunsoft's Landmark Super Famicom Sound Novel 'Kamaitachi no Yoru' In English",
+    "url": "https://www.timeextension.com/news/2026/08/this-new-patch-lets-you-play-chunsofts-landmark-super-famicom-sound-novel-kamaitachi-no-yoru-in-english",
+    "published": "2026-08-04T10:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "\"This Endeavour To Save One Game Cost Me Well Over $900 dollars\" - A Missing Final Fantasy VII Mobile Game Has Just Been Preserved",
+    "url": "https://www.timeextension.com/news/2026/08/this-endeavour-to-save-one-game-cost-me-well-over-usd900-dollars-a-missing-final-fantasy-vii-mobile-game-has-just-been-preserved",
+    "published": "2026-08-04T09:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "PSA: New BIOS Update Reportedly Bricking Lenovo Legion Go Devices",
+    "url": "https://steamdeckhq.com/news/lenovo-legion-go-bios-bricking/",
+    "published": "2026-08-04T18:52:28+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Humble's August 2026 Choice Bundle Includes Like a Dragon: Infinite Wealth and Dead Cells",
+    "url": "https://steamdeckhq.com/news/humble-august-2026-choice-bundle-steam-deck/",
+    "published": "2026-08-04T17:40:08+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The Deck de France App lets you Control Your Steam Deck with your Bike Trainer",
+    "url": "https://steamdeckhq.com/news/control-steam-deck-with-exercise-bike/",
+    "published": "2026-08-04T16:30:49+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Focus Removes Denuvo DRM From Atomic Heart",
+    "url": "https://steamdeckhq.com/news/focus-removes-denuvo-drm-from-atomic-heart/",
+    "published": "2026-08-04T15:12:08+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Steam Deck Client Update Fixes Local Network Game Transfers Further",
+    "url": "https://steamdeckhq.com/news/steam-deck-client-update-local-game-transfers-further/",
+    "published": "2026-08-04T12:32:13+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The Stable Release of Bazzite Deck 44 is Coming",
+    "url": "https://overkill.wtf/notes/bazzite-deck-44-is-coming-soon",
+    "published": "2026-08-04T12:45:00+00:00",
+    "feed_name": "overkill Media",
+    "feed_tags": [
+      "steam-deck",
+      "linux-gaming"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The Courage to be Happy by Ichiro Kishimi",
+    "url": "https://overkill.wtf/reading/the-courage-to-be-happy-ichiro-kishimi",
+    "published": "2026-08-02T22:00:00+00:00",
+    "feed_name": "overkill Media",
+    "feed_tags": [
+      "steam-deck",
+      "linux-gaming"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "PlayStation\u2019s big tariff refund",
+    "url": "https://www.gamefile.news/p/playstations-big-tariff-refund",
+    "published": "2026-08-04T21:47:18+00:00",
+    "feed_name": "Game File",
+    "feed_tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Secret Mode opens new Sheffield studio to support internal titles, starting with Escape the Backrooms and Chained Together",
+    "url": "https://www.gamesindustry.biz/secret-mode-opens-new-sheffield-studio-to-support-internal-titles-starting-with-escape-the-backrooms-and-chained-together",
+    "published": "2026-08-05T05:00:00+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Ex-Sumo Group CEO Carl Cavers joins co-dev studio Vertpaint as non-exec director and shareholder",
+    "url": "https://www.gamesindustry.biz/ex-sumo-group-ceo-carl-cavers-joins-co-dev-studio-vertpaint-as-non-exec-director-and-shareholder",
+    "published": "2026-08-04T12:15:35+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "FirstLook launches creator-first platform Creators.gg with launch partners IO Interactive and Brain Jar Games",
+    "url": "https://www.gamesindustry.biz/firstlook-launches-creator-first-platform-creatorsgg-with-launch-partners-io-interactive-and-brain-jar-games",
+    "published": "2026-08-04T12:00:00+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The industry makes great games, but nobody can find them",
+    "url": "https://www.gamesindustry.biz/the-industry-makes-great-games-but-nobody-can-find-them",
+    "published": "2026-08-04T11:00:00+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Roblox's reported user numbers will make it subject to additional EU legislation for regulating social networks",
+    "url": "https://www.gamesindustry.biz/robloxs-reported-user-numbers-will-make-it-subject-to-additional-eu-legislation-for-regulating-social-networks",
+    "published": "2026-08-04T09:47:52+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Splatterworld: Rick to Kyoufu no Daiou",
+    "url": "https://www.hardcoregaming101.net/splatterworld-rick-to-kyoufu-no-daiou/",
+    "published": "2026-08-04T19:57:47+00:00",
+    "feed_name": "Hardcore Gaming 101",
+    "feed_tags": [
+      "retro",
+      "gaming-history"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "July 2026's top new PC & console games, revealed...",
+    "url": "https://newsletter.gamediscover.co/p/july-2026s-top-new-pc-and-console",
+    "published": "2026-08-04T18:59:53+00:00",
+    "feed_name": "GameDiscoverCo Newsletter",
+    "feed_tags": [
+      "indie-games",
+      "gaming-industry",
+      "game-discovery"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "EA have gone private, as Saudi Arabia and Jared Kushner's investment groups complete their $55 billion acquisition",
+    "url": "https://www.rockpapershotgun.com/ea-have-gone-private-as-saudi-arabia-and-jared-kushners-investment-groups-complete-their-55-billion-acquisition",
+    "published": "2026-08-04T21:56:53+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Almost 10,000 people have played Baldur's Gate 3 in a portrait aspect ratio, so join me in figuring out why they'd commit such sacrilege",
+    "url": "https://www.rockpapershotgun.com/almost-10000-people-have-played-baldurs-gate-3-in-a-portrait-aspect-ratio-so-join-me-in-figuring-out-why-theyd-commit-such-sacrilege",
+    "published": "2026-08-04T20:31:26+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The demo for 500 FINGER FILLET taught me that none of you should let me anywhere near a kitchen knife, also can someone call a doctor",
+    "url": "https://www.rockpapershotgun.com/the-demo-for-500-finger-fillet-taught-me-that-none-of-you-should-let-me-anywhere-near-a-kitchen-knife-also-can-someone-call-a-doctor",
+    "published": "2026-08-04T18:12:32+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "This Game Costs 200 Dollars is a game that really does cost $200, doesn't look very good, and almost made its dev $1.3 million",
+    "url": "https://www.rockpapershotgun.com/this-game-costs-200-dollars-is-a-game-that-really-does-cost-200-doesnt-look-very-good-and-almost-made-its-dev-13-million",
+    "published": "2026-08-04T17:15:52+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Sci-fi MMO Cinder City is getting a pre-alpha playtest later this month so you can put its RAM hogging requirements to the test",
+    "url": "https://www.rockpapershotgun.com/sci-fi-mmo-cinder-city-is-getting-a-pre-alpha-playtest-later-this-month-so-you-can-put-its-ram-hogging-requirements-to-the-test",
+    "published": "2026-08-04T16:23:04+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Is 8GB VRAM enough for a graphics card in 2026? Yes, but GPU makers should still try harder",
+    "url": "https://www.rockpapershotgun.com/is-8gb-vram-enough-for-a-graphics-card-in-2026-yes-but-gpu-makers-should-still-try-harder",
+    "published": "2026-08-04T15:07:03+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "13th century Mongolian courier sim The Legend of Khiimori becomes a battle against supernatural \"poison of the earth spirit\" with its Corruption Update",
+    "url": "https://www.rockpapershotgun.com/13th-century-mongolian-courier-sim-the-legend-of-khiimori-becomes-a-battle-against-supernatural-poison-of-the-earth-spirit-with-its-corruption-update",
+    "published": "2026-08-04T14:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Hooded Horse's watery 4X sequel Endless Legend 2 gets a 1.0 launch date and a new faction of terraforming desert dwellers",
+    "url": "https://www.rockpapershotgun.com/hooded-horses-watery-4x-sequel-endless-legend-2-gets-a-10-launch-date-and-a-new-faction-of-terraforming-desert-dwellers",
+    "published": "2026-08-04T13:00:23+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Assassins Creed Black Flag Resynced's Kraken wheel will no longer be \"wheely expensive\" following the latest update, which will also teach you how to throw cash",
+    "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynceds-kraken-wheel-will-no-longer-be-wheely-expensive-following-the-latest-update-which-will-also-teach-you-how-to-throw-cash",
+    "published": "2026-08-04T10:48:04+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Microsoft will let devs bring more Xbox 360 games to PC in the coming years via backwards compatibility, leaked document suggests",
+    "url": "https://www.rockpapershotgun.com/microsoft-will-let-devs-bring-more-xbox-360-games-to-pc-in-the-coming-years-via-backwards-compatibility-leaked-document-suggests",
+    "published": "2026-08-04T09:27:51+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "EA is now owned by Saudi Arabia and Donald Trump's son-in-law",
+    "url": "https://www.gamedeveloper.com/business/ea-is-now-owned-by-saudi-arabia-and-donald-trump-s-son-in-law",
+    "published": "2026-08-04T20:25:02+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Devs raise $130,000 in just five days to support laid-off peers",
+    "url": "https://www.gamedeveloper.com/business/the-game-industry-hardship-fund-bundle-surpasses-130-000",
+    "published": "2026-08-04T18:30:00+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Amid child safety lawsuits, Roblox says it 'continues' to push toward a standard for digital safety",
+    "url": "https://www.gamedeveloper.com/business/amid-child-safety-lawsuits-roblox-says-it-continues-to-set-a-standard-for-digital-safety",
+    "published": "2026-08-04T17:24:10+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Update: Tencent-owned Lightspeed LA lays off 68 staff",
+    "url": "https://www.gamedeveloper.com/business/tencent-owned-lightspeed-la-is-laying-off-staff",
+    "published": "2026-08-04T14:22:00+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 0,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Live service revenue dominates in EA's last fiscal report ahead of Saudi deal",
+    "url": "https://www.gamedeveloper.com/business/live-service-revenue-dominates-in-ea-s-last-fiscal-report-ahead-of-saudi-merger",
+    "published": "2026-08-04T10:34:49+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The Power of Motherhood Amid Chaos \u2013 1998: The Toll Keeper Story",
+    "url": "https://blog.playstation.com/2026/08/04/20260805-toll/",
+    "published": "2026-08-05T03:53:23+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Crimson Moon battles demonic corruption on September 1",
+    "url": "https://blog.playstation.com/2026/08/04/crimson-moon-battles-demonic-corruption-on-september-1/",
+    "published": "2026-08-04T16:00:48+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Gameplay first look \u2013 Mafia: The Old Country\u2019s Man of Honor expansion",
+    "url": "https://blog.playstation.com/2026/08/04/gameplay-first-look-mafia-the-old-countrys-man-of-honor-expansion/",
+    "published": "2026-08-04T15:00:49+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "'We're Entering This Next Chapter from a Position of Strength': EA Completes $55 Billion Buyout",
+    "url": "https://www.pushsquare.com/news/2026/08/were-entering-this-next-chapter-from-a-position-of-strength-ea-completes-usd55-billion-buyout",
+    "published": "2026-08-04T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Retro Beat-'Em-Up Bros, This PS5 Brawler Based on The Walking Dead Looks All Right",
+    "url": "https://www.pushsquare.com/news/2026/08/retro-beat-em-up-bros-this-ps5-brawler-based-on-the-walking-dead-looks-all-right",
+    "published": "2026-08-04T17:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Announced for PS5 at State of Play, Gothic Action RPG Crimson Moon Finally Has a Release Date",
+    "url": "https://www.pushsquare.com/news/2026/08/announced-for-ps5-at-state-of-play-gothic-action-rpg-crimson-moon-finally-has-a-release-date",
+    "published": "2026-08-04T17:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Reminder: The PS5 Release Schedule Is About to Become the Busiest It's Ever Been",
+    "url": "https://www.pushsquare.com/news/2026/08/reminder-the-ps5-release-schedule-is-about-to-become-the-busiest-its-ever-been",
+    "published": "2026-08-04T16:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "This Year's EA Sports FC Is Definitely Different, and I'm Eager to See How It's Received",
+    "url": "https://www.pushsquare.com/news/2026/08/this-years-ea-sports-fc-is-definitely-different-and-im-eager-to-see-how-its-received",
+    "published": "2026-08-04T16:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Mafia: The Old Country's PS5 DLC Will Expand on Sicily's Scope",
+    "url": "https://www.pushsquare.com/news/2026/08/mafia-the-old-countrys-ps5-dlc-will-expand-on-sicilys-scope",
+    "published": "2026-08-04T15:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Hot Wheels: Infinite Rush Highlights Its Open World Islands in New PS5 Gameplay Trailer",
+    "url": "https://www.pushsquare.com/news/2026/08/hot-wheels-infinite-rush-highlights-its-open-world-islands-in-new-ps5-gameplay-trailer",
+    "published": "2026-08-04T15:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "As Trails in the Sky 2nd Chapter Looms, Falcom Boss Explains One of the Craziest Cliffhangers in Gaming",
+    "url": "https://www.pushsquare.com/news/2026/08/as-trails-in-the-sky-2nd-chapter-looms-falcom-boss-explains-one-of-the-craziest-cliffhangers-in-gaming",
+    "published": "2026-08-04T14:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "This Famicom Era Shooter, Coming to PS5, Looks Like It Totally Slaps",
+    "url": "https://www.pushsquare.com/news/2026/08/this-famicom-era-shooter-coming-to-ps5-looks-like-it-totally-slaps",
+    "published": "2026-08-04T13:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Rumours of an Unannounced Elder Scrolls Game Have Been Debunked",
+    "url": "https://www.pushsquare.com/news/2026/08/rumours-of-an-unannounced-elder-scrolls-game-have-been-debunked",
+    "published": "2026-08-04T13:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "If You Missed Them, Marvel's Wolverine, God of War Laufey's Comic-Con Panels Are Now Online",
+    "url": "https://www.pushsquare.com/news/2026/08/if-you-missed-them-marvels-wolverine-god-of-war-laufeys-comic-con-panels-are-now-online",
+    "published": "2026-08-04T11:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Feature: 70+ PS5, PS4 Games to Buy in PS Store's Refreshed Summer Sale",
+    "url": "https://www.pushsquare.com/features/70plus-ps5-ps4-games-to-buy-in-ps-stores-refreshed-summer-sale",
+    "published": "2026-08-04T09:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "August 2026 PS Plus Essential Games Available to Download Now",
+    "url": "https://www.pushsquare.com/news/2026/08/august-2026-ps-plus-essential-games-available-to-download-now",
+    "published": "2026-08-04T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  }
+]
