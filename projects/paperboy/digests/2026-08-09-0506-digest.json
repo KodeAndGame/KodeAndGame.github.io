@@ -1,0 +1,800 @@
+[
+  {
+    "title": "Proton Experimental gets fixes for Far Cry 5, Nightingale, Lords of The Fallen, various Command & Conquer games",
+    "url": "https://www.gamingonlinux.com/2026/08/proton-experimental-gets-fixes-for-far-cry-5-nightingale-lords-of-the-fallen-various-command-conquer-games/",
+    "published": "2026-08-08T14:15:36+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Wine 11.15 brings improvements for Wayland, more format conversions in WindowsCodecs",
+    "url": "https://www.gamingonlinux.com/2026/08/wine-11-15-brings-improvements-for-wayland-more-format-conversions-in-windowscodecs/",
+    "published": "2026-08-08T14:06:15+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "SteamOS 3.8.25 Beta has firmware updates for Steam Machine, wider handheld support, Steam Frame Wireless Adapter support",
+    "url": "https://www.gamingonlinux.com/2026/08/steamos-3-8-25-beta-has-firmware-updates-for-steam-machine-wider-handheld-support-steam-frame-wireless-adapter-support/",
+    "published": "2026-08-08T09:23:45+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "New Linux Patches Enable ASUS ROG Ryujin III Monitoring Support",
+    "url": "https://www.phoronix.com/news/ASUS-ROG-Ryujin-3-Linux",
+    "published": "2026-08-09T00:47:46+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 To Better Handle Cluster Load Balancing On Intel Hybrid CPUs",
+    "url": "https://www.phoronix.com/news/Linux-7.3-Better-Intel-Hybrid",
+    "published": "2026-08-08T17:27:05+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Polychromatic 0.9.8 Released With Razer Blade 16 2023 Support",
+    "url": "https://www.phoronix.com/news/Polychromatic-0.9.8-Released",
+    "published": "2026-08-08T16:33:43+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Wine 11.15 Released With Wayland Fixes, Fix For A 20 Year Old MSXML3 Bug",
+    "url": "https://www.phoronix.com/news/Wine-11.15-Released",
+    "published": "2026-08-08T13:42:07+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "GNOME Receiving Additional Design Help Thanks To Sovereign Tech Agency Fellowship",
+    "url": "https://www.phoronix.com/news/GNOME-Design-Fellowship",
+    "published": "2026-08-08T11:20:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "HWMON Fixes For Linux 7.2-rc7: \"Most Of Them Fixing Critical Or High Severity Bugs\"",
+    "url": "https://www.phoronix.com/news/Linux-7.2-rc7-HWMON",
+    "published": "2026-08-08T10:55:33+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "AI Helped Create A DirectX 11 Driver For QEMU VMs",
+    "url": "https://www.phoronix.com/news/Triton-DirectX-11-QEMU-Driver",
+    "published": "2026-08-08T10:40:14+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.2-rc7 Adding Support For The Most Unique Or Very Funky Gaming Controller",
+    "url": "https://www.phoronix.com/news/Linux-7.2-rc7-Input-Changes",
+    "published": "2026-08-08T10:25:56+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "BOTW VR mod available now (Wii U copy + CEMU emulator required), bonus MK8 VR mod teased in trailer",
+    "url": "https://www.resetera.com/threads/botw-vr-mod-available-now-wii-u-copy-cemu-emulator-required-bonus-mk8-vr-mod-teased-in-trailer.1599103/",
+    "published": "2026-08-09T05:00:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "A thread about Ganon/Dorf's Possible Inspirations from other media",
+    "url": "https://www.resetera.com/threads/a-thread-about-ganon-dorfs-possible-inspirations-from-other-media.1599091/",
+    "published": "2026-08-09T04:21:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What do you think the OoT Remake box art will be?",
+    "url": "https://www.resetera.com/threads/what-do-you-think-the-oot-remake-box-art-will-be.1599079/",
+    "published": "2026-08-09T02:58:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Fanmade Donkey Kong Land remake released on PC",
+    "url": "https://www.resetera.com/threads/fanmade-donkey-kong-land-remake-released-on-pc.1599076/",
+    "published": "2026-08-09T02:35:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "RTTP: Donkey Kong 64",
+    "url": "https://www.resetera.com/threads/rttp-donkey-kong-64.1599070/",
+    "published": "2026-08-09T02:14:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Marvel Tokon: Fighting Souls review thread",
+    "url": "https://www.resetera.com/threads/marvel-tokon-fighting-souls-review-thread.1599067/",
+    "published": "2026-08-09T02:11:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Ironically, Echoes of Wisdom Gave Us The Best Controlling Link That I'm Looking Forward to Playing As in the Next 2D Zelda",
+    "url": "https://www.resetera.com/threads/ironically-echoes-of-wisdom-gave-us-the-best-controlling-link-that-im-looking-forward-to-playing-as-in-the-next-2d-zelda.1599052/",
+    "published": "2026-08-09T01:13:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Connie and the Essence of Chaos (Rayman-inspired platformer by the creator of Rayman Redemption) is out now on PC",
+    "url": "https://www.resetera.com/threads/connie-and-the-essence-of-chaos-rayman-inspired-platformer-by-the-creator-of-rayman-redemption-is-out-now-on-pc.1599046/",
+    "published": "2026-08-09T00:33:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "1 company, 1 choice or change. How does gaming change?",
+    "url": "https://www.resetera.com/threads/1-company-1-choice-or-change-how-does-gaming-change.1599043/",
+    "published": "2026-08-09T00:32:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "LTTP - Ni No Kuni - Or are they kidding me with this battle system/encounter rate?",
+    "url": "https://www.resetera.com/threads/lttp-ni-no-kuni-or-are-they-kidding-me-with-this-battle-system-encounter-rate.1599037/",
+    "published": "2026-08-08T23:59:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Stage Tour Pre-Release Updates thread",
+    "url": "https://www.resetera.com/threads/stage-tour-pre-release-updates-thread.1599016/",
+    "published": "2026-08-08T23:12:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Steel Maiden- You got anime on my One Finger Death Punch!",
+    "url": "https://www.resetera.com/threads/steel-maiden-you-got-anime-on-my-one-finger-death-punch.1599007/",
+    "published": "2026-08-08T22:58:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Replaying Gotham Arkham City, and why is there no Batman game this gen?",
+    "url": "https://www.resetera.com/threads/replaying-gotham-arkham-city-and-why-is-there-no-batman-game-this-gen.1598983/",
+    "published": "2026-08-08T21:28:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Any autobattler fans in here? Any recommendations for a genre newbie?",
+    "url": "https://www.resetera.com/threads/any-autobattler-fans-in-here-any-recommendations-for-a-genre-newbie.1598965/",
+    "published": "2026-08-08T21:19:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Do you think Nintendo is some form will still be around 100 years from now?",
+    "url": "https://www.resetera.com/threads/do-you-think-nintendo-is-some-form-will-still-be-around-100-years-from-now.1598941/",
+    "published": "2026-08-08T19:48:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "I started up an old laptop and the default resolution was 1366 x 768 and I shivered",
+    "url": "https://www.resetera.com/threads/i-started-up-an-old-laptop-and-the-default-resolution-was-1366-x-768-and-i-shivered.1598914/",
+    "published": "2026-08-08T19:02:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "DidYouKnowGaming hits new low: \"Did Nintendo Kill Gunpei Yokoi? What really happened\" (answer: no, they did not)",
+    "url": "https://www.resetera.com/threads/didyouknowgaming-hits-new-low-did-nintendo-kill-gunpei-yokoi-what-really-happened-answer-no-they-did-not.1598893/",
+    "published": "2026-08-08T18:29:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Given the rising cost of GPUs / RAM / Mobos, etc., is it crazy to stick with lower-res PC monitors (e.g. 1080p) for performance?",
+    "url": "https://www.resetera.com/threads/given-the-rising-cost-of-gpus-ram-mobos-etc-is-it-crazy-to-stick-with-lower-res-pc-monitors-e-g-1080p-for-performance.1598884/",
+    "published": "2026-08-08T18:15:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "'Star Trek: Legends\u2019 Is The Latest Trek Game To Be Pulled From Storefronts",
+    "url": "https://www.resetera.com/threads/star-trek-legends%E2%80%99-is-the-latest-trek-game-to-be-pulled-from-storefronts.1598869/",
+    "published": "2026-08-08T17:47:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "First look into day one (Day 1 Patch installed) state of Switch 2 port of Oblivion Remastered",
+    "url": "https://www.resetera.com/threads/first-look-into-day-one-day-1-patch-installed-state-of-switch-2-port-of-oblivion-remastered.1598851/",
+    "published": "2026-08-08T16:22:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What do you think is the relationship between Popo and Nana of the Ice Climbers?",
+    "url": "https://www.resetera.com/threads/what-do-you-think-is-the-relationship-between-popo-and-nana-of-the-ice-climbers.1598839/",
+    "published": "2026-08-08T16:17:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Screenshot Guessing Game: Call of Duty or Battlefield?",
+    "url": "https://www.resetera.com/threads/screenshot-guessing-game-call-of-duty-or-battlefield.1598800/",
+    "published": "2026-08-08T14:24:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Ryan Hurst Shares New Photo of Him as God of War's Kratos",
+    "url": "https://www.resetera.com/threads/ryan-hurst-shares-new-photo-of-him-as-god-of-wars-kratos.1598797/",
+    "published": "2026-08-08T14:22:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Absolum has quietly become one of my favorite beat em ups ever.",
+    "url": "https://www.resetera.com/threads/absolum-has-quietly-become-one-of-my-favorite-beat-em-ups-ever.1598785/",
+    "published": "2026-08-08T13:45:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Games you stopped midway due to a small design choice",
+    "url": "https://www.resetera.com/threads/games-you-stopped-midway-due-to-a-small-design-choice.1598782/",
+    "published": "2026-08-08T12:49:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Final Fantasy VII Revelation \"New Look\" Announced For Opening Night Live",
+    "url": "https://www.resetera.com/threads/final-fantasy-vii-revelation-new-look-announced-for-opening-night-live.1598776/",
+    "published": "2026-08-08T12:20:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "I let my intrusive thoughts win",
+    "url": "https://www.resetera.com/threads/i-let-my-intrusive-thoughts-win.1598773/",
+    "published": "2026-08-08T12:07:15+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "On this day, 'Dead Rising' was released 20 years ago",
+    "url": "https://www.resetera.com/threads/on-this-day-dead-rising-was-released-20-years-ago.1598770/",
+    "published": "2026-08-08T12:02:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Steam Sales Rankings for Chinese Games, 2021\u20132025. A thread to highlight different genres of Chinese games",
+    "url": "https://www.resetera.com/threads/steam-sales-rankings-for-chinese-games-2021%E2%80%932025-a-thread-to-highlight-different-genres-of-chinese-games.1598767/",
+    "published": "2026-08-08T11:51:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "[NoisyPixel] \u201cIf you play RAIN CODE first, Danganronpa 2\u00d72 will be 100 times more interesting\u201d says creator Kodaka",
+    "url": "https://www.resetera.com/threads/noisypixel-%E2%80%9Cif-you-play-rain-code-first-danganronpa-2%C3%972-will-be-100-times-more-interesting%E2%80%9D-says-creator-kodaka.1598758/",
+    "published": "2026-08-08T11:02:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Call of Duty: Mobile x Honkai Impact 3rd Announced - September",
+    "url": "https://www.resetera.com/threads/call-of-duty-mobile-x-honkai-impact-3rd-announced-september.1598710/",
+    "published": "2026-08-08T06:17:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "New Proton Experimental Update Fixes Command and Conquer Custom Levels",
+    "url": "https://steamdeckhq.com/news/proton-experimental-fixes-command-and-conquer/",
+    "published": "2026-08-08T14:05:47+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "New SteamOS Beta Update Adds Initial Steam Frame Support",
+    "url": "https://steamdeckhq.com/news/steamos-beta-adds-initial-steam-frame-support/",
+    "published": "2026-08-08T12:00:21+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with Iron Nest: Heavy Turret Simulator - 2026-08-08 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-08-08-edition/index.html",
+    "published": "2026-08-08T17:12:03+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Come for Beastfolk Barber's cute, furry hairdressing, but stay for its thoughtful approach to worldbuilding",
+    "url": "https://www.rockpapershotgun.com/come-for-beastfolk-barbers-cute-furry-hairdressing-but-stay-for-its-thoughtful-approach-to-worldbuilding",
+    "published": "2026-08-08T21:51:32+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Danchi Days, out this October, brings the Hamtaro: Ham-Ham Heartbreak vibes I've been desperately craving since childhood",
+    "url": "https://www.rockpapershotgun.com/danchi-days-out-this-october-brings-the-hamtaro-ham-ham-heartbreak-vibes-ive-been-desperately-craving-since-childhood",
+    "published": "2026-08-08T20:36:44+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Polyzonia is an ecosystem sim about breathing life into the Amazon rainforest until it can look after itself",
+    "url": "https://www.rockpapershotgun.com/polyzonia-is-an-ecosystem-sim-about-breathing-life-into-the-amazon-rainforest-until-it-can-look-after-itself",
+    "published": "2026-08-08T18:05:43+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Big Walk's voice chat volume issue has been resolved with its latest patch, but House House are sticking to their guns on its overall design",
+    "url": "https://www.rockpapershotgun.com/big-walks-voice-chat-volume-issue-has-been-resolved-with-its-latest-patch-but-house-house-are-sticking-to-their-guns-on-its-overall-design",
+    "published": "2026-08-08T17:08:58+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Two months after revealing Crossfire, That's No Moon have seemingly laid off 14 members of staff",
+    "url": "https://www.rockpapershotgun.com/two-months-after-revealing-crossfire-thats-no-moon-have-seemingly-laid-off-14-members-of-staff",
+    "published": "2026-08-08T16:09:41+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-394",
+    "published": "2026-08-08T07:01:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "'It's Really Sh*t': Disaster for Marvel Tokon as FGC Icon Uninstalls Botched PC Port Live on Stream",
+    "url": "https://www.pushsquare.com/news/2026/08/its-really-sht-disaster-for-marvel-tokon-as-fgc-icon-uninstalls-botched-pc-port-live-on-stream",
+    "published": "2026-08-08T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Feature: Going Platinum: Dreams on PS4 Might Be My Most Bittersweet Plat",
+    "url": "https://www.pushsquare.com/features/going-platinum-dreams-on-ps4-might-be-my-most-bittersweet-plat",
+    "published": "2026-08-08T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Video: 2027 Is Already a Stacked Year for PS5",
+    "url": "https://www.pushsquare.com/features/video-2027-is-already-a-stacked-year-for-ps5",
+    "published": "2026-08-08T15:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 18+ PS5 Games Are Coming Out Next Week (10th-16th August)",
+    "url": "https://www.pushsquare.com/guides/these-18plus-ps5-games-are-coming-out-next-week-10th-16th-august",
+    "published": "2026-08-08T11:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Talking Point: What Are You Playing This Weekend? - Issue 645",
+    "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-645",
+    "published": "2026-08-08T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  }
+]
