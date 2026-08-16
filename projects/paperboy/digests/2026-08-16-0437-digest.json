@@ -1,0 +1,958 @@
+[
+  {
+    "title": "D7VK version 2.1 brings improvements to retro game loading time",
+    "url": "https://www.gamingonlinux.com/2026/08/d7vk-version-2-1-brings-improvements-to-retro-game-loading-time/",
+    "published": "2026-08-15T14:31:16+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Marek Ol\u0161\u00e1k's 19 Latest Patches Further Optimizing RADV & ACO",
+    "url": "https://www.phoronix.com/news/RADV-ACO-19-More-Patches-Valve",
+    "published": "2026-08-16T00:17:05+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "GNOME 51 Beta Released With Many Minor Improvements",
+    "url": "https://www.phoronix.com/news/GNOME-51-Beta",
+    "published": "2026-08-15T17:12:27+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Intel's Jay Graphics Shader Compiler Now Passing Vulkan CTS With Xe2/Xe3 Hardware",
+    "url": "https://www.phoronix.com/news/Intel-Jay-Compiler-Xe2-Xe3-CTS",
+    "published": "2026-08-15T14:23:19+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "RustConn 0.20 Continues Further Polishing This GTK4/libadwaita-Based Connection Manager",
+    "url": "https://www.phoronix.com/news/RustConn-0.20-Released",
+    "published": "2026-08-15T11:55:04+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Late Sound Fixes For Linux 7.2 Bring More Device Quirks, Intel Nova Lake HDMI-In Capture",
+    "url": "https://www.phoronix.com/news/Last-Sound-Fixes-Linux-7.2",
+    "published": "2026-08-15T11:03:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "KDE Plasma 6.8 To Allow Fine-Tuning Mouse/Touchpad Speeds",
+    "url": "https://www.phoronix.com/news/Plasma-6.8-Tune-Mouse-Speeds",
+    "published": "2026-08-15T10:51:30+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Debian Developers Begin Voting Over LLM Usage Within The Project",
+    "url": "https://www.phoronix.com/news/Debian-Votes-On-LLM-Usage",
+    "published": "2026-08-15T10:40:04+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Steam Beta Client Update: August 13th",
+    "url": "https://store.steampowered.com/news/app/1675200/view/689765787249936498",
+    "published": "2026-08-13T23:27:08+00:00",
+    "feed_name": "Steam Deck Official Updates",
+    "feed_tags": [
+      "steam-deck",
+      "valve"
+    ],
+    "significance": 0,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "A look back at Sledgehammer Call of Duty titles, and why I think the best is still to come.",
+    "url": "https://www.resetera.com/threads/a-look-back-at-sledgehammer-call-of-duty-titles-and-why-i-think-the-best-is-still-to-come.1605244/",
+    "published": "2026-08-16T04:14:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Stardew Valley gets a 3D VR mod with motion control support",
+    "url": "https://www.resetera.com/threads/stardew-valley-gets-a-3d-vr-mod-with-motion-control-support.1605229/",
+    "published": "2026-08-16T03:30:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Games that are famously tied to companies that didn\u2019t actually make them (Yes, LA Noire is mentioned)",
+    "url": "https://www.resetera.com/threads/games-that-are-famously-tied-to-companies-that-didn%E2%80%99t-actually-make-them-yes-la-noire-is-mentioned.1605223/",
+    "published": "2026-08-16T02:47:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Soul's Remnant (free to play indie 2D platformer MMORPG similar to MapleStory) was released on Steam Early Access,  has positive reviews and good CCU",
+    "url": "https://www.resetera.com/threads/souls-remnant-free-to-play-indie-2d-platformer-mmorpg-similar-to-maplestory-was-released-on-steam-early-access-has-positive-reviews-and-good-ccu.1605178/",
+    "published": "2026-08-16T01:02:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Kingdom Hearts IV D23 Extended Trailer",
+    "url": "https://www.resetera.com/threads/kingdom-hearts-iv-d23-extended-trailer.1605169/",
+    "published": "2026-08-16T00:19:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Examples from a singular game, where a newer model looks much better than an older model (Doubly so if their both in the game at the same time).",
+    "url": "https://www.resetera.com/threads/examples-from-a-singular-game-where-a-newer-model-looks-much-better-than-an-older-model-doubly-so-if-their-both-in-the-game-at-the-same-time.1605139/",
+    "published": "2026-08-15T22:28:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Was Alundra 2 treated unfairly because people expected something like the first game? I'm figuring that out for myself.",
+    "url": "https://www.resetera.com/threads/was-alundra-2-treated-unfairly-because-people-expected-something-like-the-first-game-im-figuring-that-out-for-myself.1605136/",
+    "published": "2026-08-15T22:21:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Resident Evil Requiem Physical Sales Show A Huge Demand For Discs In Various Countries (55% France, 51% Japan, 43% Australia, 40% UK)",
+    "url": "https://www.resetera.com/threads/resident-evil-requiem-physical-sales-show-a-huge-demand-for-discs-in-various-countries-55-france-51-japan-43-australia-40-uk.1605133/",
+    "published": "2026-08-15T22:18:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Will we get Metroid Prime 5?",
+    "url": "https://www.resetera.com/threads/will-we-get-metroid-prime-5.1605127/",
+    "published": "2026-08-15T22:07:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "I think I've lost the ability to play games on my desktop.",
+    "url": "https://www.resetera.com/threads/i-think-ive-lost-the-ability-to-play-games-on-my-desktop.1605118/",
+    "published": "2026-08-15T22:00:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "So. How much stuff are you looking forward to in 2027?",
+    "url": "https://www.resetera.com/threads/so-how-much-stuff-are-you-looking-forward-to-in-2027.1605115/",
+    "published": "2026-08-15T21:57:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Sora, Roxas or Ventus: your favorite KH main character",
+    "url": "https://www.resetera.com/threads/sora-roxas-or-ventus-your-favorite-kh-main-character.1605097/",
+    "published": "2026-08-15T20:36:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Games that should support portrait monitors but don't (any workarounds?)",
+    "url": "https://www.resetera.com/threads/games-that-should-support-portrait-monitors-but-dont-any-workarounds.1605076/",
+    "published": "2026-08-15T19:34:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Map from GTA VI Mapping Project Recreated in Cities Skylines 2 (Spoiler it's huge)",
+    "url": "https://www.resetera.com/threads/map-from-gta-vi-mapping-project-recreated-in-cities-skylines-2-spoiler-its-huge.1605070/",
+    "published": "2026-08-15T19:21:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Is this a rare feeling ? I want a new Jump 'n' Run next Playstation Gen",
+    "url": "https://www.resetera.com/threads/is-this-a-rare-feeling-i-want-a-new-jump-n-run-next-playstation-gen.1605067/",
+    "published": "2026-08-15T19:13:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Another patch, another modpocalypse: Fallout 4 update coming August 18th 2026 | Skyrim update coming later this year",
+    "url": "https://www.resetera.com/threads/another-patch-another-modpocalypse-fallout-4-update-coming-august-18th-2026-skyrim-update-coming-later-this-year.1605058/",
+    "published": "2026-08-15T18:33:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "S.T.A.L.K.E.R. 2 Update 2.0 Showcase (visual overhaul, lighting improvements, difficulty customization, + more)",
+    "url": "https://www.resetera.com/threads/s-t-a-l-k-e-r-2-update-2-0-showcase-visual-overhaul-lighting-improvements-difficulty-customization-more.1605046/",
+    "published": "2026-08-15T18:08:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "With Kingdom Hearts IV back in the news, here's my idea I had for a Mickey-focused spinoff. The worlds, as well as my crazy KH-style plot.",
+    "url": "https://www.resetera.com/threads/with-kingdom-hearts-iv-back-in-the-news-heres-my-idea-i-had-for-a-mickey-focused-spinoff-the-worlds-as-well-as-my-crazy-kh-style-plot.1605040/",
+    "published": "2026-08-15T17:48:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Has anyone ever ported an open source game to console and put on the store?",
+    "url": "https://www.resetera.com/threads/has-anyone-ever-ported-an-open-source-game-to-console-and-put-on-the-store.1604986/",
+    "published": "2026-08-15T16:16:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Games where you have to nerf yourself to have fun",
+    "url": "https://www.resetera.com/threads/games-where-you-have-to-nerf-yourself-to-have-fun.1604980/",
+    "published": "2026-08-15T16:04:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "[DF] Oblivion Remastered - Switch 2 DF Review - Impressive Visuals, Frustrating Performance",
+    "url": "https://www.resetera.com/threads/df-oblivion-remastered-switch-2-df-review-impressive-visuals-frustrating-performance.1604974/",
+    "published": "2026-08-15T16:01:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Fortnite Chapter 7 Season 4: Gaming Legends - Keyart screen leaked (WIP tho) | Crash, Classic Mega Man, Sonic the Hedgehog, Tetris, Joker, Sora, etc",
+    "url": "https://www.resetera.com/threads/fortnite-chapter-7-season-4-gaming-legends-keyart-screen-leaked-wip-tho-crash-classic-mega-man-sonic-the-hedgehog-tetris-joker-sora-etc.1604947/",
+    "published": "2026-08-15T15:28:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Panic 64 first trailer \u2013 what if Sonic Adventure was an N64 game",
+    "url": "https://www.resetera.com/threads/panic-64-first-trailer-%E2%80%93-what-if-sonic-adventure-was-an-n64-game.1604944/",
+    "published": "2026-08-15T15:13:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Crash Bandicoot or Spyro: who is the PS1 mascot",
+    "url": "https://www.resetera.com/threads/crash-bandicoot-or-spyro-who-is-the-ps1-mascot.1604941/",
+    "published": "2026-08-15T15:12:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Buying Games Is a Hobby Separate From Playing Them",
+    "url": "https://www.resetera.com/threads/buying-games-is-a-hobby-separate-from-playing-them.1604914/",
+    "published": "2026-08-15T13:29:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Mazda RX-VISION GT3 Evo announced for Gran Turismo",
+    "url": "https://www.resetera.com/threads/mazda-rx-vision-gt3-evo-announced-for-gran-turismo.1604908/",
+    "published": "2026-08-15T13:26:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "I feel like \"mid\" games need more love.",
+    "url": "https://www.resetera.com/threads/i-feel-like-mid-games-need-more-love.1604899/",
+    "published": "2026-08-15T13:02:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Shout-Out Your Favorite Dev Team That Has Made 4 or Less Games, Closed or Still Running Studio",
+    "url": "https://www.resetera.com/threads/shout-out-your-favorite-dev-team-that-has-made-4-or-less-games-closed-or-still-running-studio.1604896/",
+    "published": "2026-08-15T12:57:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "I need to fact check this\u2014is it true that Sony initially marketed the PS2 as a DVD player first and video game console second?",
+    "url": "https://www.resetera.com/threads/i-need-to-fact-check-this%E2%80%94is-it-true-that-sony-initially-marketed-the-ps2-as-a-dvd-player-first-and-video-game-console-second.1604893/",
+    "published": "2026-08-15T12:44:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What's your hopes fo Earth Defense Force 10?",
+    "url": "https://www.resetera.com/threads/whats-your-hopes-fo-earth-defense-force-10.1604887/",
+    "published": "2026-08-15T12:40:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Le Mans Ultimate (PC sim racing game) breaks 500k sales, dev team Studio 397 profitable for sixth straight quarter",
+    "url": "https://www.resetera.com/threads/le-mans-ultimate-pc-sim-racing-game-breaks-500k-sales-dev-team-studio-397-profitable-for-sixth-straight-quarter.1604863/",
+    "published": "2026-08-15T11:26:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Tides of Annihilation 1st hands-on demo - 40 mins of gameplay, looks hype af (Guan Yu cuts down a samurai; also cuts down a dragon in a single strike)",
+    "url": "https://www.resetera.com/threads/tides-of-annihilation-1st-hands-on-demo-40-mins-of-gameplay-looks-hype-af-guan-yu-cuts-down-a-samurai-also-cuts-down-a-dragon-in-a-single-strike.1604851/",
+    "published": "2026-08-15T09:55:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Need Help - The Lights on my ARGB fans are not lighting up",
+    "url": "https://www.resetera.com/threads/need-help-the-lights-on-my-argb-fans-are-not-lighting-up.1604842/",
+    "published": "2026-08-15T09:13:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "A mod that aims to completely re-imagine and expand Resident Evil 3 Remake is in the works (Last Escape mod)",
+    "url": "https://www.resetera.com/threads/a-mod-that-aims-to-completely-re-imagine-and-expand-resident-evil-3-remake-is-in-the-works-last-escape-mod.1604833/",
+    "published": "2026-08-15T08:30:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Games that don\u2019t let you disable minimap rotation\u2026 why? Why? Why why why?",
+    "url": "https://www.resetera.com/threads/games-that-don%E2%80%99t-let-you-disable-minimap-rotation%E2%80%A6-why-why-why-why-why.1604830/",
+    "published": "2026-08-15T08:25:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Splatoon Raiders' best arcade game is...?",
+    "url": "https://www.resetera.com/threads/splatoon-raiders-best-arcade-game-is.1604827/",
+    "published": "2026-08-15T08:14:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Halo's Future Is Outsourcing. Campaign Evolved had 15 additional studios (Ninja Theory, Turn 10 and Rare). MS looking to put Sledgehammer on Halo.",
+    "url": "https://www.resetera.com/threads/halos-future-is-outsourcing-campaign-evolved-had-15-additional-studios-ninja-theory-turn-10-and-rare-ms-looking-to-put-sledgehammer-on-halo.1604821/",
+    "published": "2026-08-15T07:52:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Sonic The Hedgehog is threatening NYC",
+    "url": "https://www.resetera.com/threads/sonic-the-hedgehog-is-threatening-nyc.1604797/",
+    "published": "2026-08-15T06:49:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Sony killing PlayStation discs will make PS Store prices cheaper, former Square Enix financial exec says",
+    "url": "https://www.resetera.com/threads/sony-killing-playstation-discs-will-make-ps-store-prices-cheaper-former-square-enix-financial-exec-says.1604779/",
+    "published": "2026-08-15T06:27:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Let\u2019s Replay the Entire Kingdom Hearts Series!",
+    "url": "https://www.resetera.com/threads/let%E2%80%99s-replay-the-entire-kingdom-hearts-series.1604761/",
+    "published": "2026-08-15T05:48:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The Girl with a Thousand Faces by Sunyi Dean",
+    "url": "https://overkill.wtf/reading/the-girl-with-a-thousand-faces-sunyi-dean",
+    "published": "2026-08-14T22:00:00+00:00",
+    "feed_name": "overkill Media",
+    "feed_tags": [
+      "steam-deck",
+      "linux-gaming"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with Servant of the Lake and Sandustry - 2026-08-15 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-08-15-edition/index.html",
+    "published": "2026-08-15T14:19:15+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Ron Gilbert talks the untraditional way he got Thimbleweed Park 2 funded, and his frustrations with modern publishing deals",
+    "url": "https://www.rockpapershotgun.com/ron-gilbert-talks-the-untraditional-way-he-got-thimbleweed-park-2-funded-and-his-frustrations-with-modern-publishing-deals",
+    "published": "2026-08-15T21:52:43+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "O EMPIRE! WARD OFF THY ROT puts you in an abandoned, dithered world with a cursed object and asks you to do one thing: survive the journey",
+    "url": "https://www.rockpapershotgun.com/o-empire-ward-off-thy-rot-puts-you-in-an-abandoned-dithered-world-with-a-cursed-object-and-asks-you-to-do-one-thing-survive-the-journey",
+    "published": "2026-08-15T20:36:44+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "\"For a few weeks, women were just dropping their babies\": The Witcher 3 lead on designing NPCs that react appropriately",
+    "url": "https://www.rockpapershotgun.com/for-a-few-weeks-women-were-just-dropping-their-babies-the-witcher-3-lead-on-designing-npcs-that-react-appropriately",
+    "published": "2026-08-15T18:08:30+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Slay the Spire 2 updates are slowing down again, but don't fear, it's all in the name of more modes, an alternate Act 2, and a character with a bandaged foot",
+    "url": "https://www.rockpapershotgun.com/slay-the-spire-2-updates-are-slowing-down-again-but-dont-fear-its-all-in-the-name-of-more-modes-an-alternate-act-2-and-a-character-with-a-bandaged-foot",
+    "published": "2026-08-15T17:08:21+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Stalker 2: Heart of Chornobyl's meaty 2.0 update brings functional fog, a suite of A-Life improvements, and more when it arrives next week",
+    "url": "https://www.rockpapershotgun.com/stalker-2-heart-of-chornobyls-meaty-20-update-brings-functional-fog-a-suite-of-a-life-improvements-and-more-when-it-arrives-next-week",
+    "published": "2026-08-15T16:10:14+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395",
+    "published": "2026-08-15T07:01:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "You'd Have to Be Heartless to Hate on This Extended Kingdom Hearts 4 Trailer",
+    "url": "https://www.pushsquare.com/news/2026/08/youd-have-to-be-heartless-to-hate-on-this-extended-kingdom-hearts-4-trailer",
+    "published": "2026-08-16T03:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "After Several PS Store Knock-Offs, the Real TCG Card Shop Simulator Hits PS5 Next Month",
+    "url": "https://www.pushsquare.com/news/2026/08/after-several-ps-store-knock-offs-the-real-tcg-card-shop-simulator-hits-ps5-next-month",
+    "published": "2026-08-15T18:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Poll: Are You Hyped for These 10 New PS Plus Games?",
+    "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games",
+    "published": "2026-08-15T16:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "'It's a Relentless Onslaught': Wolverine PS5 Dev Responds to Unprecedented Criticism",
+    "url": "https://www.pushsquare.com/news/2026/08/its-a-relentless-onslaught-wolverine-ps5-dev-responds-to-unprecedented-criticism",
+    "published": "2026-08-15T12:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "A Kingdom Hearts Animated Series Is 'Coming Soon' to Disney Channel, Disney Plus",
+    "url": "https://www.pushsquare.com/news/2026/08/a-kingdom-hearts-animated-series-is-coming-soon-to-disney-channel-disney-plus",
+    "published": "2026-08-15T12:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Matt Groening Himself Says The Simpsons: Hit & Run Is 'Coming Back in Some Form'",
+    "url": "https://www.pushsquare.com/news/2026/08/matt-groening-himself-says-the-simpsons-hit-and-run-is-coming-back-in-some-form",
+    "published": "2026-08-15T11:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 25+ PS5 and PS Plus Games Are Coming to PS5 Next Week (17th-23rd August)",
+    "url": "https://www.pushsquare.com/guides/these-25plus-ps5-and-ps-plus-games-are-coming-to-ps5-next-week-17th-23rd-august",
+    "published": "2026-08-15T11:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Pixar's Coco Confirmed for Kingdom Hearts 4, Launching on PS5 in Late 2027",
+    "url": "https://www.pushsquare.com/news/2026/08/pixars-coco-confirmed-for-kingdom-hearts-4-launching-on-ps5-in-late-2027",
+    "published": "2026-08-15T10:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Talking Point: What Are You Playing This Weekend? - Issue 646",
+    "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-646",
+    "published": "2026-08-15T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Guide: When Is the Phantom Blade Zero State of Play?",
+    "url": "https://www.pushsquare.com/guides/when-is-the-phantom-blade-zero-state-of-play",
+    "published": "2026-08-15T08:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  }
+]
