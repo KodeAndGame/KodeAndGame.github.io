@@ -1,0 +1,557 @@
+[
+  {
+    "title": "Linux 7.2 Released With Faster I/O, New AMD & Intel Driver Improvements",
+    "url": "https://www.phoronix.com/news/Linux-7.2-Released",
+    "published": "2026-08-16T23:12:47+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "GIMP Making Progress On New Project File Format After Nearly 30 Years With XCF",
+    "url": "https://www.phoronix.com/news/GIMP-New-File-Format-2026",
+    "published": "2026-08-16T20:15:33+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "tlbi=  Boot Option Submitted Ahead Of Linux 7.2 Kernel Release",
+    "url": "https://www.phoronix.com/news/Linux-7.2-x86-urgent-tlbi",
+    "published": "2026-08-16T17:01:03+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Debian Marks 33rd Birthday As One Of The Oldest Maintained Linux Distros",
+    "url": "https://www.phoronix.com/news/Debian-33-Birthday",
+    "published": "2026-08-16T14:13:46+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "AVX-512 xor_gen Continues To Look Exciting For Helping Linux RAID With Modern CPUs",
+    "url": "https://www.phoronix.com/news/AVX-512-xor-gen-v4",
+    "published": "2026-08-16T10:54:19+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 binfmt_misc To Allow BPF Programs To Dynamically Choose Execution Environments",
+    "url": "https://www.phoronix.com/news/Linux-7.3-binfmt-misc",
+    "published": "2026-08-16T10:37:13+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "New Linux Driver Enables 12VHPWR Monitoring For ASUS ROG Astral Graphics Cards",
+    "url": "https://www.phoronix.com/news/ASUS-ROG-Astral-12VHPWR",
+    "published": "2026-08-16T10:19:06+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Steam Beta Client Update: August 13th",
+    "url": "https://store.steampowered.com/news/app/1675200/view/689765787249936498",
+    "published": "2026-08-13T23:27:08+00:00",
+    "feed_name": "Steam Deck Official Updates",
+    "feed_tags": [
+      "steam-deck",
+      "valve"
+    ],
+    "significance": 0,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Should Pokemon Ditch Stats?",
+    "url": "https://www.resetera.com/threads/should-pokemon-ditch-stats.1605640/",
+    "published": "2026-08-17T04:09:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Do you think Star Fox on SNES has aged well?",
+    "url": "https://www.resetera.com/threads/do-you-think-star-fox-on-snes-has-aged-well.1605631/",
+    "published": "2026-08-17T03:37:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Hayden Panettiere (Voice of Kairi in KH1 & 2) dead at 36",
+    "url": "https://www.resetera.com/threads/hayden-panettiere-voice-of-kairi-in-kh1-2-dead-at-36.1605616/",
+    "published": "2026-08-17T03:02:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Will Metroid Ever Commit to the Tacked On Multiplayer?",
+    "url": "https://www.resetera.com/threads/will-metroid-ever-commit-to-the-tacked-on-multiplayer.1605601/",
+    "published": "2026-08-17T01:25:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The blue coins in Mario Sunshine suck",
+    "url": "https://www.resetera.com/threads/the-blue-coins-in-mario-sunshine-suck.1605592/",
+    "published": "2026-08-17T00:36:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Man, how was Spider-Man 2: Enter Electro?",
+    "url": "https://www.resetera.com/threads/man-how-was-spider-man-2-enter-electro.1605583/",
+    "published": "2026-08-17T00:07:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "So, how are you going to approach Fire Emblem: Fortune\u2019s Weave?",
+    "url": "https://www.resetera.com/threads/so-how-are-you-going-to-approach-fire-emblem-fortune%E2%80%99s-weave.1605580/",
+    "published": "2026-08-16T23:36:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Arcades : The Universal Language : 1970-1999 (Directors Cut)",
+    "url": "https://www.resetera.com/threads/arcades-the-universal-language-1970-1999-directors-cut.1605571/",
+    "published": "2026-08-16T23:25:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "There's a Garfield platformer coming out next month and it might actually be good.",
+    "url": "https://www.resetera.com/threads/theres-a-garfield-platformer-coming-out-next-month-and-it-might-actually-be-good.1605565/",
+    "published": "2026-08-16T23:14:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What game has the best \"collecting material\" mechanics",
+    "url": "https://www.resetera.com/threads/what-game-has-the-best-collecting-material-mechanics.1605559/",
+    "published": "2026-08-16T23:07:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "First 8BitDo Ultimate 3E Review Has Been Posted",
+    "url": "https://www.resetera.com/threads/first-8bitdo-ultimate-3e-review-has-been-posted.1605523/",
+    "published": "2026-08-16T21:22:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "lttp: Transformers Devastation",
+    "url": "https://www.resetera.com/threads/lttp-transformers-devastation.1605511/",
+    "published": "2026-08-16T20:41:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "KAZ- A fun score chasing short burst roguelite",
+    "url": "https://www.resetera.com/threads/kaz-a-fun-score-chasing-short-burst-roguelite.1605502/",
+    "published": "2026-08-16T20:32:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Kingdom Hearts Release Order and Best Play Order Guide",
+    "url": "https://www.resetera.com/threads/kingdom-hearts-release-order-and-best-play-order-guide.1605469/",
+    "published": "2026-08-16T19:24:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What worlds do you want to see in Kingdom Hearts IV?",
+    "url": "https://www.resetera.com/threads/what-worlds-do-you-want-to-see-in-kingdom-hearts-iv.1605463/",
+    "published": "2026-08-16T19:07:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Did you know during development GTA V had unique mission complete tunes like the rest of the series?",
+    "url": "https://www.resetera.com/threads/did-you-know-during-development-gta-v-had-unique-mission-complete-tunes-like-the-rest-of-the-series.1605424/",
+    "published": "2026-08-16T17:48:06+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Weekend Era: Patches that made a game or broke a game. I am talking about game savers or killers, not normal patch tuesday balancing.",
+    "url": "https://www.resetera.com/threads/weekend-era-patches-that-made-a-game-or-broke-a-game-i-am-talking-about-game-savers-or-killers-not-normal-patch-tuesday-balancing.1605406/",
+    "published": "2026-08-16T17:24:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Mortal Shell 2 Hype Thread",
+    "url": "https://www.resetera.com/threads/mortal-shell-2-hype-thread.1605391/",
+    "published": "2026-08-16T16:53:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Dust: An Elysian Tail turns 14",
+    "url": "https://www.resetera.com/threads/dust-an-elysian-tail-turns-14.1605388/",
+    "published": "2026-08-16T16:39:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Which ones are the best games that feature Hitoshi Sakimoto as a composer and what games can you recommend?",
+    "url": "https://www.resetera.com/threads/which-ones-are-the-best-games-that-feature-hitoshi-sakimoto-as-a-composer-and-what-games-can-you-recommend.1605382/",
+    "published": "2026-08-16T16:33:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "PS3 Third-Party Titles that are \"better/contain exclusive content\" over their Xbox 360 Counterparts?",
+    "url": "https://www.resetera.com/threads/ps3-third-party-titles-that-are-better-contain-exclusive-content-over-their-xbox-360-counterparts.1605370/",
+    "published": "2026-08-16T16:31:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Best Graphics of 2026 So Far?",
+    "url": "https://www.resetera.com/threads/best-graphics-of-2026-so-far.1605364/",
+    "published": "2026-08-16T16:25:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "LEGO Mario January set names leaked",
+    "url": "https://www.resetera.com/threads/lego-mario-january-set-names-leaked.1605361/",
+    "published": "2026-08-16T16:15:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Would you buy Tokyo Mirage Sessions 2: Featuring Three Houses?",
+    "url": "https://www.resetera.com/threads/would-you-buy-tokyo-mirage-sessions-2-featuring-three-houses.1605331/",
+    "published": "2026-08-16T14:58:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Is God of War III's opening sequence still one of the best most hype/bombastic opening scenes in video game history?",
+    "url": "https://www.resetera.com/threads/is-god-of-war-iiis-opening-sequence-still-one-of-the-best-most-hype-bombastic-opening-scenes-in-video-game-history.1605322/",
+    "published": "2026-08-16T14:11:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Retro Playstation/Skylanders Shelf",
+    "url": "https://www.resetera.com/threads/retro-playstation-skylanders-shelf.1605319/",
+    "published": "2026-08-16T13:59:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "When did we start using the term \"Biomes\" for everything world related?",
+    "url": "https://www.resetera.com/threads/when-did-we-start-using-the-term-biomes-for-everything-world-related.1605310/",
+    "published": "2026-08-16T13:08:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Kingdom hearts 3 would cost me 5 times what it does, with no disc release",
+    "url": "https://www.resetera.com/threads/kingdom-hearts-3-would-cost-me-5-times-what-it-does-with-no-disc-release.1605247/",
+    "published": "2026-08-16T05:18:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (August 16th 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-august-16th-2026",
+    "published": "2026-08-16T11:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-823",
+    "published": "2026-08-16T09:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 25+ PS5 and PS Plus Games Are Coming to PS5 This Week (17th-23rd August)",
+    "url": "https://www.pushsquare.com/guides/these-25plus-ps5-and-ps-plus-games-are-coming-to-ps5-this-week-17th-23rd-august",
+    "published": "2026-08-17T05:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  }
+]
