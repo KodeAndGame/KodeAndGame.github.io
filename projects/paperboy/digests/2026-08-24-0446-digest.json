@@ -1,0 +1,784 @@
+[
+  {
+    "title": "Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection",
+    "url": "https://www.phoronix.com/news/Linux-7.3-XOR-RAID6-Benchmark",
+    "published": "2026-08-24T00:38:25+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 Better Protects Against Buggy EFI Firmware Taking Down The Rest Of User-Space",
+    "url": "https://www.phoronix.com/news/Linux-7.3-EFI",
+    "published": "2026-08-23T19:05:02+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 Delivers Graphics Driver Improvements From Old GPUs To Next-Gen Hardware",
+    "url": "https://www.phoronix.com/news/Linux-7.3-DRM",
+    "published": "2026-08-23T18:10:13+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "ReactOS Merges Support For Job Objects As Step To Running Modern Windows Apps",
+    "url": "https://www.phoronix.com/news/ReactOS-Job-Objects",
+    "published": "2026-08-23T11:41:04+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 Makes Preparations Toward Upstreaming FAMFS File-System",
+    "url": "https://www.phoronix.com/news/Linux-7.3-Preps-Toward-FAMFS",
+    "published": "2026-08-23T11:20:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "GCC Patch Adjusting AMD Zen 5 Misprediction Cost Nets 12% Win In Benchmark",
+    "url": "https://www.phoronix.com/news/AMD-Zen-5-Mispredict-Cost",
+    "published": "2026-08-23T10:56:12+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 Introduces New AES Encryption APIs - Will Open Up More Performance",
+    "url": "https://www.phoronix.com/news/Linux-7.3-New-Crypto-AES-APIs",
+    "published": "2026-08-23T10:42:14+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 Input Subsystem Updates Merged With Security Fixes, Other Improvements",
+    "url": "https://www.phoronix.com/news/Linux-7.3-Input",
+    "published": "2026-08-23T10:30:27+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Aliens: Fireteam Elite 2 |OT| Another glorious day in the Corps",
+    "url": "https://www.resetera.com/threads/aliens-fireteam-elite-2-ot-another-glorious-day-in-the-corps.1611775/",
+    "published": "2026-08-24T03:26:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "One Hour One Life: Community Joy Update (aka. troll / griefer with friends went unhinged online, dev interferes, Mom IRL got involved, and a ton more)",
+    "url": "https://www.resetera.com/threads/one-hour-one-life-community-joy-update-aka-troll-griefer-with-friends-went-unhinged-online-dev-interferes-mom-irl-got-involved-and-a-ton-more.1611766/",
+    "published": "2026-08-24T02:29:15+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Thomas Mahler (CEO of Moon Studios) doubles down and says that Ori 3 is not in development at another studio and claims he asked sources at Microsoft",
+    "url": "https://www.resetera.com/threads/thomas-mahler-ceo-of-moon-studios-doubles-down-and-says-that-ori-3-is-not-in-development-at-another-studio-and-claims-he-asked-sources-at-microsoft.1611760/",
+    "published": "2026-08-24T02:04:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The original Team Fortress mod for Quake turns 30 years old",
+    "url": "https://www.resetera.com/threads/the-original-team-fortress-mod-for-quake-turns-30-years-old.1611742/",
+    "published": "2026-08-24T00:50:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Went to the arcade today and you know it didn\u2019t suck.",
+    "url": "https://www.resetera.com/threads/went-to-the-arcade-today-and-you-know-it-didn%E2%80%99t-suck.1611730/",
+    "published": "2026-08-24T00:01:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "LTTP: after buying GTA 5 on 6 platforms over 12 and a bit years, I finally actually finished it",
+    "url": "https://www.resetera.com/threads/lttp-after-buying-gta-5-on-6-platforms-over-12-and-a-bit-years-i-finally-actually-finished-it.1611718/",
+    "published": "2026-08-23T23:21:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Are there notable games you completely forgot existed?",
+    "url": "https://www.resetera.com/threads/are-there-notable-games-you-completely-forgot-existed.1611694/",
+    "published": "2026-08-23T21:43:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Did anyone know that Walmart had (past tense) a gaming content portal called RESTART.RUN?",
+    "url": "https://www.resetera.com/threads/did-anyone-know-that-walmart-had-past-tense-a-gaming-content-portal-called-restart-run.1611691/",
+    "published": "2026-08-23T21:42:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Super Robot Wars IV has finally received a full English translation - It's time for L-Gaim!",
+    "url": "https://www.resetera.com/threads/super-robot-wars-iv-has-finally-received-a-full-english-translation-its-time-for-l-gaim.1611688/",
+    "published": "2026-08-23T21:36:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Tamriel Rebuilt: Poison Song out now + GOG One Click Mod",
+    "url": "https://www.resetera.com/threads/tamriel-rebuilt-poison-song-out-now-gog-one-click-mod.1611670/",
+    "published": "2026-08-23T20:37:31+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Concord in a Halo skin",
+    "url": "https://www.resetera.com/threads/concord-in-a-halo-skin.1611667/",
+    "published": "2026-08-23T20:36:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What game canceling still grind your gears to this day?",
+    "url": "https://www.resetera.com/threads/what-game-canceling-still-grind-your-gears-to-this-day.1611646/",
+    "published": "2026-08-23T20:04:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What would have been the lasting ramifications of Nintendo designing the GBA with four face buttons?",
+    "url": "https://www.resetera.com/threads/what-would-have-been-the-lasting-ramifications-of-nintendo-designing-the-gba-with-four-face-buttons.1611643/",
+    "published": "2026-08-23T19:58:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "WEBTOON acquires 60% stake in game company RI Games Holdings to expand Webtoons into games",
+    "url": "https://www.resetera.com/threads/webtoon-acquires-60-stake-in-game-company-ri-games-holdings-to-expand-webtoons-into-games.1611640/",
+    "published": "2026-08-23T19:47:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Concord released exactly 2 years ago",
+    "url": "https://www.resetera.com/threads/concord-released-exactly-2-years-ago.1611637/",
+    "published": "2026-08-23T19:26:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Rockstar grants you one wish for GTA VI, what do you ask for?",
+    "url": "https://www.resetera.com/threads/rockstar-grants-you-one-wish-for-gta-vi-what-do-you-ask-for.1611628/",
+    "published": "2026-08-23T19:01:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Have you all seen the water in the 2008 Kung Fu Panda game?",
+    "url": "https://www.resetera.com/threads/have-you-all-seen-the-water-in-the-2008-kung-fu-panda-game.1611574/",
+    "published": "2026-08-23T17:05:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Is Sonic Colors Ultimate okay to play now?",
+    "url": "https://www.resetera.com/threads/is-sonic-colors-ultimate-okay-to-play-now.1611571/",
+    "published": "2026-08-23T17:00:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "I Regret Not Being More Cost Conscious of Games When I Was Younger",
+    "url": "https://www.resetera.com/threads/i-regret-not-being-more-cost-conscious-of-games-when-i-was-younger.1611553/",
+    "published": "2026-08-23T16:32:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The Last of Us Part 2: I waited, but it didn't matter (ending spoilers)",
+    "url": "https://www.resetera.com/threads/the-last-of-us-part-2-i-waited-but-it-didnt-matter-ending-spoilers.1611550/",
+    "published": "2026-08-23T16:20:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "is Ghibli-looking game Baldo: The Guardian Owls worth 1,99?",
+    "url": "https://www.resetera.com/threads/is-ghibli-looking-game-baldo-the-guardian-owls-worth-1-99.1611532/",
+    "published": "2026-08-23T15:06:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "[DF Retro] The Big Thief: The Dark Project Remaster Episode Ft. Nightdive Studios!",
+    "url": "https://www.resetera.com/threads/df-retro-the-big-thief-the-dark-project-remaster-episode-ft-nightdive-studios.1611526/",
+    "published": "2026-08-23T14:50:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "BOMBA: Steins;Gate Re:Boot $31 on Indiegala 3 days after release. (48% off)",
+    "url": "https://www.resetera.com/threads/bomba-steins-gate-re-boot-31-on-indiegala-3-days-after-release-48-off.1611520/",
+    "published": "2026-08-23T14:18:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Match Morphosis- Roguelite inspired by Kamen Rider!",
+    "url": "https://www.resetera.com/threads/match-morphosis-roguelite-inspired-by-kamen-rider.1611511/",
+    "published": "2026-08-23T14:11:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "What future Switch 2 releases do you think will be GKC (Game Key Card) releases (e.g. ocarina remake on a GKC)?",
+    "url": "https://www.resetera.com/threads/what-future-switch-2-releases-do-you-think-will-be-gkc-game-key-card-releases-e-g-ocarina-remake-on-a-gkc.1611502/",
+    "published": "2026-08-23T13:59:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "How to Fish sells 1 million copies in just 2 days",
+    "url": "https://www.resetera.com/threads/how-to-fish-sells-1-million-copies-in-just-2-days.1611499/",
+    "published": "2026-08-23T13:44:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "DJ Hero 3 leaked prototype footage",
+    "url": "https://www.resetera.com/threads/dj-hero-3-leaked-prototype-footage.1611493/",
+    "published": "2026-08-23T13:31:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Do you remember PlayStation HOME?",
+    "url": "https://www.resetera.com/threads/do-you-remember-playstation-home.1611484/",
+    "published": "2026-08-23T12:58:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Today is the 25th anniversary of 'Devil May Cry'",
+    "url": "https://www.resetera.com/threads/today-is-the-25th-anniversary-of-devil-may-cry.1611472/",
+    "published": "2026-08-23T12:40:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Happy Deus Ex Day! Deus Ex: Human Revolution is 15 years old today and Deus Ex: Mankind Divided is 10 years old today",
+    "url": "https://www.resetera.com/threads/happy-deus-ex-day-deus-ex-human-revolution-is-15-years-old-today-and-deus-ex-mankind-divided-is-10-years-old-today.1611457/",
+    "published": "2026-08-23T11:14:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Kazunori Yamauchi: One Gran Turismo track can take four years to make; one car 8 months",
+    "url": "https://www.resetera.com/threads/kazunori-yamauchi-one-gran-turismo-track-can-take-four-years-to-make-one-car-8-months.1611442/",
+    "published": "2026-08-23T10:38:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "NETfishing is a free and open source fishing and chat room game (inspired by WEBFISHING), coming to Steam Early Access this month",
+    "url": "https://www.resetera.com/threads/netfishing-is-a-free-and-open-source-fishing-and-chat-room-game-inspired-by-webfishing-coming-to-steam-early-access-this-month.1611436/",
+    "published": "2026-08-23T10:18:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "LTTP: Claire Obscure Expedition 33",
+    "url": "https://www.resetera.com/threads/lttp-claire-obscure-expedition-33.1611409/",
+    "published": "2026-08-23T08:04:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Microsoft blames RGB lighting drivers for a wave of crashes after the August 2026 Windows Update",
+    "url": "https://www.resetera.com/threads/microsoft-blames-rgb-lighting-drivers-for-a-wave-of-crashes-after-the-august-2026-windows-update.1611400/",
+    "published": "2026-08-23T07:26:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "\u201cThe 9 Games That Make Me Who I Am\u201d Trend Community Results: Most popular games from 836K+ entries across genres, decades & years",
+    "url": "https://www.resetera.com/threads/%E2%80%9Cthe-9-games-that-make-me-who-i-am%E2%80%9D-trend-community-results-most-popular-games-from-836k-entries-across-genres-decades-years.1611391/",
+    "published": "2026-08-23T07:05:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "New Ori game could be announced at GamesCom/releasing soon",
+    "url": "https://www.resetera.com/threads/new-ori-game-could-be-announced-at-gamescom-releasing-soon.1611385/",
+    "published": "2026-08-23T06:53:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Which game of September it will score higher in Metacritic/OC?",
+    "url": "https://www.resetera.com/threads/which-game-of-september-it-will-score-higher-in-metacritic-oc.1611382/",
+    "published": "2026-08-23T05:46:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "For the games where it matters: What is Your Pick for the Best Version of Each Final Fantasy?",
+    "url": "https://www.resetera.com/threads/for-the-games-where-it-matters-what-is-your-pick-for-the-best-version-of-each-final-fantasy.1611370/",
+    "published": "2026-08-23T05:34:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "NIGHTREIGN not included in ELDEN RING: TARNISHED EDITION",
+    "url": "https://www.resetera.com/threads/nightreign-not-included-in-elden-ring-tarnished-edition.1611367/",
+    "published": "2026-08-23T05:26:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (August 23rd 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-august-23rd-2026",
+    "published": "2026-08-23T11:05:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Kingdom Come: Deliverance 2 Is At Its Cheapest Discount Yet With Humble's Daily Deal",
+    "url": "https://steamdeckhq.com/news/kingdom-come-deliverance-2-cheapest-humble-deal/",
+    "published": "2026-08-23T16:57:49+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with How to Fish and Twisted Tower - 2026-08-22 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-08-22-edition/index.html",
+    "published": "2026-08-23T16:53:14+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-824",
+    "published": "2026-08-23T08:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Feature: I Searched for Merch from My Fave PS5 Games in Chengdu's Enormous Anime Mall",
+    "url": "https://www.pushsquare.com/features/i-searched-for-merch-from-my-fave-ps5-games-in-chengdus-enormous-anime-mall",
+    "published": "2026-08-23T23:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "PS5's Best-Selling Games List Is Broken on the PS Store",
+    "url": "https://www.pushsquare.com/news/2026/08/ps5s-best-selling-games-list-is-broken-on-the-ps-store",
+    "published": "2026-08-23T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Sony Reminds PS5 Owners Their Digital Games Are Licensed, Not Sold",
+    "url": "https://www.pushsquare.com/news/2026/08/sony-reminds-ps5-owners-their-digital-games-are-licensed-not-sold",
+    "published": "2026-08-23T12:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  },
+  {
+    "title": "Feature: Going Platinum: I Only Played Sound Shapes Because I Wanted at Least One PS Vita Plat",
+    "url": "https://www.pushsquare.com/features/going-platinum-i-only-played-sound-shapes-because-i-wanted-at-least-one-ps-vita-plat",
+    "published": "2026-08-23T12:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": null,
+    "tags": [],
+    "summary": "",
+    "sources": []
+  }
+]
