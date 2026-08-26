@@ -377,11 +377,37 @@ async function loadDigestIndex() {
     }
 
     digests = files;
-    currentIndex = digests.length - 1;
-    showDigest(currentIndex);
+    await showLatestScored();
   } catch (err) {
     showError('Could not load digest index: ' + err.message);
   }
+}
+
+async function fetchDigestData(filename) {
+  const response = await fetch(`digests/${filename}`);
+  return response.json();
+}
+
+// Lands on the most recent digest that actually has scored items. A scoring
+// pipeline outage can publish a digest where every item is still
+// significance: null — that shouldn't blank the default view, so walk
+// backward until a usable one turns up.
+async function showLatestScored() {
+  loading.style.display = 'block';
+  for (let i = digests.length - 1; i >= 0; i--) {
+    let raw;
+    try {
+      raw = await fetchDigestData(digests[i]);
+    } catch (err) {
+      continue; // couldn't load this one — try an older digest
+    }
+    if (raw.some(item => item.significance > 0)) {
+      currentIndex = i;
+      render(raw, digests[i]);
+      return;
+    }
+  }
+  showError('No scored items found in recent digests.');
 }
 
 function showError(msg) {
@@ -418,8 +444,7 @@ async function showDigest(index) {
   loading.style.display = 'block';
 
   try {
-    const response = await fetch(`digests/${digests[index]}`);
-    const raw = await response.json();
+    const raw = await fetchDigestData(digests[index]);
     render(raw, digests[index]);
   } catch (err) {
     showError('Could not load digest: ' + err.message);
