@@ -9,9 +9,14 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "steam-platform",
+      "gaming-hardware",
+      "gaming-news",
+      "pc-hardware"
+    ],
+    "summary": "NVIDIA announces Steam Machine and Steam Controller support coming to GeForce NOW, alongside DLSS 4.5 Ray Reconstruction release for desktop.",
     "sources": []
   },
   {
@@ -24,9 +29,13 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "linux-gaming"
+    ],
+    "summary": "Drop Loot combines Tetris-style block mechanics with dungeon crawler gameplay in a new indie title.",
     "sources": []
   },
   {
@@ -39,9 +48,14 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "game-discovery",
+      "retro",
+      "pc-hardware",
+      "gaming-news"
+    ],
+    "summary": "Classic SNES JRPG Terranigma is being released on PC in early 2027, marking its long-awaited modern platform debut.",
     "sources": []
   },
   {
@@ -54,9 +68,14 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "game-dev",
+      "open-source",
+      "gaming-industry",
+      "godot-engine"
+    ],
+    "summary": "W4 Games, founded by Godot Engine veterans, secures $18 million in funding from Tencent to expand enterprise technology and support for the open-source game engine.",
     "sources": []
   },
   {
@@ -69,9 +88,13 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "retro",
+      "gaming-news"
+    ],
+    "summary": "Cult-classic 1998 horror point-and-click adventure Sanitarium receives a modernized enhanced edition release.",
     "sources": []
   },
   {
@@ -84,9 +107,14 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "handheld-gaming",
+      "gaming-news"
+    ],
+    "summary": "Bazzite 44 receives a hotfix to address various issues introduced in its major release for handheld and TV PC gaming systems.",
     "sources": []
   },
   {
@@ -99,9 +127,13 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-news"
+    ],
+    "summary": "Valve quietly updated several of their classic shooter titles as part of ongoing maintenance efforts.",
     "sources": []
   },
   {
@@ -114,9 +146,13 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "indie-games"
+    ],
+    "summary": "Alien Breed 35th Anniversary Collection featuring six classic games with modernized controls and new modes announced for September by Team 17 and Antstream.",
     "sources": []
   },
   {
@@ -129,9 +165,13 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "Google engineers are exploring Flatpak packaging for Chrome/Chromium on Linux, though no official commitment has been made yet.",
     "sources": []
   },
   {
@@ -144,9 +184,13 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "Linux 7.0-mk2 releases with multi-kernel architecture improvements, though primary relevance is technical rather than gaming-focused.",
     "sources": []
   },
   {
@@ -159,9 +203,13 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "linux-gaming",
+      "linux-hardware"
+    ],
+    "summary": "COSMIC Epoch 1.7 releases with improvements to network filesystem browsing performance, though this is primarily a desktop environment update with limited direct gaming impact.",
     "sources": []
   },
   {
@@ -174,9 +222,13 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "open-source",
+      "pc-hardware",
+      "game-dev"
+    ],
+    "summary": "LLVM/Clang 23.1 releases with support for AMD Zen 6 and NVIDIA Rigel architectures plus partial C++26 support, relevant for game developers using these compiler toolchains.",
     "sources": []
   },
   {
@@ -189,9 +241,13 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "PorteuX Linux benchmarks Wayland versus X11, finding Wayland faster but not necessarily more efficient in typical operations.",
     "sources": []
   },
   {
@@ -204,9 +260,13 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "open-source",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "AI/LLM agents are overwhelming open-source project maintainers with excessive bug reports, effectively acting as a denial-of-service attack on critical development resources.",
     "sources": []
   },
   {
@@ -219,9 +279,12 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "Linux 7.3 Btrfs filesystem receives significant performance optimizations with 3-5x gains in specific workloads compared to Linux 7.2.",
     "sources": []
   },
   {
@@ -234,9 +297,12 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Apple announces M6 2nm processor and quad-die M5 Ultra chip, though gaming relevance is limited as these are primarily enterprise and consumer computing products.",
     "sources": []
   },
   {
@@ -249,9 +315,13 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "The modern NTFS Linux driver adds read support for Windows System Compression (WOF) in the Linux 7.3 kernel cycle.",
     "sources": []
   },
   {
@@ -264,9 +334,12 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Linux 7.3 Device Mapper receives bug fixes and code cleanups but no major new features.",
     "sources": []
   },
   {
@@ -279,9 +352,14 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware",
+      "open-source"
+    ],
+    "summary": "Intel Xe3P/Nova Lake graphics enabled by default in Linux 7.3 kernel, though DisplayPort 2.1 ALPM support remains in development.",
     "sources": []
   },
   {
@@ -294,9 +372,12 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 28,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "KDE Plasma 6.8 improves remote desktop functionality to better bridge the X11 to Wayland transition for Linux users.",
     "sources": []
   },
   {
@@ -309,9 +390,13 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Linux 7.3 kernel adds extensive new audio hardware support through sound subsystem updates from SUSE maintainer Takashi Iwai.",
     "sources": []
   },
   {
@@ -323,9 +408,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A user posts a negative opinion about Mario and Luigi Brothership, calling it one of the worst games they've played.",
     "sources": []
   },
   {
@@ -337,9 +425,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "community"
+    ],
+    "summary": "A personal retrospective review of Icarus, the survival sandbox game by DayZ creator Dean Hall, discussing the gameplay loop and a memorable unfinished mission.",
     "sources": []
   },
   {
@@ -351,9 +443,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Xbox and PlayStation appear to be shifting away from multiplatform game releases, with Microsoft reportedly canceling PS5 versions of Gears of War: E-Day and Halo: Campaign Evolved.",
     "sources": []
   },
   {
@@ -365,9 +461,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion comparing Switch 2's third-party game support to previous Nintendo consoles, with user asserting it represents the strongest lineup in Nintendo's history.",
     "sources": []
   },
   {
@@ -379,9 +479,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "game-dev"
+    ],
+    "summary": "Community discussion exploring the history of 3D grappling hook mechanics in games, with debate over whether Chameleon Twist or earlier titles first implemented the mechanic.",
     "sources": []
   },
   {
@@ -393,9 +497,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community member encourages a Control replay before the upcoming sequel Resonant, inviting others to share theories and discoveries about the game's world-building.",
     "sources": []
   },
   {
@@ -407,9 +514,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion post reflecting on Mega Man 7's divisive reception among Classic Mega Man fans, particularly regarding its sprite design and place in the series.",
     "sources": []
   },
   {
@@ -421,9 +532,16 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "gaming-industry",
+      "pc-hardware",
+      "console-hardware",
+      "handheld-gaming"
+    ],
+    "summary": "Roco Kingdom, a popular Chinese creature-collecting RPG similar to Pok\u00e9mon and Palworld, launches globally across PC, PlayStation, Xbox, and mobile platforms.",
     "sources": []
   },
   {
@@ -435,9 +553,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 28,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "User critiques Square Enix's trailer marketing approach for Final Fantasy games, arguing they fail to appeal to general audiences and new players.",
     "sources": []
   },
   {
@@ -449,9 +570,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "1001: Threads of Mizan, a big-budget Arabian fantasy adventure game from Saudi-financed MBC Game Studio, has been revealed with gameplay footage and previews.",
     "sources": []
   },
   {
@@ -463,9 +588,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 5,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player shares thoughts and questions about Pragmata's ending, discussing character fates and story ambiguity.",
     "sources": []
   },
   {
@@ -477,9 +605,14 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "steam-platform",
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Psychonauts 2 is heavily discounted on Steam following Double Fine's independence from Microsoft, with all proceeds now going directly to the studio.",
     "sources": []
   },
   {
@@ -491,9 +624,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "retro"
+    ],
+    "summary": "A personal retrospective on missing out on the ProtoMan version of Mega Man Battle Network and reflecting on gameplay differences between versions.",
     "sources": []
   },
   {
@@ -505,9 +641,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 75,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "CD PROJEKT RED and Blizzard Entertainment announce a major collaboration, marking a significant partnership between two major game development studios.",
     "sources": []
   },
   {
@@ -519,9 +658,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion post asking which defunct JRPG franchises fans would most like to see revived with new entries.",
     "sources": []
   },
   {
@@ -533,9 +675,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "indie-games",
+      "game-dev"
+    ],
+    "summary": "Tarae: The Unbound, an indie game, releases a reveal trailer showcasing gameplay and visuals.",
     "sources": []
   },
   {
@@ -547,9 +692,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Tides of Annihilation reveals a new Gamescom trailer and announces voice actress Angela Sant'Albano replacing Jennifer English as the lead voice actor.",
     "sources": []
   },
   {
@@ -561,9 +709,14 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-history",
+      "retro"
+    ],
+    "summary": "Heroes of Might and Magic III Remake announced with a fresh approach that differentiates it from the original and existing HD versions.",
     "sources": []
   },
   {
@@ -575,9 +728,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-discovery"
+    ],
+    "summary": "CD Projekt Red announces The Witcher 3: Wild Hunt \u2014 Songs of the Past, a full-fledged third expansion coming to multiple platforms in 2027.",
     "sources": []
   },
   {
@@ -589,9 +746,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Final Fantasy VII Revelation releases its second trailer, generating significant anticipation for this major franchise installment.",
     "sources": []
   },
   {
@@ -603,9 +763,14 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "pc-hardware",
+      "console-hardware",
+      "handheld-gaming"
+    ],
+    "summary": "CD Projekt Red announces The Witcher 3: Wild Hunt Remastered launching September 29, 2026 across PS5, Xbox Series, Switch 2, and PC with free upgrades for existing owners.",
     "sources": []
   },
   {
@@ -617,9 +782,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "ONTOS indie game reveals gameplay through a new trailer.",
     "sources": []
   },
   {
@@ -631,9 +799,14 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "steam-platform",
+      "grand-strategy"
+    ],
+    "summary": "Paradox Interactive announces Afterworld, a post-apocalyptic grand strategy game set in North America, with trailer and Steam store page now available.",
     "sources": []
   },
   {
@@ -645,9 +818,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Genigods: Nezha, a xianxia-inspired character action game, debuts a Gamescom trailer showcasing its unique god-body combat mechanic.",
     "sources": []
   },
   {
@@ -659,9 +836,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "LEGO Skylines, a cozy city-builder collaboration, announced for 2027 release across multiple platforms including Switch 2.",
     "sources": []
   },
   {
@@ -673,9 +854,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Stage Tour, a Guitar Hero-style rhythm game from RedOctane, launches December 10, 2026 across all platforms with over 90 licensed songs.",
     "sources": []
   },
   {
@@ -687,9 +872,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "retro"
+    ],
+    "summary": "Showa American Story, a retro-themed RPG set in an alternate 1980s America, showcases new gameplay trailer at gamescom.",
     "sources": []
   },
   {
@@ -701,9 +890,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Hoyoverse's Petit Planet, an Animal Crossing-like title, announces winter 2026 release across PC and mobile platforms with closed beta testing beginning September 20th.",
     "sources": []
   },
   {
@@ -715,9 +908,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "steam-platform",
+      "game-dev"
+    ],
+    "summary": "Wanted: Dead switches publishers and receives AI-generated key art on Steam, drawing criticism from the gaming community.",
     "sources": []
   },
   {
@@ -729,9 +926,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "EXODUS announces its official release date of April 7, 2027, featuring a trailer showcasing companion character Salt, an awakened octopus.",
     "sources": []
   },
   {
@@ -743,9 +943,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Official gameplay reveal trailer released for Game of Thrones: War for Westeros, a licensed game based on the popular fantasy franchise.",
     "sources": []
   },
   {
@@ -757,9 +960,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Star Wars Zero Company, a new tactical game from Bit Reactor published by EA and Lucasfilm Games, launches August 27, 2026 across PC and current-gen consoles.",
     "sources": []
   },
   {
@@ -771,9 +978,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 55,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "indie-games"
+    ],
+    "summary": "Thatgamecompany, known for Journey and Sky, launches a new publishing label to fund emotionally ambitious games up to AA budgets.",
     "sources": []
   },
   {
@@ -785,9 +996,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Remedy Entertainment releases a trailer for CONTROL Resonant, an upcoming expansion featuring protagonist Dylan Faden in an altered Manhattan setting.",
     "sources": []
   },
   {
@@ -799,9 +1013,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "PUBG: DED.NET, a new game from the PUBG team, opens closed beta registration.",
     "sources": []
   },
   {
@@ -813,9 +1030,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Crimson Desert receives a free Enhanced Update with new story content, expanded voice-over support for multiple languages, and Arabic interface localization.",
     "sources": []
   },
   {
@@ -827,9 +1047,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "steam-platform",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Silent Hill: Townfall reveals its cast ahead of a September 24, 2026 release, with pre-orders now available on Steam.",
     "sources": []
   },
   {
@@ -841,9 +1065,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Hoyoverse announces Nodus Fall, a new co-op action RPG with pre-registration now available.",
     "sources": []
   },
   {
@@ -855,9 +1083,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Ananta, a new game, is scheduled to release on PS5, PC, and mobile platforms on January 15, 2027.",
     "sources": []
   },
   {
@@ -869,9 +1100,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "steam-platform"
+    ],
+    "summary": "Ubisoft announces Tom Clancy's Rainbow Six Tactics, a tactical strategy game coming to Steam inspired by XCOM-style gameplay.",
     "sources": []
   },
   {
@@ -884,9 +1119,14 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "retro",
+      "handheld-gaming",
+      "gaming-history",
+      "game-discovery"
+    ],
+    "summary": "A personal retrospective on the Game Boy Micro's portability and design philosophy based on real-world travel experience.",
     "sources": []
   },
   {
@@ -899,9 +1139,13 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "The inaugural Pixel Arcadia showcase revealed multiple retro game announcements including Terranigma's return, a Commodore Alien Breed collection, a new Ninja JajaMaru game, and Sanitarium Enhanced remaster.",
     "sources": []
   },
   {
@@ -914,9 +1158,13 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "BBG Entertainment is releasing an authorized remake of the 1983 classic Manic Miner across multiple platforms with both original and modern graphics, though the promotional trailer shows signs of AI generation.",
     "sources": []
   },
   {
@@ -929,9 +1177,14 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "console-hardware",
+      "game-discovery"
+    ],
+    "summary": "Hamster Corporation's Console Archives is releasing the NES version of Taito's Bubble Bobble on PS5 and Nintendo Switch 2 this week to celebrate the game's anniversary.",
     "sources": []
   },
   {
@@ -944,9 +1197,13 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Castlevania: Belmont's Curse features voice actors from the Netflix Castlevania series, according to Konami's official announcement.",
     "sources": []
   },
   {
@@ -959,9 +1216,13 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 55,
+    "tags": [
+      "gaming-history",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Game Informer magazine celebrates its 35th anniversary with a special issue, marking three decades as one of the last major gaming publications still in print.",
     "sources": []
   },
   {
@@ -974,9 +1235,14 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 58,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "steam-platform",
+      "gaming-industry"
+    ],
+    "summary": "Segagaga director Tetsu Okano is using generative AI extensively in his upcoming Steam shooter HIJURA SCARLET GEAR, a controversial decision amid industry backlash against AI in games.",
     "sources": []
   },
   {
@@ -989,9 +1255,13 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A Washington collector's prized NES collection of over 860 games, accumulated over 40 years, was stolen in a burglary, devastating a lifelong hobby.",
     "sources": []
   },
   {
@@ -1002,9 +1272,14 @@
     "feed_tags": [
       "steam-deck"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "leaks",
+      "console-hardware",
+      "handheld-gaming",
+      "gaming-hardware"
+    ],
+    "summary": "A reputable leaker dismisses rumors of a $600 price point for an upcoming PS6 handheld device.",
     "sources": []
   },
   {
@@ -1016,9 +1291,12 @@
       "gaming-industry",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Chinese-developed games dominated the Opening Night Live showcase at Gamescom, signaling increased prominence of Chinese studios in global gaming announcements.",
     "sources": []
   },
   {
@@ -1029,9 +1307,12 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Gamescom Opening Night Live 2026 took place with industry leaders and gaming celebrities in attendance, marking the eighth iteration of the digital showcase.",
     "sources": []
   },
   {
@@ -1042,9 +1323,12 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Schell Games, known for Among Us 3D and I Expect You to Die series, has reportedly laid off staff.",
     "sources": []
   },
   {
@@ -1055,9 +1339,14 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware",
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Nvidia announces ray-traced Nanite support, native anti-cheat, and DLSS 4.5 updates at Gamescom 2026, targeting developers across multiple platforms.",
     "sources": []
   },
   {
@@ -1068,9 +1357,13 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-industry",
+      "game-discovery"
+    ],
+    "summary": "Irish startup Entity secures $5.8 million in seed funding to develop a browser-based gaming platform delivering console-quality experiences without downloads.",
     "sources": []
   },
   {
@@ -1081,9 +1374,13 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-industry",
+      "indie-games"
+    ],
+    "summary": "The Game Developer Association of India selects 15 studios for its inaugural Supernova incubation program out of 260 applicants.",
     "sources": []
   },
   {
@@ -1094,9 +1391,13 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Focus Entertainment partners with Maverick Games to publish their debut racing game Clutch.",
     "sources": []
   },
   {
@@ -1107,9 +1408,13 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-industry"
+    ],
+    "summary": "Thatgamecompany establishes a publishing division to support games that prioritize emotional and artistic impact.",
     "sources": []
   },
   {
@@ -1120,9 +1425,12 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "The European games industry generated \u20ac24 billion in revenue in 2024 with 6,600+ studios and 95,000+ employees, demonstrating significant economic scale.",
     "sources": []
   },
   {
@@ -1133,9 +1441,13 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-industry"
+    ],
+    "summary": "Gamescom Dev's new managing director highlights that smaller studios represent the largest untapped opportunity in the current games market according to survey data.",
     "sources": []
   },
   {
@@ -1146,9 +1458,12 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Newzoo forecasts the global gaming market will reach $213.9 billion in 2026 with 6.1% year-over-year growth, driven primarily by China and US consumer spending.",
     "sources": []
   },
   {
@@ -1159,9 +1474,13 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "game-dev",
+      "gaming-industry",
+      "godot-engine"
+    ],
+    "summary": "W4 Games, a Godot Engine partner firm, secures $18M Series B funding from Tencent and signs deal to expand Godot ecosystem in Asia.",
     "sources": []
   },
   {
@@ -1172,9 +1491,12 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "GDC Festival of Gaming announces venue and format changes for its 2027 event, including a new Business Hall at Moscone West.",
     "sources": []
   },
   {
@@ -1187,9 +1509,13 @@
       "gaming-industry",
       "game-discovery"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Analysis examines how PC game genres among hit titles have shifted since 2021, with accompanying industry data and discovery insights.",
     "sources": []
   },
   {
@@ -1201,9 +1527,13 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "CD Projekt Red is releasing a free remaster of The Witcher 3 alongside the new Songs of the Past expansion, including both original expansions bundled together.",
     "sources": []
   },
   {
@@ -1215,9 +1545,12 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Amplitude Studios announces Humankind 2, a sequel to the history-based strategy game launching in 2027 with new climate change mechanics.",
     "sources": []
   },
   {
@@ -1229,9 +1562,13 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 58,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Iceflake Studios, now stewarding the Cities: Skylines franchise after taking over from Colossal Order, is developing Lego Skylines, a brick-built city builder game.",
     "sources": []
   },
   {
@@ -1243,9 +1580,13 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Paradox Interactive officially announces Afterworld, a post-apocalyptic grand strategy game set in procedurally generated North America, marking the studio's first non-historical setting in a decade.",
     "sources": []
   },
   {
@@ -1257,9 +1598,12 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Ubisoft announces Rainbow Six Tactics, a turn-based tactical spinoff of Rainbow Six Siege featuring destructible environments and the game's operator roster.",
     "sources": []
   },
   {
@@ -1271,9 +1615,13 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Penguin Colony, the next game from the developers behind Umurangi Generation, has announced its release date through a playful trailer that humorously fakes industry buzzwords like RTX and genAI.",
     "sources": []
   },
   {
@@ -1285,9 +1633,13 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 58,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Roblox has banned games with endless scrolling reward mechanics for players under 16, addressing concerns about addictive engagement patterns in user-generated content.",
     "sources": []
   },
   {
@@ -1299,9 +1651,12 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Nvidia releases DLSS 4.5 Ray Reconstruction to improve ray-traced shadow and lighting quality in games.",
     "sources": []
   },
   {
@@ -1313,9 +1668,14 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry",
+      "ai"
+    ],
+    "summary": "Nvidia's ACE generative AI technology, previously used in PUBG, will enable AI-powered creature interactions in the upcoming Pokemon-like RPG Aniimo from Pawprint Studio.",
     "sources": []
   },
   {
@@ -1327,9 +1687,14 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "pc-hardware",
+      "gaming-news"
+    ],
+    "summary": "Terranigma, a beloved 1995 SNES action-RPG by Quintet, is being ported to PC by Clear River Games Development and Limited Run after 31 years.",
     "sources": []
   },
   {
@@ -1341,9 +1706,13 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Discord states they have not yet received a GTA 6 leak subpoena from Take-Two but will evaluate its validity and scope if served one.",
     "sources": []
   },
   {
@@ -1355,9 +1724,12 @@
       "gaming-industry",
       "game-dev"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Riot Games is discontinuing active development of 2XKO in December due to insufficient player retention to achieve sustainability.",
     "sources": []
   },
   {
@@ -1369,9 +1741,12 @@
       "gaming-industry",
       "game-dev"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Schell Games, co-developer of Among Us 3D, has laid off staff despite the studio's previous public commitment to avoiding layoffs.",
     "sources": []
   },
   {
@@ -1383,9 +1758,13 @@
       "gaming-industry",
       "game-dev"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-industry",
+      "indie-games"
+    ],
+    "summary": "Irish startup Entity raises $5M to develop console-quality browser games launching in 2027.",
     "sources": []
   },
   {
@@ -1397,9 +1776,13 @@
       "gaming-industry",
       "game-dev"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-industry"
+    ],
+    "summary": "thatgamecompany launches thatgamepublisher, a publishing initiative supported by revenue from Sky: Children of the Light.",
     "sources": []
   },
   {
@@ -1411,9 +1794,13 @@
       "gaming-industry",
       "game-dev"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-industry",
+      "godot"
+    ],
+    "summary": "W4 Games secures $18M funding and partners with Tencent to expand internationally and strengthen the Godot ecosystem in Asia.",
     "sources": []
   },
   {
@@ -1426,9 +1813,12 @@
       "sony",
       "console-hardware"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Onimusha: Way of the Sword launches September 4 on PlayStation 5, featuring Miyamoto Musashi wielding supernatural Oni powers in an action game set in Edo-period Kyoto.",
     "sources": []
   },
   {
@@ -1441,9 +1831,13 @@
       "sony",
       "console-hardware"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "Gamescom Opening Night Live showcases 19 upcoming PlayStation games including Acornia: Mirror Worlds and other 2027 releases.",
     "sources": []
   },
   {
@@ -1456,9 +1850,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Gamescom Opening Night Live 2026 featured multiple PS5 announcements, though described as not groundbreaking compared to other major gaming showcases.",
     "sources": []
   },
   {
@@ -1471,9 +1868,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 28,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A poll asking readers to rate Gamescom Opening Night Live 2026, which featured reveals for The Witcher 3: Songs of the Past, Exodus release date, and Final Fantasy 7 Revelation.",
     "sources": []
   },
   {
@@ -1486,9 +1886,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-discovery"
+    ],
+    "summary": "PS5 Arabian fantasy game '1001 Threads of Mizan' features magic carpet hoverboard mechanics in a co-op action experience.",
     "sources": []
   },
   {
@@ -1501,9 +1905,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Silver Palace, a gothic detective game, has been officially confirmed for PS5 release at Gamescom.",
     "sources": []
   },
   {
@@ -1516,9 +1924,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A critic highlights how Showa American Story stood out among generic trailers at Gamescom, noting that back-to-back presentations of similar games blur together.",
     "sources": []
   },
   {
@@ -1531,9 +1942,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "community"
+    ],
+    "summary": "A Train Sim World content creator expresses frustration that Train Sim World 7 will release on PS5 before their custom Japanese route add-on is completed.",
     "sources": []
   },
   {
@@ -1546,9 +1961,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "game-discovery"
+    ],
+    "summary": "The PS5 demo for Onimusha: Way of the Sword receives a substantial 9.6GB update adding new content including an additional boss encounter.",
     "sources": []
   },
   {
@@ -1561,9 +1979,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "HoYoverse announces Nodusfall, a new dark fantasy action game powered by Unreal Engine 5 with co-op multiplayer gameplay, marking a departure from their anime gacha titles.",
     "sources": []
   },
   {
@@ -1576,9 +1998,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-dev"
+    ],
+    "summary": "RedOctane's Stage Tour, a spiritual successor to Guitar Hero, is releasing on PS5 on December 10, 2026.",
     "sources": []
   },
   {
@@ -1591,9 +2017,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "Capcom reveals Proto Man in new gameplay trailer for Mega Man: Dual Override, an action platformer coming to PS5 and PS4 in 2027.",
     "sources": []
   },
   {
@@ -1606,9 +2036,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Ubisoft announces Rainbow Six Tactics, a turn-based strategy spinoff inspired by XCOM, launching in 2027.",
     "sources": []
   },
   {
@@ -1621,9 +2055,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Crimson Desert receives an Enhanced Edition on PS5 with story improvements, available as a free update for existing players and the default version for new purchases.",
     "sources": []
   },
   {
@@ -1636,9 +2073,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "SEGA's Crazy Taxi: World Tour showcases its online multiplayer features in a new trailer, allowing multiple players to compete for fares.",
     "sources": []
   },
   {
@@ -1651,9 +2091,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Snoop Dogg appears as an Elusive Target in Hitman, available free to all PS5 owners from August 27 to September 26.",
     "sources": []
   },
   {
@@ -1666,9 +2109,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-dev"
+    ],
+    "summary": "Paradox Interactive announces LEGO Skylines, a city-building game coming to PS5 developed by the Cities: Skylines 2 team.",
     "sources": []
   },
   {
@@ -1681,9 +2128,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Square Enix showed new gameplay footage of Final Fantasy 7 Rebirth at Gamescom, confirming the PS5 exclusive RPG is still on track for Spring 2027 release.",
     "sources": []
   },
   {
@@ -1696,9 +2146,14 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Frictional Games revealed gameplay for ONTOS, a new IP coming to PS5 in 2027, featuring branching narrative choices with multiple consequences.",
     "sources": []
   },
   {
@@ -1711,9 +2166,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "CD Projekt Red reveals the first look at The Witcher 3: Songs of the Past DLC expansion featuring new chain combat mechanics, enemy types, and locations, while making previous expansions free.",
     "sources": []
   },
   {
@@ -1726,9 +2184,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Mewgenics, an acclaimed 2026 strategy game from the creators of The Binding of Isaac, is coming to PS5 next month after being a PC exclusive.",
     "sources": []
   },
   {
@@ -1741,9 +2203,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "Zoopunk, the PS5 prequel to F.I.S.T., adds a playable cat character to its squad-based roster alongside existing animal protagonists.",
     "sources": []
   },
   {
@@ -1756,9 +2222,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 28,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Focus Entertainment and Saber Interactive announced Road Kings, a truck simulator, will launch on PS5 on March 11, 2027.",
     "sources": []
   },
   {
@@ -1771,9 +2240,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "CD Projekt Red announces a massive remaster of The Witcher 3 coming to PS5 in September with overhauled graphics, combat, and gameplay systems, free for existing players.",
     "sources": []
   },
   {
@@ -1786,9 +2259,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "No Law, a PS5 open-world cyberpunk RPG, showcased new gameplay footage at Gamescom with a 2027 release window.",
     "sources": []
   },
   {
@@ -1801,9 +2278,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Path of Exile 2 launches version 1.0 on December 11th and transitions to free-to-play on PS5 after a year of Early Access.",
     "sources": []
   },
   {
@@ -1816,9 +2297,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "gaming-news",
+      "leaks",
+      "game-dev"
+    ],
+    "summary": "Team 17 officially announces Worms: Galactic Tactics, a roguelike strategy spin-off previously leaked, coming to PS5 in 2027.",
     "sources": []
   }
 ]
