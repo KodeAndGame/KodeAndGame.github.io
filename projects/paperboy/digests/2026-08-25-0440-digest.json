@@ -9,9 +9,12 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Humble Bundle releases two new themed bundles featuring co-op games and Lovecraftian adventure titles.",
     "sources": []
   },
   {
@@ -24,9 +27,14 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 42,
+    "tags": [
+      "proton",
+      "steam-deck",
+      "linux-gaming",
+      "steam-platform"
+    ],
+    "summary": "dwproton-11.0-12 releases to fix compatibility issues with Wuthering Waves on SteamOS and Linux systems.",
     "sources": []
   },
   {
@@ -39,9 +47,14 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "steam-platform",
+      "indie-games"
+    ],
+    "summary": "Ancient Dungeon, a co-op dungeon crawler, adds Steam Frame support in a recent update alongside bug fixes.",
     "sources": []
   },
   {
@@ -54,9 +67,14 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 55,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "open-source",
+      "game-dev"
+    ],
+    "summary": "volt-gui, a new open-source graphics settings tool for Linux, offers an alternative to AMD Adrenaline and NVIDIA Settings for Linux gamers.",
     "sources": []
   },
   {
@@ -69,9 +87,14 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "DXVK-Sarek 1.13.0 release improves support for older GPUs to play modern games on Linux.",
     "sources": []
   },
   {
@@ -84,9 +107,13 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "How to Fish, a new indie co-op game on Steam, is gaining attention for its humorous online fishing gameplay.",
     "sources": []
   },
   {
@@ -99,9 +126,13 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "indie-games"
+    ],
+    "summary": "Paradox Interactive's publishing label Paradox Arc will publish the survival-crafting creature collector adventure 'Guardians of the Wild Sky,' launching in 2027.",
     "sources": []
   },
   {
@@ -114,9 +145,12 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Indie deck-builder 'Shroom and Gloom' is launching September 10th with hand-drawn mushroom-themed gameplay.",
     "sources": []
   },
   {
@@ -129,9 +163,13 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "retro",
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Apidya' Special, a remake of the 1992 Amiga shoot 'em up classic, releases August 25 with retro 16-bit pixel gameplay.",
     "sources": []
   },
   {
@@ -144,9 +182,13 @@
       "steam-deck",
       "proton"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Tails of Iron 2: Whiskers of Winter receives a free expansion featuring new content and crossovers with other games.",
     "sources": []
   },
   {
@@ -159,9 +201,15 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "linux-gaming",
+      "linux-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Linux 7.3 kernel merges initial driver support for Valve's upcoming 2026 Steam Controller, enabling native hardware recognition on Linux systems.",
     "sources": []
   },
   {
@@ -174,9 +222,13 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "linux-hardware"
+    ],
+    "summary": "Linux ath11k driver improvements for Qualcomm WiFi 6 hardware achieve 7x lower latency and 2.2x throughput gains.",
     "sources": []
   },
   {
@@ -189,9 +241,13 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Linux kernel 7.3 implements further restrictions on AF_ALG cryptography interface following deprecation in 7.2 due to security and maintenance concerns.",
     "sources": []
   },
   {
@@ -204,9 +260,12 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Mozilla announces plans to officially ship JPEG-XL image format support in Firefox 157, building on experimental support already available in Firefox 152+.",
     "sources": []
   },
   {
@@ -219,9 +278,13 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Early benchmarks of Linux 7.3 kernel show mixed performance results with some improvements and regressions compared to the previous stable release.",
     "sources": []
   },
   {
@@ -234,9 +297,11 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "open-source"
+    ],
+    "summary": "GNU Emacs 31.1 released with mouse control enabled by default and new user theme, though this is a general software update with minimal gaming relevance.",
     "sources": []
   },
   {
@@ -249,9 +314,16 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "wine",
+      "vulkan",
+      "direct3d",
+      "linux-gaming",
+      "open-source",
+      "proton"
+    ],
+    "summary": "VKD3D 2.1 released with new Direct3D 12 features implemented over Vulkan for Wine, improving compatibility for Direct3D games on Linux.",
     "sources": []
   },
   {
@@ -264,9 +336,14 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware",
+      "open-source"
+    ],
+    "summary": "Intel engineers propose DRM Fabric for Linux, following AMD's recent UALink patch series announcement.",
     "sources": []
   },
   {
@@ -279,9 +356,12 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "Linux 7.3 kernel adds support for newer RISC-V extensions and various system improvements, with limited direct gaming relevance.",
     "sources": []
   },
   {
@@ -294,9 +374,14 @@
       "linux-hardware",
       "open-source"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "AMD k10temp driver adds per-CCD temperature monitoring for EPYC Zen 5 processors in Linux 7.3 kernel.",
     "sources": []
   },
   {
@@ -308,9 +393,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "D3 Publisher and Sandlot announced Earth Defense Force 6.2: Invaders from Another World, a PlayStation 5-enhanced version launching in Japan in 2027.",
     "sources": []
   },
   {
@@ -322,9 +410,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Capcom will showcase PRAGMATA and other titles including Street Fighter 6 at Gamescom, with speculation about upcoming DLC announcements.",
     "sources": []
   },
   {
@@ -336,9 +427,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 18,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion thread about favorite video game skyboxes, inspired by the Duskbloods playtest.",
     "sources": []
   },
   {
@@ -350,9 +444,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Nintendo Music streaming service adds the final Mario Kart 8 Deluxe free roam track plus bonus tracks, completing the base game soundtrack.",
     "sources": []
   },
   {
@@ -364,9 +461,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-history"
+    ],
+    "summary": "Nintendo releases live recordings of Mario Kart World Title Theme and Crown City Theme, with additional tracks added to Nintendo Music service.",
     "sources": []
   },
   {
@@ -378,9 +478,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Player discusses how Resident Evil 4 Remake improved the controversial character of Ashley through better writing and game design compared to the original.",
     "sources": []
   },
   {
@@ -392,9 +495,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Analysis of whether Persona 6 will adopt the $80 USD standard pricing that major publishers like Rockstar and Nintendo have recently implemented for flagship releases.",
     "sources": []
   },
   {
@@ -406,9 +512,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 65,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "FromSoftware's The Duskbloods closed network test received more applicants than Elden Ring Nightreign despite being exclusive to Switch 2, surprising the developer.",
     "sources": []
   },
   {
@@ -420,9 +530,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "game-dev"
+    ],
+    "summary": "A retrospective look at Housemarque's unreleased 1998 PC game 'Shot' that was powered by 3Dfx Voodoo\u00b2 graphics technology.",
     "sources": []
   },
   {
@@ -434,9 +548,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A community member argues against the trend of demanding more frequent mainline releases from major franchises, citing development complexity and quality concerns.",
     "sources": []
   },
   {
@@ -448,9 +565,11 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Game Informer announces international print subscription availability across multiple countries.",
     "sources": []
   },
   {
@@ -462,9 +581,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion poll asking players about their preferred Gummi Ship minigame mechanics across the Kingdom Hearts franchise.",
     "sources": []
   },
   {
@@ -476,9 +598,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion about overused words in game titles and how naming trends influence player purchasing decisions.",
     "sources": []
   },
   {
@@ -490,9 +616,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "game-dev"
+    ],
+    "summary": "A retrospective piece examining sprite work and character design in classic games like Illusion of Gaia, prompted by a Terranigma remaster announcement.",
     "sources": []
   },
   {
@@ -504,9 +634,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion thread asking players about their favorite characters to use in Resident Evil 4 Remake's Mercenaries mode.",
     "sources": []
   },
   {
@@ -518,9 +651,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "pc-hardware",
+      "console-hardware"
+    ],
+    "summary": "Call of Duty MW4 early access data shows PS5 as the most popular platform, followed by Xbox Series X and Steam.",
     "sources": []
   },
   {
@@ -532,9 +669,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "steam-platform",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "A discussion exploring whether younger gamers care about DRM and Steam's dominance versus GOG's DRM-free approach in the gaming market.",
     "sources": []
   },
   {
@@ -546,9 +687,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player shares an anecdote about a memorable and meme-worthy NPC dialogue line from Legends ZA that has become part of the game's community culture.",
     "sources": []
   },
   {
@@ -560,9 +704,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A community discussion thread asking players about their favorite Pokemon Champion-level trainer from the 30-year history of the franchise.",
     "sources": []
   },
   {
@@ -574,9 +721,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "User seeks opinions on whether Dead Island 2 at a $10 discount is worth playing as a time-filler before another release.",
     "sources": []
   },
   {
@@ -588,9 +738,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "gaming-history"
+    ],
+    "summary": "Alien Breed 35th Anniversary Collection launching September 24th on PC and consoles, featuring 6 games from the classic franchise.",
     "sources": []
   },
   {
@@ -602,9 +756,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Metal Gear Solid: Master Collection Vol. 2 official discussion thread opens, welcoming both returning fans and newcomers to the series with spoiler considerations.",
     "sources": []
   },
   {
@@ -616,9 +774,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Ninja Jajamaru: Yokai Night Parade announced for Switch 2, PS5, and Steam in 2027 as a 2D/3D hybrid isometric wave-based dungeon battler.",
     "sources": []
   },
   {
@@ -630,9 +792,14 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "steam-platform",
+      "gaming-news"
+    ],
+    "summary": "Classic DOS games Ecstatica 1 & 2 are being re-released on Steam this year, bringing Psygnosis's cult-favorite titles to modern PC audiences.",
     "sources": []
   },
   {
@@ -644,9 +811,14 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-dev",
+      "retro"
+    ],
+    "summary": "Carrier Command 2 announced for console release by Atari, a sequel to the classic Amiga strategy game.",
     "sources": []
   },
   {
@@ -658,9 +830,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A community engagement post asking users to pick a number to determine which video game protagonist they would be reborn as.",
     "sources": []
   },
   {
@@ -672,9 +847,14 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "console-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Sanitarium Enhanced, a remastered version of the 1998 psychological horror classic, is coming to PC and multiple consoles in 2026 with controller support and quality of life improvements.",
     "sources": []
   },
   {
@@ -686,9 +866,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 55,
+    "tags": [
+      "leaks",
+      "gaming-history",
+      "game-dev"
+    ],
+    "summary": "Gameplay footage from a cancelled open-world Iron Man game by Avalanche Studios (Just Cause developer) has surfaced on the Internet Archive, showing an early prototype build from around 2012.",
     "sources": []
   },
   {
@@ -700,9 +884,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "Moon Studios announces two new games in development: a survival game set in the No Rest for the Wicked universe and a city builder called Luma.",
     "sources": []
   },
   {
@@ -714,9 +902,14 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "gaming-news",
+      "steam-platform"
+    ],
+    "summary": "Classic SNES action RPG Terranigma is being revived for PC and modern consoles in 2027, coming to Steam, GOG, Nintendo Switch, Xbox, and PlayStation.",
     "sources": []
   },
   {
@@ -728,9 +921,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "The Blood of Dawnwalker developers release new footage showcasing the game's 60 fps Performance mode on consoles.",
     "sources": []
   },
   {
@@ -742,9 +938,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community discussion questioning whether 'foeslop' exists as a competitive alternative to the 'friendslop' multiplayer game genre, with Gang Beasts cited as a potential example.",
     "sources": []
   },
   {
@@ -756,9 +955,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-history",
+      "retro"
+    ],
+    "summary": "A Game Informer article about Kirby Super Star contains a disputed claim that Super Mario World was retrofitted with simultaneous co-op for the SNES Classic Edition in 2017.",
     "sources": []
   },
   {
@@ -770,9 +973,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "xbox"
+    ],
+    "summary": "Xbox reverses course on multiplatform game trailers, removing PS5 and Switch logos from promotional materials after earlier contradictory statements.",
     "sources": []
   },
   {
@@ -784,9 +991,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Hideki Kamiya's studio Clovers recruits renowned composers from the Bayonetta and Okami franchises, including Hiroshi Yamaguchi and other notable talent.",
     "sources": []
   },
   {
@@ -798,9 +1008,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Neverwinter Nights community creator Luke Scull is releasing a new module called Secrets of Skullport, continuing his legacy of content for the classic 2000 CRPG.",
     "sources": []
   },
   {
@@ -812,9 +1026,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Well Dweller, an indie game, is releasing on Steam on September 22nd.",
     "sources": []
   },
   {
@@ -826,9 +1044,13 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Focus Interactive will publish Maverick Games' open-world action-driving game CLUTCH, launching Spring 2027 across PS5, Xbox Series, and PC.",
     "sources": []
   },
   {
@@ -840,9 +1062,14 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "handheld-gaming",
+      "console-hardware",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Lies of P director discusses the Nintendo Switch 2 port, praising its handheld performance and detailing the physical release and porting process.",
     "sources": []
   },
   {
@@ -854,9 +1081,12 @@
       "gaming-news",
       "community"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "English voice cast announced for Castlevania: Belmont's Curse, featuring actors like Graham McTavish as Dracula and JB Blanc as Trevor Belmont.",
     "sources": []
   },
   {
@@ -869,9 +1099,14 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Commodore International announces Alien Breed 35th Anniversary Collection featuring six titles, developed by Antstream and marking Commodore's first publishing effort in its new era.",
     "sources": []
   },
   {
@@ -884,9 +1119,14 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Classic SNES RPG Terranigma is being re-released across multiple platforms including Switch, Switch 2, PS5, Xbox, and PC in early 2025, marking the first official North American release.",
     "sources": []
   },
   {
@@ -899,9 +1139,14 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "console-hardware",
+      "indie-games"
+    ],
+    "summary": "Classic Jaleco franchise Ninja JajaMaru is being revived with a new hack-and-slash adventure coming to PC, Switch 2, and PS5.",
     "sources": []
   },
   {
@@ -914,9 +1159,13 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Pixel Arcadia, a new retro gaming showcase, launches on August 24, 2026, featuring retro-inspired releases, HD remakes, and classic gaming hardware.",
     "sources": []
   },
   {
@@ -929,9 +1178,13 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-history",
+      "arcade",
+      "gaming-news"
+    ],
+    "summary": "A comprehensive new book on arcade gaming history from 1971-1999 is launching September 2026, aiming to be the definitive text on the arcade industry's first three decades.",
     "sources": []
   },
   {
@@ -944,9 +1197,14 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "homebrew",
+      "atari-jaguar"
+    ],
+    "summary": "After 37 years in development, Colin Porch's sequel to the classic Head Over Heels is coming to Atari Jaguar, completing a long-delayed passion project from an 81-year-old developer.",
     "sources": []
   },
   {
@@ -959,9 +1217,15 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "retro",
+      "emulation",
+      "pc-hardware",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "An unofficial PC port of the classic N64 racing game Extreme-G has been released with enhanced frame rates and modern hardware compatibility, reviving the 1997 title without AI involvement.",
     "sources": []
   },
   {
@@ -974,9 +1238,13 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Game Center CX, a popular retro gaming variety show, has lifted its ban on featuring PS3 and Nintendo Wii games, reflecting evolving definitions of what constitutes retro gaming.",
     "sources": []
   },
   {
@@ -989,9 +1257,15 @@
       "retro",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 58,
+    "tags": [
+      "retro",
+      "emulation",
+      "fan-translation",
+      "community",
+      "gaming-history"
+    ],
+    "summary": "After 31 years, fans have completed and released an English translation patch for the Super Famicom strategy RPG Super Robot Wars 4.",
     "sources": []
   },
   {
@@ -1002,9 +1276,14 @@
     "feed_tags": [
       "steam-deck"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 75,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "gaming-hardware",
+      "gaming-news"
+    ],
+    "summary": "Steam Deck handheld device has been repurposed to control Mars rovers, demonstrating unexpected real-world applications beyond gaming.",
     "sources": []
   },
   {
@@ -1015,9 +1294,13 @@
     "feed_tags": [
       "steam-deck"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "proton",
+      "linux-gaming",
+      "game-dev"
+    ],
+    "summary": "dwproton update resolves crashes in Wuthering Waves following the game's 3.6 patch.",
     "sources": []
   },
   {
@@ -1028,9 +1311,13 @@
     "feed_tags": [
       "steam-deck"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "steam-platform",
+      "gaming-news"
+    ],
+    "summary": "NBA 2K27 receives Steam Deck Verified status ahead of its upcoming release, indicating compatibility with Valve's handheld device.",
     "sources": []
   },
   {
@@ -1041,9 +1328,13 @@
     "feed_tags": [
       "steam-deck"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 28,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Monster Hunter Stories 3 receives its largest discount yet through Humble's Daily Deal, offering a good value for Steam Deck players.",
     "sources": []
   },
   {
@@ -1054,9 +1345,13 @@
     "feed_tags": [
       "steam-deck"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "community",
+      "game-dev"
+    ],
+    "summary": "A new Decky Loader plugin enables framerate logging and benchmarking for Steam Deck games, providing useful development and performance analysis tools.",
     "sources": []
   },
   {
@@ -1067,9 +1362,13 @@
     "feed_tags": [
       "steam-deck"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "steam-deck",
+      "indie-games"
+    ],
+    "summary": "Humble Bundle releases a Lovecraftian-themed bundle featuring 8 horror games with Steam Deck compatibility.",
     "sources": []
   },
   {
@@ -1080,9 +1379,12 @@
     "feed_tags": [
       "steam-deck"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of newly Steam Deck Verified and Playable titles including Mortal Shell 2, Elder Scrolls Skyrim, and Monster Hunter Wilds.",
     "sources": []
   },
   {
@@ -1093,9 +1395,12 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "MTG executive discusses the company's $620 million acquisition of Plarium (Raid: Shadow Legends) and plans to expand the company's size.",
     "sources": []
   },
   {
@@ -1106,9 +1411,12 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Survey reveals 96% of game studios operate or plan to operate direct-to-consumer web stores, reflecting industry shift away from platform dependency.",
     "sources": []
   },
   {
@@ -1119,9 +1427,13 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Double Fine Productions regains full ownership of its IP and publishing rights after becoming independent from Xbox.",
     "sources": []
   },
   {
@@ -1132,9 +1444,13 @@
     "feed_tags": [
       "gaming-industry"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 75,
+    "tags": [
+      "gaming-industry",
+      "leaks",
+      "gaming-news"
+    ],
+    "summary": "Take-Two Interactive issues subpoenas to Microsoft, Discord, and X as it pursues legal action against those responsible for GTA 6 leaks.",
     "sources": []
   },
   {
@@ -1146,9 +1462,14 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "steam-platform",
+      "gaming-news",
+      "indie-games",
+      "community"
+    ],
+    "summary": "How to Fish, a quirky co-op game on Steam, receives a major update adding private lobbies, eight-player support, and anti-griefer features.",
     "sources": []
   },
   {
@@ -1160,9 +1481,13 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "community",
+      "game-dev"
+    ],
+    "summary": "A comprehensive Mexico expansion mod for Red Dead Redemption 2 called Nuevo Paraiso is set to release in September, fulfilling a long-standing community desire to explore the border regions absent from the base game.",
     "sources": []
   },
   {
@@ -1174,9 +1499,13 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "CD Projekt Red confirms The Witcher 4 is targeting a 2028 release while announcing new DLC 'Songs of the Past' for The Witcher 3.",
     "sources": []
   },
   {
@@ -1188,9 +1517,14 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "steam-platform",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Mortal Shell 2 developers respond to player backlash over disabled achievements when using the Slayer Seal 'easy mode' item, explaining it wasn't intended as punitive.",
     "sources": []
   },
   {
@@ -1202,9 +1536,14 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "leaks",
+      "gaming-industry"
+    ],
+    "summary": "Paradox Interactive's unannounced grand strategy game Afterworld has leaked ahead of its Gamescom reveal, reportedly featuring post-apocalyptic survival gameplay.",
     "sources": []
   },
   {
@@ -1216,9 +1555,13 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "pc-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Weekly PC gaming digest highlighting Gamescom announcements, GTA 6 documentary, and notable new releases including Folk Emerging, MGS4, and indie titles.",
     "sources": []
   },
   {
@@ -1230,9 +1573,12 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Today's Star Is is a free daily puzzle game from Love Eternal developers featuring a new challenging level each day.",
     "sources": []
   },
   {
@@ -1244,9 +1590,15 @@
       "gaming-news",
       "indie-games"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "retro",
+      "game-dev",
+      "community",
+      "mods",
+      "game-discovery"
+    ],
+    "summary": "Tamriel Rebuilt, a major Morrowind expansion mod, releases its Poison Song update adding House Indoril membership, Ordinator faction quests, and new mainland regions.",
     "sources": []
   },
   {
@@ -1258,9 +1610,13 @@
       "gaming-industry",
       "game-dev"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "indie-games",
+      "game-dev"
+    ],
+    "summary": "Major talent agency CAA launches Frame1Games, a new funding venture aimed at supporting under-resourced indie game developers with financing and resources.",
     "sources": []
   },
   {
@@ -1272,9 +1628,13 @@
       "gaming-industry",
       "game-dev"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Mutter and Blue Prince won awards at Gamescom Dev Awards 2026, highlighting notable indie and independent game development achievements.",
     "sources": []
   },
   {
@@ -1286,9 +1646,12 @@
       "gaming-industry",
       "game-dev"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Gamescom plans responsible expansion strategy following record-breaking attendance, focusing on localized market relevance for future growth.",
     "sources": []
   },
   {
@@ -1301,9 +1664,13 @@
       "sony",
       "console-hardware"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-dev"
+    ],
+    "summary": "Into the Radius 2, a hardcore VR survival shooter, launches on PlayStation VR2 on September 24, 2026.",
     "sources": []
   },
   {
@@ -1316,9 +1683,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 55,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "retro"
+    ],
+    "summary": "Falcom president confirms plans to continue remaking classic Trails games beyond the upcoming Trails in the Sky 2nd Chapter, following the success of the first game's remake.",
     "sources": []
   },
   {
@@ -1331,9 +1702,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "retro",
+      "console-hardware",
+      "game-discovery"
+    ],
+    "summary": "A new Commodore 64 compilation called Cosmi: Forbidden Forest & Beyond featuring 10+ classic games is coming to PS5.",
     "sources": []
   },
   {
@@ -1346,9 +1721,15 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-discovery",
+      "gaming-history",
+      "retro"
+    ],
+    "summary": "Team 17's Alien Breed franchise is returning with a comprehensive PS5 compilation featuring the complete original series to celebrate its 35th anniversary.",
     "sources": []
   },
   {
@@ -1361,9 +1742,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Bitmap Bureau's He-Man brawler Dragon Pearl of Destruction delayed from April 2025 to summer 2027.",
     "sources": []
   },
   {
@@ -1376,9 +1760,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Ninja Baseball Bat Man, a 1993 Irem beat-'em-up, is being revived with a new Bases Loaded stage and coming to PS5 on December 10th.",
     "sources": []
   },
   {
@@ -1391,9 +1779,14 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-history",
+      "retro",
+      "console-hardware"
+    ],
+    "summary": "Terranigma, a cult 16-bit SNES RPG from 1995, is finally receiving its first-ever official US release in 2027 with a physical PS5 version after three decades of licensing complications.",
     "sources": []
   },
   {
@@ -1406,9 +1799,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "Well Dweller, an indie game by solo developer Kyle Thompson, launches on PS5 amid a crowded September 2026 release window alongside major titles like Marvel's Wolverine and Silent Hill: Townfall.",
     "sources": []
   },
   {
@@ -1421,9 +1818,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Pixel Arcadia livestream event featuring expected reveals of retro game ports, including Terranigma, as a successor to E3 coverage.",
     "sources": []
   },
   {
@@ -1436,9 +1837,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "Maverick Games, led by ex-Forza Horizon developers, secures a new publisher for their upcoming open-world racer Clutch after Amazon partnership fell through.",
     "sources": []
   },
   {
@@ -1451,9 +1856,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Xbox has stopped promoting PS5 versions in multiplatform game trailers, reversing a previous practice that drew criticism.",
     "sources": []
   },
   {
@@ -1466,9 +1875,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 78,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "CD Projekt Red confirms The Witcher 4 is planned for a 2028 release, with the developer teasing additional announcements at Gamescom.",
     "sources": []
   },
   {
@@ -1481,9 +1894,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "leaks",
+      "gaming-industry"
+    ],
+    "summary": "The Stop Killing Games movement distances itself from GTA 6 leaks released by a group called Cyberleek ahead of the game's official reveal.",
     "sources": []
   },
   {
@@ -1496,9 +1913,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Sony launches advertising campaign highlighting PS5 exclusive games following their shift away from PC releases.",
     "sources": []
   },
   {
@@ -1511,9 +1932,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "leaks",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "A playtest version of Q-Games' next title has leaked on SteamDB ahead of its expected Gamescom reveal.",
     "sources": []
   },
   {
@@ -1526,9 +1951,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "console-hardware",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "PS5 players are organizing a protest blackout against Sony by unplugging their consoles to reduce active user metrics, though the actual impact and scale of participation remains unclear.",
     "sources": []
   },
   {
@@ -1541,9 +1970,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Sony fixed a PS5 best-selling games list ordering issue over the weekend that had incorrectly featured certain titles on the PS Store homepage.",
     "sources": []
   },
   {
@@ -1556,9 +1988,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 52,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "A major week of PS5 releases includes Metal Gear Solid Master Collection Vol 2, Star Wars Zero Company, Aliens: Fireteam Elite 2, and A Plague Tale Legacy among 26+ new games.",
     "sources": []
   },
   {
@@ -1571,9 +2007,13 @@
       "sony",
       "gaming-news"
     ],
-    "significance": null,
-    "tags": [],
-    "summary": "",
+    "significance": 45,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Rebel Wolves confirms PS5 RPG The Blood of Dawnwalker will include a 60FPS Performance Mode via day one patch after initially omitting it from launch specifications.",
     "sources": []
   },
   {
@@ -1586,9 +2026,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": 0,
-    "tags": [],
-    "summary": "",
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Rockstar Games will show an Extended Look of GTA 6 on Netflix before the game's November 2026 release.",
     "sources": []
   },
   {
@@ -1601,9 +2044,12 @@
       "sony",
       "gaming-news"
     ],
-    "significance": 0,
-    "tags": [],
-    "summary": "",
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Guide providing dates, times, and details for Gamescom Opening Night Live 2026 hosted by Geoff Keighley.",
     "sources": []
   }
 ]
