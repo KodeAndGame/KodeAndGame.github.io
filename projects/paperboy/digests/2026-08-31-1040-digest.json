@@ -1,0 +1,1174 @@
+[
+  {
+    "title": "Portal: Alive & Kicking is a full remake and re-imagining of Valve's classic out now on Steam",
+    "url": "https://www.gamingonlinux.com/2026/08/portal-alive-kicking-is-a-full-remake-and-re-imagining-of-valves-classic-out-now-on-steam/",
+    "published": "2026-08-31T10:31:19+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-platform",
+      "valve",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Portal: Alive & Kicking, a fan-made remake and reimagining of Valve's Portal, has launched on Steam.",
+    "sources": []
+  },
+  {
+    "title": "GZDoom successor UZDoom 5.0 is officially out now",
+    "url": "https://www.gamingonlinux.com/2026/08/gzdoom-successor-uzdoom-5-0-is-officially-out-now/",
+    "published": "2026-08-31T10:11:25+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "open-source",
+      "game-dev",
+      "linux-gaming"
+    ],
+    "summary": "UZDoom 5.0, a successor to GZDoom, has been officially released with a major version update.",
+    "sources": []
+  },
+  {
+    "title": "Game launcher 'Launchbox' should get a Linux version in 2027",
+    "url": "https://www.gamingonlinux.com/2026/08/game-launcher-launchbox-should-get-a-linux-version-in-2027/",
+    "published": "2026-08-31T09:47:23+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Launchbox developers announce plans to release a Linux version of their popular game launcher by 2027.",
+    "sources": []
+  },
+  {
+    "title": "OpenTS is a new open-source reconstruction of Command & Conquer: Tiberian Sun",
+    "url": "https://www.gamingonlinux.com/2026/08/opents-is-a-new-open-source-reconstruction-of-command-conquer-tiberian-sun/",
+    "published": "2026-08-31T09:28:12+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 65,
+    "tags": [
+      "open-source",
+      "retro",
+      "game-dev",
+      "community",
+      "gaming-news"
+    ],
+    "summary": "OpenTS is an open-source reconstruction project of the classic real-time strategy game Command & Conquer: Tiberian Sun.",
+    "sources": []
+  },
+  {
+    "title": "DOSBOX Staging 0.83 brings authentic CRT colour emulation, FMV deinterlacer, disc automounting and much more",
+    "url": "https://www.gamingonlinux.com/2026/08/dosbox-staging-0-83-brings-authentic-crt-colour-emulation-fmv-deinterlacer-disc-automounting-and-much-more/",
+    "published": "2026-08-31T09:07:17+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 58,
+    "tags": [
+      "retro",
+      "emulation",
+      "linux-gaming",
+      "open-source",
+      "gaming-news"
+    ],
+    "summary": "DOSBox Staging 0.83 releases with new CRT color emulation, FMV deinterlacing, and disc automounting features for DOS game emulation.",
+    "sources": []
+  },
+  {
+    "title": "California Bill AB-1856 passes - exempting open source from age verification",
+    "url": "https://www.gamingonlinux.com/2026/08/california-bill-ab-1856-passes-exempting-open-source-from-age-verification/",
+    "published": "2026-08-31T08:57:52+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 72,
+    "tags": [
+      "open-source",
+      "gaming-industry",
+      "linux-gaming",
+      "gaming-news"
+    ],
+    "summary": "California's AB-1856 age verification bill passes while preserving exemptions for open source software, a significant win for the open source gaming community.",
+    "sources": []
+  },
+  {
+    "title": "New Linux Patches Tune AMD Ryzen Zen 6 To Optimize Performance & Power Consumption",
+    "url": "https://www.phoronix.com/news/AMD-Zen-6-Client-EPP-Tunings",
+    "published": "2026-08-31T10:23:32+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Linux kernel patches optimize AMD Ryzen Zen 6 processor performance and power consumption ahead of the chips' release.",
+    "sources": []
+  },
+  {
+    "title": "A Faster Merge Sort For Mesa 26.3 Vulkan Drivers To Benefit Ray-Tracing",
+    "url": "https://www.phoronix.com/news/Mesa-Vulkan-Faster-Sorting",
+    "published": "2026-08-31T10:07:13+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 55,
+    "tags": [
+      "valve",
+      "linux-gaming",
+      "open-source",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Valve engineer optimizes Mesa Vulkan drivers with faster Morton code sorting to improve ray-tracing performance and GPU memory efficiency in Mesa 26.3.",
+    "sources": []
+  },
+  {
+    "title": "NVIDIA VA-API Driver 0.0.18 Ships More Fixes, Chrome/Chromium Decode On Direct Backend",
+    "url": "https://www.phoronix.com/news/NVIDIA-VA-API-Driver-0.0.18",
+    "published": "2026-08-31T09:48:13+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "NVIDIA VA-API Driver 0.0.18 releases with improved video decoding support for Chrome/Chromium and other applications on Linux.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3-rc1 Close To 41 Million Lines, AMD Kernel Graphics Driver At 6.5 Million Lines",
+    "url": "https://www.phoronix.com/news/Linux-7.3-rc1-Code-Stats",
+    "published": "2026-08-31T00:23:22+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "Linux 7.3-rc1 reaches 41 million lines of code with AMD's kernel graphics driver contributing significantly due to new GPU register files for DCN 6.0.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3-rc1 With AMD Zen 6 Additions, Better Btrfs Performance & 2026 Steam Controller",
+    "url": "https://www.phoronix.com/news/Linux-7.3-rc1-Released",
+    "published": "2026-08-30T21:51:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "linux-hardware",
+      "steam-platform",
+      "gaming-hardware"
+    ],
+    "summary": "Linux 7.3-rc1 kernel released with AMD Zen 6 support, improved Btrfs performance, and mentions of a 2026 Steam Controller.",
+    "sources": []
+  },
+  {
+    "title": "OpenShot 4.0 Released In Adapting Video Editor UI To Qt6",
+    "url": "https://www.phoronix.com/news/OpenShot-4.0",
+    "published": "2026-08-30T19:55:27+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "game-dev"
+    ],
+    "summary": "OpenShot 4.0 released with Qt6 UI migration for the open-source video editor, relevant to game developers creating trailers and promotional content.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 Lands More Audio Workarounds For Laptops & Other Devices",
+    "url": "https://www.phoronix.com/news/Linux-7.3-More-Sound",
+    "published": "2026-08-30T15:06:42+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 32,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Linux 7.3 kernel receives additional audio subsystem updates and workarounds for laptop and device audio support.",
+    "sources": []
+  },
+  {
+    "title": "The Challenges In Bringing AMD ROCm To FreeBSD",
+    "url": "https://www.phoronix.com/news/AMD-ROCm-FreeBSD-Intern-Report",
+    "published": "2026-08-30T14:38:56+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "open-source",
+      "game-dev"
+    ],
+    "summary": "A FreeBSD Foundation intern made progress on porting AMD ROCm to FreeBSD, bringing GPU compute support closer to completion on the platform.",
+    "sources": []
+  },
+  {
+    "title": "AMD Zen 6 Preparations, Ryzen AI Halo LED Driver & Many Laptop Changes For Linux 7.3",
+    "url": "https://www.phoronix.com/news/Linux-7.3-x86-Platform-Drivers",
+    "published": "2026-08-30T13:39:52+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "linux-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Linux 7.3 kernel adds support for upcoming AMD Zen 6 processors, Ryzen AI Halo LED controls, and various laptop/handheld gaming device improvements.",
+    "sources": []
+  },
+  {
+    "title": "NVIDIA Vulkan Frame Rate Up-Conversion \"FRUC\" Merged To FFmpeg",
+    "url": "https://www.phoronix.com/news/FFmpeg-NVIDIA-RTX-FRUC",
+    "published": "2026-08-30T11:00:28+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 55,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware",
+      "open-source",
+      "gaming-news"
+    ],
+    "summary": "NVIDIA's Vulkan Frame Rate Up-Conversion technology has been merged into FFmpeg, enabling hardware-accelerated frame interpolation for video processing.",
+    "sources": []
+  },
+  {
+    "title": "The \"KVM Chainsaw\" Clean-Up Merged For Linux 7.3 Along With Other Fixes",
+    "url": "https://www.phoronix.com/news/Linux-7.3-KVM",
+    "published": "2026-08-30T10:41:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "KVM virtualization improvements have been merged into Linux 7.3, including cleanup changes relevant to kernel development.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 Introduces 8250_mxpcie Driver For Moxa PCIe Multi-Port Serial Boards",
+    "url": "https://www.phoronix.com/news/Linux-7.3-Serial",
+    "published": "2026-08-30T10:28:05+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware"
+    ],
+    "summary": "Linux 7.3 adds a new serial board driver (8250_mxpcie) for Moxa PCIe devices while removing legacy IPWireless support.",
+    "sources": []
+  },
+  {
+    "title": "Beggars CAN be choosers: Times fans got what they wanted, but were notably critical of it (justified or not)",
+    "url": "https://www.resetera.com/threads/beggars-can-be-choosers-times-fans-got-what-they-wanted-but-were-notably-critical-of-it-justified-or-not.1619131/",
+    "published": "2026-08-31T08:35:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Opinion piece discussing instances where niche games or long-awaited sequels disappointed their core fanbases despite fan demand for their creation.",
+    "sources": []
+  },
+  {
+    "title": "GTA VI Package/Install Size Wild Speculation",
+    "url": "https://www.resetera.com/threads/gta-vi-package-install-size-wild-speculation.1619128/",
+    "published": "2026-08-31T08:33:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Speculation and discussion about the potential installation size of GTA VI and its implications for storage on modern gaming platforms.",
+    "sources": []
+  },
+  {
+    "title": "Fate/EXTRA remake now published by Aniplex, director Kazuya Niinou (created Etrian Odyssey, DQB, Fate/EXTRA) leaves Studio BB, socials + site closing",
+    "url": "https://www.resetera.com/threads/fate-extra-remake-now-published-by-aniplex-director-kazuya-niinou-created-etrian-odyssey-dqb-fate-extra-leaves-studio-bb-socials-site-closing.1619116/",
+    "published": "2026-08-31T08:04:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Director Kazuya Niinou departs Studio BB amid management changes for the Fate/EXTRA remake, which shifts publishers from Bandai Namco to Aniplex after announcement delays since 2020.",
+    "sources": []
+  },
+  {
+    "title": "If every Xbox published game became Xbox console exclusive, would there be a big shift in console sales?",
+    "url": "https://www.resetera.com/threads/if-every-xbox-published-game-became-xbox-console-exclusive-would-there-be-a-big-shift-in-console-sales.1619107/",
+    "published": "2026-08-31T07:00:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "A hypothetical discussion exploring whether Xbox exclusivity for Microsoft-published games would significantly impact console market share dynamics.",
+    "sources": []
+  },
+  {
+    "title": "Crimson Moon - Third Person Action RPG Roguelike - out September 1st -  $19.99 / 19.99\u20ac",
+    "url": "https://www.resetera.com/threads/crimson-moon-third-person-action-rpg-roguelike-out-september-1st-19-99-19-99%E2%82%AC.1619083/",
+    "published": "2026-08-31T05:07:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Crimson Moon, a third-person action RPG roguelike, launches September 1st for $19.99, featuring a progression system where players retain gear after defeating zone bosses.",
+    "sources": []
+  },
+  {
+    "title": "How Many New Games Do You Plan To Get In September? (September 2026 Releases, Image Heavy)",
+    "url": "https://www.resetera.com/threads/how-many-new-games-do-you-plan-to-get-in-september-september-2026-releases-image-heavy.1619077/",
+    "published": "2026-08-31T04:53:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "A roundup of new game releases scheduled for September 2026 across multiple platforms including PS5, PC, and Xbox.",
+    "sources": []
+  },
+  {
+    "title": "Pokemon Wild Card: The Movie Announced (2027/2028)",
+    "url": "https://www.resetera.com/threads/pokemon-wild-card-the-movie-announced-2027-2028.1619050/",
+    "published": "2026-08-31T04:08:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "The Pokemon Company announces 'Pokemon: Wild Card' movie with a 2027 release date, the first Pokemon film in seven years, revealed via anime teaser at the world championships.",
+    "sources": []
+  },
+  {
+    "title": "This is the year that Apollo Justice takes place in",
+    "url": "https://www.resetera.com/threads/this-is-the-year-that-apollo-justice-takes-place-in.1619029/",
+    "published": "2026-08-31T02:42:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "A gaming journalist reflects on the timeline of the Apollo Justice video game series and how its fictional setting has progressed relative to real time.",
+    "sources": []
+  },
+  {
+    "title": "Highlight some video game music you don\u2019t think gets enough attention",
+    "url": "https://www.resetera.com/threads/highlight-some-video-game-music-you-don%E2%80%99t-think-gets-enough-attention.1619005/",
+    "published": "2026-08-31T01:01:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 22,
+    "tags": [
+      "gaming-history",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community member shares underappreciated video game music tracks, highlighting classic titles like MediEvil and their memorable soundtracks.",
+    "sources": []
+  },
+  {
+    "title": "PS5 version of 'Halloween: The Game' cancelled in Japan (Xbox/PC still releasing)",
+    "url": "https://www.resetera.com/threads/ps5-version-of-halloween-the-game-cancelled-in-japan-xbox-pc-still-releasing.1618999/",
+    "published": "2026-08-31T00:21:52+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Halloween: The Game's PS5 version has been cancelled in Japan while Xbox and PC versions proceed with release.",
+    "sources": []
+  },
+  {
+    "title": "What are your favorite difficulty spikes?",
+    "url": "https://www.resetera.com/threads/what-are-your-favorite-difficulty-spikes.1618993/",
+    "published": "2026-08-31T00:17:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A community member shares personal reflections on memorable difficulty spikes in games, using Jak II as an example.",
+    "sources": []
+  },
+  {
+    "title": "RTTP: Super Mario Odyssey is an interesting return after playing Donkey Kong Bananza",
+    "url": "https://www.resetera.com/threads/rttp-super-mario-odyssey-is-an-interesting-return-after-playing-donkey-kong-bananza.1618975/",
+    "published": "2026-08-30T23:32:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A player shares their personal reflections on replaying Super Mario Odyssey after revisiting Donkey Kong Country: Tropical Freeze.",
+    "sources": []
+  },
+  {
+    "title": "NES Cult Classic The Battle Of Olympus is getting a modern remake, seeking to launch into early access in January 2027",
+    "url": "https://www.resetera.com/threads/nes-cult-classic-the-battle-of-olympus-is-getting-a-modern-remake-seeking-to-launch-into-early-access-in-january-2027.1618945/",
+    "published": "2026-08-30T22:00:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 52,
+    "tags": [
+      "retro",
+      "game-dev",
+      "steam-platform",
+      "indie-games",
+      "gaming-news"
+    ],
+    "summary": "The Battle of Olympus, a 1988 NES cult classic, is being remade by its original creators and will enter Steam early access in January 2027.",
+    "sources": []
+  },
+  {
+    "title": "Are you buying a Switch 2 just before the 50usd price hike? You have only today left!",
+    "url": "https://www.resetera.com/threads/are-you-buying-a-switch-2-just-before-the-50usd-price-hike-you-have-only-today-left.1618918/",
+    "published": "2026-08-30T20:28:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "handheld-gaming",
+      "gaming-news"
+    ],
+    "summary": "Nintendo Switch 2 price increases from $450 to $500 tomorrow, with the last day to purchase at the current price.",
+    "sources": []
+  },
+  {
+    "title": "Money for Girls: Amortized is currently sitting at 99% Positive on Steam (Queer Horror Visual Novel)",
+    "url": "https://www.resetera.com/threads/money-for-girls-amortized-is-currently-sitting-at-99-positive-on-steam-queer-horror-visual-novel.1618906/",
+    "published": "2026-08-30T19:36:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "Queer horror visual novel 'Money for Girls: Amortized' launches on Steam to 99% positive reviews.",
+    "sources": []
+  },
+  {
+    "title": "ATLUS replaced the OG Persona 4 English voice cast for P4R after they failed to get everyone back.",
+    "url": "https://www.resetera.com/threads/atlus-replaced-the-og-persona-4-english-voice-cast-for-p4r-after-they-failed-to-get-everyone-back.1618888/",
+    "published": "2026-08-30T18:37:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "ATLUS replaced the original Persona 4 English voice cast for P4R due to scheduling conflicts and actors leaving the industry, though some doubt the explanation's credibility.",
+    "sources": []
+  },
+  {
+    "title": "LTTP: Aphelion (DON'T NOD) - 6/10 seems to be the average score everywhere but is actually quite good?",
+    "url": "https://www.resetera.com/threads/lttp-aphelion-dont-nod-6-10-seems-to-be-the-average-score-everywhere-but-is-actually-quite-good.1618885/",
+    "published": "2026-08-30T18:28:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "A retrospective review of DON'T NOD's Aphelion, arguing that its 6/10 average critical score doesn't reflect the game's actual quality as a cinematic action-adventure.",
+    "sources": []
+  },
+  {
+    "title": "Onimusha: Way of the Sword - Review Score Predictions",
+    "url": "https://www.resetera.com/threads/onimusha-way-of-the-sword-review-score-predictions.1618882/",
+    "published": "2026-08-30T18:23:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Community speculation thread about predicted review scores for the upcoming Onimusha: Way of the Sword release.",
+    "sources": []
+  },
+  {
+    "title": "Rockstar confirms no use of Generative AI during development of GTA 6, everything handcrafted by human artists",
+    "url": "https://www.resetera.com/threads/rockstar-confirms-no-use-of-generative-ai-during-development-of-gta-6-everything-handcrafted-by-human-artists.1618864/",
+    "published": "2026-08-30T17:58:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Rockstar Games confirms that GTA 6 was developed entirely without generative AI, with all content created by human artists and developers.",
+    "sources": []
+  },
+  {
+    "title": "To Celebrate Dragon Ball: Gekishin Squadra's 1st Anniversary, Bandai Will Be Switching The Game's Genre Entirely",
+    "url": "https://www.resetera.com/threads/to-celebrate-dragon-ball-gekishin-squadras-1st-anniversary-bandai-will-be-switching-the-games-genre-entirely.1618855/",
+    "published": "2026-08-30T17:33:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Bandai Namco is overhauling Dragon Ball: Gekishin Squadra's gameplay for its first anniversary, shifting from MOBA mechanics to a 4v4 CTF format.",
+    "sources": []
+  },
+  {
+    "title": "The Cutting Room Floor has been getting DDOS'd by a Claude user for a few days.",
+    "url": "https://www.resetera.com/threads/the-cutting-room-floor-has-been-getting-ddosd-by-a-claude-user-for-a-few-days.1618843/",
+    "published": "2026-08-30T16:57:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "The Cutting Room Floor, a gaming preservation wiki, has been experiencing DDoS attacks from an AI-assisted user over several days.",
+    "sources": []
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt \u2014 Songs of the Past | gamescom 2026 Showcase",
+    "url": "https://www.resetera.com/threads/the-witcher-3-wild-hunt-%E2%80%94-songs-of-the-past-gamescom-2026-showcase.1618840/",
+    "published": "2026-08-30T16:37:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "CD Projekt Red showcases The Witcher 3: Wild Hunt \u2014 Songs of the Past DLC at gamescom 2026 in 4K video format.",
+    "sources": []
+  },
+  {
+    "title": "Fable main quest will officially be 15-20 hours long, Xbox confirms in new interview (Polygon)",
+    "url": "https://www.resetera.com/threads/fable-main-quest-will-officially-be-15-20-hours-long-xbox-confirms-in-new-interview-polygon.1618837/",
+    "published": "2026-08-30T16:27:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 52,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "Xbox confirms the main quest of the upcoming Fable game will take 15-20 hours to complete, drawing mixed reactions for being relatively short compared to modern open-world RPGs.",
+    "sources": []
+  },
+  {
+    "title": "Do you want Kingdom Hearts 4 (or beyond) to have a Simspons/Springfield world?",
+    "url": "https://www.resetera.com/threads/do-you-want-kingdom-hearts-4-or-beyond-to-have-a-simspons-springfield-world.1618810/",
+    "published": "2026-08-30T15:39:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion speculating about potential Simpsons-themed world in future Kingdom Hearts games.",
+    "sources": []
+  },
+  {
+    "title": "The Wave Race 64 Tribute Album \"Dolphin Park\" is amazing (non-official)",
+    "url": "https://www.resetera.com/threads/the-wave-race-64-tribute-album-dolphin-park-is-amazing-non-official.1618801/",
+    "published": "2026-08-30T15:13:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A fan-created tribute album to Wave Race 64's soundtrack, titled 'Dolphin Park,' has gained renewed attention as a quality example of video game music appreciation amid concerns about AI-generated content in the VGM space.",
+    "sources": []
+  },
+  {
+    "title": "Games where the non-English VO sounds better than the original",
+    "url": "https://www.resetera.com/threads/games-where-the-non-english-vo-sounds-better-than-the-original.1618798/",
+    "published": "2026-08-30T15:12:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion thread about video games where non-English voice acting is perceived as superior to the original English versions.",
+    "sources": []
+  },
+  {
+    "title": "16-bit JRPGs on modern consoles",
+    "url": "https://www.resetera.com/threads/16-bit-jrpgs-on-modern-consoles.1618783/",
+    "published": "2026-08-30T14:53:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community discussion thread seeking recommendations for 16-bit JRPGs available on modern consoles, sparked by the Terranigma announcement.",
+    "sources": []
+  },
+  {
+    "title": "Would you let your kids follow a similar gaming journey as the one you had? (For people born in the 90's)",
+    "url": "https://www.resetera.com/threads/would-you-let-your-kids-follow-a-similar-gaming-journey-as-the-one-you-had-for-people-born-in-the-90s.1618744/",
+    "published": "2026-08-30T12:48:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "retro",
+      "gaming-history"
+    ],
+    "summary": "A discussion among millennial parents about whether to introduce their children to gaming through retro systems like Game Boy rather than modern smartphones.",
+    "sources": []
+  },
+  {
+    "title": "What gaming products are you buying this Fall season?",
+    "url": "https://www.resetera.com/threads/what-gaming-products-are-you-buying-this-fall-season.1618741/",
+    "published": "2026-08-30T12:43:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion thread about upcoming fall gaming purchases with users sharing their anticipated game acquisitions.",
+    "sources": []
+  },
+  {
+    "title": "Fatal Frame fans, what the actual **** did Tecmo do to Miku?(Major spoilers for 1, 3, 5)",
+    "url": "https://www.resetera.com/threads/fatal-frame-fans-what-the-actual-did-tecmo-do-to-miku-major-spoilers-for-1-3-5.1618732/",
+    "published": "2026-08-30T12:23:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A fan expresses frustration about character development and narrative choices in the Fatal Frame series, particularly regarding the protagonist's ending in the first game.",
+    "sources": []
+  },
+  {
+    "title": "\"A Long Overdue Update\" - After Years Of Work, Prince Of Persia Has Been Unofficially Ported To The MSX2",
+    "url": "https://www.timeextension.com/news/2026/08/a-long-overdue-update-after-years-of-work-prince-of-persia-has-been-unofficially-ported-to-the-msx2",
+    "published": "2026-08-31T10:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "retro",
+      "emulation",
+      "game-dev",
+      "homebrew",
+      "gaming-history"
+    ],
+    "summary": "An unofficial port of the classic Prince of Persia to MSX2 has been completed after years of development and is set to release next month.",
+    "sources": []
+  },
+  {
+    "title": "Play Donkey Kong 64 Like Never Before In This Promising Native PC Port Made Without The Use Of GenAI",
+    "url": "https://www.timeextension.com/news/2026/08/play-donkey-kong-64-like-never-before-in-this-promising-native-pc-port-made-without-the-use-of-genai",
+    "published": "2026-08-31T09:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "retro",
+      "emulation",
+      "game-dev",
+      "pc-hardware",
+      "community"
+    ],
+    "summary": "A native PC port of Donkey Kong 64 is in development by the N64: Recompiled project team, offering players a new way to experience the classic N64 title on modern hardware.",
+    "sources": []
+  },
+  {
+    "title": "The Zelda-Influenced NES Classic 'Battle of Olympus' Is Being Remade By Its Original Husband-And-Wife Team",
+    "url": "https://www.timeextension.com/news/2026/08/the-zelda-influenced-nes-classic-battle-of-olympus-is-being-remade-by-its-original-husband-and-wife-team",
+    "published": "2026-08-31T08:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 52,
+    "tags": [
+      "retro",
+      "game-dev",
+      "indie-games",
+      "gaming-history"
+    ],
+    "summary": "The original creators of the 1988 NES game Battle of Olympus are remaking it for Steam as a handcrafted remake.",
+    "sources": []
+  },
+  {
+    "title": "Humble's Shantae and Heroic Heroines Bundle Has 9 Great Female-Led Steam Deck Games",
+    "url": "https://steamdeckhq.com/news/humble-shantae-and-heroic-heroines-bundle/",
+    "published": "2026-08-30T16:01:59+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Humble Bundle releases a Shantae-themed bundle featuring 9 female-led games with strong Steam Deck compatibility.",
+    "sources": []
+  },
+  {
+    "title": "The Old Man and the Sea by Ernest Hemingway",
+    "url": "https://overkill.wtf/reading/the-old-man-and-the-sea-ernest-hemingway",
+    "published": "2026-08-28T22:00:00+00:00",
+    "feed_name": "overkill Media",
+    "feed_tags": [
+      "steam-deck",
+      "linux-gaming"
+    ],
+    "significance": 0,
+    "tags": [],
+    "summary": "A book review of Ernest Hemingway's classic novel, unrelated to gaming.",
+    "sources": []
+  },
+  {
+    "title": "Star Fox 64",
+    "url": "https://www.hardcoregaming101.net/star-fox-64/",
+    "published": "2026-08-30T18:18:26+00:00",
+    "feed_name": "Hardcore Gaming 101",
+    "feed_tags": [
+      "retro",
+      "gaming-history"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "console-hardware"
+    ],
+    "summary": "Retrospective analysis of Star Fox 64's role in the evolution of 3D gaming from SNES to Nintendo 64.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with Resonance: A Plague Tale Legacy, and Smack Talk - 2026-08-29 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-08-29-edition/index.html",
+    "published": "2026-08-30T17:36:59+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Weekly roundup of 15 newly Steam Deck-verified games including AAA title Resonance: A Plague Tale Legacy and indie fighting game Smack Talk.",
+    "sources": []
+  },
+  {
+    "title": "This week in PC games: Bank Holiday Mawnday Edition",
+    "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-bank-holiday-mawnday-edition",
+    "published": "2026-08-31T07:30:45+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "pc-hardware"
+    ],
+    "summary": "Rock Paper Shotgun's weekly PC games column with a creative holiday-themed editorial framing, covering routine gaming updates and industry discussion.",
+    "sources": []
+  },
+  {
+    "title": "Fable Won't Demand Over 100 Hours of Your Time on PS5",
+    "url": "https://www.pushsquare.com/news/2026/08/fable-wont-demand-over-100-hours-of-your-time-on-ps5",
+    "published": "2026-08-31T10:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Playground Games' new Fable will offer approximately 20 hours of main story content plus 15-20 hours of side content, intentionally keeping playtime modest compared to modern RPG standards.",
+    "sources": []
+  },
+  {
+    "title": "'Likely and Soon': Next State of Play Is Expected in the Coming Weeks",
+    "url": "https://www.pushsquare.com/news/2026/08/likely-and-soon-next-state-of-play-is-expected-in-the-coming-weeks",
+    "published": "2026-08-31T00:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "A reliable leaker suggests Sony's September State of Play livestream is expected soon in 2026, continuing the platform's annual tradition.",
+    "sources": []
+  },
+  {
+    "title": "PS5 Blackout Protest Officially Concludes, But Campaigners Encourage Indefinite Participation",
+    "url": "https://www.pushsquare.com/news/2026/08/ps5-blackout-protest-officially-concludes-but-campaigners-encourage-indefinite-participation1",
+    "published": "2026-08-30T19:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "community",
+      "console-hardware"
+    ],
+    "summary": "PS5 players have launched a global blackout protest against Sony, unplugging consoles to reduce active user metrics as a statement against the company.",
+    "sources": []
+  },
+  {
+    "title": "Feature: Going Platinum: Horizon Forbidden West, a Very Good Sequel People Love to Hate",
+    "url": "https://www.pushsquare.com/features/going-platinum-horizon-forbidden-west-a-very-good-sequel-people-love-to-hate",
+    "published": "2026-08-30T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A gaming enthusiast shares their platinum trophy achievement for Horizon Forbidden West, a popular PlayStation exclusive sequel.",
+    "sources": []
+  },
+  {
+    "title": "'No Talk of Sony Changing Strategy': Industry Veteran Rubbishes Recent Disc-Based Reversal Rumours",
+    "url": "https://www.pushsquare.com/news/2026/08/no-talk-of-sony-changing-strategy-industry-veteran-rubbishes-recent-disc-based-reversal-rumours",
+    "published": "2026-08-30T18:50:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Industry veteran dismisses rumors of Sony reversing its disc manufacturing discontinuation plan, calling the reports unlikely despite recent consumer backlash.",
+    "sources": []
+  },
+  {
+    "title": "$900 PS5 Pro Now Sold Out in US Amid GTA 6 Fever",
+    "url": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-now-sold-out-in-us-amid-gta-6-fever",
+    "published": "2026-08-30T18:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 72,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "The $900 PS5 Pro is selling out in the US despite controversy, with third-party sellers marking up prices to $1,300 as GTA 6 anticipation drives demand.",
+    "sources": []
+  },
+  {
+    "title": "The Witcher 3 Remastered Accessibility Options Include Health Regen, Auto Loot, Infinite Item Durability",
+    "url": "https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-accessibility-options-include-health-regen-auto-loot-infinite-item-durability",
+    "published": "2026-08-30T18:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "community"
+    ],
+    "summary": "The Witcher 3: Wild Hunt Remastered introduces new accessibility options including health regeneration, auto-loot, and infinite item durability to reduce gameplay friction.",
+    "sources": []
+  },
+  {
+    "title": "Preview: Forget the Soulslikes, This Bizarre New PS5 Game Is Channelling Shenmue Instead",
+    "url": "https://www.pushsquare.com/previews/forget-the-soulslikes-this-bizarre-new-ps5-game-is-channelling-shenmue-instead",
+    "published": "2026-08-30T14:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "A preview of an upcoming PS5 game from NEKCOM that draws inspiration from Shenmue rather than following the soulslike trend.",
+    "sources": []
+  }
+]
