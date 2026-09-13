@@ -1,0 +1,979 @@
+[
+  {
+    "title": "EROFS Disables LZ4 Rolling Decompression Due To Data Corruption Possibility",
+    "url": "https://www.phoronix.com/news/EROFS-Disabled-LZ4-Rolling",
+    "published": "2026-09-13T00:33:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "EROFS file-system disables LZ4 rolling decompression feature to prevent potential data corruption issues.",
+    "sources": []
+  },
+  {
+    "title": "Debian 13.7 Released With Many Bug Fixes",
+    "url": "https://www.phoronix.com/news/Debian-13.7-Released",
+    "published": "2026-09-12T17:06:53+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "linux-gaming"
+    ],
+    "summary": "Debian 13.7 released with bug and security fixes, relevant to Linux gaming infrastructure but not a gaming-specific story.",
+    "sources": []
+  },
+  {
+    "title": "Void Linux Maintainer Orphans 100+ Packages Over AI Policy Dispute",
+    "url": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+    "published": "2026-09-12T15:11:26+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "community"
+    ],
+    "summary": "A Void Linux maintainer orphaned 100+ packages in protest over the project's AI policy regarding LLM-generated content.",
+    "sources": []
+  },
+  {
+    "title": "Intel Reverses Decision To Cancel Their Open-Source Font Project",
+    "url": "https://www.phoronix.com/news/Intel-One-Mono-Saved",
+    "published": "2026-09-12T13:45:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "open-source",
+      "gaming-industry"
+    ],
+    "summary": "Intel reverses decision to cancel its open-source font project after initially archiving it as part of cost-cutting measures.",
+    "sources": []
+  },
+  {
+    "title": "GTK 4.24 Released With Better Fractional Scaling, More Precise GDK Frame-Clock",
+    "url": "https://www.phoronix.com/news/GTK-4.24-Released",
+    "published": "2026-09-12T10:52:32+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "GTK 4.24 released with improvements to fractional scaling and frame-clock precision, benefiting Linux gaming applications and desktop environments.",
+    "sources": []
+  },
+  {
+    "title": "Intel Linux NPU Driver Only Now Officially Supports Ubuntu 26.04 LTS",
+    "url": "https://www.phoronix.com/news/Intel-Linux-NPU-Driver-1.38",
+    "published": "2026-09-12T10:34:25+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "open-source",
+      "gaming-hardware"
+    ],
+    "summary": "Intel releases Linux NPU Driver 1.38 with official support for Ubuntu 26.04 LTS, expanding open-source AI accelerator compatibility for Linux systems.",
+    "sources": []
+  },
+  {
+    "title": "Ubuntu Developers Contemplate Linux Firmware HWE Package",
+    "url": "https://www.phoronix.com/news/Ubuntu-Considers-Linux-Firm-HWE",
+    "published": "2026-09-12T10:25:11+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Ubuntu developers are considering adding a linux-firmware-hwe package to their LTS releases as part of hardware enablement improvements.",
+    "sources": []
+  },
+  {
+    "title": "KDE Plasma 6.8 Remote Desktop To Enjoy Lower Latency Performance",
+    "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-KRDP-Lower-Lat",
+    "published": "2026-09-12T10:07:48+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "KDE Plasma 6.8 introduces remote desktop improvements with lower latency performance, benefiting Linux gamers and desktop users.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo Eshop \u201cCustomer Appreciation Sale\u201d (rare FP lows, US Only. 108 sales. Eshop sale discussion only not Framing) highlights discussions",
+    "url": "https://www.resetera.com/threads/nintendo-eshop-%E2%80%9Ccustomer-appreciation-sale%E2%80%9D-rare-fp-lows-us-only-108-sales-eshop-sale-discussion-only-not-framing-highlights-discussions.1631923/",
+    "published": "2026-09-13T09:16:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Nintendo's US eShop launches a rare \"Customer Appreciation Sale\" with 108 discounted titles and historically low prices on first-party games starting September 13.",
+    "sources": []
+  },
+  {
+    "title": "Spoiler for Resident Evil Requiem: What was the point of this character?",
+    "url": "https://www.resetera.com/threads/spoiler-for-resident-evil-requiem-what-was-the-point-of-this-character.1631944/",
+    "published": "2026-09-13T09:16:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Fan discussion analyzing the narrative role and anticlimactic death of a character in Resident Evil Requiem.",
+    "sources": []
+  },
+  {
+    "title": "Arkham Knight vs Spider-Man 2: Which slightly controversial superhero sequel did you enjoy more?",
+    "url": "https://www.resetera.com/threads/arkham-knight-vs-spider-man-2-which-slightly-controversial-superhero-sequel-did-you-enjoy-more.1631836/",
+    "published": "2026-09-13T09:14:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Opinion piece comparing fan reception and criticisms of Batman: Arkham Knight and Marvel's Spider-Man 2.",
+    "sources": []
+  },
+  {
+    "title": "Diablo V announced, coming 2029",
+    "url": "https://www.resetera.com/threads/diablo-v-announced-coming-2029.1631542/",
+    "published": "2026-09-13T09:12:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 85,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-discovery"
+    ],
+    "summary": "Blizzard announces Diablo V with a 2029 release date, marking a major franchise milestone for one of gaming's most iconic series.",
+    "sources": []
+  },
+  {
+    "title": "Linus tech Tips Steam frame unbowing video leaks",
+    "url": "https://www.resetera.com/threads/linus-tech-tips-steam-frame-unbowing-video-leaks.1631932/",
+    "published": "2026-09-13T09:10:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "steam-platform"
+    ],
+    "summary": "An unreleased Linus Tech Tips video about Steam frame rate unlocking appears to have been accidentally leaked online.",
+    "sources": []
+  },
+  {
+    "title": "Metroid Dread got a big boost on the Switch eshop after Ravenous announcement",
+    "url": "https://www.resetera.com/threads/metroid-dread-got-a-big-boost-on-the-switch-eshop-after-ravenous-announcement.1631881/",
+    "published": "2026-09-13T09:08:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-discovery"
+    ],
+    "summary": "Metroid Dread experienced increased eShop sales following the announcement of Metroid Prime 4: Beyond, suggesting continued franchise momentum.",
+    "sources": []
+  },
+  {
+    "title": "Diablo IV will not longer receive any new expansions, but will continue seasonal content updates during Diaablo 5 development",
+    "url": "https://www.resetera.com/threads/diablo-iv-will-not-longer-receive-any-new-expansions-but-will-continue-seasonal-content-updates-during-diaablo-5-development.1631857/",
+    "published": "2026-09-13T09:07:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Blizzard announces Diablo IV will receive no further expansions, shifting development focus to seasonal content and Diablo V.",
+    "sources": []
+  },
+  {
+    "title": "World of Warcraft: Forever announced (Launches on November 4, 2026, Beta opens September 17, 2026.)",
+    "url": "https://www.resetera.com/threads/world-of-warcraft-forever-announced-launches-on-november-4-2026-beta-opens-september-17-2026.1631614/",
+    "published": "2026-09-13T09:05:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "mmorpg-expansion"
+    ],
+    "summary": "Blizzard announces World of Warcraft: Forever expansion launching November 4, 2026, with new races, raids, zones, and 1000+ quests, featuring beta access starting September 17, 2026.",
+    "sources": []
+  },
+  {
+    "title": "What\u2019s the weirdest secret in a modern game similar to ducking down on white platforms in Super Mario Bros. 3 to get warp whistles?",
+    "url": "https://www.resetera.com/threads/what%E2%80%99s-the-weirdest-secret-in-a-modern-game-similar-to-ducking-down-on-white-platforms-in-super-mario-bros-3-to-get-warp-whistles.1631863/",
+    "published": "2026-09-13T08:56:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community discussion exploring whether modern games contain hidden secrets as cleverly obscured as classic NES-era gameplay mechanics like Super Mario Bros. 3's warp whistle discovery method.",
+    "sources": []
+  },
+  {
+    "title": "I like financial numbers but please stop using them as a gotcha for gaming industry arguments all the time. We are customers, not shareholders.",
+    "url": "https://www.resetera.com/threads/i-like-financial-numbers-but-please-stop-using-them-as-a-gotcha-for-gaming-industry-arguments-all-the-time-we-are-customers-not-shareholders.1631911/",
+    "published": "2026-09-13T08:56:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Opinion piece criticizing the use of financial metrics as justification in gaming industry discussions, arguing customers should focus on consumer impact rather than corporate profitability.",
+    "sources": []
+  },
+  {
+    "title": "Newzoo : PlayStation is leading the reacceleration in console player growth, Gen Alpha emerges as the fastest-growing demographic segment on PC",
+    "url": "https://www.resetera.com/threads/newzoo-playstation-is-leading-the-reacceleration-in-console-player-growth-gen-alpha-emerges-as-the-fastest-growing-demographic-segment-on-pc.1631818/",
+    "published": "2026-09-13T08:42:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Newzoo's 2026 market report shows PlayStation leading console growth, GTA 6 driving pre-orders, and Gen Alpha emerging as fastest-growing PC demographic segment.",
+    "sources": []
+  },
+  {
+    "title": "\"StarCraft\" announced (open world shooter) - coming 2030",
+    "url": "https://www.resetera.com/threads/starcraft-announced-open-world-shooter-coming-2030.1631476/",
+    "published": "2026-09-13T08:38:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Blizzard announces a new open-world StarCraft shooter game in development for 2030 release.",
+    "sources": []
+  },
+  {
+    "title": "Warcraft III Reforged: Forsaken Kingdom announced (New Campaign, Available Today)",
+    "url": "https://www.resetera.com/threads/warcraft-iii-reforged-forsaken-kingdom-announced-new-campaign-available-today.1631608/",
+    "published": "2026-09-13T08:36:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Blizzard announces Forsaken Kingdom, a new campaign for Warcraft III Reforged, available immediately.",
+    "sources": []
+  },
+  {
+    "title": "Is DLSS 5 Good? (Full Analysis) | Hardware Unboxed",
+    "url": "https://www.resetera.com/threads/is-dlss-5-good-full-analysis-hardware-unboxed.1631371/",
+    "published": "2026-09-13T07:58:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "pc-hardware",
+      "gaming-news"
+    ],
+    "summary": "Hardware Unboxed provides a technical analysis of DLSS 5's visual improvements, examining its effects on shadows, lighting, and detail rendering.",
+    "sources": []
+  },
+  {
+    "title": "Chinese court rule in favor of Mihoyo against AI company accused of training on character voices.",
+    "url": "https://www.resetera.com/threads/chinese-court-rule-in-favor-of-mihoyo-against-ai-company-accused-of-training-on-character-voices.1631926/",
+    "published": "2026-09-13T06:53:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "legal"
+    ],
+    "summary": "A Shanghai court ruled in favor of Mihoyo, ordering an AI company to pay 750,000 yuan for training voice-changing software on 63 Genshin Impact character voices without authorization.",
+    "sources": []
+  },
+  {
+    "title": "$20 CAPCOM Classics Bundle (Steam): Breathe of Fire 4, OG RE 1, 2, 3 & Dino Crisis 1 + 2. (Cheaper if you own some already)",
+    "url": "https://www.resetera.com/threads/20-capcom-classics-bundle-steam-breathe-of-fire-4-og-re-1-2-3-dino-crisis-1-2-cheaper-if-you-own-some-already.1631728/",
+    "published": "2026-09-13T06:48:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "retro"
+    ],
+    "summary": "Capcom releases a $20 classics bundle on Steam featuring Breath of Fire 4, original Resident Evil 1-3, and Dino Crisis 1-2 with prorated pricing for existing owners.",
+    "sources": []
+  },
+  {
+    "title": "If and when Nintendo remakes Majora's Mask, they better preserve this iconic moment just as is",
+    "url": "https://www.resetera.com/threads/if-and-when-nintendo-remakes-majoras-mask-they-better-preserve-this-iconic-moment-just-as-is.1631917/",
+    "published": "2026-09-13T06:20:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "retro",
+      "community"
+    ],
+    "summary": "Community discussion speculating about potential Majora's Mask remake and which iconic moments should be preserved, with a false spoiler video presented as bait.",
+    "sources": []
+  },
+  {
+    "title": "Diablo IV: Age of Hatred Collection coming to Switch 2 (Sept 15, $69.99 on eShop)",
+    "url": "https://www.resetera.com/threads/diablo-iv-age-of-hatred-collection-coming-to-switch-2-sept-15-69-99-on-eshop.1631539/",
+    "published": "2026-09-13T05:34:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Diablo IV: Age of Hatred Collection is coming to Nintendo Switch 2 on September 15 for $69.99.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo Everything interview with Hamaguchi - Switch 2, SE's new policy on multiplatform releases, and more",
+    "url": "https://www.resetera.com/threads/nintendo-everything-interview-with-hamaguchi-switch-2-ses-new-policy-on-multiplatform-releases-and-more.1631803/",
+    "published": "2026-09-13T05:30:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Final Fantasy 7 Remake director discusses bringing the series to Nintendo Switch 2 and Square Enix's multiplatform strategy, reflecting on the emotional significance of returning to Nintendo hardware.",
+    "sources": []
+  },
+  {
+    "title": "Persona 4 Revival - Teddie Sizzle (new VA is Laila Berzins)",
+    "url": "https://www.resetera.com/threads/persona-4-revival-teddie-sizzle-new-va-is-laila-berzins.1631920/",
+    "published": "2026-09-13T05:00:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Persona 4 Revival recasts Teddie with voice actress Laila Berzins, replacing the original male voice actor.",
+    "sources": []
+  },
+  {
+    "title": "[Tom'sHardware] Wiki documents at least 44 instances in which Sony says you own your games as digital games ownership lawsuit progresses",
+    "url": "https://www.resetera.com/threads/tomshardware-wiki-documents-at-least-44-instances-in-which-sony-says-you-own-your-games-as-digital-games-ownership-lawsuit-progresses.1631437/",
+    "published": "2026-09-13T03:55:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "legal-policy",
+      "community"
+    ],
+    "summary": "A consumer rights wiki documents 44+ instances of Sony using ownership language for digital games, supporting an ongoing lawsuit challenging the company's terms of service.",
+    "sources": []
+  },
+  {
+    "title": "How should Capcom celebrate Street Fighter's 40th anniversary in 2027?",
+    "url": "https://www.resetera.com/threads/how-should-capcom-celebrate-street-fighters-40th-anniversary-in-2027.1631734/",
+    "published": "2026-09-13T03:35:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "community"
+    ],
+    "summary": "Community member shares ideas for how Capcom could celebrate Street Fighter's 40th anniversary in 2027, suggesting documentary-style collections and rebalanced re-releases.",
+    "sources": []
+  },
+  {
+    "title": "Gears of War: E-Day - Adagio",
+    "url": "https://www.resetera.com/threads/gears-of-war-e-day-adagio.1631782/",
+    "published": "2026-09-13T03:21:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "A music/audio track titled 'Adagio' from Gears of War: E-Day has been released or shared on YouTube.",
+    "sources": []
+  },
+  {
+    "title": "Roguelite beat em up Absolum is coming to mobile platforms. (8.99 USD, November 2026) Port by Playdigious.",
+    "url": "https://www.resetera.com/threads/roguelite-beat-em-up-absolum-is-coming-to-mobile-platforms-8-99-usd-november-2026-port-by-playdigious.1631872/",
+    "published": "2026-09-13T02:51:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "handheld-gaming"
+    ],
+    "summary": "Roguelite beat em up Absolum is being ported to mobile platforms by Playdigious, launching November 2026 for $8.99.",
+    "sources": []
+  },
+  {
+    "title": "StarCraft confirmed for Xbox [Helix]",
+    "url": "https://www.resetera.com/threads/starcraft-confirmed-for-xbox-helix.1631773/",
+    "published": "2026-09-13T01:51:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 78,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Blizzard announced a new open-world StarCraft sci-fi shooter coming to Xbox, set 70 years after StarCraft II.",
+    "sources": []
+  },
+  {
+    "title": "Hey Nintendo, There's feasting and then there is gluttony. There are too many games all coming out at the same time.",
+    "url": "https://www.resetera.com/threads/hey-nintendo-theres-feasting-and-then-there-is-gluttony-there-are-too-many-games-all-coming-out-at-the-same-time.1631839/",
+    "published": "2026-09-13T01:50:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player expresses frustration about Nintendo's dense release schedule in late 2024, particularly the simultaneous launch of multiple titles including Guardians of the Galaxy.",
+    "sources": []
+  },
+  {
+    "title": "someone should make a 'spiritual sequel' to blastcorps",
+    "url": "https://www.resetera.com/threads/someone-should-make-a-spiritual-sequel-to-blastcorps.1631776/",
+    "published": "2026-09-12T23:45:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community member suggests a modern spiritual successor to Blast Corps with enhanced destruction physics and contemporary monetization features.",
+    "sources": []
+  },
+  {
+    "title": "So what games are possible to do a \"Kaifun Run\" that aren't usually known for being pacifistic games?",
+    "url": "https://www.resetera.com/threads/so-what-games-are-possible-to-do-a-kaifun-run-that-arent-usually-known-for-being-pacifistic-games.1631854/",
+    "published": "2026-09-12T23:19:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-community",
+      "retro",
+      "speedrunning"
+    ],
+    "summary": "A gaming enthusiast explores the concept of pacifist playthroughs in non-pacifist games, using a Super Spacefortress Macross arcade game as an example inspired by the character Kaifun.",
+    "sources": []
+  },
+  {
+    "title": "An Abundance of Warcrafts: A primer on World of Warcraft flavors for new and lapsed players",
+    "url": "https://www.resetera.com/threads/an-abundance-of-warcrafts-a-primer-on-world-of-warcraft-flavors-for-new-and-lapsed-players.1631794/",
+    "published": "2026-09-12T23:05:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A community guide explaining the different World of Warcraft game versions and modes available to new and returning players.",
+    "sources": []
+  },
+  {
+    "title": "WoW:Forever has full native controller support / with matching UI / sign of console ports ahead!?",
+    "url": "https://www.resetera.com/threads/wow-forever-has-full-native-controller-support-with-matching-ui-sign-of-console-ports-ahead.1631800/",
+    "published": "2026-09-12T23:05:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "WoW:Forever adds full native controller support with custom UI, sparking speculation about potential console port plans.",
+    "sources": []
+  },
+  {
+    "title": "Could Nintendo implement a C2D (positron) programme like xbox is doing?",
+    "url": "https://www.resetera.com/threads/could-nintendo-implement-a-c2d-positron-programme-like-xbox-is-doing.1631770/",
+    "published": "2026-09-12T22:40:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "handheld-gaming",
+      "console-hardware",
+      "community"
+    ],
+    "summary": "Community member speculates whether Nintendo could implement a physical-to-digital conversion program similar to Xbox's Project Positron for Switch game cards.",
+    "sources": []
+  },
+  {
+    "title": "Does anyone else love that we get Constant Metroid releases again after an entire generation where we thought it could be dead?",
+    "url": "https://www.resetera.com/threads/does-anyone-else-love-that-we-get-constant-metroid-releases-again-after-an-entire-generation-where-we-thought-it-could-be-dead.1631611/",
+    "published": "2026-09-12T21:51:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "gaming-history",
+      "console-hardware"
+    ],
+    "summary": "Community discussion celebrating Nintendo's recent revival of the Metroid franchise after years of dormancy following the poorly-received Other M.",
+    "sources": []
+  },
+  {
+    "title": "Looking back, of these three choices, what was the worse crime they commited with Mass Effect 3?",
+    "url": "https://www.resetera.com/threads/looking-back-of-these-three-choices-what-was-the-worse-crime-they-commited-with-mass-effect-3.1631362/",
+    "published": "2026-09-12T21:25:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion retrospectively examining controversial decisions in Mass Effect 3's development and monetization, including DLC practices and character design choices.",
+    "sources": []
+  },
+  {
+    "title": "Diablo animated series announced for Netflix",
+    "url": "https://www.resetera.com/threads/diablo-animated-series-announced-for-netflix.1631470/",
+    "published": "2026-09-12T20:57:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Netflix is developing an animated series based on the Diablo franchise, announced at a gaming event.",
+    "sources": []
+  },
+  {
+    "title": "Mayhem \u00c0 La Carte is a first person cooking simulator shooter (developed by the devs of Crime Boss: Rockaway City, Steam in 2027)",
+    "url": "https://www.resetera.com/threads/mayhem-%C3%80-la-carte-is-a-first-person-cooking-simulator-shooter-developed-by-the-devs-of-crime-boss-rockaway-city-steam-in-2027.1631719/",
+    "published": "2026-09-12T20:46:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-platform",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Mayhem \u00c0 La Carte, a first-person cooking simulator shooter from the developers of Crime Boss: Rockaway City, is announced for Steam release in 2027.",
+    "sources": []
+  },
+  {
+    "title": "Heroes of the Storm - New hero coming in 09/28 (Xal'atath)",
+    "url": "https://www.resetera.com/threads/heroes-of-the-storm-new-hero-coming-in-09-28-xalatath.1631683/",
+    "published": "2026-09-12T20:13:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Blizzard announces a new hero character (Xal'atath) coming to Heroes of the Storm on September 28th.",
+    "sources": []
+  },
+  {
+    "title": "Wow: Forever vs LoD: OoT",
+    "url": "https://www.resetera.com/threads/wow-forever-vs-lod-oot.1631680/",
+    "published": "2026-09-12T19:20:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion poll asking players to choose between two games, likely comparing preferences between World of Warcraft and a Legend of Zelda title.",
+    "sources": []
+  },
+  {
+    "title": "Diablo V coming in Spring 2029",
+    "url": "https://www.resetera.com/threads/diablo-v-coming-in-spring-2029.1631545/",
+    "published": "2026-09-12T18:27:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Blizzard announces Diablo V is coming in Spring 2029, marking a major franchise milestone.",
+    "sources": []
+  },
+  {
+    "title": "Nonsense things with no proofs whatsoever: \"Maybe bad UI designs in a game is due to the devs wanting to avoid patented systems we didn't know about\"",
+    "url": "https://www.resetera.com/threads/nonsense-things-with-no-proofs-whatsoever-maybe-bad-ui-designs-in-a-game-is-due-to-the-devs-wanting-to-avoid-patented-systems-we-didnt-know-about.1631377/",
+    "published": "2026-09-12T16:48:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-dev",
+      "community"
+    ],
+    "summary": "Community member speculates without evidence that poor UI design in games might be caused by developers avoiding unknown patented systems rather than design choices.",
+    "sources": []
+  },
+  {
+    "title": "The Missing Tail Trailer | It Takes Two, but with cats",
+    "url": "https://www.resetera.com/threads/the-missing-tail-trailer-it-takes-two-but-with-cats.1631380/",
+    "published": "2026-09-12T16:06:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "A lighthearted indie game trailer for 'The Missing Tail' showcasing a cat-themed co-op experience inspired by It Takes Two.",
+    "sources": []
+  },
+  {
+    "title": "The Making Of: Nintendo Power's Star Fox Comic That Gave Andross A Tragic Backstory - \"Miyamoto Requested That I Develop The Story Freely\"",
+    "url": "https://www.timeextension.com/features/the-making-of-nintendo-powers-star-fox-comic-that-gave-andross-a-tragic-backstory-miyamoto-requested-that-i-develop-the-story-freely",
+    "published": "2026-09-12T13:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Nintendo Power's Star Fox comic artist Benimaru Itoh discusses creating an expanded backstory for Andross with creative freedom from Shigeru Miyamoto during the original SNES game's launch.",
+    "sources": []
+  },
+  {
+    "title": "New Proton Experimental Update Fixes Borderlands 4 and STEINS;GATE RE:BOOT",
+    "url": "https://steamdeckhq.com/news/proton-experimental-update-fixes-borderlands-4/",
+    "published": "2026-09-12T17:20:42+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "proton",
+      "steam-deck",
+      "valve",
+      "linux-gaming"
+    ],
+    "summary": "Proton Experimental update addresses compatibility issues for Borderlands 4 and STEINS;GATE RE:BOOT on Steam Deck.",
+    "sources": []
+  },
+  {
+    "title": "Parade by Rachel Cusk",
+    "url": "https://overkill.wtf/reading/parade-rachel-cusk",
+    "published": "2026-09-11T22:00:00+00:00",
+    "feed_name": "overkill Media",
+    "feed_tags": [
+      "steam-deck",
+      "linux-gaming"
+    ],
+    "significance": 0,
+    "tags": [],
+    "summary": "A book review of Rachel Cusk's novel Parade rating it 2/5 stars for being pretentious and difficult to engage with.",
+    "sources": []
+  },
+  {
+    "title": "OrangePi Zero 3W Review: Tiny Yet Powerful",
+    "url": "https://boilingsteam.com/orange-pi-zero-3w-review-tiny-yet-powerful/index.html",
+    "published": "2026-09-12T17:07:49+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-hardware",
+      "pc-hardware",
+      "gaming-hardware",
+      "game-dev"
+    ],
+    "summary": "Orange Pi Zero 3W review highlights a compact single-board computer with comparable specs to the larger Orange Pi 4 Pro, offering a low-cost alternative for hobbyists and developers.",
+    "sources": []
+  },
+  {
+    "title": "Feature: Going Platinum: I've Still Not Played Anything Else Quite Like Paradise Killer",
+    "url": "https://www.pushsquare.com/features/going-platinum-ive-still-not-played-anything-else-quite-like-paradise-killer",
+    "published": "2026-09-12T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A gaming enthusiast discusses earning their 36th platinum trophy in the indie game Paradise Killer, highlighting the game's unique qualities.",
+    "sources": []
+  },
+  {
+    "title": "Poll: Are You Hyped for These 10 New PS Plus Games?",
+    "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games1",
+    "published": "2026-09-12T16:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "PlayStation Plus adds 10 new games in September including RuneScape: Dragonwilds, though the lineup receives mixed reception compared to August's offerings.",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out Next Week (14th-20th September)",
+    "url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-next-week-14th-20th-september",
+    "published": "2026-09-12T11:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "PlayStation Store preview listing 35+ games releasing September 14-20, including Marvel's Wolverine, RuneScape: Dragonwilds, and Trails in the Sky 2nd Chapter.",
+    "sources": []
+  }
+]
