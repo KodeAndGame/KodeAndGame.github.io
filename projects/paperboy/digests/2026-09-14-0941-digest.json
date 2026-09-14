@@ -1,0 +1,1176 @@
+[
+  {
+    "title": "Respect The Horde combines top-down shooting, tower defense and extraction all in one",
+    "url": "https://www.gamingonlinux.com/2026/09/respect-the-horde-combines-top-down-shooting-tower-defense-and-extraction-all-in-one/",
+    "published": "2026-09-14T08:57:37+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Respect The Horde is an indie game combining top-down shooting, tower defense, and extraction mechanics from developer GFX47.",
+    "sources": []
+  },
+  {
+    "title": "The classic Robot Roller-Derby Disco Dodgeball just got a major free upgrade",
+    "url": "https://www.gamingonlinux.com/2026/09/the-classic-robot-roller-derby-disco-dodgeball-just-got-a-major-free-upgrade/",
+    "published": "2026-09-14T08:19:46+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Robot Roller-Derby Disco Dodgeball receives a major free update for its multiplayer community.",
+    "sources": []
+  },
+  {
+    "title": "The rather good The King is Watching adds Steam Deck & gamepad support",
+    "url": "https://www.gamingonlinux.com/2026/09/the-rather-good-the-king-is-watching-adds-steam-deck-gamepad-support/",
+    "published": "2026-09-14T08:12:25+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "The King is Watching receives a major update adding Steam Deck and gamepad support.",
+    "sources": []
+  },
+  {
+    "title": "Goblin-crushing PvE brawler Fangstorm looks juicy with a playtest on Steam",
+    "url": "https://www.gamingonlinux.com/2026/09/goblin-crushing-pve-brawler-fangstorm-looks-juicy-with-a-playtest-on-steam/",
+    "published": "2026-09-14T08:00:33+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "steam-platform"
+    ],
+    "summary": "Fangstorm, a wave-based tower defence PvE brawler with visceral combat, launches a Steam playtest drawing comparisons to Orcs Must Die!",
+    "sources": []
+  },
+  {
+    "title": "High-tech future survival city-builder XIRI: Oasis Cities announced",
+    "url": "https://www.gamingonlinux.com/2026/09/high-tech-future-survival-city-builder-xiri-oasis-cities-announced/",
+    "published": "2026-09-14T07:31:38+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "XIRI: Oasis Cities, a survival city-builder with a high-tech future setting, has been announced with gameplay focused on construction and defense.",
+    "sources": []
+  },
+  {
+    "title": "Godot game Worlds Upon the Wind source code released",
+    "url": "https://www.gamingonlinux.com/2026/09/godot-game-worlds-upon-the-wind-source-code-released/",
+    "published": "2026-09-14T07:11:16+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "open-source",
+      "game-dev",
+      "godot"
+    ],
+    "summary": "Indie game Worlds Upon the Wind has released its full source code, demonstrating Godot's viability for commercial game development.",
+    "sources": []
+  },
+  {
+    "title": "StarCraft returns in 2030 - plus Diablo V, World of Warcraft: Forever and more from BlizzCon 2026",
+    "url": "https://www.gamingonlinux.com/2026/09/starcraft-returns-in-2030-plus-diablo-v-world-of-warcraft-forever-and-more-from-blizzcon-2026/",
+    "published": "2026-09-14T07:03:25+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "BlizzCon 2026 reveals major upcoming Blizzard titles including StarCraft (2030), Diablo V, and World of Warcraft: Forever, marking significant franchise announcements.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3-rc3 Released: \"Another Fairly Large RC\"",
+    "url": "https://www.phoronix.com/news/Linux-7.3-rc3-Released",
+    "published": "2026-09-13T22:00:23+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Linux 7.3-rc3 released as development progresses toward stable release expected in October.",
+    "sources": []
+  },
+  {
+    "title": "Zstd Improvement For Linux 7.4 To Avoid Redundant Initialization",
+    "url": "https://www.phoronix.com/news/Zstd-Linux-7.4-Avoid-Redundant",
+    "published": "2026-09-13T14:04:23+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Linux kernel patch series aims to improve Zstd compression performance by eliminating redundant initialization in Linux 7.4.",
+    "sources": []
+  },
+  {
+    "title": "BFS File-System Being Removed For Linux 7.4",
+    "url": "https://www.phoronix.com/news/BFS-Filesystem-To-Be-Removed",
+    "published": "2026-09-13T11:03:26+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "The BFS file-system is being removed from the Linux 7.4 mainline kernel, a technical development that may have minor implications for Linux gaming systems.",
+    "sources": []
+  },
+  {
+    "title": "ARCTIC's Fan Controller Driver For Linux Being Dual-Licensed With BSD-2-Clause",
+    "url": "https://www.phoronix.com/news/ARCTIC-Fan-Controller-BSD",
+    "published": "2026-09-13T10:54:44+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "ARCTIC dual-licenses its mainlined Linux fan controller driver with BSD-2-Clause to expand compatibility across operating systems.",
+    "sources": []
+  },
+  {
+    "title": "GNOME Shotwell 33 Photo Manager Released With GTK4 Port",
+    "url": "https://www.phoronix.com/news/GNOME-Shotwell-33",
+    "published": "2026-09-13T10:40:50+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "linux-hardware"
+    ],
+    "summary": "GNOME Shotwell 33 released with GTK4 port, marking a significant update to the photo management application.",
+    "sources": []
+  },
+  {
+    "title": "The amount of first party releases Nintendo has compared to PS/Xbox is astounding",
+    "url": "https://www.resetera.com/threads/the-amount-of-first-party-releases-nintendo-has-compared-to-ps-xbox-is-astounding.1632364/",
+    "published": "2026-09-14T09:39:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 52,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Community observation comparing Nintendo's first-party game release cadence to PlayStation and Xbox, highlighting Nintendo's significantly higher output of exclusive titles.",
+    "sources": []
+  },
+  {
+    "title": "Digital Foundry: The Legend of Zelda: Ocarina of Time is 1080p and 60fps, but no DLSS",
+    "url": "https://www.resetera.com/threads/digital-foundry-the-legend-of-zelda-ocarina-of-time-is-1080p-and-60fps-but-no-dlss.1632262/",
+    "published": "2026-09-14T09:38:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-hardware"
+    ],
+    "summary": "Digital Foundry analyzes the Legend of Zelda: Ocarina of Time remake, confirming 1080p/60fps performance but noting the absence of DLSS upscaling technology.",
+    "sources": []
+  },
+  {
+    "title": "Having played Requiem this one thing about it really irks me (Spoilers)",
+    "url": "https://www.resetera.com/threads/having-played-requiem-this-one-thing-about-it-really-irks-me-spoilers.1632268/",
+    "published": "2026-09-14T09:36:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player discusses narrative inconsistencies in Resident Evil Requiem regarding absent character appearances and callbacks to previous games in the series.",
+    "sources": []
+  },
+  {
+    "title": "Wolverine Hype Check",
+    "url": "https://www.resetera.com/threads/wolverine-hype-check.1632025/",
+    "published": "2026-09-14T09:35:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Insomniac's Wolverine releases September 15th to mixed critical reception, with some praising its story and performances despite concerns about its value proposition.",
+    "sources": []
+  },
+  {
+    "title": "[EventHubs] Unreleased AAA 2D fighting game is having playtests this weekend and I believe it might be Injustice 3",
+    "url": "https://www.resetera.com/threads/eventhubs-unreleased-aaa-2d-fighting-game-is-having-playtests-this-weekend-and-i-believe-it-might-be-injustice-3.1632439/",
+    "published": "2026-09-14T09:35:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "leaks",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "An unreleased AAA 2D fighting game is conducting playtests this weekend, with speculation it could be Injustice 3 based on limited available details.",
+    "sources": []
+  },
+  {
+    "title": "Stephen Root (Barry, King of the Hill) Confirms Role in GTA 6",
+    "url": "https://www.resetera.com/threads/stephen-root-barry-king-of-the-hill-confirms-role-in-gta-6.1632388/",
+    "published": "2026-09-14T09:34:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Actor Stephen Root confirms his role as drug lord Brian Heder in the upcoming GTA 6.",
+    "sources": []
+  },
+  {
+    "title": "OoT has AAA looks, but what if it had AAA storytelling?",
+    "url": "https://www.resetera.com/threads/oot-has-aaa-looks-but-what-if-it-had-aaa-storytelling.1632244/",
+    "published": "2026-09-14T09:34:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A fan-created video reimagines Ocarina of Time with modern AAA storytelling and voice acting in a humorous exploration of how the classic game would differ with contemporary narrative conventions.",
+    "sources": []
+  },
+  {
+    "title": "What do you think of the compass in most open world HUDs?",
+    "url": "https://www.resetera.com/threads/what-do-you-think-of-the-compass-in-most-open-world-huds.1632274/",
+    "published": "2026-09-14T09:30:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-dev"
+    ],
+    "summary": "Community discussion about UI design preferences regarding compass displays in open-world games and their impact on player experience.",
+    "sources": []
+  },
+  {
+    "title": "Gamefreak announces new title Ame Nochi Hare Onna (Mobile title)",
+    "url": "https://www.resetera.com/threads/gamefreak-announces-new-title-ame-nochi-hare-onna-mobile-title.1632409/",
+    "published": "2026-09-14T09:29:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Game Freak announces Ame Nochi Hare Onna, a new mobile title directed by Pokemon series director Shigeru Ohmori.",
+    "sources": []
+  },
+  {
+    "title": "how do you feel about load screens in Ocarina of time remake?",
+    "url": "https://www.resetera.com/threads/how-do-you-feel-about-load-screens-in-ocarina-of-time-remake.1632271/",
+    "published": "2026-09-14T09:23:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Community discussion about the design choice to include load screens in an Ocarina of Time remake to maintain fidelity to the original game's design.",
+    "sources": []
+  },
+  {
+    "title": "Johanna Faries says that the StarCraft shooter is simply called \u201cStarCraft\u201d, says that she has high confidence in her team to hit the release windows",
+    "url": "https://www.resetera.com/threads/johanna-faries-says-that-the-starcraft-shooter-is-simply-called-%E2%80%9Cstarcraft%E2%80%9D-says-that-she-has-high-confidence-in-her-team-to-hit-the-release-windows.1632367/",
+    "published": "2026-09-14T09:13:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Blizzard President Johanna Faries confirms the upcoming StarCraft shooter is titled 'StarCraft' and expresses confidence in meeting release targets.",
+    "sources": []
+  },
+  {
+    "title": "Would you be happy if gaming hardware just stayed like this forever?",
+    "url": "https://www.resetera.com/threads/would-you-be-happy-if-gaming-hardware-just-stayed-like-this-forever.1632406/",
+    "published": "2026-09-14T09:09:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "Opinion piece questioning whether current gaming hardware is sufficient and whether consumers actually need further hardware generations given rising prices.",
+    "sources": []
+  },
+  {
+    "title": "Trails in the Sky 2nd Chapter |OT| The Society is a Liber(a)l Hoax",
+    "url": "https://www.resetera.com/threads/trails-in-the-sky-2nd-chapter-ot-the-society-is-a-liber-a-l-hoax.1632454/",
+    "published": "2026-09-14T09:06:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Forum discussion thread opening for Trails in the Sky 2nd Chapter with spoiler warnings for series continuity.",
+    "sources": []
+  },
+  {
+    "title": "The Nintendo GameCube was released 25 years ago (September 14, 2001)",
+    "url": "https://www.resetera.com/threads/the-nintendo-gamecube-was-released-25-years-ago-september-14-2001.1632400/",
+    "published": "2026-09-14T09:00:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "console-hardware",
+      "retro"
+    ],
+    "summary": "The Nintendo GameCube celebrates its 25th anniversary, marking a notable milestone in gaming history for the iconic cube-shaped console.",
+    "sources": []
+  },
+  {
+    "title": "Nighthawks has been removed from Steam search and delisted in certain countries as Valve classifies it Adults Only: 'It's very bad news for us'",
+    "url": "https://www.resetera.com/threads/nighthawks-has-been-removed-from-steam-search-and-delisted-in-certain-countries-as-valve-classifies-it-adults-only-its-very-bad-news-for-us.1632052/",
+    "published": "2026-09-14T08:48:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "steam-platform",
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Vampire RPG Nighthawks has been removed from Steam search results and delisted in certain countries after Valve classified it as Adults Only content.",
+    "sources": []
+  },
+  {
+    "title": "The Last of Us Part II Multiplayer fan project will never release after DMCA request from Sony",
+    "url": "https://www.resetera.com/threads/the-last-of-us-part-ii-multiplayer-fan-project-will-never-release-after-dmca-request-from-sony.1632280/",
+    "published": "2026-09-14T08:45:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "community",
+      "leaks"
+    ],
+    "summary": "Sony issued a DMCA takedown request that halted the release of a fan-made The Last of Us Part II multiplayer mod that was in development for over a year.",
+    "sources": []
+  },
+  {
+    "title": "RTTP: Mario 64 is very good, but a bit rough coming off of Mario Odyssey and Donkey Kong Bananza",
+    "url": "https://www.resetera.com/threads/rttp-mario-64-is-very-good-but-a-bit-rough-coming-off-of-mario-odyssey-and-donkey-kong-bananza.1632307/",
+    "published": "2026-09-14T08:36:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player shares their personal experience revisiting Mario 64 after playing newer Mario titles like Odyssey and Donkey Kong Bananza on Switch 2.",
+    "sources": []
+  },
+  {
+    "title": "With SoP and two Directs behind us, what does your most wanted list look like?",
+    "url": "https://www.resetera.com/threads/with-sop-and-two-directs-behind-us-what-does-your-most-wanted-list-look-like.1632346/",
+    "published": "2026-09-14T08:30:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion thread about users' most anticipated upcoming games following Nintendo announcements.",
+    "sources": []
+  },
+  {
+    "title": "The most important question in minimaps: Fixed north or the spinny option?",
+    "url": "https://www.resetera.com/threads/the-most-important-question-in-minimaps-fixed-north-or-the-spinny-option.1632352/",
+    "published": "2026-09-14T08:29:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion about minimap orientation preferences in games, debating fixed north versus rotating/spinny minimap options.",
+    "sources": []
+  },
+  {
+    "title": "With Metroid Ravenous looking incredible, where should the 3D games go next? Prime 5, a new third-person Metroid, or something else?",
+    "url": "https://www.resetera.com/threads/with-metroid-ravenous-looking-incredible-where-should-the-3d-games-go-next-prime-5-a-new-third-person-metroid-or-something-else.1631986/",
+    "published": "2026-09-14T08:22:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "retro"
+    ],
+    "summary": "Opinion piece discussing the future direction of the Metroid franchise following the reveal of Metroid Ravenous and success of Metroid Dread.",
+    "sources": []
+  },
+  {
+    "title": "PSA for Switch 2 Owners: GameStop offering $420 for S2 with Pro Membership (ends Sept 26)",
+    "url": "https://www.resetera.com/threads/psa-for-switch-2-owners-gamestop-offering-420-for-s2-with-pro-membership-ends-sept-26.1632436/",
+    "published": "2026-09-14T07:41:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "GameStop is offering $420 trade-in value for Switch 2 consoles during their Double Pro Week promotion (Sept 13-26).",
+    "sources": []
+  },
+  {
+    "title": "TetherGeist is a strong \"Celeste like\", and I'm surprised to have not heard much talk about it",
+    "url": "https://www.resetera.com/threads/tethergeist-is-a-strong-celeste-like-and-im-surprised-to-have-not-heard-much-talk-about-it.1632292/",
+    "published": "2026-09-14T06:46:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 32,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "TetherGeist, a highly-rated indie platformer released in May, has received critical acclaim (88 on OpenCritic) but remains relatively unknown among mainstream gaming audiences.",
+    "sources": []
+  },
+  {
+    "title": "Happy 25th Anniversary to the Nintendo GameCube, the Luigi\u2019s Mansion franchise, and Wave Race: Blue Storm",
+    "url": "https://www.resetera.com/threads/happy-25th-anniversary-to-the-nintendo-gamecube-the-luigi%E2%80%99s-mansion-franchise-and-wave-race-blue-storm.1632391/",
+    "published": "2026-09-14T05:19:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Nintendo GameCube celebrates its 25th anniversary in Japan with recognition of its lasting impact on gaming through iconic franchises like Smash Bros, Animal Crossing, and Pikmin.",
+    "sources": []
+  },
+  {
+    "title": "Sora, Riku, Kairi, and Roxas from Kingdom Hearts come to Fortnite this week",
+    "url": "https://www.resetera.com/threads/sora-riku-kairi-and-roxas-from-kingdom-hearts-come-to-fortnite-this-week.1632175/",
+    "published": "2026-09-14T04:50:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Kingdom Hearts characters Sora, Riku, Kairi, and Roxas are coming to Fortnite this week as part of a crossover collaboration.",
+    "sources": []
+  },
+  {
+    "title": "USB port on back of PS5 Slim not charging - cause for concern?",
+    "url": "https://www.resetera.com/threads/usb-port-on-back-of-ps5-slim-not-charging-cause-for-concern.1632211/",
+    "published": "2026-09-14T04:44:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "console-hardware",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "User reports one of two USB-C ports on PS5 Slim controller charging dock not functioning, raising concerns about hardware defects.",
+    "sources": []
+  },
+  {
+    "title": "THE iDOLM@STER SideM console game announced by Bandai Namco and D3PUBLISHER for Nintendo Switch 1/2",
+    "url": "https://www.resetera.com/threads/the-idolm-ster-sidem-console-game-announced-by-bandai-namco-and-d3publisher-for-nintendo-switch-1-2.1631998/",
+    "published": "2026-09-14T04:26:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Bandai Namco and D3PUBLISHER announce THE iDOLM@STER SideM console game for Nintendo Switch, marking the first home console entry in the SideM brand.",
+    "sources": []
+  },
+  {
+    "title": "How big (MB/GB) was the first game install you did that you thought \"Wow that's big?\"",
+    "url": "https://www.resetera.com/threads/how-big-mb-gb-was-the-first-game-install-you-did-that-you-thought-wow-thats-big.1632136/",
+    "published": "2026-09-14T04:22:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion thread about nostalgic memories of game install sizes from the past.",
+    "sources": []
+  },
+  {
+    "title": "Is there any game series more disinterested in/antagonistic to its own title character than Mega Man X?",
+    "url": "https://www.resetera.com/threads/is-there-any-game-series-more-disinterested-in-antagonistic-to-its-own-title-character-than-mega-man-x.1632091/",
+    "published": "2026-09-14T03:39:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-history",
+      "game-dev",
+      "retro"
+    ],
+    "summary": "A retrospective discussion of Mega Man X series design philosophy, examining how creator Keiji Inafune's preference for the character Zero over the titular Mega Man X influenced the franchise's direction.",
+    "sources": []
+  },
+  {
+    "title": "StarCraft is a narrative-driven shooter with 'a definitive ending' and 'not a seasonal game'",
+    "url": "https://www.resetera.com/threads/starcraft-is-a-narrative-driven-shooter-with-a-definitive-ending-and-not-a-seasonal-game.1632349/",
+    "published": "2026-09-14T03:23:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "StarCraft is being reimagined as a narrative-driven single-player shooter with a complete story arc rather than a live-service multiplayer game.",
+    "sources": []
+  },
+  {
+    "title": "Marvel's Wolverine |OT| Critical damage won't work on me, bub!",
+    "url": "https://www.resetera.com/threads/marvels-wolverine-ot-critical-damage-wont-work-on-me-bub.1632154/",
+    "published": "2026-09-14T03:20:14+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community thread discussing Marvel's Wolverine game with video clips, likely focused on gameplay mechanics and player reactions.",
+    "sources": []
+  },
+  {
+    "title": "World of warcraft forever setting up for console ?",
+    "url": "https://www.resetera.com/threads/world-of-warcraft-forever-setting-up-for-console.1631980/",
+    "published": "2026-09-14T02:14:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Speculation about World of Warcraft potentially coming to console platforms, discussing design changes that might support controller support and cross-platform play.",
+    "sources": []
+  },
+  {
+    "title": "If you can actually set it up, Four Swords Adventures is a brilliant local multiplayer game",
+    "url": "https://www.resetera.com/threads/if-you-can-actually-set-it-up-four-swords-adventures-is-a-brilliant-local-multiplayer-game.1632193/",
+    "published": "2026-09-14T00:56:15+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Opinion piece discussing Four Swords Adventures as an underrated Zelda multiplayer title with setup challenges for local co-op play.",
+    "sources": []
+  },
+  {
+    "title": "BigGo Finance: Cloud Gaming Gets Squeezed as Big Tech Prioritizes AI Infrastructure",
+    "url": "https://www.resetera.com/threads/biggo-finance-cloud-gaming-gets-squeezed-as-big-tech-prioritizes-ai-infrastructure.1632229/",
+    "published": "2026-09-14T00:38:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Major tech companies are redirecting data center and GPU resources from cloud gaming platforms toward AI infrastructure, causing significant cutbacks in the cloud gaming sector.",
+    "sources": []
+  },
+  {
+    "title": "Fortnite Will Have A One Piece Mini Season In November",
+    "url": "https://www.resetera.com/threads/fortnite-will-have-a-one-piece-mini-season-in-november.1632034/",
+    "published": "2026-09-14T00:28:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "Fortnite will feature a One Piece themed mini-season in November, revealed through a leak via Rocket League.",
+    "sources": []
+  },
+  {
+    "title": "Which Starcraft do you consider the best across both singleplayer and multiplayer?",
+    "url": "https://www.resetera.com/threads/which-starcraft-do-you-consider-the-best-across-both-singleplayer-and-multiplayer.1632322/",
+    "published": "2026-09-14T00:18:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion post asking players to compare Starcraft 1 and Starcraft 2 across single-player and multiplayer experiences.",
+    "sources": []
+  },
+  {
+    "title": "Fan-Made Ports & Clones. Classics remastered by fans when it's too niche for publishers",
+    "url": "https://www.resetera.com/threads/fan-made-ports-clones-classics-remastered-by-fans-when-its-too-niche-for-publishers.1632148/",
+    "published": "2026-09-14T00:14:57+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "open-source",
+      "game-dev",
+      "community",
+      "retro",
+      "emulation"
+    ],
+    "summary": "Discussion of fan-made ports, decompositions, and remakes of classic games, highlighting community efforts to preserve and modernize niche titles through open-source development.",
+    "sources": []
+  },
+  {
+    "title": "Do you prefer Terra Branford with blonde or green hair?",
+    "url": "https://www.resetera.com/threads/do-you-prefer-terra-branford-with-blonde-or-green-hair.1632160/",
+    "published": "2026-09-13T21:38:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Community discussion about character design preferences for Terra Branford's hair color in Final Fantasy VI.",
+    "sources": []
+  },
+  {
+    "title": "Have you ever gotten all the achievements in a Metal Gear game?",
+    "url": "https://www.resetera.com/threads/have-you-ever-gotten-all-the-achievements-in-a-metal-gear-game.1632130/",
+    "published": "2026-09-13T20:57:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-history"
+    ],
+    "summary": "Community member shares their experience completing achievements across multiple Metal Gear Solid games, discussing playtimes and difficulty.",
+    "sources": []
+  },
+  {
+    "title": "If Capcom had the Marvel license again?",
+    "url": "https://www.resetera.com/threads/if-capcom-had-the-marvel-license-again.1631995/",
+    "published": "2026-09-13T19:07:48+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Opinion piece speculating about what a new Marvel vs. Capcom game could look like if Capcom regained the Marvel license.",
+    "sources": []
+  },
+  {
+    "title": "Silph Co Was Such a Wild Scenario to Put Into Pokemon",
+    "url": "https://www.resetera.com/threads/silph-co-was-such-a-wild-scenario-to-put-into-pokemon.1632043/",
+    "published": "2026-09-13T16:16:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Analysis of Silph Co's narrative design in Pokemon as a compelling evil team takeover scenario with immersive NPC reactions and environmental storytelling.",
+    "sources": []
+  },
+  {
+    "title": "Interview: \"If You Like What You're Doing, That Energy Comes Across To Readers\" - Sonic The Comic's Lew Stringer On Badniks, Brutus, & Writing For Kids",
+    "url": "https://www.timeextension.com/features/interview-if-you-like-what-youre-doing-that-energy-comes-across-to-readers-sonic-the-comics-lew-stringer-on-badniks-brutus-and-writing-for-ki",
+    "published": "2026-09-13T13:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Interview with Lew Stringer, writer for the classic UK Sonic the Comic series, discussing his approach to writing for children and his contributions to the beloved 1993-2002 publication.",
+    "sources": []
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (September 13th 2026)",
+    "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-september-13th-2026",
+    "published": "2026-09-13T11:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "handheld-gaming",
+      "console-hardware"
+    ],
+    "summary": "Weekly roundup of retro gaming news featuring updates on classic systems and handheld devices like Retroid Pocket Duo and Neo Geo AES+.",
+    "sources": []
+  },
+  {
+    "title": "\"He Was Giddy\" - Even Lord British Has Succumbed To The Allure Of GenAI",
+    "url": "https://www.timeextension.com/news/2026/09/he-was-giddy-even-lord-british-has-succumbed-to-the-allure-of-genai",
+    "published": "2026-09-13T09:45:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Richard Garriott, legendary Ultima series creator, has embraced generative AI in his game development work, drawing criticism for departing from his previously ethical design philosophy.",
+    "sources": []
+  },
+  {
+    "title": "Moss developer Polyarc Games announces closure",
+    "url": "https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure",
+    "published": "2026-09-14T08:00:08+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 65,
+    "tags": [
+      "game-dev",
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Polyarc Games, the developer behind the Moss series, announces it is closing after 12 years of operation.",
+    "sources": []
+  },
+  {
+    "title": "Zoya",
+    "url": "https://www.hardcoregaming101.net/zoya/",
+    "published": "2026-09-13T19:24:51+00:00",
+    "feed_name": "Hardcore Gaming 101",
+    "feed_tags": [
+      "retro",
+      "gaming-history"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Article discussing underrepresented games from the Middle East and other non-Western regions in gaming discourse and preservation.",
+    "sources": []
+  },
+  {
+    "title": "LTT Leaks Steam Frame's First Look Ahead of Schedule: Quick Summary",
+    "url": "https://boilingsteam.com/ltt-leaks-steam-frames-first-look-ahead-of-schedule/index.html",
+    "published": "2026-09-13T12:49:32+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "leaks",
+      "gaming-hardware",
+      "handheld-gaming"
+    ],
+    "summary": "LTT accidentally leaked early footage of the Steam Frame showing its wireless capabilities before official release.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with Valheim 1.0 and Welcome to Elderfield - 2026-09-12 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-09-12-edition/index.html",
+    "published": "2026-09-13T10:20:43+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "steam-platform",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "A curated selection of 13 newly released Steam games verified or playable on Steam Deck, highlighted by Valheim's full 1.0 release and the unique horror-farming hybrid Welcome to Elderfield.",
+    "sources": []
+  },
+  {
+    "title": "OrangePi Zero 3W Review: Tiny Yet Powerful",
+    "url": "https://boilingsteam.com/orange-pi-zero-3w-review-tiny-yet-powerful/index.html",
+    "published": "2026-09-12T17:07:49+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-hardware",
+      "pc-hardware",
+      "gaming-hardware",
+      "game-dev"
+    ],
+    "summary": "Orange Pi Zero 3W review highlights a compact single-board computer with comparable specs to the larger Orange Pi 4 Pro, offering a low-cost alternative for hobbyists and developers.",
+    "sources": []
+  },
+  {
+    "title": "Moss developer Polyarc share that they're shutting down just two months after releasing a VR-less port of the beloved mousey adventure games",
+    "url": "https://www.rockpapershotgun.com/moss-developer-polyarc-share-that-theyre-shutting-down-just-two-months-after-releasing-a-vr-less-port-of-the-beloved-mousey-adventure-games",
+    "published": "2026-09-13T16:16:16+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Polyarc Studios is shutting down just two months after releasing Moss: The Forgotten Relic, a non-VR port of their beloved franchises.",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-827",
+    "published": "2026-09-13T10:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A humorous gaming column riffing on The Blood of Dawnwalker's vampire theme and connecting it to a real-world blackcurrant juice shopping experience.",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out This Week (14th-20th September)",
+    "url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-this-week-14th-20th-september",
+    "published": "2026-09-14T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of 35+ PS5 and PlayStation Plus games releasing September 14-20, featuring notable titles like Marvel's Wolverine and RuneScape: Dragonwilds.",
+    "sources": []
+  },
+  {
+    "title": "Sony Shuts Down The Last of Us 2 PC Multiplayer Fan Mod",
+    "url": "https://www.pushsquare.com/news/2026/09/sony-shuts-down-the-last-of-us-2-pc-multiplayer-fan-mod",
+    "published": "2026-09-14T01:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "community",
+      "pc-hardware"
+    ],
+    "summary": "Sony issued a cease-and-desist letter to stop a fan-made multiplayer mod for The Last of Us 2 PC after nine months of development.",
+    "sources": []
+  },
+  {
+    "title": "Diablo 5 and a New Starcraft Game Revealed, But Will They Be on PS6?",
+    "url": "https://www.pushsquare.com/news/2026/09/diablo-5-and-a-new-starcraft-game-revealed-but-will-they-be-on-ps6",
+    "published": "2026-09-14T00:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Blizzard announces Diablo 5 (2029) and an open-world StarCraft shooter (2030) at BlizzCon, with confirmed Xbox Helix support but uncertain PlayStation 6 availability.",
+    "sources": []
+  }
+]
