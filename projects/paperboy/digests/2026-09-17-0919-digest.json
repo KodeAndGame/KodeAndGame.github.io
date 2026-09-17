@@ -1,0 +1,2013 @@
+[
+  {
+    "title": "Minecraft Java Edition 26.3 'Wilderness Bound' update released",
+    "url": "https://www.gamingonlinux.com/2026/09/minecraft-java-edition-26-3-wilderness-bound-update-released/",
+    "published": "2026-09-17T08:05:41+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Minecraft Java Edition 26.3 'Wilderness Bound' update has been released with new content.",
+    "sources": []
+  },
+  {
+    "title": "Harbour Masters release 'PaperBoat' their Paper Mario 64 PC port",
+    "url": "https://www.gamingonlinux.com/2026/09/harbour-masters-release-paperboat-their-paper-mario-64-pc-port/",
+    "published": "2026-09-17T07:47:55+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "emulation",
+      "community",
+      "pc-hardware",
+      "indie-games"
+    ],
+    "summary": "Harbour Masters releases PaperBoat, an unofficial PC port of Paper Mario 64, expanding community access to the classic Nintendo title.",
+    "sources": []
+  },
+  {
+    "title": "Lepton from Valve to run Android games on Linux is now open source",
+    "url": "https://www.gamingonlinux.com/2026/09/lepton-from-valve-to-run-android-games-on-linux-is-now-open-source/",
+    "published": "2026-09-17T07:26:48+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 75,
+    "tags": [
+      "valve",
+      "linux-gaming",
+      "open-source",
+      "gaming-hardware",
+      "steam-deck"
+    ],
+    "summary": "Valve has open-sourced Lepton, their Android game compatibility layer for Linux and Steam Deck, enabling broader community development and Android game support on Linux systems.",
+    "sources": []
+  },
+  {
+    "title": "Xbox classic Lost Odyssey has a experimental PC build - now with a Linux version",
+    "url": "https://www.gamingonlinux.com/2026/09/xbox-classic-lost-odyssey-has-a-experimental-pc-build-now-with-a-linux-version/",
+    "published": "2026-09-17T07:19:28+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 52,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "emulation",
+      "gaming-history",
+      "pc-hardware"
+    ],
+    "summary": "An experimental open-source native PC port of Xbox classic Lost Odyssey has been released with Linux support.",
+    "sources": []
+  },
+  {
+    "title": "PS5 Linux dev quits after \"the only hypervisor bug left\" was reported to Sony",
+    "url": "https://www.gamingonlinux.com/2026/09/ps5-linux-dev-quits-after-the-only-hypervisor-bug-left-was-reported-to-sony/",
+    "published": "2026-09-17T07:08:55+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "console-hardware",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "The lead developer of the PS5 Linux project has quit the effort after frustration with AI-generated content contributions and reporting of remaining hypervisor issues to Sony.",
+    "sources": []
+  },
+  {
+    "title": "GNOME 51 released with performance improvements, various app upgrades",
+    "url": "https://www.gamingonlinux.com/2026/09/gnome-51-released-with-performance-improvements-various-app-upgrades/",
+    "published": "2026-09-17T07:02:21+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware"
+    ],
+    "summary": "GNOME 51 released with performance improvements and app upgrades, potentially benefiting Linux gaming ecosystems.",
+    "sources": []
+  },
+  {
+    "title": "Big Break Showcase from Coffee Stain Publishing highlights more games on September 29",
+    "url": "https://www.gamingonlinux.com/2026/09/big-break-showcase-from-coffee-stain-publishing-highlights-more-games-on-september-29/",
+    "published": "2026-09-16T14:10:33+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Coffee Stain Publishing announces another Big Break Showcase event featuring indie games on September 29.",
+    "sources": []
+  },
+  {
+    "title": "Mir/Wayland-Powered Miracle-WM 0.11 Released With New Overview Mode, Window Urgency",
+    "url": "https://www.phoronix.com/news/Miracle-WM-0.11",
+    "published": "2026-09-17T00:58:42+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 28,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Miracle-WM 0.11 released with new overview mode and window urgency features as a Wayland compositor built on Mir.",
+    "sources": []
+  },
+  {
+    "title": "Mesa 26.2.3 Released With AMD GFX1171 Support, Other Fixes",
+    "url": "https://www.phoronix.com/news/Mesa-26.2.3-Released",
+    "published": "2026-09-16T21:18:50+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "open-source",
+      "gaming-hardware"
+    ],
+    "summary": "Mesa 26.2.3 stable release adds AMD GFX1171 support and includes various fixes for Linux graphics drivers.",
+    "sources": []
+  },
+  {
+    "title": "Ubuntu 26.10 amd64v3 Can Provide A Nice Boost For Low-End/Budget Hardware",
+    "url": "https://www.phoronix.com/review/ubuntu-2610-amd64v3-lowend",
+    "published": "2026-09-16T17:37:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "linux-hardware"
+    ],
+    "summary": "Ubuntu 26.10 amd64v3 ISOs offer potential performance improvements for budget hardware through optimized binaries, though official plans remain unclear.",
+    "sources": []
+  },
+  {
+    "title": "GNOME 51 Released With Improved Frame Scheduling, Many App Improvements",
+    "url": "https://www.phoronix.com/news/GNOME-51-Released",
+    "published": "2026-09-16T16:25:21+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "GNOME 51 desktop environment released with frame scheduling improvements and app enhancements, relevant to Linux gaming infrastructure.",
+    "sources": []
+  },
+  {
+    "title": "Crash-Safe & Copy-On-Write GEFS As The \"Good Enough File-System\" For OpenBSD",
+    "url": "https://www.phoronix.com/news/OpenBSD-GEFS-File-System",
+    "published": "2026-09-16T13:42:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "open-source",
+      "linux-gaming"
+    ],
+    "summary": "OpenBSD developer Ori Bernstein previews GEFS, a new crash-safe copy-on-write file-system for OpenBSD, ported from 9front.",
+    "sources": []
+  },
+  {
+    "title": "Linux Randomly Picking Idle CPU Cores Shows Modest Win On High Core Count Systems",
+    "url": "https://www.phoronix.com/news/Linux-Random-Equal-Idle-CPUs",
+    "published": "2026-09-16T13:30:04+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Linux kernel scheduler patch proposes randomizing idle CPU core selection to improve workload distribution on high core-count systems.",
+    "sources": []
+  },
+  {
+    "title": "AMD Sends Out Linux Patches For Enabling SEV-TIO TDISP With PCIe 6.0",
+    "url": "https://www.phoronix.com/news/AMD-SEV-TIO-TDISP-Linux-Patches",
+    "published": "2026-09-16T13:02:52+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "open-source"
+    ],
+    "summary": "AMD releases Linux kernel patches for SEV-TIO TDISP support on EPYC 9006 processors with PCIe 6.0, a specialized enterprise security feature with limited gaming relevance.",
+    "sources": []
+  },
+  {
+    "title": "Ubuntu 26.10 Moves cp, mv & rm Over To Rust Coreutils For 100% Transition",
+    "url": "https://www.phoronix.com/news/Ubuntu-Completes-Rust-Coreutils",
+    "published": "2026-09-16T12:26:49+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "Ubuntu 26.10 completes transition to Rust Coreutils for cp, mv, and rm commands as part of broader memory-safety initiative.",
+    "sources": []
+  },
+  {
+    "title": "Linux's Yogafan Driver Prepares Support For Newer Lenovo Laptops",
+    "url": "https://www.phoronix.com/news/Linux-7.4-Yogafan-More-Laptops",
+    "published": "2026-09-16T10:29:22+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-hardware",
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "The Linux Yogafan driver expands support for fan monitoring on newer Lenovo laptop models across multiple product lines.",
+    "sources": []
+  },
+  {
+    "title": "AMD's GAIA Local AI Now Able To Transcribe & Summarize Meeting Recordings",
+    "url": "https://www.phoronix.com/news/AMD-GAIA-0.24-Local-AI",
+    "published": "2026-09-16T10:19:10+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "AMD GAIA local AI software adds meeting transcription and summarization features for AMD Ryzen and Radeon hardware.",
+    "sources": []
+  },
+  {
+    "title": "OpenVDB Introduces SIMD Framework With Some 2~4x Performance Improvements",
+    "url": "https://www.phoronix.com/news/OpenVDB-SIMD--Framework",
+    "published": "2026-09-16T10:05:23+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "open-source",
+      "game-dev"
+    ],
+    "summary": "OpenVDB adds SIMD framework for 2-4x performance improvements in sparse volumetric data processing across CGI and game development tools.",
+    "sources": []
+  },
+  {
+    "title": "Steam Beta Client Update: September 16th",
+    "url": "https://store.steampowered.com/news/app/1675200/view/711161056325533833",
+    "published": "2026-09-17T01:09:47+00:00",
+    "feed_name": "Steam Deck Official Updates",
+    "feed_tags": [
+      "steam-deck",
+      "valve"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-platform",
+      "linux-gaming",
+      "gaming-news"
+    ],
+    "summary": "Steam Beta Client update fixes Linux crashes, sleep-related UI flicker, and virtual gamepad issues with controller hotplugging.",
+    "sources": []
+  },
+  {
+    "title": "In your region, how many normal movie tickets(not IMAX, dolby etc, not including drinks, popcorn etc) can you buy for price for a AAA day 1 game?",
+    "url": "https://www.resetera.com/threads/in-your-region-how-many-normal-movie-tickets-not-imax-dolby-etc-not-including-drinks-popcorn-etc-can-you-buy-for-price-for-a-aaa-day-1-game.1635589/",
+    "published": "2026-09-17T09:17:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Community discussion comparing AAA game pricing to movie ticket costs across different regions, questioning publisher regional pricing strategies.",
+    "sources": []
+  },
+  {
+    "title": "Would Red Steel Be an Interesting IP to Bring Back in Some Capacity?",
+    "url": "https://www.resetera.com/threads/would-red-steel-be-an-interesting-ip-to-bring-back-in-some-capacity.1635565/",
+    "published": "2026-09-17T09:16:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion about the potential for reviving the Red Steel franchise, reflecting on its motion control mechanics and whether modern implementations could make it relevant.",
+    "sources": []
+  },
+  {
+    "title": "Link to the past is not playing with the difficulty and lack of dungeon saves [lttp]",
+    "url": "https://www.resetera.com/threads/link-to-the-past-is-not-playing-with-the-difficulty-and-lack-of-dungeon-saves-lttp.1635463/",
+    "published": "2026-09-17T09:16:15+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A player shares their experience with The Legend of the Past on 3DS, discussing difficulty and frustration with the lack of dungeon save mechanics in this classic Zelda game.",
+    "sources": []
+  },
+  {
+    "title": "What's your favorite Tetsuya Mizuguchi game?",
+    "url": "https://www.resetera.com/threads/whats-your-favorite-tetsuya-mizuguchi-game.1635592/",
+    "published": "2026-09-17T09:16:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-dev",
+      "gaming-history"
+    ],
+    "summary": "Community discussion thread asking readers to share their favorite Tetsuya Mizuguchi games across his career from Sega classics to modern VR titles.",
+    "sources": []
+  },
+  {
+    "title": "Why is the Metroid Ravenous Announcement taking the World by Storm when Dread and Prime 4 didn't?",
+    "url": "https://www.resetera.com/threads/why-is-the-metroid-ravenous-announcement-taking-the-world-by-storm-when-dread-and-prime-4-didnt.1635553/",
+    "published": "2026-09-17T09:15:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion about why the Metroid Ravenous announcement generated more engagement than previous Metroid releases like Dread and Prime 4.",
+    "sources": []
+  },
+  {
+    "title": "I didn't know the Nintendo Wii had such terrible image quality.",
+    "url": "https://www.resetera.com/threads/i-didnt-know-the-nintendo-wii-had-such-terrible-image-quality.1635403/",
+    "published": "2026-09-17T09:15:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "console-hardware",
+      "homebrew",
+      "gaming-history"
+    ],
+    "summary": "A retrospective discussion on the Nintendo Wii's image quality limitations compared to GameCube and homebrew solutions to improve it.",
+    "sources": []
+  },
+  {
+    "title": "TheFlow quits the PlayStation mod scene after exploit gets published to Sony bug bounty before GTA6 releases by AI Hackers. PS5 Linux dead.",
+    "url": "https://www.resetera.com/threads/theflow-quits-the-playstation-mod-scene-after-exploit-gets-published-to-sony-bug-bounty-before-gta6-releases-by-ai-hackers-ps5-linux-dead.1635418/",
+    "published": "2026-09-17T09:15:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "console-hardware",
+      "linux-gaming",
+      "gaming-news",
+      "leaks",
+      "community"
+    ],
+    "summary": "Prominent PlayStation hacker TheFlow quits the PS5 Linux modding scene after a hypervisor exploit was publicly disclosed to Sony's bug bounty program, ending hopes for widespread Linux compatibility on current-generation consoles.",
+    "sources": []
+  },
+  {
+    "title": "The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says",
+    "url": "https://www.resetera.com/threads/the-blood-of-dawnwalkers-controversial-time-mechanic-wont-necessarily-be-in-a-sequel-the-game-director-says.1635517/",
+    "published": "2026-09-17T09:14:36+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "The Blood of Dawnwalker's director indicates the game's controversial time mechanic may not be a standard feature in potential sequels, stating they'll only use it if it fits the story.",
+    "sources": []
+  },
+  {
+    "title": "Kane Parsons has visited Valve offices again",
+    "url": "https://www.resetera.com/threads/kane-parsons-has-visited-valve-offices-again.1635499/",
+    "published": "2026-09-17T09:13:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "valve",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Director Kane Parsons visits Valve offices again, fueling speculation among fans about a potential Portal movie or game collaboration.",
+    "sources": []
+  },
+  {
+    "title": "Persona Series Famitsu Poll: Gender - M 53%/F 46%, Age: 19 or less - 14%, 20s - 33%, 30s - 28%. No one played P1 or P2. Fav characters and more.",
+    "url": "https://www.resetera.com/threads/persona-series-famitsu-poll-gender-m-53-f-46-age-19-or-less-14-20s-33-30s-28-no-one-played-p1-or-p2-fav-characters-and-more.1635340/",
+    "published": "2026-09-17T09:12:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Famitsu poll reveals Persona series demographics and play history, showing majority of respondents haven't played earlier entries with P3P seeing stronger engagement than P1 and P2.",
+    "sources": []
+  },
+  {
+    "title": "Fable has been in development since 2016, Ralph Fulton says that it was never cancelled because XBOX sees Fable as \u201cvital to the DNA of the platform\u201d",
+    "url": "https://www.resetera.com/threads/fable-has-been-in-development-since-2016-ralph-fulton-says-that-it-was-never-cancelled-because-xbox-sees-fable-as-%E2%80%9Cvital-to-the-dna-of-the-platform%E2%80%9D.1635544/",
+    "published": "2026-09-17T09:09:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "console-hardware",
+      "game-dev"
+    ],
+    "summary": "Fable has been in continuous development since 2016 under Playground Games, with Xbox leadership confirming the franchise is vital to the platform's identity and was never truly cancelled.",
+    "sources": []
+  },
+  {
+    "title": "FINAL FANTASY RESONANCE | TGS 2026 Trailer",
+    "url": "https://www.resetera.com/threads/final-fantasy-resonance-tgs-2026-trailer.1635550/",
+    "published": "2026-09-17T09:03:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "pc-hardware",
+      "game-discovery"
+    ],
+    "summary": "Final Fantasy Resonance announced for multi-platform release on October 22, 2026, across Nintendo Switch 2, Switch, PlayStation 5, Xbox Series X|S, and PC platforms.",
+    "sources": []
+  },
+  {
+    "title": "[MP1st] Media Molecule New Game Set to Be Revealed in 2027, First Info Leaks",
+    "url": "https://www.resetera.com/threads/mp1st-media-molecule-new-game-set-to-be-revealed-in-2027-first-info-leaks.1635343/",
+    "published": "2026-09-17T09:01:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "leaks"
+    ],
+    "summary": "Media Molecule's next game, a social-simulation title inspired by Animal Crossing and Harvest Moon, is reportedly set to be revealed and released in 2027.",
+    "sources": []
+  },
+  {
+    "title": "CONTROL Resonant - PC Gaming Show Documentary",
+    "url": "https://www.resetera.com/threads/control-resonant-pc-gaming-show-documentary.1635184/",
+    "published": "2026-09-17T08:56:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Remedy Entertainment releases a behind-the-scenes documentary for CONTROL Resonant, showcasing the game's development and visual capabilities.",
+    "sources": []
+  },
+  {
+    "title": "Let`s look at this great Metal Gear 1 2D animation fan project in the works since december 2014 by artist Mitchell Hammond",
+    "url": "https://www.resetera.com/threads/let-s-look-at-this-great-metal-gear-1-2d-animation-fan-project-in-the-works-since-december-2014-by-artist-mitchell-hammond.1635580/",
+    "published": "2026-09-17T08:31:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 32,
+    "tags": [
+      "gaming-history",
+      "community",
+      "game-dev"
+    ],
+    "summary": "Fan animator Mitchell Hammond has been developing a 2D animated short based on the original Metal Gear MSX game since 2014.",
+    "sources": []
+  },
+  {
+    "title": "Thoughts on the Wii and 360 Indianapolis 500 games from Destineer?",
+    "url": "https://www.resetera.com/threads/thoughts-on-the-wii-and-360-indianapolis-500-games-from-destineer.1635571/",
+    "published": "2026-09-17T07:57:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "console-hardware"
+    ],
+    "summary": "A retrospective discussion of two obscure Indianapolis 500 racing games released by Destineer for Wii (2007) and Xbox 360 (2009).",
+    "sources": []
+  },
+  {
+    "title": "For the truly insane: Nintendo has discontinued Shop Migration for the Wii",
+    "url": "https://www.resetera.com/threads/for-the-truly-insane-nintendo-has-discontinued-shop-migration-for-the-wii.1635529/",
+    "published": "2026-09-17T07:10:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "nintendo",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Nintendo has discontinued Shop Migration for the Wii, preventing users from transferring digital purchases and save data between consoles.",
+    "sources": []
+  },
+  {
+    "title": "DenuvoDRM has been removed from FINAL FANTASY TACTICS - The Ivalice Chronicles (Steam)",
+    "url": "https://www.resetera.com/threads/denuvodrm-has-been-removed-from-final-fantasy-tactics-the-ivalice-chronicles-steam.1635568/",
+    "published": "2026-09-17T06:38:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 52,
+    "tags": [
+      "steam-platform",
+      "gaming-news",
+      "drm"
+    ],
+    "summary": "Square-Enix removed Denuvo DRM from FINAL FANTASY TACTICS - The Ivalice Chronicles on Steam approximately 6 months after release.",
+    "sources": []
+  },
+  {
+    "title": "Lollipop Chainsaw 2 Back2Back revealed. 2027.",
+    "url": "https://www.resetera.com/threads/lollipop-chainsaw-2-back2back-revealed-2027.1635454/",
+    "published": "2026-09-17T04:48:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Lollipop Chainsaw 2 Back2Back officially revealed for 2027 with notable returning creative staff including Final Fantasy XV director Hajime Tabata.",
+    "sources": []
+  },
+  {
+    "title": "Will Nintendo ever localize the Fire Emblem games not released in the West?",
+    "url": "https://www.resetera.com/threads/will-nintendo-ever-localize-the-fire-emblem-games-not-released-in-the-west.1635349/",
+    "published": "2026-09-17T04:44:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Community discussion speculating on whether Nintendo will localize unreleased Fire Emblem games, reflecting on the series' growth and availability gaps.",
+    "sources": []
+  },
+  {
+    "title": "Kinstones suck (The Minish Cap)",
+    "url": "https://www.resetera.com/threads/kinstones-suck-the-minish-cap.1635508/",
+    "published": "2026-09-17T04:19:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "retro"
+    ],
+    "summary": "A personal critique of The Minish Cap's design, praising its visuals and dungeons while criticizing its brevity and exploration elements.",
+    "sources": []
+  },
+  {
+    "title": "Moonlighter 2 (1.0) is Fantastic: Delve, Loot, Sell, Repeat",
+    "url": "https://www.resetera.com/threads/moonlighter-2-1-0-is-fantastic-delve-loot-sell-repeat.1635532/",
+    "published": "2026-09-17T03:17:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "A reviewer praises Moonlighter 2's full 1.0 release on Steam, Switch 2, and Xbox, noting surprisingly little public buzz for the game despite its quality.",
+    "sources": []
+  },
+  {
+    "title": "How Team Bondi and Rockstar Exposed Los Angeles Forgotten Catastrophe",
+    "url": "https://www.resetera.com/threads/how-team-bondi-and-rockstar-exposed-los-angeles-forgotten-catastrophe.1635514/",
+    "published": "2026-09-17T03:00:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "game-dev"
+    ],
+    "summary": "A video essay explores the real historical event that inspired L.A. Noire's Nicholson Electroplating DLC case, revealing how Rockstar and Team Bondi drew from Los Angeles's forgotten catastrophe.",
+    "sources": []
+  },
+  {
+    "title": "[September 16, 2026] Final Fantasy XIV Official Blog: Thanks for Coming Out to Otakon 2026!",
+    "url": "https://www.resetera.com/threads/september-16-2026-final-fantasy-xiv-official-blog-thanks-for-coming-out-to-otakon-2026.1635421/",
+    "published": "2026-09-17T02:05:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Square Enix recaps their Final Fantasy XIV presence at Otakon 2026, sharing panel videos and convention merchandise highlights.",
+    "sources": []
+  },
+  {
+    "title": "Do you think Donkey Kong Country is a dead franchise?",
+    "url": "https://www.resetera.com/threads/do-you-think-donkey-kong-country-is-a-dead-franchise.1635286/",
+    "published": "2026-09-17T01:31:35+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A fan expresses concerns about the future of the Donkey Kong Country franchise amid speculation about developer priorities and potential direction changes.",
+    "sources": []
+  },
+  {
+    "title": "Rhapsody: A Musical Adventure - Revisiting this game after 25 years",
+    "url": "https://www.resetera.com/threads/rhapsody-a-musical-adventure-revisiting-this-game-after-25-years.1635397/",
+    "published": "2026-09-17T01:30:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A nostalgic retrospective on Rhapsody: A Musical Adventure, a 25-year-old PS1 game, reflecting on personal gaming memories and the series' obscure spin-offs.",
+    "sources": []
+  },
+  {
+    "title": "Wave Race 64 turns 30 this month!",
+    "url": "https://www.resetera.com/threads/wave-race-64-turns-30-this-month.1635253/",
+    "published": "2026-09-17T01:16:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "console-hardware",
+      "community"
+    ],
+    "summary": "Wave Race 64 celebrates its 30th anniversary this month, with fans reminiscing about the game's groundbreaking water physics and visual impact on Nintendo 64.",
+    "sources": []
+  },
+  {
+    "title": "Character Edit Vouchers in Monster Hunter Wilds will be discontinued with Ascendance launch. 10 Character and Palico vouchers to be distributed Dec 3.",
+    "url": "https://www.resetera.com/threads/character-edit-vouchers-in-monster-hunter-wilds-will-be-discontinued-with-ascendance-launch-10-character-and-palico-vouchers-to-be-distributed-dec-3.1635400/",
+    "published": "2026-09-17T00:51:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Monster Hunter Wilds will discontinue paid character edit vouchers in favor of free unlimited editing with the Ascendance expansion, distributing final vouchers to players before the change.",
+    "sources": []
+  },
+  {
+    "title": "What would you have wanted Bluepoint (RIP) to work on after Demon's Souls?",
+    "url": "https://www.resetera.com/threads/what-would-you-have-wanted-bluepoint-rip-to-work-on-after-demons-souls.1635079/",
+    "published": "2026-09-17T00:28:17+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Community discussion about what Bluepoint Games could have worked on following their Demon's Souls remake before the studio's closure.",
+    "sources": []
+  },
+  {
+    "title": "Whats the best new game released in September(2026) you played so far?",
+    "url": "https://www.resetera.com/threads/whats-the-best-new-game-released-in-september-2026-you-played-so-far.1635259/",
+    "published": "2026-09-17T00:06:59+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community poll asking users to vote on the best new games released in September 2026 and discuss their favorites.",
+    "sources": []
+  },
+  {
+    "title": "Windows Central on the rumored 2027 Game Pass changes: no current plan to remove day 1 in totality but changes coming",
+    "url": "https://www.resetera.com/threads/windows-central-on-the-rumored-2027-game-pass-changes-no-current-plan-to-remove-day-1-in-totality-but-changes-coming.1635157/",
+    "published": "2026-09-16T23:54:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "Windows Central reports on rumored 2027 Game Pass changes, confirming some details while noting Xbox hasn't planned to completely eliminate day-one releases despite incoming modifications to the subscription service.",
+    "sources": []
+  },
+  {
+    "title": "[VGHF] Takumi Kawagoe - The person behind Nintendo's cinematic lineage (Star Fox gave birth to 3D Mario)",
+    "url": "https://www.resetera.com/threads/vghf-takumi-kawagoe-the-person-behind-nintendos-cinematic-lineage-star-fox-gave-birth-to-3d-mario.1635346/",
+    "published": "2026-09-16T23:51:46+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "game-dev",
+      "nintendo"
+    ],
+    "summary": "Video Game History Foundation explores Takumi Kawagoe's pioneering work on in-game camera and cinematic direction at Nintendo, tracing his influence from Star Fox 2 through Mario 64 and beyond.",
+    "sources": []
+  },
+  {
+    "title": "Want to play FFVII Remake and Rebirth for free* (heavy on the asterisk) on Xbox? I gotchu.",
+    "url": "https://www.resetera.com/threads/want-to-play-ffvii-remake-and-rebirth-for-free-heavy-on-the-asterisk-on-xbox-i-gotchu.1635376/",
+    "published": "2026-09-16T23:50:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A personal blog post about playing Final Fantasy VII Remake and Rebirth on Xbox through some unspecified free method, written by someone reconsidering their previous criticism of the series.",
+    "sources": []
+  },
+  {
+    "title": "Splinter Cell Blacklist Forgotten Ubisoft (Emerald) Gem That Deserved Better",
+    "url": "https://www.resetera.com/threads/splinter-cell-blacklist-forgotten-ubisoft-emerald-gem-that-deserved-better.1635193/",
+    "published": "2026-09-16T23:40:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-history",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A retrospective appreciation of Splinter Cell Blacklist highlighting its underrated visual design and gameplay quality despite being overlooked by the industry.",
+    "sources": []
+  },
+  {
+    "title": "Nearly everyone at Heart Machine has been laid off after a publisher is no longer moving forward with an unannounced game.",
+    "url": "https://www.resetera.com/threads/nearly-everyone-at-heart-machine-has-been-laid-off-after-a-publisher-is-no-longer-moving-forward-with-an-unannounced-game.1635202/",
+    "published": "2026-09-16T23:22:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Heart Machine studio experiences major layoffs after publisher cancels unannounced game project.",
+    "sources": []
+  },
+  {
+    "title": "Why Does Majoras Mask Feel Like That [Internet Pitstop] - What's YOUR 'Vibe-based' game?",
+    "url": "https://www.resetera.com/threads/why-does-majoras-mask-feel-like-that-internet-pitstop-whats-your-vibe-based-game.1635382/",
+    "published": "2026-09-16T23:04:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 32,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "community"
+    ],
+    "summary": "A video essay exploring the unique atmospheric qualities and 'vibe' of The Legend of Zelda: Majora's Mask, discussing how its rushed development paradoxically contributed to its distinctive dark tone and design.",
+    "sources": []
+  },
+  {
+    "title": "Which of these rumored/clamored for games do you think will actually happen?",
+    "url": "https://www.resetera.com/threads/which-of-these-rumored-clamored-for-games-do-you-think-will-actually-happen.1635127/",
+    "published": "2026-09-16T21:23:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "community",
+      "leaks"
+    ],
+    "summary": "Community discussion thread speculating on which rumored or requested games are likely to actually be developed and released.",
+    "sources": []
+  },
+  {
+    "title": "Original Sony PlayStation 2 security chip \u2018broken wide open\u2019 after 26 years",
+    "url": "https://www.resetera.com/threads/original-sony-playstation-2-security-chip-%E2%80%98broken-wide-open%E2%80%99-after-26-years.1635187/",
+    "published": "2026-09-16T20:58:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "retro",
+      "console-hardware",
+      "emulation",
+      "gaming-history",
+      "hardware-preservation"
+    ],
+    "summary": "The PlayStation 2's security chip has been reverse-engineered after 26 years, enabling advances in hardware preservation, repair, and emulation.",
+    "sources": []
+  },
+  {
+    "title": "What is the Remedyverse? Control Explained for Beginners! (Spoiler Free)",
+    "url": "https://www.resetera.com/threads/what-is-the-remedyverse-control-explained-for-beginners-spoiler-free.1635076/",
+    "published": "2026-09-16T20:23:18+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "A YouTube explainer video introduces newcomers to the Remedyverse and Control lore in a spoiler-free format.",
+    "sources": []
+  },
+  {
+    "title": "[Sept 16, 2026] Nintendo Urges Switch Owners to Update Their Firmware After Security Exploit Discovered (CVE-2026-82079, fixed with firmware 23.0.0)",
+    "url": "https://www.resetera.com/threads/sept-16-2026-nintendo-urges-switch-owners-to-update-their-firmware-after-security-exploit-discovered-cve-2026-82079-fixed-with-firmware-23-0-0.1635112/",
+    "published": "2026-09-16T18:48:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Nintendo releases firmware 23.0.0 for Switch 1 to patch security vulnerability CVE-2026-82079 involving QR code generation.",
+    "sources": []
+  },
+  {
+    "title": "RetroSync's New Wireless Adapter Will Enable GBA-To-Switch Pokemon Trading",
+    "url": "https://www.timeextension.com/news/2026/09/retrosyncs-new-wireless-adapter-will-enable-gba-to-switch-pokemon-trading",
+    "published": "2026-09-17T09:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "homebrew",
+      "gaming-hardware",
+      "retro",
+      "community",
+      "game-dev"
+    ],
+    "summary": "RetroSync is developing a wireless adapter that will enable Pokemon trading between Game Boy Advance cartridges and Nintendo Switch, nearing completion with working prototypes demonstrated.",
+    "sources": []
+  },
+  {
+    "title": "The Battle Arena Toshinden Trilogy Is Coming To Modern Platforms",
+    "url": "https://www.timeextension.com/news/2026/09/the-battle-arena-toshinden-trilogy-is-coming-to-modern-platforms",
+    "published": "2026-09-17T08:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Battle Arena Toshinden trilogy from the mid-1990s is being ported to modern platforms by Edia.",
+    "sources": []
+  },
+  {
+    "title": "G'AIM'E Light Gun Appears In New 'Pro' And 'Lite' Hardware Variants",
+    "url": "https://www.timeextension.com/news/2026/09/gaime-light-gun-appears-in-new-pro-and-lite-hardware-variants",
+    "published": "2026-09-17T08:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-hardware",
+      "handheld-gaming",
+      "console-hardware"
+    ],
+    "summary": "Tassei Denki unveiled Pro and Lite variants of its G'AIM'E Light Gun system at Tokyo Game Show 2026, with improved specs and a gyro-based alternative model.",
+    "sources": []
+  },
+  {
+    "title": "Hands On: Retro Fighters Brawler64 Pro - A Solid Controller For N64, And More",
+    "url": "https://www.timeextension.com/features/hands-on-retro-fighters-brawler64-pro-a-solid-controller-for-n64-and-more",
+    "published": "2026-09-16T17:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-hardware",
+      "console-hardware"
+    ],
+    "summary": "Retro Fighters releases an updated Brawler64 Pro N64 controller with improved ergonomic design and new color options.",
+    "sources": []
+  },
+  {
+    "title": "Random: The Curious Case Of Pixar Vs. Nintendo, And The Quest For Answers",
+    "url": "https://www.timeextension.com/news/2026/09/random-the-curious-case-of-pixar-vs-nintendo-and-the-quest-for-answers",
+    "published": "2026-09-16T16:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "An investigation into the historical legal dispute between Pixar and Nintendo over the Uniracers game, exploring obscure gaming industry documentation.",
+    "sources": []
+  },
+  {
+    "title": "Fan Project Makes Kid Kirby, The Cancelled SNES Game From Grand Theft Auto Devs, A Reality",
+    "url": "https://www.timeextension.com/news/2026/09/fan-project-makes-kid-kirby-the-cancelled-snes-game-from-grand-theft-auto-devs-a-reality",
+    "published": "2026-09-16T15:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "homebrew",
+      "retro",
+      "game-dev",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A fan developer has created an unofficial homebrew recreation of Kid Kirby, a cancelled 1995 SNES game originally intended for Nintendo's Super Mario Paint peripheral.",
+    "sources": []
+  },
+  {
+    "title": "Toaplan's Zero Wing Is Coming To Neo Geo, Via To h0ffman's Homebrew Port",
+    "url": "https://www.timeextension.com/news/2026/09/toaplans-zero-wing-is-coming-to-neo-geo-via-to-h0ffmans-homebrew-port",
+    "published": "2026-09-16T14:20:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 55,
+    "tags": [
+      "neo-geo",
+      "homebrew",
+      "retro",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Homebrew developer h0ffman is porting the classic 1989 shooter Zero Wing to Neo Geo and reports the project is nearly complete.",
+    "sources": []
+  },
+  {
+    "title": "GG Aleste 3 Mega Drive Fan Port Video Removed Following Social Media Intervention From M2 Rep",
+    "url": "https://www.timeextension.com/news/2026/09/gg-aleste-3-mega-drive-fan-port-video-removed-following-social-media-intervention-from-m2-rep",
+    "published": "2026-09-16T14:16:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "retro",
+      "homebrew",
+      "game-dev",
+      "community"
+    ],
+    "summary": "A fan-created Mega Drive port of GG Aleste 3 had its video removed following intervention from M2 representative regarding the unauthorized port of the Game Gear exclusive title.",
+    "sources": []
+  },
+  {
+    "title": "Clown Around in Mr. Do's Castle, Headed To Hamster's Arcade Archives This Week",
+    "url": "https://www.timeextension.com/news/2026/09/clown-around-in-mr-dos-castle-headed-to-hamsters-arcade-archives-this-week",
+    "published": "2026-09-16T13:15:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "arcade",
+      "game-discovery",
+      "hamster-arcade-archives"
+    ],
+    "summary": "Mr. Do!'s Castle, a 1983 arcade platformer, is being added to Hamster's Arcade Archives collection this week.",
+    "sources": []
+  },
+  {
+    "title": "After More Than Two Decades, You Can Now Play This Chinese-Exclusive Paper Mario Board Game In English",
+    "url": "https://www.timeextension.com/news/2026/09/after-more-than-two-decades-you-can-now-play-this-chinese-exclusive-paper-mario-board-game-in-english",
+    "published": "2026-09-16T12:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "community",
+      "retro",
+      "gaming-history"
+    ],
+    "summary": "A fan translation of a Chinese-exclusive Paper Mario board game from over two decades ago has been recreated in Tabletop Simulator, making it accessible to English-speaking players for the first time.",
+    "sources": []
+  },
+  {
+    "title": "Terranigma Returns January 14 2027, Physical \"Gaia Edition\" Now Available To Pre-Order",
+    "url": "https://www.timeextension.com/news/2026/09/terranigma-returns-january-14-2027-physical-gaia-edition-now-available-to-pre-order",
+    "published": "2026-09-16T11:35:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Clear River Games announces a physical collector's 'Gaia Edition' for the 1995 SNES RPG Terranigma's January 2027 rerelease across PC and consoles.",
+    "sources": []
+  },
+  {
+    "title": "\"Terrible Marketing Hid A Great Show\" - First Reviews Of Paramount's Golden Axe TV Series Are In",
+    "url": "https://www.timeextension.com/news/2026/09/terrible-marketing-hid-a-great-show-first-reviews-of-paramounts-golden-axe-tv-series-are-in",
+    "published": "2026-09-16T10:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "gaming-news"
+    ],
+    "summary": "Paramount's Golden Axe TV adaptation receives positive early reviews despite initial marketing backlash, with creator Mike McMahan bringing humor and lore knowledge to the classic Sega franchise.",
+    "sources": []
+  },
+  {
+    "title": "It Looks Like The Legend of Heroes II: Prophecy Of The Moonlight Witch Is Being Revived For PC & Consoles",
+    "url": "https://www.timeextension.com/news/2026/09/it-looks-like-the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch-is-being-revived-for-pc-and-consoles",
+    "published": "2026-09-16T10:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "retro",
+      "gaming-history",
+      "game-discovery"
+    ],
+    "summary": "Neowiz and Nihon Falcom have partnered to revive The Legend of Heroes II: Prophecy of the Moonlight Witch, a 1994 PC-9801 RPG, bringing it to modern PC and consoles globally.",
+    "sources": []
+  },
+  {
+    "title": "Humble's Amazing Sniper Elite Classics Collection Bundle Returns",
+    "url": "https://steamdeckhq.com/news/humbles-sniper-elite-classics-bundle-returns/",
+    "published": "2026-09-16T18:05:09+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "Humble Bundle reoffers the Sniper Elite Classics Collection with five games for $10, all Steam Deck compatible.",
+    "sources": []
+  },
+  {
+    "title": "DXVK 3.1.1 Releases With Fixes For Skyrim and Call of Duty: Ghosts",
+    "url": "https://steamdeckhq.com/news/dxvk-3-1-1-releases-with-fixes-for-skyrim/",
+    "published": "2026-09-16T16:53:01+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "steam-deck",
+      "proton",
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "DXVK 3.1.1 releases with bug fixes for popular games including Skyrim and Call of Duty: Ghosts on Steam Deck.",
+    "sources": []
+  },
+  {
+    "title": "Heart Machine faces possible closure after publishing deal falls through; majority of staff laid off",
+    "url": "https://www.gamesindustry.biz/heart-machine-faces-possible-closure-after-publishing-deal-falls-through-majority-of-staff-laid-off",
+    "published": "2026-09-17T08:39:10+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "indie-games"
+    ],
+    "summary": "Hyper Light Drifter developer Heart Machine faces potential closure after a publishing deal fell through, resulting in the majority of staff being laid off.",
+    "sources": []
+  },
+  {
+    "title": "Shinji Mikami to be inducted into the AIAS Hall of Fame later this week",
+    "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
+    "published": "2026-09-16T20:21:48+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "gaming-history",
+      "game-dev"
+    ],
+    "summary": "Resident Evil creator Shinji Mikami will be inducted into the AIAS Hall of Fame, recognizing his landmark contributions to game development.",
+    "sources": []
+  },
+  {
+    "title": "MindsEye developers report new round of layoffs at Build A Rocket Boy",
+    "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
+    "published": "2026-09-16T17:32:12+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Scottish game developer Build A Rocket Boy has conducted another round of layoffs, continuing workforce reductions at the studio.",
+    "sources": []
+  },
+  {
+    "title": "Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK",
+    "url": "https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk",
+    "published": "2026-09-16T16:08:21+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "GamesIndustry.biz announces the first finalists for their 2026 Best Places To Work Awards in the UK.",
+    "sources": []
+  },
+  {
+    "title": "1312 Interactive raises $1m in seed funding round",
+    "url": "https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round",
+    "published": "2026-09-16T13:25:18+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "indie-games"
+    ],
+    "summary": "Independent publishing house 1312 Interactive secures $1 million in seed funding to support game development and publishing efforts.",
+    "sources": []
+  },
+  {
+    "title": "\"I really want Criterion to be considered the best studio in the UK\" \u2013 why the home of Burnout has a future with Battlefield",
+    "url": "https://www.gamesindustry.biz/i-really-want-criterion-to-be-considered-the-best-studio-in-the-uk-why-the-home-of-burnout-has-a-future-with-battlefield",
+    "published": "2026-09-16T13:07:10+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "summary": "Criterion Games discusses its future direction and ambitions as it works on the Battlefield franchise, reflecting on its legacy and UK studio status.",
+    "sources": []
+  },
+  {
+    "title": "Scott Pilgrim EX",
+    "url": "https://www.hardcoregaming101.net/scott-pilgrim-ex/",
+    "published": "2026-09-16T17:29:51+00:00",
+    "feed_name": "Hardcore Gaming 101",
+    "feed_tags": [
+      "retro",
+      "gaming-history"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "retro"
+    ],
+    "summary": "Scott Pilgrim EX announced, reuniting Tribute Games with the Scott Pilgrim franchise following their success with TMNT: Shredder's Revenge.",
+    "sources": []
+  },
+  {
+    "title": "Helldivers 2 and Horizon Forbidden West delisted from Steam in the UK, Sony say they're \"working with Valve to address the issue\"",
+    "url": "https://www.rockpapershotgun.com/helldivers-2-and-horizon-forbidden-west-delisted-from-steam-in-the-uk-sony-say-theyre-working-with-valve-to-address-the-issue",
+    "published": "2026-09-17T09:03:28+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 75,
+    "tags": [
+      "steam-platform",
+      "gaming-news",
+      "valve",
+      "gaming-industry"
+    ],
+    "summary": "Helldivers 2 and Horizon Forbidden West were delisted from Steam in the UK, with Sony working with Valve to resolve the issue.",
+    "sources": []
+  },
+  {
+    "title": "\"15 years ago, people understood it was an unfinished game\": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed",
+    "url": "https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed",
+    "published": "2026-09-16T16:57:25+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-industry",
+      "game-discovery"
+    ],
+    "summary": "Amplitude Studios reflects on how early access and player engagement have evolved over 15 years as Endless Legend 2 reaches full release after a year in early access.",
+    "sources": []
+  },
+  {
+    "title": "Low poly horror Tumblebee combines the joy of tumbling bees with the not-joy of being chased by huge spiders",
+    "url": "https://www.rockpapershotgun.com/low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees-with-the-not-joy-of-being-chased-by-huge-spiders",
+    "published": "2026-09-16T16:13:56+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 28,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Tumblebee is a low-poly horror game combining bee-tumbling mechanics with spider-chasing gameplay.",
+    "sources": []
+  },
+  {
+    "title": "Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks",
+    "url": "https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks",
+    "published": "2026-09-16T15:20:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "Dog in the Machine is a new turn-based tactics game inspired by Into The Breach that replaces traditional combat with teaching mecha dogs tricks and using props.",
+    "sources": []
+  },
+  {
+    "title": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\"",
+    "url": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
+    "published": "2026-09-16T14:50:26+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 58,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Build A Rocket Boy studio appears to be making fresh redundancies following struggles with their MindsEye title, with union solidarity expressed for affected workers.",
+    "sources": []
+  },
+  {
+    "title": "\"A dried husk of a product\": former Doom producer berates Microsoft for making Halo a \"mid-tier\" game and mourns the \"financialisation\" of AAA",
+    "url": "https://www.rockpapershotgun.com/a-dried-husk-of-a-product-former-doom-producer-berates-microsoft-for-making-halo-a-mid-tier-game-and-mourns-the-financialisation-of-aaa",
+    "published": "2026-09-16T13:30:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Former Doom producer Andrew Willis criticizes Microsoft and major AAA publishers for prioritizing financial returns over creative vision, citing Halo as an example of a once-great franchise being diminished by corporate financialization.",
+    "sources": []
+  },
+  {
+    "title": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs",
+    "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
+    "published": "2026-09-16T13:01:35+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 72,
+    "tags": [
+      "valve",
+      "steam-platform",
+      "gaming-hardware",
+      "pc-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Valve confirms that Steam Frame's compatibility technology is just the beginning of efforts to enable Steam games on ARM-based PCs and laptops that previously couldn't run them.",
+    "sources": []
+  },
+  {
+    "title": "\"They often don\u2019t make it in the door\": Wardogs studio Bulkhead check for \"anti-crunch messaging\" on prospective hires' social media, CEO says",
+    "url": "https://www.rockpapershotgun.com/they-often-dont-make-it-in-the-door-wardogs-studio-bulkhead-check-for-anti-crunch-messaging-on-prospective-hires-social-media-ceo-says",
+    "published": "2026-09-16T12:07:05+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Bulkhead Interactive's CEO reveals the studio screens prospective employees' social media for anti-crunch criticism and avoids hiring those who publicly oppose crunch practices.",
+    "sources": []
+  },
+  {
+    "title": "Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology",
+    "url": "https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology",
+    "published": "2026-09-16T09:35:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Koei Tecmo announces Wo Long 2: Wings of Ember for March 2027 with a playable alpha demo now available.",
+    "sources": []
+  },
+  {
+    "title": "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs",
+    "url": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
+    "published": "2026-09-16T18:00:00+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 55,
+    "tags": [
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Build a Rocket Boy, developer of MindsEye, appears to be closing following recent layoffs as multiple staff members post farewells on social media.",
+    "sources": []
+  },
+  {
+    "title": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards",
+    "url": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
+    "published": "2026-09-16T16:31:40+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "gaming-history"
+    ],
+    "summary": "Resident Evil director Shinji Mikami will be inducted into the AIAS Hall of Fame at the 2026 DICE Awards, with Goichi Suda presenting the award.",
+    "sources": []
+  },
+  {
+    "title": "Activision Blizzard sued by former employee over sexual harassment",
+    "url": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
+    "published": "2026-09-16T13:20:17+00:00",
+    "feed_name": "Game Developer",
+    "feed_tags": [
+      "gaming-industry",
+      "game-dev"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "A former 14-year Activision Blizzard employee has filed a lawsuit alleging sexual harassment and retaliation by multiple male colleagues.",
+    "sources": []
+  },
+  {
+    "title": "Final Fantasy VII Revelation hands-on report: Into the Whirlwind Maze where Sephiroth awaits",
+    "url": "https://blog.playstation.com/2026/09/17/final-fantasy-vii-revelation-hands-on-report-into-the-whirlwind-maze-where-sephiroth-awaits/",
+    "published": "2026-09-17T08:00:09+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "Final Fantasy VII Revelation, the concluding chapter of the PS5 remake trilogy launching April 2027, was playable at Tokyo Game Show 2026 with details on combat and story progression.",
+    "sources": []
+  },
+  {
+    "title": "(For Southeast Asia) PlayStation Plus Tokyo Game Show promotion starts 17 September",
+    "url": "https://blog.playstation.com/2026/09/16/20260917-psplus/",
+    "published": "2026-09-17T03:41:07+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "PlayStation Plus launches a regional promotion in Southeast Asia during Tokyo Game Show offering up to 25% discounts on memberships from September 17-30.",
+    "sources": []
+  },
+  {
+    "title": "Monster Hunter Wilds: Ascendance hands-on report \u2013 taking on new monster Araketa and Elder Dragon Teostra",
+    "url": "https://blog.playstation.com/2026/09/16/monster-hunter-wilds-ascendance-hands-on-report-taking-on-new-monster-araketa-and-elder-dragon-teostra/",
+    "published": "2026-09-17T01:00:21+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Hands-on preview of Monster Hunter Wilds: Ascendance expansion coming in 2027, featuring new monsters, areas, and Master Rank content.",
+    "sources": []
+  },
+  {
+    "title": "A close quarters look at Proto Man in Mega Man: Dual Override",
+    "url": "https://blog.playstation.com/2026/09/16/a-close-quarters-look-at-proto-man-in-mega-man-dual-override/",
+    "published": "2026-09-17T01:00:12+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-history"
+    ],
+    "summary": "Capcom reveals Proto Man as a second playable character in the upcoming Mega Man: Dual Override alongside the returning Mega Man.",
+    "sources": []
+  },
+  {
+    "title": "Moomintroll: Winter\u2019s Warmth launches on September 18",
+    "url": "https://blog.playstation.com/2026/09/16/moomintroll-winters-warmth-launches-on-september-18/",
+    "published": "2026-09-16T17:00:05+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Hyper Games announces Moomintroll: Winter's Warmth, a cozy adventure game launching on PlayStation 5 on September 18.",
+    "sources": []
+  },
+  {
+    "title": "Silent Hill: Townfall creators break down PS5 features, out September 24",
+    "url": "https://blog.playstation.com/2026/09/16/silent-hill-townfall-creators-break-down-ps5-features-out-september-25/",
+    "published": "2026-09-16T13:00:27+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Silent Hill: Townfall developers discuss PS5 feature integration ahead of the game's September 24 release.",
+    "sources": []
+  },
+  {
+    "title": "Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I've Played It Before",
+    "url": "https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before",
+    "published": "2026-09-16T23:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Preview of Silver Palace, an upcoming free-to-play Gothic RPG for PS5, notes familiar gameplay mechanics despite its visual appeal.",
+    "sources": []
+  },
+  {
+    "title": "The Disastrous MindsEye Saga Comes to a Close as Studio Is Reportedly Shutting Down",
+    "url": "https://www.pushsquare.com/news/2026/09/the-disastrous-mindseye-saga-comes-to-a-close-as-studio-is-reportedly-shutting-down",
+    "published": "2026-09-16T18:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Build A Rocket Boy, developer of the poorly-received PS5 shooter MindsEye, is reportedly shutting down after significant financial losses.",
+    "sources": []
+  },
+  {
+    "title": "Dragon Quest Reaches 100 Million Total Sales, 40 Years on from the Iconic Series' Debut",
+    "url": "https://www.pushsquare.com/news/2026/09/dragon-quest-reaches-100-million-total-sales-40-years-on-from-the-iconic-series-debut",
+    "published": "2026-09-16T18:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "Dragon Quest franchise celebrates a historic milestone of 100 million total sales across all titles spanning 40 years since its 1986 debut.",
+    "sources": []
+  },
+  {
+    "title": "Preview: Crazy Taxi: World Tour's Beta Test Transported Me Back to a Bygone Era of Online Multiplayer",
+    "url": "https://www.pushsquare.com/previews/crazy-taxi-world-tours-beta-test-transported-me-back-to-a-bygone-era-of-online-multiplayer",
+    "published": "2026-09-16T17:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "gaming-industry"
+    ],
+    "summary": "SEGA's Crazy Taxi: World Tour beta test offers a nostalgic multiplayer experience bringing the classic arcade game back to modern gaming.",
+    "sources": []
+  },
+  {
+    "title": "This New Community Activity Widget Tells You What's Hot Right Now on PS5",
+    "url": "https://www.pushsquare.com/news/2026/09/this-new-community-activity-widget-tells-you-whats-hot-right-now-on-ps5",
+    "published": "2026-09-16T16:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "PlayStation 5 receives a new system software update featuring a Community Activity widget that displays trending games and public activity on the console.",
+    "sources": []
+  },
+  {
+    "title": "Dragon's Dogma 2 Fans Will Froth at the Mouth with This New Look at Dark Arisen",
+    "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-fans-will-froth-at-the-mouth-with-this-new-look-at-dark-arisen",
+    "published": "2026-09-16T15:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Capcom releases a new trailer for Dragon's Dogma 2: Dark Arisen expansion launching October 9th, showcasing new enemies, weapons, armor, and vocation skills.",
+    "sources": []
+  },
+  {
+    "title": "Review: Trails in the Sky 2nd Chapter (PS5) - Quite Possibly One of the Best RPG Sequels Ever Made",
+    "url": "https://www.pushsquare.com/reviews/ps5/trails-in-the-sky-2nd-chapter",
+    "published": "2026-09-16T15:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 52,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Trails in the Sky 2nd Chapter receives critical acclaim as a strong RPG sequel that follows the formula of its predecessor on PS5.",
+    "sources": []
+  },
+  {
+    "title": "Bayonetta Will Join Sonic Racing: CrossWorlds in a Free Update 'Soon' on PS5, PS4",
+    "url": "https://www.pushsquare.com/news/2026/09/bayonetta-will-join-sonic-racing-crossworlds-in-a-free-update-soon-on-ps5-ps4",
+    "published": "2026-09-16T11:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "SEGA announces Bayonetta will be added as a free character to Sonic Racing: CrossWorlds in an upcoming update.",
+    "sources": []
+  },
+  {
+    "title": "Try Team Ninja's Next PS5 Action RPG, Wo Long 2, Six Months Early with New Playable Demo",
+    "url": "https://www.pushsquare.com/news/2026/09/try-team-ninjas-next-ps5-action-rpg-wo-long-2-six-months-early-with-new-playable-demo",
+    "published": "2026-09-16T10:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "Team Ninja announces March 4, 2027 release date for Wo Long 2: Wings of Ember on PS5 with a playable demo available six months early.",
+    "sources": []
+  },
+  {
+    "title": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Tokyo Game Show Sale (North America/Europe)",
+    "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-tokyo-game-show-sale-north-americaeurope",
+    "published": "2026-09-16T09:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "PlayStation Store launches Tokyo Game Show 2026 sale featuring 50+ discounted PS5 and PS4 games available until September 23rd.",
+    "sources": []
+  },
+  {
+    "title": "PS5's New Firmware Update Available to Download Now, Here's What It Does",
+    "url": "https://www.pushsquare.com/news/2026/09/ps5s-new-firmware-update-available-to-download-now-heres-what-it-does",
+    "published": "2026-09-16T09:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Sony releases PS5 firmware update version 26.06-14.00.00 with unspecified improvements beyond stability fixes.",
+    "sources": []
+  }
+]
