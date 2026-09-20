@@ -1,0 +1,1021 @@
+[
+  {
+    "title": "Linux 7.3-rc4 To Address Two Unfortunate Bugs With Btrfs",
+    "url": "https://www.phoronix.com/news/Btrfs-Fixes-For-Linux-7.3-rc4",
+    "published": "2026-09-20T00:26:58+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware"
+    ],
+    "summary": "Linux 7.3-rc4 includes Btrfs file-system bug fixes that may indirectly benefit Linux gaming systems.",
+    "sources": []
+  },
+  {
+    "title": "Simple Optimization For Linux 7.4 Can Open Files For Reading ~39% Faster",
+    "url": "https://www.phoronix.com/news/Linux-7.4-Faster-Do-Open",
+    "published": "2026-09-19T16:28:05+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Linux 7.4 introduces a simple file-reading optimization that can improve performance by ~39%, potentially benefiting gaming applications.",
+    "sources": []
+  },
+  {
+    "title": "Wine-Staging 11.18 Adds New Patches To Further Improve WoW64",
+    "url": "https://www.phoronix.com/news/Wine-Staging-11.18",
+    "published": "2026-09-19T13:22:39+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "wine",
+      "linux-gaming",
+      "proton",
+      "open-source"
+    ],
+    "summary": "Wine-Staging 11.18 introduces new patches to improve WoW64 support, building on the upstream Wine 11.18 release with 273 experimental patches.",
+    "sources": []
+  },
+  {
+    "title": "GNOME OS Turns To Zswap To Deal With OOM Issues, Progress On Geary Email Client Fork",
+    "url": "https://www.phoronix.com/news/GNOME-OS-Goes-Zswap",
+    "published": "2026-09-19T10:38:08+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "gaming-hardware"
+    ],
+    "summary": "GNOME OS implements Zswap memory management improvements and continues development on Geary email client fork, addressing system stability issues.",
+    "sources": []
+  },
+  {
+    "title": "Intel Xe Driver For Linux 7.4 Adds vRAM Health Check, Degraded Memory Handling",
+    "url": "https://www.phoronix.com/news/Intel-Xe-vRAM-Health-Check",
+    "published": "2026-09-19T10:24:15+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "gaming-hardware",
+      "linux-hardware"
+    ],
+    "summary": "Intel Xe graphics driver for Linux 7.4 adds vRAM health monitoring and degraded memory handling capabilities.",
+    "sources": []
+  },
+  {
+    "title": "KDE Plasma 6.8 Seeing More Polishing & Fixes, Plasma 6.9 Begins Seeing More Activity",
+    "url": "https://www.phoronix.com/news/Plasma-6.8-Post-Beta-Fixes",
+    "published": "2026-09-19T10:10:34+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "KDE Plasma 6.8 continues receiving polish and bug fixes while development begins on Plasma 6.9.",
+    "sources": []
+  },
+  {
+    "title": "Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads",
+    "url": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
+    "published": "2026-09-19T01:00:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "linux-hardware",
+      "linux-gaming",
+      "open-source",
+      "community"
+    ],
+    "summary": "Phoronix offers a premium subscription promotion to support continued Linux hardware testing and benchmarking coverage.",
+    "sources": []
+  },
+  {
+    "title": "Castlevania: Belmont's Curse demo launching October 1, 2026",
+    "url": "https://www.resetera.com/threads/castlevania-belmonts-curse-demo-launching-october-1-2026.1638043/",
+    "published": "2026-09-20T09:08:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "Konami announces Castlevania: Belmont's Curse demo launching October 1, 2026, featuring cross-platform availability with save data carrying over to the full game.",
+    "sources": []
+  },
+  {
+    "title": "Never played Final Fantasy VII. Should I start with the original or Remake?",
+    "url": "https://www.resetera.com/threads/never-played-final-fantasy-vii-should-i-start-with-the-original-or-remake.1637836/",
+    "published": "2026-09-20T09:05:37+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery"
+    ],
+    "summary": "A player seeks advice on whether to start with the original Final Fantasy VII or its Remake, citing a promotional price on Switch 2.",
+    "sources": []
+  },
+  {
+    "title": "Has Sony's Stopping Physical Games Inspired Anyone Else to Go Buy a Switch 2?",
+    "url": "https://www.resetera.com/threads/has-sonys-stopping-physical-games-inspired-anyone-else-to-go-buy-a-switch-2.1637710/",
+    "published": "2026-09-20T09:04:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "console-hardware",
+      "handheld-gaming",
+      "community"
+    ],
+    "summary": "Community discussion about Sony's physical games decision potentially driving consumers toward Nintendo Switch 2 purchases.",
+    "sources": []
+  },
+  {
+    "title": "Phoenix Wright: Ace Attorney Trilogy has sold over 5 million copies",
+    "url": "https://www.resetera.com/threads/phoenix-wright-ace-attorney-trilogy-has-sold-over-5-million-copies.1638052/",
+    "published": "2026-09-20T09:02:15+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Phoenix Wright: Ace Attorney Trilogy surpasses 5 million copies sold, marking a significant milestone for Capcom's beloved legal adventure series.",
+    "sources": []
+  },
+  {
+    "title": "Do you want Spider-Man 3 game to be set somewhere else than New York?",
+    "url": "https://www.resetera.com/threads/do-you-want-spider-man-3-game-to-be-set-somewhere-else-than-new-york.1637764/",
+    "published": "2026-09-20T08:58:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion about potential setting preferences for a hypothetical Spider-Man 3 game, questioning whether future installments should remain in New York or explore new locations.",
+    "sources": []
+  },
+  {
+    "title": "Persona 4 Revival Broadcast | Episode 2 - Nanako, Dojima, Adachi, & Aika renders, Japanese VAs, and bios",
+    "url": "https://www.resetera.com/threads/persona-4-revival-broadcast-episode-2-nanako-dojima-adachi-aika-renders-japanese-vas-and-bios.1637962/",
+    "published": "2026-09-20T08:56:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Atlus releases Episode 2 of Persona 4 Revival broadcast featuring character renders, voice actor information, and character bios for the upcoming remake.",
+    "sources": []
+  },
+  {
+    "title": "After five years, I have managed to collect the full set of UK/EU Neo Geo Pocket Color Games",
+    "url": "https://www.resetera.com/threads/after-five-years-i-have-managed-to-collect-the-full-set-of-uk-eu-neo-geo-pocket-color-games.1637944/",
+    "published": "2026-09-20T08:55:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "handheld-gaming",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "A collector shares their five-year journey completing a full set of UK/EU Neo Geo Pocket Color games, reflecting on childhood nostalgia with the handheld system.",
+    "sources": []
+  },
+  {
+    "title": "Examples where you wanted or want games to be more accessible, hand holdy or just more streamlined?",
+    "url": "https://www.resetera.com/threads/examples-where-you-wanted-or-want-games-to-be-more-accessible-hand-holdy-or-just-more-streamlined.1637731/",
+    "published": "2026-09-20T08:53:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion thread about desire for accessibility features and streamlined mechanics in games, contrasting with recent debates about hand-holding in game design.",
+    "sources": []
+  },
+  {
+    "title": "How do you pay for a gaming PC these days?",
+    "url": "https://www.resetera.com/threads/how-do-you-pay-for-a-gaming-pc-these-days.1637869/",
+    "published": "2026-09-20T08:50:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "pc-hardware",
+      "gaming-hardware",
+      "community"
+    ],
+    "summary": "Community discussion about financing options and affordability strategies for purchasing gaming PCs.",
+    "sources": []
+  },
+  {
+    "title": "How Do You Store Your PS5?",
+    "url": "https://www.resetera.com/threads/how-do-you-store-your-ps5.1637971/",
+    "published": "2026-09-20T08:46:43+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "console-hardware",
+      "community"
+    ],
+    "summary": "User discusses practical storage challenges and heat management concerns with their PS5 console placement.",
+    "sources": []
+  },
+  {
+    "title": "New to Steam\u2026 but have a Steam Machine in my cart",
+    "url": "https://www.resetera.com/threads/new-to-steam%E2%80%A6-but-have-a-steam-machine-in-my-cart.1638013/",
+    "published": "2026-09-20T08:35:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "steam-deck",
+      "handheld-gaming",
+      "community",
+      "steam-platform"
+    ],
+    "summary": "A console gamer considers purchasing a Steam Machine after being interested in the Steam Deck but choosing Nintendo Switch 2 instead, seeking advice on couch gaming options.",
+    "sources": []
+  },
+  {
+    "title": "Assassin's Creed Mirage cracked by RUNE; benchmarked against Denuvo/VMProtect | -386% executable size, + 76% min FPS, +14% avg FPS",
+    "url": "https://www.resetera.com/threads/assassins-creed-mirage-cracked-by-rune-benchmarked-against-denuvo-vmprotect-386-executable-size-76-min-fps-14-avg-fps.1637845/",
+    "published": "2026-09-20T08:28:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "pc-hardware",
+      "leaks"
+    ],
+    "summary": "RUNE cracking group removes Denuvo and VMProtect DRM from Assassin's Creed Mirage, demonstrating significant performance improvements including reduced executable size and higher frame rates.",
+    "sources": []
+  },
+  {
+    "title": "Street Fighter 6 X Star Detective Precure! in-game collab announced (December 17)",
+    "url": "https://www.resetera.com/threads/street-fighter-6-x-star-detective-precure-in-game-collab-announced-december-17.1638022/",
+    "published": "2026-09-20T08:10:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Street Fighter 6 announces a crossover collaboration with Star Detective Precure! featuring exclusive in-game content and story missions starting December 17th.",
+    "sources": []
+  },
+  {
+    "title": "Wolverine hotfix released that tones down scent trails and audio senses, notes options being explored to turn off sense assists",
+    "url": "https://www.resetera.com/threads/wolverine-hotfix-released-that-tones-down-scent-trails-and-audio-senses-notes-options-being-explored-to-turn-off-sense-assists.1637671/",
+    "published": "2026-09-20T06:18:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Insomniac Games releases a hotfix for Marvel's Wolverine that reduces the visual intensity of scent trails and audio sense indicators, with plans to explore toggleable options in future updates.",
+    "sources": []
+  },
+  {
+    "title": "Do your video game podcasters/journalists/youtubers of choice still play console or are they all on PC now like mine are?",
+    "url": "https://www.resetera.com/threads/do-your-video-game-podcasters-journalists-youtubers-of-choice-still-play-console-or-are-they-all-on-pc-now-like-mine-are.1637851/",
+    "published": "2026-09-20T05:21:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-industry",
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion observing that gaming content creators have largely shifted to PC as their primary gaming platform, reflecting possible industry trends.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo has only released 12 3D platformers in the last 30 years! What's your favorite?",
+    "url": "https://www.resetera.com/threads/nintendo-has-only-released-12-3d-platformers-in-the-last-30-years-whats-your-favorite.1637782/",
+    "published": "2026-09-20T04:43:40+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Analysis of Nintendo's 3D platformer output over 30 years, noting only 12 releases with discussion of franchise diversity beyond Mario.",
+    "sources": []
+  },
+  {
+    "title": "I think the world secretly wants a Superman racing game",
+    "url": "https://www.resetera.com/threads/i-think-the-world-secretly-wants-a-superman-racing-game.1637977/",
+    "published": "2026-09-20T04:43:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-dev",
+      "community"
+    ],
+    "summary": "A community member reflects on YouTube's prevalence of Superman game prototypes that focus only on flying mechanics rather than the superhero's diverse gameplay possibilities.",
+    "sources": []
+  },
+  {
+    "title": "PS4 exploit for FW 13.00 - 13.52 released. The 60 FPS Bloodborne dream is now available to more ppl.",
+    "url": "https://www.resetera.com/threads/ps4-exploit-for-fw-13-00-13-52-released-the-60-fps-bloodborne-dream-is-now-available-to-more-ppl.1637995/",
+    "published": "2026-09-20T02:19:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 58,
+    "tags": [
+      "homebrew",
+      "console-hardware",
+      "exploit",
+      "community"
+    ],
+    "summary": "A PS4 exploit for firmware versions 13.00-13.52 has been released, enabling modifications like the 60 FPS Bloodborne mod, though users risk PSN bans if connected to Sony's servers.",
+    "sources": []
+  },
+  {
+    "title": "Site closure announcement of The Helper.net, a 27-years old gaming forum. Will be archived in the near future.",
+    "url": "https://www.resetera.com/threads/site-closure-announcement-of-the-helper-net-a-27-years-old-gaming-forum-will-be-archived-in-the-near-future.1637980/",
+    "published": "2026-09-20T01:39:07+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "community",
+      "gaming-news"
+    ],
+    "summary": "The Helper.net, a 27-year-old gaming forum and Warcraft 3 community hub, is closing and will be archived.",
+    "sources": []
+  },
+  {
+    "title": "For the second time in history Denuvo protection has been completely removed from a game by a cracker.",
+    "url": "https://www.resetera.com/threads/for-the-second-time-in-history-denuvo-protection-has-been-completely-removed-from-a-game-by-a-cracker.1637665/",
+    "published": "2026-09-20T01:06:37+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Cracking group RUNE has completely removed Denuvo DRM and VMProtect from Assassin's Creed Mirage, marking only the second time in history such complete DRM removal has been achieved.",
+    "sources": []
+  },
+  {
+    "title": "Final Fantasy on the Wii. The 7 FFs on the Wii (video/GVG)",
+    "url": "https://www.resetera.com/threads/final-fantasy-on-the-wii-the-7-ffs-on-the-wii-video-gvg.1637839/",
+    "published": "2026-09-19T23:57:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "console-hardware"
+    ],
+    "summary": "A retrospective video covering the seven Final Fantasy titles released on Nintendo Wii, documenting Square Enix's diverse output on the platform during that era.",
+    "sources": []
+  },
+  {
+    "title": "DOOM 3 Cheeseburger",
+    "url": "https://www.resetera.com/threads/doom-3-cheeseburger.1637788/",
+    "published": "2026-09-19T23:55:02+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "A novelty or joke post about DOOM 3 and cheeseburgers with no clear gaming news value.",
+    "sources": []
+  },
+  {
+    "title": "Did you buy strategy guides back in the day?",
+    "url": "https://www.resetera.com/threads/did-you-buy-strategy-guides-back-in-the-day.1637737/",
+    "published": "2026-09-19T22:55:34+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A nostalgia-driven discussion post asking about personal experiences with physical strategy guides from the late 90s and early 2000s.",
+    "sources": []
+  },
+  {
+    "title": "Dragon's Dogma 2 on Switch 2 hit 60 fps with Frame Generation (another game after Stellar Blade)",
+    "url": "https://www.resetera.com/threads/dragons-dogma-2-on-switch-2-hit-60-fps-with-frame-generation-another-game-after-stellar-blade.1637626/",
+    "published": "2026-09-19T21:44:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "handheld-gaming",
+      "console-hardware",
+      "gaming-hardware",
+      "gaming-news"
+    ],
+    "summary": "Dragon's Dogma 2: Dark Arisen will offer a 60 fps mode on Switch 2 using frame generation technology, alongside a standard 30 fps option.",
+    "sources": []
+  },
+  {
+    "title": "If one core X-Men character made a cameo in Spider-Man 3, who would you choose?",
+    "url": "https://www.resetera.com/threads/if-one-core-x-men-character-made-a-cameo-in-spider-man-3-who-would-you-choose.1637746/",
+    "published": "2026-09-19T21:03:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Community discussion about potential X-Men character cameos in Spider-Man 3 game, speculating on crossovers ahead of the upcoming Insomniac X-Men game.",
+    "sources": []
+  },
+  {
+    "title": "For me personally, Death Stranding would be 10 times better without the horror stuff",
+    "url": "https://www.resetera.com/threads/for-me-personally-death-stranding-would-be-10-times-better-without-the-horror-stuff.1637791/",
+    "published": "2026-09-19T20:55:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A player shares their opinion that Death Stranding would be more enjoyable without horror elements, preferring the delivery mechanics and mystery unfolding as a cozy experience.",
+    "sources": []
+  },
+  {
+    "title": "Everquest Legends |OT|",
+    "url": "https://www.resetera.com/threads/everquest-legends-ot.1637803/",
+    "published": "2026-09-19T18:38:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 32,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "EverQuest Legends, a reimagined version of the classic 1999 MMO, has launched with new features and quality-of-life improvements, generating community interest.",
+    "sources": []
+  },
+  {
+    "title": "LTTP/RTTP: Expedition 33",
+    "url": "https://www.resetera.com/threads/lttp-rttp-expedition-33.1637794/",
+    "published": "2026-09-19T17:46:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "A personal retrospective on revisiting a modern JRPG after initially abandoning it during a difficult life period.",
+    "sources": []
+  },
+  {
+    "title": "Pragmata has sold over 2.5 million",
+    "url": "https://www.resetera.com/threads/pragmata-has-sold-over-2-5-million.1637812/",
+    "published": "2026-09-19T17:37:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Pragmata has surpassed 2.5 million copies sold, marking a significant commercial success for the title.",
+    "sources": []
+  },
+  {
+    "title": "Cancelled 'Kid Kirby' game for SNES recreated by fan (PC)",
+    "url": "https://www.resetera.com/threads/cancelled-kid-kirby-game-for-snes-recreated-by-fan-pc.1637767/",
+    "published": "2026-09-19T17:18:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "retro",
+      "game-dev",
+      "community",
+      "gaming-history"
+    ],
+    "summary": "A fan has recreated the cancelled SNES game 'Kid Kirby' that was originally in development by DMA Design, bringing the lost project to PC.",
+    "sources": []
+  },
+  {
+    "title": "So who will be playable in Insomniac's X-Men game? (some Wolverine spoilers in the thread)",
+    "url": "https://www.resetera.com/threads/so-who-will-be-playable-in-insomniacs-x-men-game-some-wolverine-spoilers-in-the-thread.1637716/",
+    "published": "2026-09-19T16:58:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Community speculation about potential playable X-Men characters in Insomniac's upcoming X-Men game following Wolverine's announcement.",
+    "sources": []
+  },
+  {
+    "title": "Capcom's Switch 2 versions are fantastic, but what's up with their Gyro implementation?",
+    "url": "https://www.resetera.com/threads/capcoms-switch-2-versions-are-fantastic-but-whats-up-with-their-gyro-implementation.1637677/",
+    "published": "2026-09-19T16:58:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "handheld-gaming",
+      "game-dev"
+    ],
+    "summary": "Capcom's Switch 2 ports offer strong visual and performance quality but suffer from inconsistent and problematic gyro control implementations across titles.",
+    "sources": []
+  },
+  {
+    "title": "Fragaria Memories Color of Wishes - New trailer for the Sanrio joseimuke game. Global release in Fall 2027.",
+    "url": "https://www.resetera.com/threads/fragaria-memories-color-of-wishes-new-trailer-for-the-sanrio-joseimuke-game-global-release-in-fall-2027.1637770/",
+    "published": "2026-09-19T15:36:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Fragaria Memories Color of Wishes, a Sanrio-themed gacha game developed by Ateam, announces global release for Fall 2027 with new trailer.",
+    "sources": []
+  },
+  {
+    "title": "What are your feelings on open world racing games in relation to route/track/course design, compared to closed circuit racers?",
+    "url": "https://www.resetera.com/threads/what-are-your-feelings-on-open-world-racing-games-in-relation-to-route-track-course-design-compared-to-closed-circuit-racers.1637722/",
+    "published": "2026-09-19T15:14:42+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion post comparing player preferences for open world versus closed circuit racing game design and track layouts.",
+    "sources": []
+  },
+  {
+    "title": "The Latchkey Hoard indie game",
+    "url": "https://www.resetera.com/threads/the-latchkey-hoard-indie-game.1637734/",
+    "published": "2026-09-19T14:43:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "game-discovery"
+    ],
+    "summary": "An early look at the indie game The Latchkey Hoard with personal gaming history from the developer.",
+    "sources": []
+  },
+  {
+    "title": "Black Salt Games (Dredge)  creates new indie studio Team Trifold  - Reveal new title \u2018Nothing Lost\u2019",
+    "url": "https://www.resetera.com/threads/black-salt-games-dredge-creates-new-indie-studio-team-trifold-reveal-new-title-%E2%80%98nothing-lost%E2%80%99.1637614/",
+    "published": "2026-09-19T14:33:33+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 52,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Black Salt Games (Dredge developer) establishes new studio Team Trifold and white-label publisher Saltworks Entertainment to support multiple indie game creators.",
+    "sources": []
+  },
+  {
+    "title": "Worst voice/voice acting in a realistic/grounded game",
+    "url": "https://www.resetera.com/threads/worst-voice-voice-acting-in-a-realistic-grounded-game.1637683/",
+    "published": "2026-09-19T14:33:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion thread about worst voice acting in realistic/grounded games, prompted by recent GTA III remake gameplay showcase.",
+    "sources": []
+  },
+  {
+    "title": "It looks like XBOX is working on a new achievement called a \u201cMythic Achievement\u201d that could be a PS Platinum Trophy equivalent",
+    "url": "https://www.resetera.com/threads/it-looks-like-xbox-is-working-on-a-new-achievement-called-a-%E2%80%9Cmythic-achievement%E2%80%9D-that-could-be-a-ps-platinum-trophy-equivalent.1637686/",
+    "published": "2026-09-19T14:28:44+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-industry",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Xbox appears to be developing a \"Mythic Achievement\" system that would serve as a competitor to PlayStation's Platinum Trophy feature.",
+    "sources": []
+  },
+  {
+    "title": "Dynasty warriors 3 remastered getting online coop after launch",
+    "url": "https://www.resetera.com/threads/dynasty-warriors-3-remastered-getting-online-coop-after-launch.1637650/",
+    "published": "2026-09-19T10:36:50+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Dynasty Warriors 3 Remastered will receive online co-op functionality in a post-launch update targeted for late January, following performance-related delays.",
+    "sources": []
+  },
+  {
+    "title": "Blast Processing was just a BS term but was the Nemesis system on Shadow of Mordor a lie as well? What other examples exist?",
+    "url": "https://www.resetera.com/threads/blast-processing-was-just-a-bs-term-but-was-the-nemesis-system-on-shadow-of-mordor-a-lie-as-well-what-other-examples-exist.1637638/",
+    "published": "2026-09-19T08:44:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "retro"
+    ],
+    "summary": "Discussion exploring marketing hype versus reality in gaming, using Blast Processing as an example of misleading console promotion tactics.",
+    "sources": []
+  },
+  {
+    "title": "\"We Don't Take This Decision Lightly\" - Polymega's Prices Are Going Up Thanks To The RAMpocalypse",
+    "url": "https://www.timeextension.com/news/2026/09/we-dont-take-this-decision-lightly-polymegas-prices-are-going-up-thanks-to-the-rampocalypse",
+    "published": "2026-09-19T17:30:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "gaming-hardware",
+      "handheld-gaming"
+    ],
+    "summary": "Polymega raises prices across all hardware products due to increased RAM costs from the ongoing global chip shortage.",
+    "sources": []
+  },
+  {
+    "title": "The Making Of: Rare's Amazing Spider-Man - \"I Hadn't Seen Or Heard Of A Game Boy Before\"",
+    "url": "https://www.timeextension.com/features/the-making-of-rares-amazing-spider-man-i-hadnt-seen-or-heard-of-a-game-boy-before",
+    "published": "2026-09-19T11:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "game-dev"
+    ],
+    "summary": "Retrospective interview about Rare's Game Boy Spider-Man game and its role in launching developer Chris Sutherland's career.",
+    "sources": []
+  },
+  {
+    "title": "No Ladders Necessary: Famicom Crazy Climber Joins Hamster's Console Archives",
+    "url": "https://www.timeextension.com/news/2026/09/no-ladders-necessary-famicom-crazy-climber-joins-hamsters-console-archives",
+    "published": "2026-09-19T09:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 32,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "hamster",
+      "famicom"
+    ],
+    "summary": "Hamster's Console Archives adds the 1986 Famicom port of Crazy Climber to its preservation collection.",
+    "sources": []
+  },
+  {
+    "title": "Rushing Beat X: Return of Brawl Brothers",
+    "url": "https://www.hardcoregaming101.net/rushing-beat-x-return-of-brawl-brothers/",
+    "published": "2026-09-19T18:10:07+00:00",
+    "feed_name": "Hardcore Gaming 101",
+    "feed_tags": [
+      "retro",
+      "gaming-history"
+    ],
+    "significance": 35,
+    "tags": [
+      "retro",
+      "indie-games",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "City Connection announces Rushing Beat X: Return of Brawl Brothers, a new entry in the classic beat-em-up series positioned as an interquel.",
+    "sources": []
+  },
+  {
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-828",
+    "published": "2026-09-20T09:00:00+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 5,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "A casual Sunday gaming news roundup column with personal anecdotes, containing links to various gaming-related articles without specific coverage details.",
+    "sources": []
+  },
+  {
+    "title": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff",
+    "url": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
+    "published": "2026-09-19T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A personal reflection on earning a Platinum Trophy in the game Unpacking and how it prompted thoughts about personal possessions and clutter.",
+    "sources": []
+  },
+  {
+    "title": "Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan",
+    "url": "https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan",
+    "published": "2026-09-19T16:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Tokyo Game Show 2024 cancels Monday events due to typhoon warning in Japan, reducing the expanded five-day event back to four days.",
+    "sources": []
+  },
+  {
+    "title": "Wolverine PS5 Tones Down 'Fart Trails' as Title Tipped to Be a Huge Sales Success",
+    "url": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a-huge-sales-success",
+    "published": "2026-09-19T15:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 55,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Insomniac reduces 'Scent Trails' opacity in Marvel's Wolverine PS5 exclusive following player criticism, with sales analysts projecting strong commercial performance.",
+    "sources": []
+  },
+  {
+    "title": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
+    "url": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+    "published": "2026-09-19T14:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A hands-on preview of Monster Hunter Wilds' upcoming Ascendance expansion shown at Tokyo Game Show generates enthusiasm for the game's new content.",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)",
+    "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
+    "published": "2026-09-19T11:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A roundup of 26+ PlayStation games launching in the week of September 21-27, including notable titles like Control Resonant, Silent Hill: Townfall, and Dune: Awakening.",
+    "sources": []
+  }
+]
