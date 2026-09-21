@@ -1,0 +1,1242 @@
+[
+  {
+    "title": "Oozing with deadly sludge, reclaim the world in the roguelike survival city builder Toxic Frontier",
+    "url": "https://www.gamingonlinux.com/2026/09/oozing-with-deadly-sludge-reclaim-the-world-in-the-roguelike-survival-city-builder-toxic-frontier/",
+    "published": "2026-09-21T08:34:31+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "game-dev"
+    ],
+    "summary": "Toxic Frontier, a turn-based roguelike survival city-builder, was announced at PC Gaming Show Tokyo Direct.",
+    "sources": []
+  },
+  {
+    "title": "Check out the demo for the narrative-driven bullet-heaven roguelite Spaceborn Awakening",
+    "url": "https://www.gamingonlinux.com/2026/09/check-out-the-demo-for-the-narrative-driven-bullet-heaven-roguelite-spaceborn-awakening/",
+    "published": "2026-09-21T08:21:45+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "linux-gaming"
+    ],
+    "summary": "Spaceborn Awakening, a narrative-driven bullet-heaven roguelite inspired by similar titles, releases a playable demo.",
+    "sources": []
+  },
+  {
+    "title": "Inspired by 1930s & 1940s animations, Moylo looks supremely cool",
+    "url": "https://www.gamingonlinux.com/2026/09/inspired-by-1930s-1940s-animations-moylo-looks-supremely-cool/",
+    "published": "2026-09-21T08:16:08+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 32,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "linux-gaming"
+    ],
+    "summary": "Moylo is a hand-drawn indie action game with melee combat inspired by 1930s-1940s animation aesthetics.",
+    "sources": []
+  },
+  {
+    "title": "Thief: The Dark Project Remastered from Nightdive gets a new trailer",
+    "url": "https://www.gamingonlinux.com/2026/09/thief-the-dark-project-remastered-from-nightdive-gets-a-new-trailer/",
+    "published": "2026-09-21T08:10:17+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "gaming-news",
+      "retro"
+    ],
+    "summary": "Nightdive Studios releases a new trailer for their Thief: The Dark Project Remaster, showcased at PC Gaming Show Tokyo Direct 2026.",
+    "sources": []
+  },
+  {
+    "title": "The Legend of Zelda: Twilight Princess PC port Dusklight 2.0 brings modding, a randomizer and more",
+    "url": "https://www.gamingonlinux.com/2026/09/the-legend-of-zelda-twilight-princess-pc-port-dusklight-2-0-brings-modding-a-randomizer-and-more/",
+    "published": "2026-09-21T07:57:15+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "retro",
+      "emulation",
+      "game-dev",
+      "community",
+      "open-source"
+    ],
+    "summary": "Dusklight 2.0, a Twilight Princess PC port/reimplementation, adds modding support, a randomizer, and other features.",
+    "sources": []
+  },
+  {
+    "title": "dwproton-11.0-13 brings fixes for Goddess of Victory: NIKKE, Aniimo and more on SteamOS / Linux",
+    "url": "https://www.gamingonlinux.com/2026/09/dwproton-11-0-13-brings-fixes-for-goddess-of-victory-nikke-aniimo-and-more-on-steamos-linux/",
+    "published": "2026-09-21T07:43:47+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "proton",
+      "steam-deck",
+      "linux-gaming",
+      "steam-platform"
+    ],
+    "summary": "dwproton-11.0-13 community Proton build released with fixes for anime games including Goddess of Victory: NIKKE and Aniimo on SteamOS/Linux.",
+    "sources": []
+  },
+  {
+    "title": "Wine 11.18 released with more NTOSKRNL support for kernel drivers",
+    "url": "https://www.gamingonlinux.com/2026/09/wine-11-18-released-with-more-ntoskrnl-support-for-kernel-drivers/",
+    "published": "2026-09-21T07:09:23+00:00",
+    "feed_name": "GamingOnLinux",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck",
+      "proton"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "wine",
+      "open-source"
+    ],
+    "summary": "Wine 11.18 development release introduces enhanced NTOSKRNL support for kernel drivers alongside various bug fixes and features.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3-rc4 Released: More Fixes Caught By LLMs, But Nothing Too Scary",
+    "url": "https://www.phoronix.com/news/Linux-7.3-rc4",
+    "published": "2026-09-20T21:25:38+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "gaming-hardware"
+    ],
+    "summary": "Linux 7.3-rc4 release candidate includes scattered bug fixes identified partly through AI/LLM analysis, with no major concerns reported by Linus Torvalds.",
+    "sources": []
+  },
+  {
+    "title": "Important x86 Fixes Merged Ahead Of Linux 7.3-rc4",
+    "url": "https://www.phoronix.com/news/Linux-7.3-rc4-x86-Fixes",
+    "published": "2026-09-20T18:19:12+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 28,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "Critical x86/x86_64 bug fixes merged into Linux kernel ahead of 7.3-rc4 release candidate.",
+    "sources": []
+  },
+  {
+    "title": "Gzip 1.15 Released With Many Bug Fixes For Issues Present Since Its Inception",
+    "url": "https://www.phoronix.com/news/Gzip-1.15-Released",
+    "published": "2026-09-20T14:32:12+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "open-source"
+    ],
+    "summary": "Gzip 1.15 released with bug fixes for long-standing issues, but this is not gaming-related content.",
+    "sources": []
+  },
+  {
+    "title": "KDE To Focus On Next-Gen Styling, Better Documentation & KDE For Enterprise",
+    "url": "https://www.phoronix.com/news/KDE-Goals-To-2028",
+    "published": "2026-09-20T12:32:29+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "open-source",
+      "linux-gaming"
+    ],
+    "summary": "KDE announces three strategic goals for the next two years at Akademy 2026, focusing on styling, documentation, and enterprise adoption.",
+    "sources": []
+  },
+  {
+    "title": "AI-Assisted Starling Desktop Introduces 3D View With \"Walkable 3D Waterfront City\"",
+    "url": "https://www.phoronix.com/news/Starling-0.5-3D-Desktop",
+    "published": "2026-09-20T10:49:28+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source",
+      "game-dev"
+    ],
+    "summary": "Starling 0.5, an AI-assisted Linux desktop environment built with Swift and Wayland, introduces an optional 3D desktop mode featuring a walkable 3D waterfront city environment.",
+    "sources": []
+  },
+  {
+    "title": "Vulkan 1.4.363 Released With New VK_INTEL_device_info Extension",
+    "url": "https://www.phoronix.com/news/Vulkan-1.4.363",
+    "published": "2026-09-20T10:33:48+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "open-source",
+      "pc-hardware",
+      "linux-gaming"
+    ],
+    "summary": "Vulkan 1.4.363 releases as a routine API update with a new Intel vendor extension for device information.",
+    "sources": []
+  },
+  {
+    "title": "Linux 7.3 Adds Support For Victrix Pro BFG & Azeron Controllers",
+    "url": "https://www.phoronix.com/news/Linux-7.3-rc4-Input",
+    "published": "2026-09-20T10:21:51+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "gaming-hardware",
+      "pc-hardware"
+    ],
+    "summary": "Linux 7.3 kernel adds support for Victrix Pro BFG and Azeron gaming controllers through XPad driver updates.",
+    "sources": []
+  },
+  {
+    "title": "Marvel\u2019s Wolverine is the No. 3 biggest PS5 physical launch of 2026 in the UK, 60% lower than Spider-Man 2",
+    "url": "https://www.resetera.com/threads/marvel%E2%80%99s-wolverine-is-the-no-3-biggest-ps5-physical-launch-of-2026-in-the-uk-60-lower-than-spider-man-2.1638577/",
+    "published": "2026-09-21T09:44:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 58,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Marvel's Wolverine achieves third-largest PS5 physical launch in UK for 2026, but shows significantly lower sales than Spider-Man 2 and other major releases.",
+    "sources": []
+  },
+  {
+    "title": "Silent Hill Townfall Review Thread",
+    "url": "https://www.resetera.com/threads/silent-hill-townfall-review-thread.1638589/",
+    "published": "2026-09-21T09:44:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Silent Hill Townfall, a new entry in the horror franchise from Screen Burn Interactive, launches on PS5 and PC in September 2026 with standard and deluxe editions.",
+    "sources": []
+  },
+  {
+    "title": "What are your thoughts on Stunt Race FX (SNES)?",
+    "url": "https://www.resetera.com/threads/what-are-your-thoughts-on-stunt-race-fx-snes.1638514/",
+    "published": "2026-09-21T09:43:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion about Stunt Race FX, a technically impressive SNES game that utilized the Super FX chip for its era.",
+    "sources": []
+  },
+  {
+    "title": "Control Resonant |OT| < Ctrl-Alt-Dylan >",
+    "url": "https://www.resetera.com/threads/control-resonant-ot-ctrl-alt-dylan.1638502/",
+    "published": "2026-09-21T09:40:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A forum thread opening post for Control game discussion with thread management markers and user metadata.",
+    "sources": []
+  },
+  {
+    "title": "'Marvel's Wolverine' Censored Mystique\u2019s Lesbian Relationship For Middle East Release",
+    "url": "https://www.resetera.com/threads/marvels-wolverine-censored-mystique%E2%80%99s-lesbian-relationship-for-middle-east-release.1638571/",
+    "published": "2026-09-21T09:36:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Insomniac Games' Marvel's Wolverine removed references to Mystique's lesbian relationship in Middle East versions, sparking debate about regional censorship in gaming.",
+    "sources": []
+  },
+  {
+    "title": "Microsoft patents system to freeze games and inject ads during downtimes \u2014 watching commercials earns ad-free playtime credits",
+    "url": "https://www.resetera.com/threads/microsoft-patents-system-to-freeze-games-and-inject-ads-during-downtimes-%E2%80%94-watching-commercials-earns-ad-free-playtime-credits.1638580/",
+    "published": "2026-09-21T09:34:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "pc-hardware"
+    ],
+    "summary": "Microsoft patents a system that would pause games to display advertisements, with ad viewing earning players ad-free playtime credits, similar to free-to-play mobile mechanics.",
+    "sources": []
+  },
+  {
+    "title": "Washington Post: Hideo Kojima explains the surprise split with Sony",
+    "url": "https://www.resetera.com/threads/washington-post-hideo-kojima-explains-the-surprise-split-with-sony.1638112/",
+    "published": "2026-09-21T09:25:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "Hideo Kojima reveals Sony abruptly withdrew funding from his studio's upcoming espionage game Physint in a shock decision.",
+    "sources": []
+  },
+  {
+    "title": "WANE - Reveal Trailer | An occult, 80s-noir turn-based RPG",
+    "url": "https://www.resetera.com/threads/wane-reveal-trailer-an-occult-80s-noir-turn-based-rpg.1638622/",
+    "published": "2026-09-21T09:25:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "game-discovery",
+      "indie-games",
+      "steam-platform"
+    ],
+    "summary": "WANE, an occult 80s-noir turn-based RPG, reveals its official trailer and Steam store page.",
+    "sources": []
+  },
+  {
+    "title": "Rockstar Games lays out modding guidelines for their games",
+    "url": "https://www.resetera.com/threads/rockstar-games-lays-out-modding-guidelines-for-their-games.1638472/",
+    "published": "2026-09-21T09:00:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-industry",
+      "game-dev",
+      "community"
+    ],
+    "summary": "Rockstar Games publishes official modding guidelines for their games, distinguishing between Custom Content and User-Generated Content modifications.",
+    "sources": []
+  },
+  {
+    "title": "Tokyo Walled City - Announcement Trailer (retro-cyberpunk immersive sim)",
+    "url": "https://www.resetera.com/threads/tokyo-walled-city-announcement-trailer-retro-cyberpunk-immersive-sim.1638226/",
+    "published": "2026-09-21T08:47:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "retro"
+    ],
+    "summary": "Tokyo Walled City, a retro-cyberpunk immersive sim with stealth and RPG elements inspired by classics like Deus Ex, has been announced with a trailer.",
+    "sources": []
+  },
+  {
+    "title": "\"Press & hold\" charge attacks that don't require an initial uncharged attack",
+    "url": "https://www.resetera.com/threads/press-hold-charge-attacks-that-dont-require-an-initial-uncharged-attack.1638505/",
+    "published": "2026-09-21T08:42:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-dev",
+      "gaming-news",
+      "retro"
+    ],
+    "summary": "Community discussion about charge attack mechanics in games, comparing implementation approaches across Zelda, Metroid Prime, and Star Fox with focus on player preference.",
+    "sources": []
+  },
+  {
+    "title": "Rocket League Unreal Engine 6 Being tested by the pros. Video Inside",
+    "url": "https://www.resetera.com/threads/rocket-league-unreal-engine-6-being-tested-by-the-pros-video-inside.1638466/",
+    "published": "2026-09-21T08:42:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Psyonix is testing Rocket League's upgrade to Unreal Engine 6 with professional players to ensure gameplay feel remains intact.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo to release new Switch (1) + MK8D Console Bundle in October in Europe; MSRP set at far lower \u20ac219.99, with several retailers listing at \u20ac199",
+    "url": "https://www.resetera.com/threads/nintendo-to-release-new-switch-1-mk8d-console-bundle-in-october-in-europe-msrp-set-at-far-lower-%E2%82%AC219-99-with-several-retailers-listing-at-%E2%82%AC199.1638115/",
+    "published": "2026-09-21T08:35:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "nintendo"
+    ],
+    "summary": "Nintendo announces a new Switch console bundle with Mario Kart 8 Deluxe launching in Europe at \u20ac219.99, positioning it as an affordable holiday season option.",
+    "sources": []
+  },
+  {
+    "title": "Did yall want to play as Starfox out the arwings?",
+    "url": "https://www.resetera.com/threads/did-yall-want-to-play-as-starfox-out-the-arwings.1638559/",
+    "published": "2026-09-21T08:13:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion about nostalgia for on-foot gameplay in Star Fox franchise versus flying mechanics.",
+    "sources": []
+  },
+  {
+    "title": "Sockpuppet Noir- A detective game with socks coming out soon",
+    "url": "https://www.resetera.com/threads/sockpuppet-noir-a-detective-game-with-socks-coming-out-soon.1638457/",
+    "published": "2026-09-21T07:46:12+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "Sockpuppet Noir, an indie detective noir game featuring sock puppet characters, is launching on Steam on September 25th after a four-year development period.",
+    "sources": []
+  },
+  {
+    "title": "LTTP: Cannon Dancer/Osman.  Made by Strider arcade director.",
+    "url": "https://www.resetera.com/threads/lttp-cannon-dancer-osman-made-by-strider-arcade-director.1638103/",
+    "published": "2026-09-21T06:31:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "arcade",
+      "game-discovery",
+      "gaming-history"
+    ],
+    "summary": "A retrospective look at Cannon Dancer/Osman, a classic arcade action game by the Strider director, following its recent console ports.",
+    "sources": []
+  },
+  {
+    "title": "Lufia I & II The Sinistrals Saga announced, releasing 2027 on PS5, Switch, Switch 2 and PC",
+    "url": "https://www.resetera.com/threads/lufia-i-ii-the-sinistrals-saga-announced-releasing-2027-on-ps5-switch-switch-2-and-pc.1638247/",
+    "published": "2026-09-21T04:50:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "gaming-news",
+      "retro",
+      "gaming-industry"
+    ],
+    "summary": "Classic JRPG series Lufia I & II is being remade and will release in 2027 across PlayStation 5, Nintendo Switch, Switch 2, and PC.",
+    "sources": []
+  },
+  {
+    "title": "PC Gaming Show Tokyo Direct 2026",
+    "url": "https://www.resetera.com/threads/pc-gaming-show-tokyo-direct-2026.1638229/",
+    "published": "2026-09-21T04:33:09+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "pc-hardware",
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "PC Gaming Show Tokyo Direct 2026 livestream features 90 minutes of games from multiple indie and mid-tier publishers.",
+    "sources": []
+  },
+  {
+    "title": "The current state of Retro Collections and services like NSO don't do the games they're \"preserving\" justice",
+    "url": "https://www.resetera.com/threads/the-current-state-of-retro-collections-and-services-like-nso-dont-do-the-games-theyre-preserving-justice.1638397/",
+    "published": "2026-09-21T02:40:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "retro",
+      "emulation",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A community discussion argues that modern retro game preservation services like Nintendo Switch Online fail to authentically preserve games due to input lag issues that fundamentally alter the play experience.",
+    "sources": []
+  },
+  {
+    "title": "So I'm in the building of my local Game Stop for the first time in over a decade... except it's now a Jersey Mike's",
+    "url": "https://www.resetera.com/threads/so-im-in-the-building-of-my-local-game-stop-for-the-first-time-in-over-a-decade-except-its-now-a-jersey-mikes.1638436/",
+    "published": "2026-09-21T02:28:26+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A user discovers their local GameStop has closed and been replaced by a Jersey Mike's sandwich shop, reflecting the broader retail decline in physical game sales.",
+    "sources": []
+  },
+  {
+    "title": "i have a real thing for what i call \"middle-poly\" retro graphics",
+    "url": "https://www.resetera.com/threads/i-have-a-real-thing-for-what-i-call-middle-poly-retro-graphics.1638433/",
+    "published": "2026-09-21T01:01:49+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion thread about 'middle-poly' retro graphics aesthetics from the PS1-PS2 generation, with examples like SMT: Nocturne and Jak and Daxter.",
+    "sources": []
+  },
+  {
+    "title": "GTA 6 Online said to have 2027 release per Twitch CEO Dan Clancy who talked with Rockstar at Tokyo Game Show",
+    "url": "https://www.resetera.com/threads/gta-6-online-said-to-have-2027-release-per-twitch-ceo-dan-clancy-who-talked-with-rockstar-at-tokyo-game-show.1638331/",
+    "published": "2026-09-21T00:22:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 75,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "leaks"
+    ],
+    "summary": "Twitch CEO Dan Clancy claims GTA 6 Online is scheduled for 2027 release based on a conversation with Rockstar at Tokyo Game Show.",
+    "sources": []
+  },
+  {
+    "title": "Cairn's Free DLC 'On the Trail: Deep Water' launches October 29th",
+    "url": "https://www.resetera.com/threads/cairns-free-dlc-on-the-trail-deep-water-launches-october-29th.1638439/",
+    "published": "2026-09-20T23:37:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Cairn receives a free DLC expansion called 'On the Trail: Deep Water' launching October 29th.",
+    "sources": []
+  },
+  {
+    "title": "TGS 2026 Persona/Falcom concerts. P4R music live for the 1st time.",
+    "url": "https://www.resetera.com/threads/tgs-2026-persona-falcom-concerts-p4r-music-live-for-the-1st-time.1638349/",
+    "published": "2026-09-20T22:52:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Tokyo Game Show 2026 featured live concert performances of music from Persona and Falcom games, including the first live performance of Persona 4 Royal's soundtrack.",
+    "sources": []
+  },
+  {
+    "title": "favorite registerable camo pattern in mgs4",
+    "url": "https://www.resetera.com/threads/favorite-registerable-camo-pattern-in-mgs4.1638490/",
+    "published": "2026-09-20T22:48:15+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Player shares their favorite cosmetic camo pattern choice in Metal Gear Solid 4, praising the tire camo's aesthetic appeal.",
+    "sources": []
+  },
+  {
+    "title": "post unusual videogame outfits you love",
+    "url": "https://www.resetera.com/threads/post-unusual-videogame-outfits-you-love.1638373/",
+    "published": "2026-09-20T20:15:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "game-discovery"
+    ],
+    "summary": "Community discussion about video game character outfit design, featuring appreciation for asymmetrical clothing in what appears to be a Vita game with a recent PC port.",
+    "sources": []
+  },
+  {
+    "title": "Moylo official teaser trailer (2D rubber hose cartoon art style w/hand-drawn animated boss rush action title)",
+    "url": "https://www.resetera.com/threads/moylo-official-teaser-trailer-2d-rubber-hose-cartoon-art-style-w-hand-drawn-animated-boss-rush-action-title.1638424/",
+    "published": "2026-09-20T20:08:25+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Moylo, a hand-drawn 2D action game with rubber hose cartoon aesthetics and boss-rush gameplay, reveals early teaser footage showcasing its frame-by-frame animation style and challenging melee combat mechanics.",
+    "sources": []
+  },
+  {
+    "title": "For those playing Fire Emblem Fortune\u2019s Weave\u2026 did developers pick the \u2018right\u2019 4 lords? **possible spoilers**",
+    "url": "https://www.resetera.com/threads/for-those-playing-fire-emblem-fortune%E2%80%99s-weave%E2%80%A6-did-developers-pick-the-%E2%80%98right%E2%80%99-4-lords-possible-spoilers.1638403/",
+    "published": "2026-09-20T20:04:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-dev",
+      "community"
+    ],
+    "summary": "Community discussion questions Fire Emblem Fortune's Weave developers' decision to reduce playable lords from 8 to 4, with players debating whether demoting certain protagonists to sub-lord status was the right creative choice.",
+    "sources": []
+  },
+  {
+    "title": "[Mark Maxwell Jr] 20 Habits That Are Secretly Ruining Gaming For You",
+    "url": "https://www.resetera.com/threads/mark-maxwell-jr-20-habits-that-are-secretly-ruining-gaming-for-you.1638217/",
+    "published": "2026-09-20T19:18:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "YouTuber Mark Maxwell Jr. creates videos discussing 20 gaming habits he believes negatively impact player enjoyment, sparking community discussion.",
+    "sources": []
+  },
+  {
+    "title": "(PS Store-DB) Control:Resonant vs Silent Hill:Townfall store rankings",
+    "url": "https://www.resetera.com/threads/ps-store-db-control-resonant-vs-silent-hill-townfall-store-rankings.1638100/",
+    "published": "2026-09-20T19:14:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Control: Resonant and Silent Hill: Townfall release on the same day, with speculation about their relative performance on PlayStation Store.",
+    "sources": []
+  },
+  {
+    "title": "Zelda Notes is a really damn cool tool for playing the Wild era games.",
+    "url": "https://www.resetera.com/threads/zelda-notes-is-a-really-damn-cool-tool-for-playing-the-wild-era-games.1638352/",
+    "published": "2026-09-20T19:07:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "User praises the Zelda Notes feature added to Breath of the Wild and Tears of the Kingdom on Nintendo Switch 2, highlighting its utility for item management and gameplay enhancement.",
+    "sources": []
+  },
+  {
+    "title": "Fan port alert: Square Enix\u2019s 1998 Classic Xenogears Is Coming To PC, As Fans Are Releasing It From Its PlayStation Cage",
+    "url": "https://www.resetera.com/threads/fan-port-alert-square-enix%E2%80%99s-1998-classic-xenogears-is-coming-to-pc-as-fans-are-releasing-it-from-its-playstation-cage.1638250/",
+    "published": "2026-09-20T18:54:47+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "retro",
+      "game-dev",
+      "community",
+      "pc-hardware",
+      "emulation"
+    ],
+    "summary": "Fan project Xenogears Atlas is rebuilding the classic 1998 PlayStation RPG in Godot to bring it to PC with modern upgrades and remastering potential.",
+    "sources": []
+  },
+  {
+    "title": "Why are physical copies of Fire Emblem Engage so hard to find?",
+    "url": "https://www.resetera.com/threads/why-are-physical-copies-of-fire-emblem-engage-so-hard-to-find.1638280/",
+    "published": "2026-09-20T17:46:29+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "A user discusses difficulty finding physical copies of Fire Emblem Engage at retail, noting stock shortages and elevated secondary market prices.",
+    "sources": []
+  },
+  {
+    "title": "Xbox Series X Gets Experimental PS5 Emulator Port",
+    "url": "https://www.resetera.com/threads/xbox-series-x-gets-experimental-ps5-emulator-port.1638244/",
+    "published": "2026-09-20T17:43:30+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "emulation",
+      "console-hardware",
+      "xbox",
+      "ps5",
+      "open-source"
+    ],
+    "summary": "A developer has ported an experimental PS5 emulator to Xbox Series X via Developer Mode, demonstrating playability of several PS5 titles on Microsoft's console.",
+    "sources": []
+  },
+  {
+    "title": "American Truck Simulator's \"Road Trip: Ford\" DLC launches September 29",
+    "url": "https://www.resetera.com/threads/american-truck-simulators-road-trip-ford-dlc-launches-september-29.1638205/",
+    "published": "2026-09-20T17:09:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "American Truck Simulator releases a new 'Road Trip: Ford' DLC on September 29, featuring Ford vehicles and a new gameplay mode.",
+    "sources": []
+  },
+  {
+    "title": "Loftia - A Social Solarpunk MMO - Launches in Early Access November 3rd - PC and Mac via Steam and Epic Games Store (Switch 2027)",
+    "url": "https://www.resetera.com/threads/loftia-a-social-solarpunk-mmo-launches-in-early-access-november-3rd-pc-and-mac-via-steam-and-epic-games-store-switch-2027.1638283/",
+    "published": "2026-09-20T16:59:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-dev",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Loftia, a cozy solarpunk MMO from indie developers, launches in Early Access on November 3rd across PC and Mac platforms with a Switch release planned for 2027.",
+    "sources": []
+  },
+  {
+    "title": "Recent Gaming Purchases [Fall 2026 Edition]",
+    "url": "https://www.resetera.com/threads/recent-gaming-purchases-fall-2026-edition.1638256/",
+    "published": "2026-09-20T16:56:16+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "console-hardware",
+      "community"
+    ],
+    "summary": "A user shares their personal gaming hardware purchases including a Nintendo Switch 2 and various games for their new family.",
+    "sources": []
+  },
+  {
+    "title": "What's the worse superhero game: Superman 64 or Batman: Dark Tomorrow?",
+    "url": "https://www.resetera.com/threads/whats-the-worse-superhero-game-superman-64-or-batman-dark-tomorrow.1638184/",
+    "published": "2026-09-20T16:30:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion comparing two notoriously bad superhero games from the early 2000s, inspired by an AVGN episode.",
+    "sources": []
+  },
+  {
+    "title": "Sony files patent for an AI self-repair system using LLMs to generate and execute diagnostic code across PlayStation and consumer hardware",
+    "url": "https://www.resetera.com/threads/sony-files-patent-for-an-ai-self-repair-system-using-llms-to-generate-and-execute-diagnostic-code-across-playstation-and-consumer-hardware.1638124/",
+    "published": "2026-09-20T15:56:21+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-hardware",
+      "console-hardware",
+      "gaming-industry"
+    ],
+    "summary": "Sony patents an AI-powered self-repair system using large language models to automatically diagnose and fix issues across PlayStation and consumer devices.",
+    "sources": []
+  },
+  {
+    "title": "BELTFED announce trailer - Roguelike Factory Defense - Factorio with more BOOM!",
+    "url": "https://www.resetera.com/threads/beltfed-announce-trailer-roguelike-factory-defense-factorio-with-more-boom.1638097/",
+    "published": "2026-09-20T13:02:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "BELTFED, an indie roguelike factory defense game combining Factorio-style mechanics with increased combat, announced with a trailer and Steam store page.",
+    "sources": []
+  },
+  {
+    "title": "SNES RPGs Lufia & Lufia II Are Headed to Modern Platforms In 2027",
+    "url": "https://www.timeextension.com/news/2026/09/snes-rpgs-lufia-and-lufia-ii-are-headed-to-modern-platforms-in-2027",
+    "published": "2026-09-21T08:50:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Classic SNES RPGs Lufia & Lufia II are being re-released on modern PC and console platforms in 2027 by Clear River Games and Taito.",
+    "sources": []
+  },
+  {
+    "title": "Nintendo Wii And Kinect Games Could Have A Second Life Thanks To This Cube-Like Console",
+    "url": "https://www.timeextension.com/news/2026/09/nintendo-wii-and-kinect-games-could-have-a-second-life-thanks-to-this-cube-like-console",
+    "published": "2026-09-20T15:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "handheld-gaming",
+      "console-hardware",
+      "gaming-hardware",
+      "game-discovery",
+      "retro"
+    ],
+    "summary": "The Nex Playground console is positioning itself as a revival platform for classic Wii and Kinect motion control games, with major publishers showing interest in porting their back catalogs.",
+    "sources": []
+  },
+  {
+    "title": "Feature: All The Classic Gaming News From The Past Week (September 20th 2026)",
+    "url": "https://www.timeextension.com/features/all-the-classic-gaming-news-from-the-past-week-september-20th-2026",
+    "published": "2026-09-20T11:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup feature covering retro gaming news and content from the past week, including classic titles like Metal Gear, Kirby, and Strider II.",
+    "sources": []
+  },
+  {
+    "title": "Hideo Kojima \"couldn't understand\" why Physint \"would be on the list of being cancelled\" by Sony",
+    "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
+    "published": "2026-09-21T08:35:21+00:00",
+    "feed_name": "GamesIndustry.biz",
+    "feed_tags": [
+      "gaming-industry"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Hideo Kojima expressed surprise that Sony considered cancelling Physint, claiming it would be his biggest-selling title.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games Playable on the Steam Deck, with Trails in the Sky 2nd Chapter - 2026-09-19 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-09-19-edition/index.html",
+    "published": "2026-09-20T11:29:19+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "game-discovery"
+    ],
+    "summary": "Weekly roundup of 14 newly released Steam games verified as playable on Steam Deck, highlighting Trails in the Sky 2nd Chapter remake.",
+    "sources": []
+  },
+  {
+    "title": "New Steam Games with Native Linux Builds, including Beetle Ball and Rogue Blight - 2026-09-09 Edition",
+    "url": "https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-09-09-edition/index.html",
+    "published": "2026-09-20T15:37:54+00:00",
+    "feed_name": "Boiling Steam",
+    "feed_tags": [
+      "linux-gaming",
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "steam-platform",
+      "game-discovery",
+      "indie-games"
+    ],
+    "summary": "83 new Steam games with native Linux builds released in the week of September 2-9, 2026, including notable titles Beetle Ball and Rogue Blight.",
+    "sources": []
+  },
+  {
+    "title": "Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog",
+    "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
+    "published": "2026-09-21T08:26:38+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 62,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "gaming-industry"
+    ],
+    "summary": "Silent Hill: Townfall review examines Screen Burn's entry into Konami's Silent Hill licensing program, praising their independent approach while noting the game's reliance on stealth mechanics.",
+    "sources": []
+  },
+  {
+    "title": "Silent Hill: Townfall \u2014 9 ways first-person changes the iconic horror formula",
+    "url": "https://blog.playstation.com/2026/09/21/silent-hill-townfall-9-ways-first-person-changes-the-iconic-horror-formula/",
+    "published": "2026-09-21T07:00:18+00:00",
+    "feed_name": "PlayStation Blog",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "console-hardware"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Silent Hill: Townfall shifts the iconic horror franchise to first-person perspective, marking a significant creative evolution for the series.",
+    "sources": []
+  },
+  {
+    "title": "Try One of 2026's Most Anticipated 2D Games in Castlevania PS5 Demo",
+    "url": "https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo",
+    "published": "2026-09-21T09:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 52,
+    "tags": [
+      "game-discovery",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Castlevania: Belmont's Curse is releasing a playable PS5 demo on October 1st, 2026, two weeks before the full game's launch, with save data transfer support.",
+    "sources": []
+  },
+  {
+    "title": "Review: Silent Hill: Townfall (PS5) - Dated Bite-Sized Horror... in a Good Way",
+    "url": "https://www.pushsquare.com/reviews/ps5/silent-hill-townfall",
+    "published": "2026-09-21T07:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Silent Hill: Townfall receives a positive review, offering a traditional survival horror experience with first-person gameplay set in Scotland.",
+    "sources": []
+  },
+  {
+    "title": "Stellar Blade Still Not Finished, Four Free Bayonetta Costumes Coming to PS5",
+    "url": "https://www.pushsquare.com/news/2026/09/stellar-blade-still-not-finished-four-free-bayonetta-costumes-coming-to-ps5",
+    "published": "2026-09-21T06:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "console-hardware",
+      "game-dev"
+    ],
+    "summary": "Shift Up announced free Bayonetta costumes for Stellar Blade on PS5 and confirmed the original game will receive updates ahead of the sequel.",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (21st - 27th September)",
+    "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september",
+    "published": "2026-09-21T05:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "console-hardware"
+    ],
+    "summary": "PlayStation releases guide highlighting 26+ PS5 and PS4 games launching this week, including Control Resonant, Silent Hill: Townfall, and Dune: Awakening.",
+    "sources": []
+  },
+  {
+    "title": "Sony's Acclaimed Resident Evil Movie Breaks Box Office Records",
+    "url": "https://www.pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records",
+    "published": "2026-09-21T05:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "Sony's Resident Evil movie achieves strong box office performance with $60 million domestic earnings, but this is primarily entertainment industry news with minimal gaming industry relevance.",
+    "sources": []
+  },
+  {
+    "title": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine",
+    "url": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
+    "published": "2026-09-20T17:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "game-dev",
+      "console-hardware"
+    ],
+    "summary": "Kojima expresses uncertainty about Physint's PlayStation 6 release and hasn't committed to using the Decima Engine following months of negotiations with Sony.",
+    "sources": []
+  }
+]
