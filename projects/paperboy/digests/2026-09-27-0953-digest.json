@@ -1,0 +1,1139 @@
+[
+  {
+    "title": "Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4",
+    "url": "https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset",
+    "published": "2026-09-27T00:45:33+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source",
+      "pc-hardware"
+    ],
+    "summary": "Linux 7.4 will include improved GPU reset support for Raspberry Pi's Broadcom V3D GPU through the VC4 kernel driver.",
+    "sources": []
+  },
+  {
+    "title": "\"Toolpak\" Being Devised By GNOME OS Developers, Akin To Flatpak For Tools",
+    "url": "https://www.phoronix.com/news/Toolpak",
+    "published": "2026-09-26T16:50:00+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "game-dev"
+    ],
+    "summary": "GNOME OS developers are creating Toolpak, a package management system similar to Flatpak designed for development tools within GNOME.",
+    "sources": []
+  },
+  {
+    "title": "MM Change Slated For Linux 7.4 Yields +22904539.81% In One Metric, More Modest Wins In Others",
+    "url": "https://www.phoronix.com/news/Linux-7.4-Refill-Sheaves-Barn",
+    "published": "2026-09-26T15:07:42+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware"
+    ],
+    "summary": "A Linux kernel memory management optimization shows dramatic improvements in synthetic benchmarks ahead of Linux 7.4, though real-world gaming impact remains unclear.",
+    "sources": []
+  },
+  {
+    "title": "AI Bug Fixes, Crescent Island Power Brake & Nouveau Fixes For Linux 7.3-rc5 DRM",
+    "url": "https://www.phoronix.com/news/Linux-7.3-rc5-DRM",
+    "published": "2026-09-26T11:13:16+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "summary": "Linux 7.3-rc5 DRM subsystem receives multiple graphics driver fixes including AI and Nouveau improvements ahead of release.",
+    "sources": []
+  },
+  {
+    "title": "Wisp Makes It Easier To Manage Btrfs Snapshots From The GNOME Desktop",
+    "url": "https://www.phoronix.com/news/GNOME-Wisp-Btrfs-Snapshots",
+    "published": "2026-09-26T10:45:13+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 35,
+    "tags": [
+      "linux-gaming",
+      "open-source",
+      "linux-hardware"
+    ],
+    "summary": "Wisp, a new GNOME Shell extension, provides graphical management of Btrfs file-system snapshots for desktop Linux users.",
+    "sources": []
+  },
+  {
+    "title": "AMDXDNA Linux Driver Being Enhanced For Current NPU3 Hardware",
+    "url": "https://www.phoronix.com/news/AMDXDNA-NPU3-Enhancements",
+    "published": "2026-09-26T10:33:18+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 45,
+    "tags": [
+      "linux-gaming",
+      "pc-hardware",
+      "open-source",
+      "gaming-hardware"
+    ],
+    "summary": "AMD is enhancing its open-source AMDXDNA Linux driver to better support NPU3 hardware in current Ryzen AI 300 processors.",
+    "sources": []
+  },
+  {
+    "title": "KDE Plasma 6.8 Continues With Last Minute Tweaks & Fixes",
+    "url": "https://www.phoronix.com/news/Plasma-6.8-Last-Minute-UI-Fixes",
+    "published": "2026-09-26T09:56:52+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 25,
+    "tags": [
+      "linux-gaming",
+      "open-source"
+    ],
+    "summary": "KDE Plasma 6.8 receives last-minute tweaks and fixes as developers continue work toward version 6.9 alongside the KDE Akademy conference.",
+    "sources": []
+  },
+  {
+    "title": "Last Call For The Autumn Special For Ad-Free Viewing & Supporting Linux Hardware Testing",
+    "url": "https://www.phoronix.com/news/Autumn-2026-Special-Final-Call",
+    "published": "2026-09-26T01:00:26+00:00",
+    "feed_name": "Phoronix",
+    "feed_tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "open-source"
+    ],
+    "significance": 15,
+    "tags": [
+      "linux-gaming",
+      "linux-hardware",
+      "community"
+    ],
+    "summary": "Phoronix announces final call for their autumn Premium subscription sale ending September 27 to support Linux hardware testing coverage.",
+    "sources": []
+  },
+  {
+    "title": "What long-running niche to small franchises are primed to breakout in the coming years?",
+    "url": "https://www.resetera.com/threads/what-long-running-niche-to-small-franchises-are-primed-to-breakout-in-the-coming-years.1644310/",
+    "published": "2026-09-27T09:52:08+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery",
+      "gaming-industry"
+    ],
+    "summary": "Opinion piece discussing which niche gaming franchises like Ace Combat and Armored Core could achieve mainstream breakthrough success in coming years.",
+    "sources": []
+  },
+  {
+    "title": "Shout out to Wolverine: Superpowers that would be hard to translate to video games.",
+    "url": "https://www.resetera.com/threads/shout-out-to-wolverine-superpowers-that-would-be-hard-to-translate-to-video-games.1644037/",
+    "published": "2026-09-27T09:50:20+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-dev"
+    ],
+    "summary": "Opinion piece discussing the challenges of translating superhero superpowers into video game mechanics, using examples like Captain Marvel and Cypher.",
+    "sources": []
+  },
+  {
+    "title": "Melancholy and inhospitability in games",
+    "url": "https://www.resetera.com/threads/melancholy-and-inhospitability-in-games.1644352/",
+    "published": "2026-09-27T09:45:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "A personal essay exploring how gaming preferences evolve with age and the discovery of new favorite games across different genres.",
+    "sources": []
+  },
+  {
+    "title": "A way too early GTA VI Metacritic/Opencritic Discussion",
+    "url": "https://www.resetera.com/threads/a-way-too-early-gta-vi-metacritic-opencritic-discussion.1644226/",
+    "published": "2026-09-27T09:43:27+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Gaming insiders speculate that GTA VI could receive review scores in the low-to-mid 80s on Metacritic, lower than Rockstar's recent releases like Red Dead Redemption 2.",
+    "sources": []
+  },
+  {
+    "title": "Crimson Desert: The morality of this game seems a little insane at times?",
+    "url": "https://www.resetera.com/threads/crimson-desert-the-morality-of-this-game-seems-a-little-insane-at-times.1644079/",
+    "published": "2026-09-27T09:42:23+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Player discusses concerns about morality and narrative design choices in Crimson Desert, noting issues with bounty systems and side content.",
+    "sources": []
+  },
+  {
+    "title": "Should From's Singleplayer-First Souls Games be given a pause function?",
+    "url": "https://www.resetera.com/threads/should-froms-singleplayer-first-souls-games-be-given-a-pause-function.1644010/",
+    "published": "2026-09-27T09:38:32+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 22,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion poll on whether FromSoftware's singleplayer Souls games should include a pause function feature.",
+    "sources": []
+  },
+  {
+    "title": "Xbox Is Being \u201cReverse Acquired\u201d by the Publishers It Spent $76.5 Billion On, and It Was Utterly Inevitable",
+    "url": "https://www.resetera.com/threads/xbox-is-being-%E2%80%9Creverse-acquired%E2%80%9D-by-the-publishers-it-spent-76-5-billion-on-and-it-was-utterly-inevitable.1644421/",
+    "published": "2026-09-27T09:32:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "console-hardware"
+    ],
+    "summary": "Analyst argues Microsoft's Xbox is being strategically influenced by acquired publishers Bethesda and Activision Blizzard rather than vice versa, following major corporate restructuring.",
+    "sources": []
+  },
+  {
+    "title": "Do you think that Secret of Mana (SNES) has aged well?",
+    "url": "https://www.resetera.com/threads/do-you-think-that-secret-of-mana-snes-has-aged-well.1644124/",
+    "published": "2026-09-27T09:27:53+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "Community discussion thread asking whether Secret of Mana (SNES) has aged well as a classic game.",
+    "sources": []
+  },
+  {
+    "title": "The Game Business: Physint budget at Xbox is reportedly around $400M  [Schreier & Jez: budget is far lower]",
+    "url": "https://www.resetera.com/threads/the-game-business-physint-budget-at-xbox-is-reportedly-around-400m-schreier-jez-budget-is-far-lower.1644106/",
+    "published": "2026-09-27T09:27:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-industry",
+      "gaming-news",
+      "leaks"
+    ],
+    "summary": "Reports suggest Kojima Productions' Physint has a $400M budget at Xbox, though credible sources indicate it's significantly lower than initially requested from PlayStation.",
+    "sources": []
+  },
+  {
+    "title": "My gaming shameful secret is that I loved DmC at the time, what\u2019s yours?",
+    "url": "https://www.resetera.com/threads/my-gaming-shameful-secret-is-that-i-loved-dmc-at-the-time-what%E2%80%99s-yours.1644298/",
+    "published": "2026-09-27T09:26:39+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A gaming enthusiast shares their personal appreciation for DmC despite its poor critical reception, sparking community discussion about controversial games.",
+    "sources": []
+  },
+  {
+    "title": "IGN's retrospective on GTA San Andreas really highlights how wildly grandiose and ambitious it was for its time",
+    "url": "https://www.resetera.com/threads/igns-retrospective-on-gta-san-andreas-really-highlights-how-wildly-grandiose-and-ambitious-it-was-for-its-time.1644094/",
+    "published": "2026-09-27T09:26:19+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "gaming-history",
+      "gaming-news"
+    ],
+    "summary": "IGN releases a retrospective on GTA: San Andreas highlighting its ambitious scope and technical achievement for the PS2 era.",
+    "sources": []
+  },
+  {
+    "title": "[Moon Channel] Okay, NOW the Video Game Industry is Collapsing",
+    "url": "https://www.resetera.com/threads/moon-channel-okay-now-the-video-game-industry-is-collapsing.1644433/",
+    "published": "2026-09-27T09:15:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-industry",
+      "gaming-news"
+    ],
+    "summary": "Video game industry analysis claims economic factors like AI bubble and geopolitical tensions are reducing available funding for game development and studios.",
+    "sources": []
+  },
+  {
+    "title": "Games that took big swings in the last 10 or so years",
+    "url": "https://www.resetera.com/threads/games-that-took-big-swings-in-the-last-10-or-so-years.1644406/",
+    "published": "2026-09-27T09:03:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Article discussing games from the past decade that took notable creative risks with innovative mechanics, tone, or storytelling despite mixed critical reception.",
+    "sources": []
+  },
+  {
+    "title": "What game collections are you hoping for?",
+    "url": "https://www.resetera.com/threads/what-game-collections-are-you-hoping-for.1643980/",
+    "published": "2026-09-27T08:21:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "game-discovery",
+      "community"
+    ],
+    "summary": "Community discussion post asking readers about their desired game collections, with personal anecdotes about PS360-era compilations and hopes for a Professor Layton collection.",
+    "sources": []
+  },
+  {
+    "title": "Drakengard 1 - where no games dared to go",
+    "url": "https://www.resetera.com/threads/drakengard-1-where-no-games-dared-to-go.1644442/",
+    "published": "2026-09-27T08:12:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "community"
+    ],
+    "summary": "A player shares their impressions of replaying the original Drakengard, praising its unconventional story and music despite janky gameplay mechanics.",
+    "sources": []
+  },
+  {
+    "title": "[Majuular] Ultima Online Retrospective",
+    "url": "https://www.resetera.com/threads/majuular-ultima-online-retrospective.1644007/",
+    "published": "2026-09-27T07:30:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-history",
+      "retro",
+      "community"
+    ],
+    "summary": "A retrospective video essay examining Ultima Online's player-driven design and ecological systems that defined early MMORPGs.",
+    "sources": []
+  },
+  {
+    "title": "Is there a duo boss fight more iconic/memorable than Ornstein and Smough (Dark Souls)?",
+    "url": "https://www.resetera.com/threads/is-there-a-duo-boss-fight-more-iconic-memorable-than-ornstein-and-smough-dark-souls.1644142/",
+    "published": "2026-09-27T06:56:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-history",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion comparing Ornstein and Smough from Dark Souls to other iconic duo boss fights in gaming history.",
+    "sources": []
+  },
+  {
+    "title": "Games where the recent mainline entry has a legitimate argument for being the best?",
+    "url": "https://www.resetera.com/threads/games-where-the-recent-mainline-entry-has-a-legitimate-argument-for-being-the-best.1644328/",
+    "published": "2026-09-27T06:35:28+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community discussion thread about video game franchises where recent mainline entries could be considered the best in the series, starting with Dragon Quest 11.",
+    "sources": []
+  },
+  {
+    "title": "Isn't it kinda crazy they used to CGI a lot of backgrounds in games?",
+    "url": "https://www.resetera.com/threads/isnt-it-kinda-crazy-they-used-to-cgi-a-lot-of-backgrounds-in-games.1644385/",
+    "published": "2026-09-27T06:13:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "game-dev"
+    ],
+    "summary": "Discussion about the historical use of pre-rendered CGI backgrounds in older JRPGs and adventure games and the development effort required.",
+    "sources": []
+  },
+  {
+    "title": "Will Godzilla be on the bark of link\u2019s house in the remake?",
+    "url": "https://www.resetera.com/threads/will-godzilla-be-on-the-bark-of-link%E2%80%99s-house-in-the-remake.1644388/",
+    "published": "2026-09-27T05:47:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "retro"
+    ],
+    "summary": "A nostalgic observation about a memorable texture detail from The Legend of Zelda: Ocarina of Time and speculation about whether it might appear in a remake.",
+    "sources": []
+  },
+  {
+    "title": "sup freaks & geeks, hit me with a gaming gif U made recently",
+    "url": "https://www.resetera.com/threads/sup-freaks-geeks-hit-me-with-a-gaming-gif-u-made-recently.1644319/",
+    "published": "2026-09-27T05:32:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 5,
+    "tags": [
+      "community"
+    ],
+    "summary": "Community member requests gaming GIFs from other users in a casual forum discussion.",
+    "sources": []
+  },
+  {
+    "title": "Zelda as a franchise really does have some amazing games.",
+    "url": "https://www.resetera.com/threads/zelda-as-a-franchise-really-does-have-some-amazing-games.1644403/",
+    "published": "2026-09-27T04:55:56+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "Fan appreciation post discussing lesser-known entries in the Legend of Zelda franchise alongside major titles.",
+    "sources": []
+  },
+  {
+    "title": "SuperGiant just uploaded the full HADES CONCERT that took place in London a few months ago, and it's glorious!",
+    "url": "https://www.resetera.com/threads/supergiant-just-uploaded-the-full-hades-concert-that-took-place-in-london-a-few-months-ago-and-its-glorious.1644172/",
+    "published": "2026-09-27T04:18:00+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Supergiant Games releases full recording of their Hades concert from London, showcasing the game's acclaimed soundtrack.",
+    "sources": []
+  },
+  {
+    "title": "Spider-Man Web of Shadows is still my favorite Spider-Man game, and now I've played it on the Wii",
+    "url": "https://www.resetera.com/threads/spider-man-web-of-shadows-is-still-my-favorite-spider-man-game-and-now-ive-played-it-on-the-wii.1644085/",
+    "published": "2026-09-27T03:56:11+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 25,
+    "tags": [
+      "retro",
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A gaming enthusiast revisits Spider-Man Web of Shadows on the Wii after over a decade, reflecting on the 2008 game's unique suit-switching mechanics and combat system.",
+    "sources": []
+  },
+  {
+    "title": "Always Online Single Player: a Modern Day Scourge Against Accessibility",
+    "url": "https://www.resetera.com/threads/always-online-single-player-a-modern-day-scourge-against-accessibility.1644061/",
+    "published": "2026-09-27T03:25:01+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 55,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Opinion piece critiques always-online requirements for single-player games as an accessibility barrier that prevents casual play sessions.",
+    "sources": []
+  },
+  {
+    "title": "Minecraft has sold over 425 million copies",
+    "url": "https://www.resetera.com/threads/minecraft-has-sold-over-425-million-copies.1644292/",
+    "published": "2026-09-27T02:35:55+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 72,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "Minecraft surpasses 425 million copies sold with over 300,000 new players joining daily after 17+ years.",
+    "sources": []
+  },
+  {
+    "title": "LEGO Batman: Legacy of the Dark Knight has a pretty major bug on Switch 2!",
+    "url": "https://www.resetera.com/threads/lego-batman-legacy-of-the-dark-knight-has-a-pretty-major-bug-on-switch-2.1644100/",
+    "published": "2026-09-27T02:18:13+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "console-hardware",
+      "gaming-news",
+      "community"
+    ],
+    "summary": "A user reports a persistent visual sharpening bug in LEGO Batman: Legacy of the Dark Knight on Switch 2 that reoccurs after game restarts.",
+    "sources": []
+  },
+  {
+    "title": "Fun website to inspect every asset from Final Fantasy 7 (3d models, stages, animations, pre-rendered bgs, summons)",
+    "url": "https://www.resetera.com/threads/fun-website-to-inspect-every-asset-from-final-fantasy-7-3d-models-stages-animations-pre-rendered-bgs-summons.1644364/",
+    "published": "2026-09-27T02:03:58+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 62,
+    "tags": [
+      "retro",
+      "game-discovery",
+      "gaming-history",
+      "open-source",
+      "community"
+    ],
+    "summary": "Pardall Games launches an interactive browser-based museum allowing players to explore and inspect thousands of 3D models, textures, animations, and pre-rendered backgrounds from classic PS1 and N64 games including Final Fantasy 7.",
+    "sources": []
+  },
+  {
+    "title": "At Minecraft LIVE, Mojang announced that the first new dimension in 14 years - The Sift - will be coming to both Minecraft Dungeons II and Minecraft",
+    "url": "https://www.resetera.com/threads/at-minecraft-live-mojang-announced-that-the-first-new-dimension-in-14-years-the-sift-will-be-coming-to-both-minecraft-dungeons-ii-and-minecraft.1644229/",
+    "published": "2026-09-27T01:58:24+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 78,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "game-discovery"
+    ],
+    "summary": "Mojang announced The Sift, Minecraft's first new dimension in 14 years, coming to Minecraft Dungeons II in September 2024 and to Minecraft in 2027.",
+    "sources": []
+  },
+  {
+    "title": "The excellent Anno 117: Pax Romana now has AC: Odyssey crossover DLC and is 35% off until Oct 1st",
+    "url": "https://www.resetera.com/threads/the-excellent-anno-117-pax-romana-now-has-ac-odyssey-crossover-dlc-and-is-35-off-until-oct-1st.1644220/",
+    "published": "2026-09-26T23:51:04+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-discovery",
+      "gaming-news"
+    ],
+    "summary": "Anno 117: Pax Romana receives an Assassin's Creed Odyssey crossover DLC and is currently discounted 35% until October 1st.",
+    "sources": []
+  },
+  {
+    "title": "A Titanfall 2 VR Mod is in the making...",
+    "url": "https://www.resetera.com/threads/a-titanfall-2-vr-mod-is-in-the-making.1644223/",
+    "published": "2026-09-26T23:29:51+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "community",
+      "game-dev"
+    ],
+    "summary": "A fan-created VR mod for Titanfall 2 is in development, featuring left-handed support and manual weapon reloading mechanics.",
+    "sources": []
+  },
+  {
+    "title": "When do you think we\u2019ll get the next new 3D Zelda?",
+    "url": "https://www.resetera.com/threads/when-do-you-think-we%E2%80%99ll-get-the-next-new-3d-zelda.1644022/",
+    "published": "2026-09-26T23:18:38+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news",
+      "community"
+    ],
+    "summary": "Community member speculates on potential timeline for future 3D Legend of Zelda games, predicting a 2D title in 2025 and next 3D entry in 2028.",
+    "sources": []
+  },
+  {
+    "title": "Scapewatch is a MMORPG Idler that is inspired by Runescape and it was released on Steam, browser, and Android recently.",
+    "url": "https://www.resetera.com/threads/scapewatch-is-a-mmorpg-idler-that-is-inspired-by-runescape-and-it-was-released-on-steam-browser-and-android-recently.1644202/",
+    "published": "2026-09-26T23:14:41+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 28,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "steam-platform"
+    ],
+    "summary": "Scapewatch, a RuneScape-inspired idle MMORPG, launched on Steam, browser, and Android with mixed reception over pricing and DLC decisions.",
+    "sources": []
+  },
+  {
+    "title": "Monsters & Memories (Indie MMORPG inspired by EverQuest) is releasing in Early Access on October 1st.  Sub only for $15 a month, no additional costs",
+    "url": "https://www.resetera.com/threads/monsters-memories-indie-mmorpg-inspired-by-everquest-is-releasing-in-early-access-on-october-1st-sub-only-for-15-a-month-no-additional-costs.1644205/",
+    "published": "2026-09-26T22:55:15+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "mmorpg"
+    ],
+    "summary": "Monsters & Memories, an indie EverQuest-inspired MMORPG, launches Early Access on October 1st with a $15/month subscription model and no additional costs.",
+    "sources": []
+  },
+  {
+    "title": "I just bought 3 copies of Big Walk to play with my family",
+    "url": "https://www.resetera.com/threads/i-just-bought-3-copies-of-big-walk-to-play-with-my-family.1644199/",
+    "published": "2026-09-26T21:12:10+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "A player shares their positive experience purchasing multiple copies of Big Walk across different platforms to play with family.",
+    "sources": []
+  },
+  {
+    "title": "\u2018The Last Of Us\u2019 Casts John Goodman, Ian Alexander & Laura Bailey For Season 3",
+    "url": "https://www.resetera.com/threads/%E2%80%98the-last-of-us%E2%80%99-casts-john-goodman-ian-alexander-laura-bailey-for-season-3.1644046/",
+    "published": "2026-09-26T20:42:05+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-news"
+    ],
+    "summary": "HBO's The Last of Us Season 3 casts actors including voice actors from The Last of Us: Part II video game, though this is primarily a television adaptation story with minimal gaming industry relevance.",
+    "sources": []
+  },
+  {
+    "title": "SEGA shares design documents for City Escape (Sonic Adventure 2)",
+    "url": "https://www.resetera.com/threads/sega-shares-design-documents-for-city-escape-sonic-adventure-2.1644097/",
+    "published": "2026-09-26T19:19:45+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-history",
+      "game-dev",
+      "retro"
+    ],
+    "summary": "SEGA releases design documents for the iconic City Escape level from Sonic Adventure 2, providing insight into one of gaming's most memorable 3D Sonic sequences.",
+    "sources": []
+  },
+  {
+    "title": "'Hello Sunshine' TGS Trailer - A Game About Following a Giant Robot",
+    "url": "https://www.resetera.com/threads/hello-sunshine-tgs-trailer-a-game-about-following-a-giant-robot.1644151/",
+    "published": "2026-09-26T18:07:03+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 32,
+    "tags": [
+      "game-dev",
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Hello Sunshine, a new indie game about following a giant robot, was showcased at TGS with gameplay footage showing improvements over developer's previous title Dustborn.",
+    "sources": []
+  },
+  {
+    "title": "Can anyone date when MS/Xbox gave up on streaming.",
+    "url": "https://www.resetera.com/threads/can-anyone-date-when-ms-xbox-gave-up-on-streaming.1644091/",
+    "published": "2026-09-26T17:58:54+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-industry",
+      "community"
+    ],
+    "summary": "Community discussion speculating about Microsoft's commitment to Xbox Cloud Gaming based on hardware decisions and personal user experiences.",
+    "sources": []
+  },
+  {
+    "title": "What are your favourite pet names for video games or game series?",
+    "url": "https://www.resetera.com/threads/what-are-your-favourite-pet-names-for-video-games-or-game-series.1643971/",
+    "published": "2026-09-26T15:54:22+00:00",
+    "feed_name": "ResetEra Gaming Forum",
+    "feed_tags": [
+      "gaming-news",
+      "community"
+    ],
+    "significance": 15,
+    "tags": [
+      "community",
+      "gaming-news"
+    ],
+    "summary": "Community discussion thread about informal nicknames and pet names for video games and series.",
+    "sources": []
+  },
+  {
+    "title": "Guide: The Best Castlevania Games, Ranked By You",
+    "url": "https://www.timeextension.com/guides/the-best-castlevania-games-ranked-by-you",
+    "published": "2026-09-27T09:00:00+00:00",
+    "feed_name": "Time Extension",
+    "feed_tags": [
+      "gaming-history",
+      "retro",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-history",
+      "game-discovery",
+      "retro"
+    ],
+    "summary": "A ranked guide to Castlevania games celebrating the franchise's 40th anniversary, helping new players navigate the series' extensive catalog.",
+    "sources": []
+  },
+  {
+    "title": "New Proton Experimental Update Fixes Killer7 Text Rendering",
+    "url": "https://steamdeckhq.com/news/new-proton-experimental-update-killer7-rendering/",
+    "published": "2026-09-26T14:44:34+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 45,
+    "tags": [
+      "proton",
+      "steam-deck",
+      "linux-gaming",
+      "valve"
+    ],
+    "summary": "Proton Experimental receives an update addressing text rendering issues in Killer7 and fixes for Crysis titles.",
+    "sources": []
+  },
+  {
+    "title": "SteamOS 3.9.2 Beta Releases With VR Streaming Fixes For Steam Frame",
+    "url": "https://steamdeckhq.com/news/steamos-3-9-2-beta-vr-streaming-fixes-steam-frame/",
+    "published": "2026-09-26T13:41:16+00:00",
+    "feed_name": "Steam Deck HQ",
+    "feed_tags": [
+      "steam-deck"
+    ],
+    "significance": 35,
+    "tags": [
+      "steam-deck",
+      "valve",
+      "steam-platform",
+      "gaming-hardware"
+    ],
+    "summary": "SteamOS 3.9.2 beta adds Legion Go 2 brightness control and VR streaming fixes for Steam Frame.",
+    "sources": []
+  },
+  {
+    "title": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom",
+    "url": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
+    "published": "2026-09-26T21:55:08+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "indie-games",
+      "game-discovery",
+      "game-dev"
+    ],
+    "summary": "TALON TOWERS is an indie parkour platformer inspired by Fumito Ueda's artistic design sensibilities, featuring climbing and navigation across towering structures above a foggy landscape.",
+    "sources": []
+  },
+  {
+    "title": "Suplex and shatter glass enemies after being in prison for committing a cardinal crime in the psychological horror beat 'em up Brokensides",
+    "url": "https://www.rockpapershotgun.com/suplex-and-shatter-glass-enemies-after-being-in-prison-for-committing-a-cardinal-crime-in-the-psychological-horror-beat-em-up-brokensides",
+    "published": "2026-09-26T20:28:05+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Brokensides is an indie psychological horror beat 'em up mashup featuring unique genre blending and a distinctive premise centered on a recently imprisoned sea bunny protagonist.",
+    "sources": []
+  },
+  {
+    "title": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change",
+    "url": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
+    "published": "2026-09-26T17:51:31+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 25,
+    "tags": [
+      "indie-games",
+      "game-discovery"
+    ],
+    "summary": "Video Game Menu: The Game is an indie title that humorously focuses on video game menus as the primary gameplay mechanic rather than traditional action or puzzles.",
+    "sources": []
+  },
+  {
+    "title": "Cyberpunk 2077: Phantom Liberty's Chimera tank boss fight was apparently so complex it took two years of \"reiterating over and over\" to get it right",
+    "url": "https://www.rockpapershotgun.com/cyberpunk-2077-phantom-libertys-chimera-tank-boss-fight-was-apparently-so-complex-it-took-two-years-of-reiterating-over-and-over-to-get-it-right",
+    "published": "2026-09-26T16:56:58+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 45,
+    "tags": [
+      "game-dev",
+      "gaming-news"
+    ],
+    "summary": "CD Projekt Red spent two years iterating on the Chimera tank boss fight in Cyberpunk 2077: Phantom Liberty to achieve its complex final design.",
+    "sources": []
+  },
+  {
+    "title": "\"Do 665 runs if you want!\": Control Resonant is getting a new game++ mode next month, and don't worry you happy snappers, a photo mode is on the way too",
+    "url": "https://www.rockpapershotgun.com/do-665-runs-if-you-want-control-resonant-is-getting-a-new-game-mode-next-month-and-dont-worry-you-happy-snappers-a-photo-mode-is-on-the-way-too",
+    "published": "2026-09-26T15:57:33+00:00",
+    "feed_name": "Rock Paper Shotgun",
+    "feed_tags": [
+      "gaming-news",
+      "indie-games"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-dev"
+    ],
+    "summary": "Control Resonant will receive a New Game++ mode and photo mode in upcoming updates, with a hotfix already deployed to improve combat difficulty.",
+    "sources": []
+  },
+  {
+    "title": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint",
+    "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+    "published": "2026-09-26T20:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 65,
+    "tags": [
+      "gaming-industry",
+      "leaks",
+      "gaming-news"
+    ],
+    "summary": "Xbox is allegedly offering a fraction of the $400 million budget Kojima reportedly quoted Sony for Physint, after PlayStation withdrew from the multi-platform stealth action game.",
+    "sources": []
+  },
+  {
+    "title": "Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History",
+    "url": "https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history",
+    "published": "2026-09-26T19:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 15,
+    "tags": [
+      "gaming-history",
+      "community"
+    ],
+    "summary": "A personal essay about earning a platinum trophy in Sonic Origins and reflecting on gaming history.",
+    "sources": []
+  },
+  {
+    "title": "Another Live Service PS5 Game Bites the Dust, But It'll Be Transformed into an Offline Title",
+    "url": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
+    "published": "2026-09-26T18:45:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "gaming-industry",
+      "console-hardware"
+    ],
+    "summary": "Bandai Namco's live service extraction shooter Synduality: Echo of Ada is being converted from online to offline gameplay following its commercial underperformance.",
+    "sources": []
+  },
+  {
+    "title": "PS5's Welcome Hub Adds Animated The Last of Us Wallpaper",
+    "url": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
+    "published": "2026-09-26T18:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "console-hardware",
+      "gaming-news"
+    ],
+    "summary": "Sony adds an animated The Last of Us wallpaper to PS5's Welcome Hub, likely timed to The Last of Us Day celebration.",
+    "sources": []
+  },
+  {
+    "title": "The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced",
+    "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced",
+    "published": "2026-09-26T16:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "gaming-industry"
+    ],
+    "summary": "The Last of Us Day celebrations are being postponed to September 28th with a charity stream, while HBO's Season 3 casting includes John Goodman, Ian Alexander, and Laura Bailey.",
+    "sources": []
+  },
+  {
+    "title": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out Next Week (28th-4th October)",
+    "url": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-next-week-28th-4th-october",
+    "published": "2026-09-26T11:00:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 35,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A guide highlighting 21+ upcoming PS5 and PS Plus games releasing in the week of October 28th-November 4th, including major titles like The Witcher 3 Remastered and Ace Combat 8.",
+    "sources": []
+  },
+  {
+    "title": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
+    "url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+    "published": "2026-09-26T09:30:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 45,
+    "tags": [
+      "gaming-news",
+      "pc-hardware",
+      "console-hardware",
+      "handheld-gaming"
+    ],
+    "summary": "Delta Force celebrates its second anniversary with a new season featuring gameplay tweaks, maps, modes, and cosmetics across PC, mobile, and Xbox platforms.",
+    "sources": []
+  },
+  {
+    "title": "Guide: All PS Plus Games Available Now",
+    "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
+    "published": "2026-09-26T00:15:00+00:00",
+    "feed_name": "Push Square",
+    "feed_tags": [
+      "playstation",
+      "sony",
+      "gaming-news"
+    ],
+    "significance": 25,
+    "tags": [
+      "gaming-news",
+      "game-discovery"
+    ],
+    "summary": "A comprehensive guide tracking all current PS Plus subscription games across tiers and platforms with upcoming additions and expiry dates.",
+    "sources": []
+  }
+]
