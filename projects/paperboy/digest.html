@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Paperboy — Digests</title>
+<title>Paperboy — Moved</title>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -13,553 +13,88 @@
     --border: #2a2d3a;
     --text: #e2e8f0;
     --muted: #64748b;
-    --high: #4ade80;
-    --notable: #60a5fa;
-    --low: #fbbf24;
-    --noise: #6b7280;
+    --accent: #60a5fa;
   }
 
   body {
     background: var(--bg);
     color: var(--text);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: 14px;
-    line-height: 1.5;
+    font-size: 15px;
+    line-height: 1.6;
     min-height: 100vh;
-  }
-
-  header {
-    padding: 20px 32px;
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  .header-left { display: flex; align-items: center; gap: 12px; }
-  header h1 { font-size: 16px; font-weight: 600; letter-spacing: 0.02em; }
-  header span { color: var(--muted); font-size: 13px; }
-
-  .header-nav {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
-
-  button {
-    padding: 8px 16px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    color: var(--text);
-    cursor: pointer;
-    font-size: 13px;
-    transition: border-color 0.15s, background 0.15s;
-  }
-
-  button:hover:not(:disabled) { border-color: var(--notable); }
-  button:disabled { cursor: not-allowed; opacity: 0.5; }
-
-  .nav-link {
-    padding: 8px 16px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    color: var(--text);
-    font-size: 13px;
-    text-decoration: none;
-    transition: border-color 0.15s;
-    display: inline-block;
-  }
-
-  .nav-link:hover { border-color: var(--notable); }
-
-  footer {
-    position: sticky;
-    bottom: 0;
-    padding: 16px 32px max(16px, env(safe-area-inset-bottom)) 32px;
-    border-top: 1px solid var(--border);
-    background: var(--bg);
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 12px;
-    z-index: 10;
+    padding: 24px 16px;
   }
 
-  .digest-title {
-    margin-bottom: 24px;
-    color: var(--muted);
-    font-size: 14px;
-    font-weight: normal;
-  }
-
-  .digest-date {
-    color: var(--muted);
-    font-size: 13px;
-    min-width: 160px;
-    text-align: center;
-  }
-
-  #loading {
-    display: none;
-    padding: 48px 32px;
-    text-align: center;
-    color: var(--muted);
-  }
-
-  #error-msg {
-    display: none;
-    margin: 48px auto;
-    max-width: 480px;
-    padding: 16px 20px;
-    background: rgba(248,113,113,0.1);
-    border: 1px solid rgba(248,113,113,0.3);
-    border-radius: 8px;
-    color: #f87171;
-    text-align: center;
-  }
-
-  #report { display: none; padding: 24px 32px 100px 32px; max-width: 1200px; }
-
-  .summary-bar {
-    display: flex;
-    gap: 24px;
-    flex-wrap: wrap;
-    margin-bottom: 32px;
-    padding: 16px 20px;
+  main {
     background: var(--surface);
     border: 1px solid var(--border);
     border-radius: 8px;
+    padding-block: 32px;
+    padding-inline: 28px;
+    max-width: 34rem;
+    width: 100%;
   }
 
-  .stat { display: flex; flex-direction: column; gap: 2px; }
-  .stat-value { font-size: 22px; font-weight: 700; }
-  .stat-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
-
-  .stat-value.high { color: var(--high); }
-  .stat-value.notable { color: var(--notable); }
-
-  section { margin-bottom: 36px; }
-  section h2 { font-size: 13px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 14px; }
-
-  .dist-bars { display: flex; flex-direction: column; gap: 8px; }
-
-  .dist-row {
-    display: grid;
-    grid-template-columns: 90px 1fr 48px;
-    align-items: center;
-    gap: 12px;
-  }
-
-  .dist-label { font-size: 12px; color: var(--muted); text-align: right; }
-
-  .dist-bar-bg {
-    height: 20px;
-    background: var(--surface);
-    border-radius: 3px;
-    overflow: hidden;
-    border: 1px solid var(--border);
-  }
-
-  .dist-bar-fill {
-    height: 100%;
-    border-radius: 3px;
-    transition: width 0.4s ease;
-  }
-
-  .dist-count { font-size: 12px; color: var(--muted); }
-
-  table { width: 100%; border-collapse: collapse; }
-  th {
-    text-align: left;
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--muted);
-    padding: 8px 12px;
-    border-bottom: 1px solid var(--border);
-  }
-  td { padding: 10px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
-  tr:last-child td { border-bottom: none; }
-  tr:hover td { background: rgba(255,255,255,0.02); }
-
-  .sig-badge {
-    display: inline-block;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 12px;
+  h1 {
+    font-size: 1.4rem;
+    line-height: 1.3;
+    margin-bottom: 16px;
     font-weight: 600;
-    min-width: 36px;
-    text-align: center;
   }
 
-  .sig-high   { background: rgba(74,222,128,0.15); color: var(--high); }
-  .sig-notable { background: rgba(96,165,250,0.15); color: var(--notable); }
-  .sig-low    { background: rgba(251,191,36,0.15); color: var(--low); }
-  .sig-noise  { background: rgba(107,114,128,0.15); color: var(--noise); }
+  p { margin-bottom: 14px; }
+  p:last-of-type { margin-bottom: 0; }
 
-  .title-link { color: var(--text); text-decoration: none; }
-  .title-link:hover { color: var(--notable); }
+  .muted { color: var(--muted); font-size: 0.9rem; }
 
-  .tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
-  .tag {
-    font-size: 11px;
-    padding: 1px 6px;
-    border-radius: 3px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    color: var(--muted);
+  a { color: var(--accent); }
+
+  .go {
+    display: inline-block;
+    margin-block: 20px 4px;
+    padding: 10px 16px;
+    background: var(--accent);
+    color: #0b1220;
+    border-radius: 6px;
+    font-weight: 600;
+    text-decoration: none;
   }
 
-  .summary-text { color: var(--muted); font-size: 12px; margin-top: 4px; }
-  .feed-name { color: var(--muted); font-size: 12px; }
+  .go:hover { filter: brightness(1.08); }
 
-  #report .tag { cursor: pointer; }
-  .tag.active {
-    background: rgba(96,165,250,0.25);
-    border-color: var(--notable);
-    color: var(--text);
-  }
-
-  #filter-bar {
-    display: none;
-    padding: 10px 32px;
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    font-size: 13px;
-    color: var(--muted);
-    align-items: center;
-    gap: 8px;
-  }
-
-  #filter-bar.visible { display: flex; }
-
-  .filter-clear {
-    cursor: pointer;
-    font-size: 14px;
-    color: var(--muted);
-    line-height: 1;
-    padding: 0 4px;
-  }
-
-  .filter-clear:hover { color: var(--text); }
-
-  @media (max-width: 768px) {
-    table thead {
-      display: none;
-    }
-
-    table, tbody {
-      display: block;
-    }
-
-    tr {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 8px;
-      padding: 12px;
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      margin-bottom: 12px;
-    }
-
-    td {
-      padding: 0;
-      border-bottom: none;
-    }
-
-    /* Title gets full width at top */
-    td:nth-child(2) {
-      grid-column: 1 / -1;
-      grid-row: 1;
-    }
-
-    /* Metadata below in 4-column layout */
-    td:nth-child(1) { grid-column: 1; grid-row: 2; }
-    td:nth-child(3) { grid-column: 2; grid-row: 2; }
-    td:nth-child(4) { grid-column: 3; grid-row: 2; }
-    td:nth-child(5) { grid-column: 4; grid-row: 2; }
-
-    tr:hover td {
-      background: none;
-    }
+  footer {
+    margin-top: 24px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+    font-size: 0.9rem;
   }
 </style>
 </head>
 <body>
+  <main>
+    <h1>Paperboy moved to pegboard</h1>
 
-<header>
-  <div class="header-left">
-    <h1>Paperboy</h1>
-  </div>
-  <div class="header-nav">
-    <a href="weekly.html" class="nav-link">Weekly View →</a>
-  </div>
-</header>
+    <p>
+      These pages served a daily snapshot of the news digest. Ingest and ranking
+      now run in pegboard instead, on an hourly schedule, and each editorial beat
+      has its own ranked view rather than one shared digest.
+    </p>
 
-<div id="filter-bar">
-  <span>Filtering by:</span>
-  <span id="filter-tag-label" class="tag active"></span>
-  <span id="filter-clear" class="filter-clear">×</span>
-</div>
+    <p class="muted">
+      The snapshots stopped updating on 3 October 2026 and have been removed.
+    </p>
 
-<div id="loading"><p>Loading digests...</p></div>
-<div id="error-msg"></div>
-<div id="report"></div>
+    <a class="go" href="https://pegboard-codeandgame.vercel.app/paperboy">Open Paperboy on pegboard</a>
 
-<footer id="digest-footer">
-  <button id="prev-btn">← Previous</button>
-  <div class="digest-date" id="digest-date">Loading...</div>
-  <button id="next-btn">Next →</button>
-</footer>
+    <p class="muted">Requires a sign-in — it is no longer a public page.</p>
 
-<script>
-const prevBtn = document.getElementById('prev-btn');
-const nextBtn = document.getElementById('next-btn');
-const digestDate = document.getElementById('digest-date');
-const loading = document.getElementById('loading');
-const report = document.getElementById('report');
-const errorMsg = document.getElementById('error-msg');
-const filterBar = document.getElementById('filter-bar');
-const filterTagLabel = document.getElementById('filter-tag-label');
-const filterClear = document.getElementById('filter-clear');
-
-let digests = [];
-let currentIndex = -1;
-let activeTag = null;
-
-function setFilter(tag) {
-  activeTag = tag;
-  applyFilter();
-}
-
-function applyFilter() {
-  if (activeTag) {
-    filterTagLabel.textContent = activeTag;
-    filterBar.classList.add('visible');
-  } else {
-    filterBar.classList.remove('visible');
-  }
-
-  document.querySelectorAll('#report tbody tr').forEach(tr => {
-    if (!activeTag) {
-      tr.style.display = '';
-    } else {
-      const tags = (tr.dataset.tags || '').split(',');
-      tr.style.display = tags.includes(activeTag) ? '' : 'none';
-    }
-  });
-
-  document.querySelectorAll('#report .tag').forEach(el => {
-    el.classList.toggle('active', el.textContent === activeTag);
-  });
-}
-
-filterClear.addEventListener('click', () => setFilter(null));
-
-report.addEventListener('click', e => {
-  const tagEl = e.target.closest('.tag');
-  if (!tagEl) return;
-  const tag = tagEl.dataset.tag;
-  setFilter(activeTag === tag ? null : tag);
-});
-
-// Fetch available digests from manifest
-async function loadDigestIndex() {
-  try {
-    const response = await fetch('digests.json?t=' + Date.now());
-    const files = await response.json();
-
-    if (!Array.isArray(files) || files.length === 0) {
-      showError('No digest files found.');
-      return;
-    }
-
-    digests = files;
-    await showLatestScored();
-  } catch (err) {
-    showError('Could not load digest index: ' + err.message);
-  }
-}
-
-async function fetchDigestData(filename) {
-  const response = await fetch(`digests/${filename}`);
-  return response.json();
-}
-
-// Lands on the most recent digest that actually has scored items. A scoring
-// pipeline outage can publish a digest where every item is still
-// significance: null — that shouldn't blank the default view, so walk
-// backward until a usable one turns up.
-async function showLatestScored() {
-  loading.style.display = 'block';
-  for (let i = digests.length - 1; i >= 0; i--) {
-    let raw;
-    try {
-      raw = await fetchDigestData(digests[i]);
-    } catch (err) {
-      continue; // couldn't load this one — try an older digest
-    }
-    if (raw.some(item => item.significance > 0)) {
-      currentIndex = i;
-      render(raw, digests[i]);
-      return;
-    }
-  }
-  showError('No scored items found in recent digests.');
-}
-
-function showError(msg) {
-  loading.style.display = 'none';
-  errorMsg.textContent = msg;
-  errorMsg.style.display = 'block';
-  report.style.display = 'none';
-  activeTag = null;
-  filterBar.classList.remove('visible');
-}
-
-function esc(s) {
-  return String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
-}
-
-function safeUrl(u) {
-  try { const p = new URL(u); return (p.protocol === 'https:' || p.protocol === 'http:') ? u : '#'; }
-  catch { return '#'; }
-}
-
-function sigClass(s) {
-  if (s >= 75) return 'high';
-  if (s >= 50) return 'notable';
-  if (s >= 25) return 'low';
-  return 'noise';
-}
-
-async function showDigest(index) {
-  if (index < 0 || index >= digests.length) return;
-
-  currentIndex = index;
-  activeTag = null;
-  filterBar.classList.remove('visible');
-  loading.style.display = 'block';
-
-  try {
-    const raw = await fetchDigestData(digests[index]);
-    render(raw, digests[index]);
-  } catch (err) {
-    showError('Could not load digest: ' + err.message);
-  }
-}
-
-function render(raw, filename) {
-  const items = raw.filter(i => i.significance > 0);
-
-  if (items.length === 0) {
-    showError('No scored items found in this digest.');
-    return;
-  }
-
-  const dates = items.map(i => new Date(i.published)).filter(d => !isNaN(d));
-  const minDate = new Date(Math.min(...dates)).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-  const maxDate = new Date(Math.max(...dates)).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-
-  const feeds = [...new Set(items.map(i => i.feed_name))];
-  const highCount = items.filter(i => i.significance >= 75).length;
-
-  const bands = [
-    { label: '75–100 High',    color: 'var(--high)',    count: items.filter(i => i.significance >= 75).length },
-    { label: '50–74 Notable',  color: 'var(--notable)', count: items.filter(i => i.significance >= 50 && i.significance < 75).length },
-    { label: '25–49 Low',      color: 'var(--low)',     count: items.filter(i => i.significance >= 25 && i.significance < 50).length },
-    { label: '1–24 Noise',     color: 'var(--noise)',   count: items.filter(i => i.significance > 0 && i.significance < 25).length },
-  ];
-  const maxBand = Math.max(...bands.map(b => b.count), 1);
-
-  const sorted = [...items].sort((a, b) => b.significance - a.significance);
-
-  loading.style.display = 'none';
-  errorMsg.style.display = 'none';
-  report.style.display = 'block';
-
-  prevBtn.disabled = currentIndex === 0;
-  nextBtn.disabled = currentIndex === digests.length - 1;
-
-  const filenameDate = filename.replace('-digest.json', '');
-  digestDate.textContent = filenameDate;
-
-  report.innerHTML = `
-    <div class="digest-title">Digest ${esc(filenameDate)}</div>
-
-    <div class="summary-bar">
-      <div class="stat">
-        <span class="stat-value">${items.length}</span>
-        <span class="stat-label">Scored Items</span>
-      </div>
-      <div class="stat">
-        <span class="stat-value">${feeds.length}</span>
-        <span class="stat-label">Feeds</span>
-      </div>
-      <div class="stat">
-        <span class="stat-value high">${highCount}</span>
-        <span class="stat-label">High Significance</span>
-      </div>
-      <div class="stat">
-        <span class="stat-value">${esc(minDate)} – ${esc(maxDate)}</span>
-        <span class="stat-label">Date Range</span>
-      </div>
-    </div>
-
-    <section>
-      <h2>Significance Distribution</h2>
-      <div class="dist-bars">
-        ${bands.map(b => `
-          <div class="dist-row">
-            <span class="dist-label">${b.label}</span>
-            <div class="dist-bar-bg">
-              <div class="dist-bar-fill" style="width:${Math.round(b.count / maxBand * 100)}%; background:${b.color};"></div>
-            </div>
-            <span class="dist-count">${b.count}</span>
-          </div>
-        `).join('')}
-      </div>
-    </section>
-
-    <section>
-      <h2>All Items by Significance</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>Sig</th>
-            <th>Title</th>
-            <th>Feed</th>
-            <th>Tags</th>
-          </tr>
-        </thead>
-        <tbody>
-          ${sorted.map(item => `
-            <tr data-tags="${(item.tags || []).map(t => esc(t)).join(',')}">
-              <td><span class="sig-badge sig-${sigClass(item.significance)}">${item.significance}</span></td>
-              <td>
-                <a class="title-link" href="${safeUrl(item.url)}" target="_blank">${esc(item.title)}</a>
-                ${item.summary ? `<div class="summary-text">${esc(item.summary)}</div>` : ''}
-              </td>
-              <td class="feed-name">${esc(item.feed_name)}</td>
-              <td>
-                <div class="tags">
-                  ${(item.tags || []).map(t => `<span class="tag" data-tag="${esc(t)}">${esc(t)}</span>`).join('')}
-                </div>
-              </td>
-            </tr>
-          `).join('')}
-        </tbody>
-      </table>
-    </section>
-  `;
-}
-
-prevBtn.addEventListener('click', () => showDigest(currentIndex - 1));
-nextBtn.addEventListener('click', () => showDigest(currentIndex + 1));
-
-loadDigestIndex();
-</script>
+    <footer>
+      <a href="/">← Rich's Pages</a>
+    </footer>
+  </main>
 </body>
 </html>
