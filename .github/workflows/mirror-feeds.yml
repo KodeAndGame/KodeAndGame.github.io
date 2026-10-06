@@ -1,0 +1,81 @@
+name: Mirror feeds
+
+# Paperboy's ingest runs on Vercel, whose egress is AWS us-east-1, and Cloudflare
+# serves that address a managed challenge for resetera.com — 403 under every
+# user-agent (KodeAndGame/pegboard#274). GitHub's runners are not challenged, and
+# were the thing quietly fetching that feed until the nightly Action was retired
+# on 2026-10-03. So this hop exists only to move the request to an address
+# ResetEra's Cloudflare config will answer.
+#
+# Pegboard needs no code change for it: its feed catalog row points at the
+# mirrored file and its parser reads the same 40 items, same URLs, same dates,
+# same tags, with blurbs averaging 408 characters against the origin's 410.
+#
+# The mirror lands on an orphan `feed-mirror` branch, not on main. Main would
+# mean ~24 commits a day in the site's history and a Pages rebuild behind each
+# one, and ci.yml would build Jekyll for every one of them.
+
+on:
+  schedule:
+    # :40, to be comfortably ahead of pegboard's ingest at :00. GitHub's
+    # scheduled runs are routinely late and sometimes skipped, which matters
+    # little here: the feed carries 40 items and the forum produces about 40 a
+    # day, so it is a rolling ~24-hour window and a missed hour loses nothing.
+    - cron: '40 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: mirror-feeds
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch ResetEra Gaming Forum
+        run: |
+          curl -sS --fail --retry 3 --retry-delay 5 --max-time 30 \
+            -A 'paperboy-mirror/1.0 (+https://github.com/KodeAndGame/kodeandgame.github.io)' \
+            -o "$RUNNER_TEMP/raw.xml" \
+            'https://www.resetera.com/forums/gaming-forum.7/index.rss?order=post_date'
+
+      - name: Excerpt and verify
+        run: python3 scripts/mirror-feed.py "$RUNNER_TEMP/raw.xml" "$RUNNER_TEMP/resetera-gaming.xml"
+
+      - name: Publish to the feed-mirror branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+
+          # The branch carries only mirrored feeds, so it is created as an
+          # orphan on the first run rather than by hand before it.
+          if git ls-remote --exit-code --heads origin feed-mirror >/dev/null 2>&1; then
+            git fetch --depth=1 origin feed-mirror
+            git checkout -B feed-mirror origin/feed-mirror
+          else
+            git checkout --orphan feed-mirror
+            git rm -rf --cached . >/dev/null 2>&1 || true
+          fi
+          # Nothing from main belongs on this branch.
+          find . -mindepth 1 -maxdepth 1 ! -name .git ! -name feeds -exec rm -rf {} +
+
+          mkdir -p feeds
+          cp "$RUNNER_TEMP/resetera-gaming.xml" feeds/resetera-gaming.xml
+          cat > README.md <<'EOF'
+          Mirrored RSS, written hourly by `.github/workflows/mirror-feeds.yml` on `main`.
+
+          Excerpts only — each item's body is cut to ~600 characters of stripped
+          text. Titles and links point at the original; go there to read anything.
+
+          Source: ResetEra Gaming Forum — https://www.resetera.com/forums/gaming-forum.7/
+          EOF
+
+          git add feeds README.md
+          git diff --cached --quiet && echo 'unchanged' && exit 0
+          git commit -m "mirror: $(date -u +%FT%TZ)"
+          git push origin feed-mirror
