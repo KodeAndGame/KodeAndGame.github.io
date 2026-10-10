@@ -28,6 +28,15 @@ def fail(msg):
     sys.exit(1)
 
 
+def uncdata(raw: str) -> str:
+    # ResetEra wraps each body in <![CDATA[...]]>. Left in, strip_html reads
+    # "<![CDATA[<div ...>" as one tag and keeps the closing "]]>" as text, which
+    # cdata() below then escapes to "]] >" — a stray "]] >" on every excerpt.
+    # A body with no markup inside would go entirely: the whole section is one
+    # "tag" to the regex.
+    return re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", raw, flags=re.S)
+
+
 def strip_html(raw: str) -> str:
     text = re.sub(r"<(script|style)\b.*?</\1>", " ", raw, flags=re.S | re.I)
     text = re.sub(r"<[^>]+>", " ", text)
@@ -61,7 +70,7 @@ def main(src: str, dst: str) -> None:
         fail(f"only {items} items — the feed normally carries 40")
 
     def shrink(m):
-        return f"<content:encoded>{cdata(excerpt(strip_html(m.group(1))))}</content:encoded>"
+        return f"<content:encoded>{cdata(excerpt(strip_html(uncdata(m.group(1)))))}</content:encoded>"
 
     out = re.sub(r"<content:encoded>(.*?)</content:encoded>", shrink, raw, flags=re.S)
 
