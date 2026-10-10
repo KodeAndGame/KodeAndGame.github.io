@@ -3,153 +3,329 @@
   <channel>
     <title>Gaming Forum</title>
     <description>The latest video game news, discussions, announcements, industry gossip, sales figures, bargains and reviews. The pulse of the gaming industry.</description>
-    <pubDate>Sat, 10 Oct 2026 12:59:34 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2026 12:59:34 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 17:57:54 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:57:54 +0000</lastBuildDate>
     <generator>ResetEra</generator>
     <link>https://www.resetera.com/</link>
     <atom:link rel="self" type="application/rss+xml" href="https://www.resetera.com/forums/gaming-forum.7/index.rss"/>
     <item>
-      <title>Codemasters - 40 Years</title>
-      <pubDate>Sat, 10 Oct 2026 12:59:22 +0000</pubDate>
-      <link>https://www.resetera.com/threads/codemasters-40-years.1656970/</link>
-      <guid isPermaLink="false">1656970</guid>
-      <author>invalid@example.com (PJTierney)</author>
+      <title>Sonic Racing Crossworlds Hello Kitty, Segaland, Persona, &amp; FFVII Remake packs revealed for Season Pass 2!</title>
+      <pubDate>Sat, 10 Oct 2026 17:57:29 +0000</pubDate>
+      <link>https://www.resetera.com/threads/sonic-racing-crossworlds-hello-kitty-segaland-persona-ffvii-remake-packs-revealed-for-season-pass-2.1656676/</link>
+      <guid isPermaLink="false">1656676</guid>
+      <author>invalid@example.com (Zonic)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>PJTierney</dc:creator>
-      <content:encoded><![CDATA[https://www.ea.com/ea-studios/codemasters https://en.wikipedia.org/wiki/Codemasters https://en.wikipedia.org/wiki/List_of_Codemasters_video_games Founded by brothers Richard and David Darling in October 1986, Codemasters is one of the oldest British game studios, and in 2005 was named the best... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>45</slash:comments>
-    </item>
-    <item>
-      <title>The Legend of Zelda: The Wind Waker HD — native port. (macOS, Linux, Windows, Android)</title>
-      <pubDate>Sat, 10 Oct 2026 12:59:09 +0000</pubDate>
-      <link>https://www.resetera.com/threads/the-legend-of-zelda-the-wind-waker-hd-%E2%80%94-native-port-macos-linux-windows-android.1656940/</link>
-      <guid isPermaLink="false">1656940</guid>
-      <author>invalid@example.com (KTroopA)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>KTroopA</dc:creator>
-      <content:encoded><![CDATA[Having grown fed of waiting for Nintendo to release Wind Waker HD on Switch/Switch 2, I just gave this recomp a try and bloody hell it runs great on my aging PC! If you want to scratch that 60fps itch definetley give this a try. The Legend of Zelda: The Wind Waker HD — native port My PC specs. Windows 10 16GB RAM RTX 3060 Ti i7-4790K CPU @ 4.00GHz I am running it with the internal renderer at 1440P on my 1440P LCD and it looks sublime.. runs 55-60fps. Those on newer RTX cards... Read more]]></content:encoded>
-      <slash:comments>161</slash:comments>
-    </item>
-    <item>
-      <title>Which was more technically impressive for PS2—GTA San Andreas or Shadow of the Colossus?</title>
-      <pubDate>Sat, 10 Oct 2026 12:57:14 +0000</pubDate>
-      <link>https://www.resetera.com/threads/which-was-more-technically-impressive-for-ps2%E2%80%94gta-san-andreas-or-shadow-of-the-colossus.1657000/</link>
-      <guid isPermaLink="false">1657000</guid>
-      <author>invalid@example.com (GunsNRosesXI)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>GunsNRosesXI</dc:creator>
-      <content:encoded><![CDATA[These two masterpieces are IMO the pièce de résistances of the PS2's legendary catalogue but more interestingly, are also technical marvels on the console. San Andreas obviously managed to fit three dense cities with little to no loading (with a great countryside and desolated desert as sprinkles on top of a delicious donut) while Shadow of the Colossus had larger than life boss fights against literal giants with incredible scope and cinematic presentation unheard of for the time... Read more]]></content:encoded>
-      <slash:comments>46</slash:comments>
-    </item>
-    <item>
-      <title>Is there an explanation why 'old' game music are so catchy vs modern? These themes still are great in rearrangements in remakes/remasters.</title>
-      <pubDate>Sat, 10 Oct 2026 12:54:49 +0000</pubDate>
-      <link>https://www.resetera.com/threads/is-there-an-explanation-why-old-game-music-are-so-catchy-vs-modern-these-themes-still-are-great-in-rearrangements-in-remakes-remasters.1656937/</link>
-      <guid isPermaLink="false">1656937</guid>
-      <author>invalid@example.com (Jeff ChickenDig)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Jeff ChickenDig</dc:creator>
-      <content:encoded><![CDATA[Been going through ff7 rebirth which I have plenty of problems and am more critical than most... probably due to no nostalgia (played ff7 for the first time on switch a few years ago), but the music is just... so familiar somehow? Love me the town themes, character themes, battle themes. Similar vibes while playing the trails in the sky remakes, something about the music hits a bit different from the later entries too. Same with super mario rpg on switch... or anytime they go ham with a big... Read more]]></content:encoded>
-      <slash:comments>69</slash:comments>
-    </item>
-    <item>
-      <title>HUB: Latest Radeon driver introduces automatic background Shader Compilation for UE5 and UE4 games</title>
-      <pubDate>Sat, 10 Oct 2026 12:54:12 +0000</pubDate>
-      <link>https://www.resetera.com/threads/hub-latest-radeon-driver-introduces-automatic-background-shader-compilation-for-ue5-and-ue4-games.1657012/</link>
-      <guid isPermaLink="false">1657012</guid>
-      <author>invalid@example.com (DieH@rd)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>DieH@rd</dc:creator>
-      <content:encoded><![CDATA[During testing of SCSKiller app that allows users to manually precompile shaders for supported games [in some it works great, in some it does nothing], Hardware Unboxed stumbled on a fascinating find - a stutter-fest game Tiny Tina Wonderlands suddenly worked flawlessly upon first boot on Radeon 9070 XT. View: https://youtu.be/eD-P671830U 12:55 for the moment of discovery They then discovered a buried un-dated news on AMD site that announced arrival of the GPU driver... Read more]]></content:encoded>
-      <slash:comments>5</slash:comments>
-    </item>
-    <item>
-      <title>Deadlock, while still being invite only, has now surpassed Team Fortress 2's all-time player peak</title>
-      <pubDate>Sat, 10 Oct 2026 12:50:04 +0000</pubDate>
-      <link>https://www.resetera.com/threads/deadlock-while-still-being-invite-only-has-now-surpassed-team-fortress-2s-all-time-player-peak.1656994/</link>
-      <guid isPermaLink="false">1656994</guid>
-      <author>invalid@example.com (signal)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>signal</dc:creator>
-      <content:encoded><![CDATA[Different times but still pretty impressive.]]></content:encoded>
-      <slash:comments>31</slash:comments>
-    </item>
-    <item>
-      <title>Do you prefer Spider-Man (2000) with PS1/N64 or Dreamcast/PC graphics?</title>
-      <pubDate>Sat, 10 Oct 2026 12:46:27 +0000</pubDate>
-      <link>https://www.resetera.com/threads/do-you-prefer-spider-man-2000-with-ps1-n64-or-dreamcast-pc-graphics.1656688/</link>
-      <guid isPermaLink="false">1656688</guid>
-      <author>invalid@example.com (DecoyoctopusV)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>DecoyoctopusV</dc:creator>
-      <content:encoded><![CDATA[Neversoft's Spider-Man is a classic and one of the best superhero games. In my opinion Rino Romano is still the best voice actor for him. "I'm already at full health". I played the PS1 version a lot as a kid and its a fun game to this day. I remember buying the sequel Enter Electro and being very confused during the Previously on Spider-Man cutscene: View: https://youtu.be/JOb492nO03k?si=cX4fOGpyndqsSZK9 The game didn't look like that. Later I found out that there was a version that looked... Read more]]></content:encoded>
-      <slash:comments>40</slash:comments>
-    </item>
-    <item>
-      <title>For a game that feels as important as Symphony of the Night, it has had a surprisingly strange release pattern over its existence.</title>
-      <pubDate>Sat, 10 Oct 2026 12:38:40 +0000</pubDate>
-      <link>https://www.resetera.com/threads/for-a-game-that-feels-as-important-as-symphony-of-the-night-it-has-had-a-surprisingly-strange-release-pattern-over-its-existence.1656817/</link>
-      <guid isPermaLink="false">1656817</guid>
-      <author>invalid@example.com (NukeRunner)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>NukeRunner</dc:creator>
-      <content:encoded><![CDATA[Symphony of the Night is often considered one of the more important games within the medium by those who played it, it sent the series in a different direction, likely popularized the term Metroidvania, and is often considered among the best if not the best the genre has to offer. It often helps define the original Playstation catalog to those who partook, and even in the current year is still held in very high regard. It carries a legacy that feels persistent, yet if you were to track its... Read more]]></content:encoded>
-      <slash:comments>73</slash:comments>
-    </item>
-    <item>
-      <title>[MP1st] Silent Hill Creator Keiichiro Toyama’s Bokeh Game Studios Next Project First Info Unearthed</title>
-      <pubDate>Sat, 10 Oct 2026 12:37:28 +0000</pubDate>
-      <link>https://www.resetera.com/threads/mp1st-silent-hill-creator-keiichiro-toyama%E2%80%99s-bokeh-game-studios-next-project-first-info-unearthed.1656685/</link>
-      <guid isPermaLink="false">1656685</guid>
-      <author>invalid@example.com (amra)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>amra</dc:creator>
-      <content:encoded><![CDATA[https://mp1st.com/news/silent-hill-creator-keiichiro-toyamas-next-project-another-horror-game Bokeh Is Developing a New Horror Game to No One's Surprise Bokeh Game Studio is currently hiring for motion capture work for a few characters that will appear in their still-untitled game, and based on the number of people they're looking for, this new project will feature a lot of characters. A few common items mentioned in the casting sheet for almost all... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>34</slash:comments>
+      <dc:creator>Zonic</dc:creator>
+      <content:encoded><![CDATA[View: https://youtu.be/O0TSwHOJ7Xw?is=nZr_qSlBpsiNGrun Revealed via Twitch Stream, these will be part of the 2nd season pass (all include a new track) for $30, releasing Nov. 3rd: Pack 1: Godzilla (+ 3 vehicles) Pack 2: Evangelion (+ Rei & Asuka playable + 3 vehicles) Pack 3: Hello Kitty (+ Kitty & Kuromi playable + 2 vehicles) Pack 4: Segaland (+ 3 vehicles inspired by Virtua Fighter, Outrun, & Afterburner) Pack 5: Final Fantasy 7 Pack 6: Persona 3/4/5 Bonus: vehicles inspired by the... Read more]]></content:encoded>
+      <slash:comments>189</slash:comments>
     </item>
     <item>
       <title>Nvidia rumoured to discontinue RTX 5090 production to reserve more GB202 GPUs for the RTX Pro series</title>
-      <pubDate>Sat, 10 Oct 2026 12:24:57 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 17:56:27 +0000</pubDate>
       <link>https://www.resetera.com/threads/nvidia-rumoured-to-discontinue-rtx-5090-production-to-reserve-more-gb202-gpus-for-the-rtx-pro-series.1656973/</link>
       <guid isPermaLink="false">1656973</guid>
       <author>invalid@example.com (Azai)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
       <dc:creator>Azai</dc:creator>
       <content:encoded><![CDATA[NVIDIA is reportedly ending production of its GeForce RTX 5090 graphics cards, with future GB202 GPU supply redirected entirely to the RTX PRO series. The information comes from reliable hardware leaker MEGAsizeGPU, who has backed claims that NVIDIA is moving away from producing GB202-based GeForce cards. Click to expand... Click to shrink... There's also rumor about potential 24GB version of RTX 5080, which comes from hongxing2020, also very reliable NVIDIA hardware leaker. NVIDIA has reportedly notified a factory... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>43</slash:comments>
+      <slash:comments>100</slash:comments>
     </item>
     <item>
-      <title>A modder has rebuilt core Starfield engine tech and added No Man’s Sky style planetary landing</title>
-      <pubDate>Sat, 10 Oct 2026 12:21:00 +0000</pubDate>
-      <link>https://www.resetera.com/threads/a-modder-has-rebuilt-core-starfield-engine-tech-and-added-no-man%E2%80%99s-sky-style-planetary-landing.1656862/</link>
-      <guid isPermaLink="false">1656862</guid>
-      <author>invalid@example.com (RedbullCola)</author>
+      <title>Cyberleek (GTA 6 Hacker) threatens to leak full build of GTA 6 if he hits $30m marketcap on his crypto coin</title>
+      <pubDate>Sat, 10 Oct 2026 17:56:16 +0000</pubDate>
+      <link>https://www.resetera.com/threads/cyberleek-gta-6-hacker-threatens-to-leak-full-build-of-gta-6-if-he-hits-30m-marketcap-on-his-crypto-coin.1657072/</link>
+      <guid isPermaLink="false">1657072</guid>
+      <author>invalid@example.com (TheAbsolution)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>RedbullCola</dc:creator>
-      <content:encoded><![CDATA[View: https://youtu.be/L-E7tspL6-c This kinda has to be seen to be believed. More details are in the video description. They've basically rebuilt tech in the engine to allow fully 3D planets with weather etc, then let you fly into atmosphere (and around on planet) without loading screens. Either manual flight or autopilot. File this one firmly under 'hire this person'.]]></content:encoded>
-      <slash:comments>76</slash:comments>
+      <dc:creator>TheAbsolution</dc:creator>
+      <content:encoded><![CDATA[The Offer Here's the deal, nice and clean. CYBERLEEK hits 30 million marketcap, the build goes out — full story mode, played to the end, credits and all. Don't believe it has full story mode? Ask for what you want to see, and it gets provided. Take-Two gets one way out: physical disks and a public apology. They can take it at any moment. Or they can gamble that CL is bluffing. Everyone knows which one they'll pick. Click to expand... Click to shrink... New thread for... Read more]]></content:encoded>
+      <slash:comments>173</slash:comments>
     </item>
     <item>
-      <title>To couch gamers out there, have any of you had success in building something close to a steam machine using SteamOS without many hiccups?</title>
-      <pubDate>Sat, 10 Oct 2026 12:05:25 +0000</pubDate>
-      <link>https://www.resetera.com/threads/to-couch-gamers-out-there-have-any-of-you-had-success-in-building-something-close-to-a-steam-machine-using-steamos-without-many-hiccups.1656922/</link>
-      <guid isPermaLink="false">1656922</guid>
-      <author>invalid@example.com (NintendoSwitchLover)</author>
+      <title>This Film, Released Twenty-Five Years Ago, Was the Most Influential Film in Gaming History</title>
+      <pubDate>Sat, 10 Oct 2026 17:55:52 +0000</pubDate>
+      <link>https://www.resetera.com/threads/this-film-released-twenty-five-years-ago-was-the-most-influential-film-in-gaming-history.1657126/</link>
+      <guid isPermaLink="false">1657126</guid>
+      <author>invalid@example.com (Man God)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>NintendoSwitchLover</dc:creator>
-      <content:encoded><![CDATA[I've ran into a position where I've got some DDR5 and an SSD, I've been considering selling what I have and some games to buy a steam machine but I'm also considering just building something. The form factor is ideal to me and the console experience is what I'm looking for. I know for similar money I can just build something with better specs but better specs aren't worth much if it just feels like a computer connected to a tv. Has anyone else out there been in a similar position?]]></content:encoded>
+      <dc:creator>Man God</dc:creator>
+      <content:encoded><![CDATA[No, it's not The Matrix. That was released in 1999. This was arguably influenced by that, but maybe not, considering it went into development before that one but released after. It can't be the sequels either. It wasn't Spider-Man either, if that is what you are thinking. That was 2002. Same with Attack of the Clones, though that wouldn't be on this list either. Unlike those films, which were all three commercial successes (two of the three were big critical hits as well) while this... Read more]]></content:encoded>
+      <slash:comments>34</slash:comments>
+    </item>
+    <item>
+      <title>Which was more technically impressive for PS2—GTA San Andreas or Shadow of the Colossus?</title>
+      <pubDate>Sat, 10 Oct 2026 17:55:33 +0000</pubDate>
+      <link>https://www.resetera.com/threads/which-was-more-technically-impressive-for-ps2%E2%80%94gta-san-andreas-or-shadow-of-the-colossus.1657000/</link>
+      <guid isPermaLink="false">1657000</guid>
+      <author>invalid@example.com (GunsNRosesXI)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>GunsNRosesXI</dc:creator>
+      <content:encoded><![CDATA[These two masterpieces are IMO the pièce de résistances of the PS2's legendary catalogue but more interestingly, are also technical marvels on the console. San Andreas obviously managed to fit three dense cities with little to no loading (with a great countryside and desolated desert as sprinkles on top of a delicious donut) while Shadow of the Colossus had larger than life boss fights against literal giants with incredible scope and cinematic presentation unheard of for the time... Read more]]></content:encoded>
+      <slash:comments>101</slash:comments>
+    </item>
+    <item>
+      <title>Is the Switch 2 love I'm seeing online and in person a product of Nintendo's own merit or the fact the rest of the console industry is poopy boots?</title>
+      <pubDate>Sat, 10 Oct 2026 17:51:10 +0000</pubDate>
+      <link>https://www.resetera.com/threads/is-the-switch-2-love-im-seeing-online-and-in-person-a-product-of-nintendos-own-merit-or-the-fact-the-rest-of-the-console-industry-is-poopy-boots.1656673/</link>
+      <guid isPermaLink="false">1656673</guid>
+      <author>invalid@example.com (Soapbox)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Soapbox</dc:creator>
+      <content:encoded><![CDATA[This isn't based entirely on what comes over my YouTube feed (I don't wear contact lenses but YoutTube SWEARS I DO ) but I'm getting a whole lot of "Switching to Switch as my main console videos" and at the office, I'm hearing a ton of folks talking about getting a Switch 2. Now I know my experience is not the gospel accordingly, but it feels like the Switch 2 is in good graces despite not having the biggus dickus of the upcoming season.]]></content:encoded>
+      <slash:comments>194</slash:comments>
+    </item>
+    <item>
+      <title>Squadron 42 - Steam page live, wishlisting possible, new trailer released (Star Citizen Single Player game)</title>
+      <pubDate>Sat, 10 Oct 2026 17:50:06 +0000</pubDate>
+      <link>https://www.resetera.com/threads/squadron-42-steam-page-live-wishlisting-possible-new-trailer-released-star-citizen-single-player-game.1657078/</link>
+      <guid isPermaLink="false">1657078</guid>
+      <author>invalid@example.com (Nerun)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Nerun</dc:creator>
+      <content:encoded><![CDATA[View: https://store.steampowered.com/app/4045720/Squadron_42/ View: https://www.youtube.com/watch?v=pTHEkEZhMgM The official website also received a little update, wishlisting on RSI (CIG website) and Steam is possible now. Relase date "still" Q2/2027, no final date yet. This weekend there was/is a local preview event at the CIG office in the UK, some influencer videos are already available with impressions (no capture allowed).]]></content:encoded>
+      <slash:comments>83</slash:comments>
+    </item>
+    <item>
+      <title>What's your favorite place to play games that isn't couch or desk these days?</title>
+      <pubDate>Sat, 10 Oct 2026 17:48:46 +0000</pubDate>
+      <link>https://www.resetera.com/threads/whats-your-favorite-place-to-play-games-that-isnt-couch-or-desk-these-days.1657093/</link>
+      <guid isPermaLink="false">1657093</guid>
+      <author>invalid@example.com (BigBug5000)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>BigBug5000</dc:creator>
+      <content:encoded><![CDATA[With the rise of PC and Android portable systems, cloud streaming, etc. I thought it might be fun to talk about our favorite places to play games that aren't the traditional couch for TV, or desk for PC. For me, I recently got a hammock stand to go on my balcony, and I have a cheap off-brand hammock, and it has turned into my absolute favorite place for this time of year. I take my Steam Deck out there for hours at a time and love it. I have an AYN Thor on order so I'm curious to hear where... Read more]]></content:encoded>
       <slash:comments>18</slash:comments>
     </item>
     <item>
+      <title>23 years later, you can now unlock everything in F-Zero GX including previously inaccesible content without having to play the hard difficulties</title>
+      <pubDate>Sat, 10 Oct 2026 17:46:41 +0000</pubDate>
+      <link>https://www.resetera.com/threads/23-years-later-you-can-now-unlock-everything-in-f-zero-gx-including-previously-inaccesible-content-without-having-to-play-the-hard-difficulties.1656889/</link>
+      <guid isPermaLink="false">1656889</guid>
+      <author>invalid@example.com (Madao)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Madao</dc:creator>
+      <content:encoded><![CDATA[thanks to a recent discovery, there's now button codes that can be entered in the game's shop menu to unlock all the content that previously required you to beat the game in Master Grand Prix difficulty and Very hard Story mode. View: https://bsky.app/profile/nap1400.bsky.social/post/3mxh22fl4p22s you can now get all the AX racers, AX tracks and Dark Schneider with a code entered in the shop. you still need in-game tickets to buy them but you can now play in lower difficulties to get the... Read more]]></content:encoded>
+      <slash:comments>30</slash:comments>
+    </item>
+    <item>
       <title>IMAN | 2D 8-bit rotoscoped Indonesian religious horror | Demo Out Now</title>
-      <pubDate>Sat, 10 Oct 2026 11:50:08 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 17:39:29 +0000</pubDate>
       <link>https://www.resetera.com/threads/iman-2d-8-bit-rotoscoped-indonesian-religious-horror-demo-out-now.1656979/</link>
       <guid isPermaLink="false">1656979</guid>
       <author>invalid@example.com (Messofanego)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
       <dc:creator>Messofanego</dc:creator>
       <content:encoded><![CDATA[The developer studio Pondalko is very up-front about being inspired by FAITH: The Unholy Trinity, and I'm down for the muslim take. I'll have a go at the demo and share impressions. No release date yet, still in development. View: https://store.steampowered.com/app/4529210/Iman/ View: https://www.youtube.com/watch?v=06srCPycHlI]]></content:encoded>
-      <slash:comments>3</slash:comments>
+      <slash:comments>5</slash:comments>
+    </item>
+    <item>
+      <title>Is there an explanation why 'old' game music are so catchy vs modern? These themes still are great in rearrangements in remakes/remasters.</title>
+      <pubDate>Sat, 10 Oct 2026 17:34:21 +0000</pubDate>
+      <link>https://www.resetera.com/threads/is-there-an-explanation-why-old-game-music-are-so-catchy-vs-modern-these-themes-still-are-great-in-rearrangements-in-remakes-remasters.1656937/</link>
+      <guid isPermaLink="false">1656937</guid>
+      <author>invalid@example.com (Jeff ChickenDig)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Jeff ChickenDig</dc:creator>
+      <content:encoded><![CDATA[Been going through ff7 rebirth which I have plenty of problems and am more critical than most... probably due to no nostalgia (played ff7 for the first time on switch a few years ago), but the music is just... so familiar somehow? Love me the town themes, character themes, battle themes. Similar vibes while playing the trails in the sky remakes, something about the music hits a bit different from the later entries too. Same with super mario rpg on switch... or anytime they go ham with a big... Read more]]></content:encoded>
+      <slash:comments>97</slash:comments>
+    </item>
+    <item>
+      <title>Deadlock, while still being invite only, has now surpassed Team Fortress 2's all-time player peak</title>
+      <pubDate>Sat, 10 Oct 2026 17:29:44 +0000</pubDate>
+      <link>https://www.resetera.com/threads/deadlock-while-still-being-invite-only-has-now-surpassed-team-fortress-2s-all-time-player-peak.1656994/</link>
+      <guid isPermaLink="false">1656994</guid>
+      <author>invalid@example.com (signal)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>signal</dc:creator>
+      <content:encoded><![CDATA[Different times but still pretty impressive.]]></content:encoded>
+      <slash:comments>62</slash:comments>
+    </item>
+    <item>
+      <title>A modder has rebuilt core Starfield engine tech and added No Man’s Sky style planetary landing</title>
+      <pubDate>Sat, 10 Oct 2026 17:24:51 +0000</pubDate>
+      <link>https://www.resetera.com/threads/a-modder-has-rebuilt-core-starfield-engine-tech-and-added-no-man%E2%80%99s-sky-style-planetary-landing.1656862/</link>
+      <guid isPermaLink="false">1656862</guid>
+      <author>invalid@example.com (RedbullCola)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>RedbullCola</dc:creator>
+      <content:encoded><![CDATA[View: https://youtu.be/L-E7tspL6-c This kinda has to be seen to be believed. More details are in the video description. They've basically rebuilt tech in the engine to allow fully 3D planets with weather etc, then let you fly into atmosphere (and around on planet) without loading screens. Either manual flight or autopilot. File this one firmly under 'hire this person'.]]></content:encoded>
+      <slash:comments>83</slash:comments>
+    </item>
+    <item>
+      <title>New Squadron 42 trailer</title>
+      <pubDate>Sat, 10 Oct 2026 17:23:34 +0000</pubDate>
+      <link>https://www.resetera.com/threads/new-squadron-42-trailer.1657084/</link>
+      <guid isPermaLink="false">1657084</guid>
+      <author>invalid@example.com (DopeyFish)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>DopeyFish</dc:creator>
+      <content:encoded><![CDATA[View: https://www.youtube.com/watch?v=hjZF7ummzyA edit: nevermind lock/close or merge into thread i didn't see.]]></content:encoded>
+      <slash:comments>6</slash:comments>
+    </item>
+    <item>
+      <title>Attn fans of unique projectiles in games - please acknowledge the newest Deadlock hero</title>
+      <pubDate>Sat, 10 Oct 2026 17:20:38 +0000</pubDate>
+      <link>https://www.resetera.com/threads/attn-fans-of-unique-projectiles-in-games-please-acknowledge-the-newest-deadlock-hero.1656742/</link>
+      <guid isPermaLink="false">1656742</guid>
+      <author>invalid@example.com (signal)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>signal</dc:creator>
+      <content:encoded><![CDATA[Deadlock's latest hero Solomon just released and for people who like unique projectile types & accompanying animations in games, I think this is high tier. Video below with all his abilities but the first few seconds cover the basic attacks and 'reload'. The remaining chess pieces on the board being your ammo rules. View: https://www.youtube.com/watch?v=OIIoAjgb5-g]]></content:encoded>
+      <slash:comments>10</slash:comments>
+    </item>
+    <item>
+      <title>Left 4 Dead is such a classic. Do you still play it?</title>
+      <pubDate>Sat, 10 Oct 2026 17:17:54 +0000</pubDate>
+      <link>https://www.resetera.com/threads/left-4-dead-is-such-a-classic-do-you-still-play-it.1657051/</link>
+      <guid isPermaLink="false">1657051</guid>
+      <author>invalid@example.com (entremet)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>entremet</dc:creator>
+      <content:encoded><![CDATA[In a Halloween mood got me thinking about my favorite spooky games. This game isn't spooky but zombies are iconic. Man, I loved this game. I played it on the 360, which was tons of fun. I also have it on Steam, but I'm more of a console guy so I don't play much on PC. But that platform has the audience. For some reason L4D2 didn't hit as hard for me. Even today, going by Steam's stats more people still play the original game more. I know the team left Valve and formed another studio... Read more]]></content:encoded>
+      <slash:comments>55</slash:comments>
+    </item>
+    <item>
+      <title>For a game that feels as important as Symphony of the Night, it has had a surprisingly strange release pattern over its existence.</title>
+      <pubDate>Sat, 10 Oct 2026 17:05:59 +0000</pubDate>
+      <link>https://www.resetera.com/threads/for-a-game-that-feels-as-important-as-symphony-of-the-night-it-has-had-a-surprisingly-strange-release-pattern-over-its-existence.1656817/</link>
+      <guid isPermaLink="false">1656817</guid>
+      <author>invalid@example.com (NukeRunner)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>NukeRunner</dc:creator>
+      <content:encoded><![CDATA[Symphony of the Night is often considered one of the more important games within the medium by those who played it, it sent the series in a different direction, likely popularized the term Metroidvania, and is often considered among the best if not the best the genre has to offer. It often helps define the original Playstation catalog to those who partook, and even in the current year is still held in very high regard. It carries a legacy that feels persistent, yet if you were to track its... Read more]]></content:encoded>
+      <slash:comments>90</slash:comments>
+    </item>
+    <item>
+      <title>Which Zelda for someone, who never played zelda (switch 1)</title>
+      <pubDate>Sat, 10 Oct 2026 16:58:05 +0000</pubDate>
+      <link>https://www.resetera.com/threads/which-zelda-for-someone-who-never-played-zelda-switch-1.1657036/</link>
+      <guid isPermaLink="false">1657036</guid>
+      <author>invalid@example.com (kakteen)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>kakteen</dc:creator>
+      <content:encoded><![CDATA[I want to gift a friend a zelda game and I am torn between breath of the wild and tears of the kingdom. Breath of the wild is a perfect beginner Zelda, but after that it's difficult to go and play Totk. I also never really beat totk. So what would you guys recommend, play the first one (which I found kinda better) or should he go straight to the sequel? Maybe you've been in a similar situation.]]></content:encoded>
+      <slash:comments>53</slash:comments>
+    </item>
+    <item>
+      <title>How would a dog perform a hadouken?</title>
+      <pubDate>Sat, 10 Oct 2026 16:05:59 +0000</pubDate>
+      <link>https://www.resetera.com/threads/how-would-a-dog-perform-a-hadouken.1657054/</link>
+      <guid isPermaLink="false">1657054</guid>
+      <author>invalid@example.com (Spring-Loaded)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Spring-Loaded</dc:creator>
+      <content:encoded><![CDATA[This is not about a dog playing Street Fighter and inputting the commands to make their player character perform a hadouken, like so: View: https://youtu.be/dPuyagq27hs This is about a theoretical dog that exists within the universe of Street Fighter, one who has achieved focusing their willpower enough to produce a directed ki blast.]]></content:encoded>
+      <slash:comments>24</slash:comments>
+    </item>
+    <item>
+      <title>HUB: Latest Radeon driver introduces automatic background Shader Compilation for UE5 and UE4 games</title>
+      <pubDate>Sat, 10 Oct 2026 16:02:00 +0000</pubDate>
+      <link>https://www.resetera.com/threads/hub-latest-radeon-driver-introduces-automatic-background-shader-compilation-for-ue5-and-ue4-games.1657012/</link>
+      <guid isPermaLink="false">1657012</guid>
+      <author>invalid@example.com (DieH@rd)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>DieH@rd</dc:creator>
+      <content:encoded><![CDATA[During testing of SCSKiller app that allows users to manually precompile shaders for supported games [in some it works great, in some it does nothing], Hardware Unboxed stumbled on a fascinating find - a stutter-fest game Tiny Tina Wonderlands suddenly worked flawlessly upon first boot on Radeon 9070 XT. View: https://youtu.be/eD-P671830U 12:55 for the moment of discovery They then discovered a buried un-dated news on AMD site that announced arrival of the GPU driver... Read more]]></content:encoded>
+      <slash:comments>13</slash:comments>
+    </item>
+    <item>
+      <title>Is there any reason my five-year-old shouldn't play Minecraft? More thoughts inside</title>
+      <pubDate>Sat, 10 Oct 2026 16:00:33 +0000</pubDate>
+      <link>https://www.resetera.com/threads/is-there-any-reason-my-five-year-old-shouldnt-play-minecraft-more-thoughts-inside.1656745/</link>
+      <guid isPermaLink="false">1656745</guid>
+      <author>invalid@example.com (bloopland33)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>bloopland33</dc:creator>
+      <content:encoded><![CDATA[So for years and years I've always had this impression about Minecraft that it was something I didn't want to my kids to play. I didn't think it was Roblox or Roblox-level bad or anything. But I just kind of always felt this way. But my son was exposed to the concept of it through Smash, a library book or whatever, etc. and asked if he could play it. I said...let me think about it. My wife asked why I had this hard line against Minecraft and I opened my mouth.....and I realized I couldn't... Read more]]></content:encoded>
+      <slash:comments>46</slash:comments>
+    </item>
+    <item>
+      <title>The Legend of Zelda: The Wind Waker HD — native port. (macOS, Linux, Windows, Android)</title>
+      <pubDate>Sat, 10 Oct 2026 15:55:44 +0000</pubDate>
+      <link>https://www.resetera.com/threads/the-legend-of-zelda-the-wind-waker-hd-%E2%80%94-native-port-macos-linux-windows-android.1656940/</link>
+      <guid isPermaLink="false">1656940</guid>
+      <author>invalid@example.com (KTroopA)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>KTroopA</dc:creator>
+      <content:encoded><![CDATA[Having grown fed of waiting for Nintendo to release Wind Waker HD on Switch/Switch 2, I just gave this recomp a try and bloody hell it runs great on my aging PC! If you want to scratch that 60fps itch definetley give this a try. The Legend of Zelda: The Wind Waker HD — native port My PC specs. Windows 10 16GB RAM RTX 3060 Ti i7-4790K CPU @ 4.00GHz I am running it with the internal renderer at 1440P on my 1440P LCD and it looks sublime.. runs 55-60fps. Those on newer RTX cards... Read more]]></content:encoded>
+      <slash:comments>234</slash:comments>
+    </item>
+    <item>
+      <title>What are some of your favorite melee combat finishers/takedowns?</title>
+      <pubDate>Sat, 10 Oct 2026 15:47:40 +0000</pubDate>
+      <link>https://www.resetera.com/threads/what-are-some-of-your-favorite-melee-combat-finishers-takedowns.1656946/</link>
+      <guid isPermaLink="false">1656946</guid>
+      <author>invalid@example.com (PersianPrince)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>PersianPrince</dc:creator>
+      <content:encoded><![CDATA[One of my favorite things in modern action video games is over the top, bloody and graphic melee finishers. To me there is nothing more cathartic and satisfying than tearing up enemies, dismembering, decapitating baddies in video games. So whether you call them, finishers, takedowns, executions, deathblows, critical strikes etc. Share your favorites Pretty much the entirety of the God of War series- whether its the cyclops getting its eye ripped out of its socket or Hercules having his... Read more]]></content:encoded>
+      <slash:comments>12</slash:comments>
+    </item>
+    <item>
+      <title>Codemasters - 40 Years</title>
+      <pubDate>Sat, 10 Oct 2026 15:45:31 +0000</pubDate>
+      <link>https://www.resetera.com/threads/codemasters-40-years.1656970/</link>
+      <guid isPermaLink="false">1656970</guid>
+      <author>invalid@example.com (PJTierney)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>PJTierney</dc:creator>
+      <content:encoded><![CDATA[https://www.ea.com/ea-studios/codemasters https://en.wikipedia.org/wiki/Codemasters https://en.wikipedia.org/wiki/List_of_Codemasters_video_games Founded by brothers Richard and David Darling in October 1986, Codemasters is one of the oldest British game studios, and in 2005 was named the best... Click to expand... Click to shrink... Read more]]></content:encoded>
+      <slash:comments>52</slash:comments>
+    </item>
+    <item>
+      <title>MW4's DMZ Mode is adding some neat features that I'm surprised other Extraction Shooters haven't done yet.</title>
+      <pubDate>Sat, 10 Oct 2026 15:05:33 +0000</pubDate>
+      <link>https://www.resetera.com/threads/mw4s-dmz-mode-is-adding-some-neat-features-that-im-surprised-other-extraction-shooters-havent-done-yet.1656931/</link>
+      <guid isPermaLink="false">1656931</guid>
+      <author>invalid@example.com (Kalentan)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Kalentan</dc:creator>
+      <content:encoded><![CDATA[Sorry, there has just been so many DMZ info released recently, so I wanted to highlight some of the neat features as I can't lie, I'm getting really excited for the mode. First off is the Bounty System! When you kill a player, you gain a bounty. However, it's only when you kill four or more players in a single life (across matches), that you eventually gain the Wanted status. Now in theory if your never killing that many players, you can always "clear" your bounty by spending some of the... Read more]]></content:encoded>
+      <slash:comments>13</slash:comments>
+    </item>
+    <item>
+      <title>Do you prefer Spider-Man (2000) with PS1/N64 or Dreamcast/PC graphics?</title>
+      <pubDate>Sat, 10 Oct 2026 14:51:23 +0000</pubDate>
+      <link>https://www.resetera.com/threads/do-you-prefer-spider-man-2000-with-ps1-n64-or-dreamcast-pc-graphics.1656688/</link>
+      <guid isPermaLink="false">1656688</guid>
+      <author>invalid@example.com (DecoyoctopusV)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>DecoyoctopusV</dc:creator>
+      <content:encoded><![CDATA[Neversoft's Spider-Man is a classic and one of the best superhero games. In my opinion Rino Romano is still the best voice actor for him. "I'm already at full health". I played the PS1 version a lot as a kid and its a fun game to this day. I remember buying the sequel Enter Electro and being very confused during the Previously on Spider-Man cutscene: View: https://youtu.be/JOb492nO03k?si=cX4fOGpyndqsSZK9 The game didn't look like that. Later I found out that there was a version that looked... Read more]]></content:encoded>
+      <slash:comments>48</slash:comments>
+    </item>
+    <item>
+      <title>To couch gamers out there, have any of you had success in building something close to a steam machine using SteamOS without many hiccups?</title>
+      <pubDate>Sat, 10 Oct 2026 14:25:44 +0000</pubDate>
+      <link>https://www.resetera.com/threads/to-couch-gamers-out-there-have-any-of-you-had-success-in-building-something-close-to-a-steam-machine-using-steamos-without-many-hiccups.1656922/</link>
+      <guid isPermaLink="false">1656922</guid>
+      <author>invalid@example.com (NintendoSwitchLover)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>NintendoSwitchLover</dc:creator>
+      <content:encoded><![CDATA[I've ran into a position where I've got some DDR5 and an SSD, I've been considering selling what I have and some games to buy a steam machine but I'm also considering just building something. The form factor is ideal to me and the console experience is what I'm looking for. I know for similar money I can just build something with better specs but better specs aren't worth much if it just feels like a computer connected to a tv. Has anyone else out there been in a similar position?]]></content:encoded>
+      <slash:comments>20</slash:comments>
+    </item>
+    <item>
+      <title>Crimson Desert Exec Explains The Gulf Between The Mid Review Scores And The 6 Million Sales</title>
+      <pubDate>Sat, 10 Oct 2026 14:08:47 +0000</pubDate>
+      <link>https://www.resetera.com/threads/crimson-desert-exec-explains-the-gulf-between-the-mid-review-scores-and-the-6-million-sales.1656691/</link>
+      <guid isPermaLink="false">1656691</guid>
+      <author>invalid@example.com (masizzai)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>masizzai</dc:creator>
+      <content:encoded><![CDATA[https://kotaku.com/crimson-desert-e...iew-scores-and-the-7-million-sales-2000743258 Kotaku put out an article this week talking about the separation between the success of Crimson Desert and the reviews. I find it fascinating and wonder what the key driving force was behind this. Word of mouth? The constant updates? Social media clips? Youtubers? What other single player title can you think of thrived sales wise despite what some would call... Read more]]></content:encoded>
+      <slash:comments>107</slash:comments>
+    </item>
+    <item>
+      <title>[MP1st] Silent Hill Creator Keiichiro Toyama’s Bokeh Game Studios Next Project First Info Unearthed</title>
+      <pubDate>Sat, 10 Oct 2026 14:06:30 +0000</pubDate>
+      <link>https://www.resetera.com/threads/mp1st-silent-hill-creator-keiichiro-toyama%E2%80%99s-bokeh-game-studios-next-project-first-info-unearthed.1656685/</link>
+      <guid isPermaLink="false">1656685</guid>
+      <author>invalid@example.com (amra)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>amra</dc:creator>
+      <content:encoded><![CDATA[https://mp1st.com/news/silent-hill-creator-keiichiro-toyamas-next-project-another-horror-game Bokeh Is Developing a New Horror Game to No One's Surprise Bokeh Game Studio is currently hiring for motion capture work for a few characters that will appear in their still-untitled game, and based on the number of people they're looking for, this new project will feature a lot of characters. A few common items mentioned in the casting sheet for almost all... Click to expand... Click to shrink... Read more]]></content:encoded>
+      <slash:comments>35</slash:comments>
     </item>
     <item>
       <title>Final Fantasy VII: Remake</title>
@@ -163,17 +339,6 @@
       <slash:comments>34</slash:comments>
     </item>
     <item>
-      <title>MW4's DMZ Mode is adding some neat features that I'm surprised other Extraction Shooters haven't done yet.</title>
-      <pubDate>Sat, 10 Oct 2026 10:54:54 +0000</pubDate>
-      <link>https://www.resetera.com/threads/mw4s-dmz-mode-is-adding-some-neat-features-that-im-surprised-other-extraction-shooters-havent-done-yet.1656931/</link>
-      <guid isPermaLink="false">1656931</guid>
-      <author>invalid@example.com (Kalentan)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Kalentan</dc:creator>
-      <content:encoded><![CDATA[Sorry, there has just been so many DMZ info released recently, so I wanted to highlight some of the neat features as I can't lie, I'm getting really excited for the mode. First off is the Bounty System! When you kill a player, you gain a bounty. However, it's only when you kill four or more players in a single life (across matches), that you eventually gain the Wanted status. Now in theory if your never killing that many players, you can always "clear" your bounty by spending some of the... Read more]]></content:encoded>
-      <slash:comments>11</slash:comments>
-    </item>
-    <item>
       <title>Those who bought the most expensive edition of Hytale will gain 1 extra copy of the game to giveaway for each major early access update</title>
       <pubDate>Sat, 10 Oct 2026 10:27:39 +0000</pubDate>
       <link>https://www.resetera.com/threads/those-who-bought-the-most-expensive-edition-of-hytale-will-gain-1-extra-copy-of-the-game-to-giveaway-for-each-major-early-access-update.1656982/</link>
@@ -183,17 +348,6 @@
       <dc:creator>crimsonheadGCN</dc:creator>
       <content:encoded><![CDATA[According to a Twitter post by the founder of the Hytale Studios: https://www.reddit.com/r/hytale/comments/1x1yyd1/have_yall_seen_this/ For each chapter update (major content update) released during early access, the developers will give 1 extra copy to everyone who owns the most expensive edition of the game (Cursebreaker Edition) so that they can give it away to others.]]></content:encoded>
       <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Crimson Desert Exec Explains The Gulf Between The Mid Review Scores And The 6 Million Sales</title>
-      <pubDate>Sat, 10 Oct 2026 10:18:07 +0000</pubDate>
-      <link>https://www.resetera.com/threads/crimson-desert-exec-explains-the-gulf-between-the-mid-review-scores-and-the-6-million-sales.1656691/</link>
-      <guid isPermaLink="false">1656691</guid>
-      <author>invalid@example.com (masizzai)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>masizzai</dc:creator>
-      <content:encoded><![CDATA[https://kotaku.com/crimson-desert-e...iew-scores-and-the-7-million-sales-2000743258 Kotaku put out an article this week talking about the separation between the success of Crimson Desert and the reviews. I find it fascinating and wonder what the key driving force was behind this. Word of mouth? The constant updates? Social media clips? Youtubers? What other single player title can you think of thrived sales wise despite what some would call... Read more]]></content:encoded>
-      <slash:comments>104</slash:comments>
     </item>
     <item>
       <title>Silver Pines - Launch Trailer</title>
@@ -207,61 +361,6 @@
       <slash:comments>5</slash:comments>
     </item>
     <item>
-      <title>What are some of your favorite melee combat finishers/takedowns?</title>
-      <pubDate>Sat, 10 Oct 2026 09:44:19 +0000</pubDate>
-      <link>https://www.resetera.com/threads/what-are-some-of-your-favorite-melee-combat-finishers-takedowns.1656946/</link>
-      <guid isPermaLink="false">1656946</guid>
-      <author>invalid@example.com (PersianPrince)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>PersianPrince</dc:creator>
-      <content:encoded><![CDATA[One of my favorite things in modern action video games is over the top, bloody and graphic melee finishers. To me there is nothing more cathartic and satisfying than tearing up enemies, dismembering, decapitating baddies in video games. So whether you call them, finishers, takedowns, executions, deathblows, critical strikes etc. Share your favorites Pretty much the entirety of the God of War series- whether its the cyclops getting its eye ripped out of its socket or Hercules having his... Read more]]></content:encoded>
-      <slash:comments>8</slash:comments>
-    </item>
-    <item>
-      <title>23 years later, you can now unlock everything in F-Zero GX including previously inaccesible content without having to play the hard difficulties</title>
-      <pubDate>Sat, 10 Oct 2026 09:27:02 +0000</pubDate>
-      <link>https://www.resetera.com/threads/23-years-later-you-can-now-unlock-everything-in-f-zero-gx-including-previously-inaccesible-content-without-having-to-play-the-hard-difficulties.1656889/</link>
-      <guid isPermaLink="false">1656889</guid>
-      <author>invalid@example.com (Madao)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Madao</dc:creator>
-      <content:encoded><![CDATA[thanks to a recent discovery, there's now button codes that can be entered in the game's shop menu to unlock all the content that previously required you to beat the game in Master Grand Prix difficulty and Very hard Story mode. View: https://bsky.app/profile/nap1400.bsky.social/post/3mxh22fl4p22s you can now get all the AX racers, AX tracks and Dark Schneider with a code entered in the shop. you still need in-game tickets to buy them but you can now play in lower difficulties to get the... Read more]]></content:encoded>
-      <slash:comments>29</slash:comments>
-    </item>
-    <item>
-      <title>Is the Switch 2 love I'm seeing online and in person a product of Nintendo's own merit or the fact the rest of the console industry is poopy boots?</title>
-      <pubDate>Sat, 10 Oct 2026 08:57:43 +0000</pubDate>
-      <link>https://www.resetera.com/threads/is-the-switch-2-love-im-seeing-online-and-in-person-a-product-of-nintendos-own-merit-or-the-fact-the-rest-of-the-console-industry-is-poopy-boots.1656673/</link>
-      <guid isPermaLink="false">1656673</guid>
-      <author>invalid@example.com (Soapbox)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Soapbox</dc:creator>
-      <content:encoded><![CDATA[This isn't based entirely on what comes over my YouTube feed (I don't wear contact lenses but YoutTube SWEARS I DO ) but I'm getting a whole lot of "Switching to Switch as my main console videos" and at the office, I'm hearing a ton of folks talking about getting a Switch 2. Now I know my experience is not the gospel accordingly, but it feels like the Switch 2 is in good graces despite not having the biggus dickus of the upcoming season.]]></content:encoded>
-      <slash:comments>191</slash:comments>
-    </item>
-    <item>
-      <title>Don’t look it up - What age is Gordon Freeman?</title>
-      <pubDate>Sat, 10 Oct 2026 08:26:27 +0000</pubDate>
-      <link>https://www.resetera.com/threads/don%E2%80%99t-look-it-up-what-age-is-gordon-freeman.1656610/</link>
-      <guid isPermaLink="false">1656610</guid>
-      <author>invalid@example.com (SCUMMbag)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>SCUMMbag</dc:creator>
-      <content:encoded><![CDATA[Replaying Half-Life for the first time in ages and completely forgot.]]></content:encoded>
-      <slash:comments>121</slash:comments>
-    </item>
-    <item>
-      <title>Sonic Racing Crossworlds packs 3 (Hello Kitty) &amp; 4 (Segaland) revealed for Season Pass 2</title>
-      <pubDate>Sat, 10 Oct 2026 08:22:52 +0000</pubDate>
-      <link>https://www.resetera.com/threads/sonic-racing-crossworlds-packs-3-hello-kitty-4-segaland-revealed-for-season-pass-2.1656676/</link>
-      <guid isPermaLink="false">1656676</guid>
-      <author>invalid@example.com (Zonic)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Zonic</dc:creator>
-      <content:encoded><![CDATA[View: https://youtu.be/O0TSwHOJ7Xw?is=nZr_qSlBpsiNGrun Revealed via Twitch Stream, these will be part of the 2nd season pass (all include a new track) for $30, releasing Nov. 3rd: Pack 1: Godzilla (+ 3 vehicles) Pack 2: Evangelion (+ Rei & Asuka playable + 3 vehicles) Pack 3: Hello Kitty (+ Kitty & Kuromi playable + 2 vehicles) Pack 4: Segaland (+ 3 vehicles inspired by Virtua Fighter, Outrun, & Afterburner) Pack 5: Final Fantasy 7 Pack 6: Persona 3/4/5 Bonus: vehicles inspired by the... Read more]]></content:encoded>
-      <slash:comments>94</slash:comments>
-    </item>
-    <item>
       <title>God of War III Remastered has been delisted from the PS Store</title>
       <pubDate>Sat, 10 Oct 2026 08:03:48 +0000</pubDate>
       <link>https://www.resetera.com/threads/god-of-war-iii-remastered-has-been-delisted-from-the-ps-store.1656865/</link>
@@ -273,17 +372,6 @@
       <slash:comments>40</slash:comments>
     </item>
     <item>
-      <title>[Automaton] Yoko Taro says he has achieved his game development dreams, and now works “to prevent dementia”</title>
-      <pubDate>Sat, 10 Oct 2026 05:59:42 +0000</pubDate>
-      <link>https://www.resetera.com/threads/automaton-yoko-taro-says-he-has-achieved-his-game-development-dreams-and-now-works-%E2%80%9Cto-prevent-dementia%E2%80%9D.1656643/</link>
-      <guid isPermaLink="false">1656643</guid>
-      <author>invalid@example.com (Son of Sparda)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Son of Sparda</dc:creator>
-      <content:encoded><![CDATA[Didn't see a thread for this. Yoko Taro, on the other hand, said there isn't anything he's particularly set on making going forward. With the original Drakengard being a title where he was able to do pretty much everything he wanted, Yoko considers himself to have already achieved his dreams in terms of game development. Everything after that, he sees just as his "remaining days." From the financial side of things, Yoko is starting to feel like he will soon be able to sustain... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>74</slash:comments>
-    </item>
-    <item>
       <title>It seems like YouTube really doesn't like that new Hellraiser game (YouTube considers it porn)</title>
       <pubDate>Sat, 10 Oct 2026 05:57:17 +0000</pubDate>
       <link>https://www.resetera.com/threads/it-seems-like-youtube-really-doesnt-like-that-new-hellraiser-game-youtube-considers-it-porn.1656916/</link>
@@ -293,17 +381,6 @@
       <dc:creator>nsilvias</dc:creator>
       <content:encoded><![CDATA[View: https://bsky.app/profile/mattmcmuscles.bsky.social/post/3mxievpv5xc2p]]></content:encoded>
       <slash:comments>31</slash:comments>
-    </item>
-    <item>
-      <title>The Legend Of Zelda movie character descriptions from what I was lucky enough to see (no images)</title>
-      <pubDate>Sat, 10 Oct 2026 03:33:34 +0000</pubDate>
-      <link>https://www.resetera.com/threads/the-legend-of-zelda-movie-character-descriptions-from-what-i-was-lucky-enough-to-see-no-images.1656616/</link>
-      <guid isPermaLink="false">1656616</guid>
-      <author>invalid@example.com (3rdDimension)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>3rdDimension</dc:creator>
-      <content:encoded><![CDATA[Hey all, I'm not sharing this for internet/forum clout. Just a lifelong nerd of Zelda who luckily got a chance to see some movie stills and are extremely happy with the direction and wanted to share what I saw. You don't have to believe me. No harm. I briefly describe (I will not post images for obvious reasons) what I saw in the spoiler section so as to avoid anyone accidently seeing it. WARNING: There is a potential new twist regarding Ganon that has not been explored in any of... Read more]]></content:encoded>
-      <slash:comments>48</slash:comments>
     </item>
     <item>
       <title>Anyone have to game while recovering with their arm in a sling ?</title>
@@ -328,45 +405,12 @@
       <slash:comments>8</slash:comments>
     </item>
     <item>
-      <title>Is there any reason my five-year-old shouldn't play Minecraft? More thoughts inside</title>
-      <pubDate>Sat, 10 Oct 2026 02:20:07 +0000</pubDate>
-      <link>https://www.resetera.com/threads/is-there-any-reason-my-five-year-old-shouldnt-play-minecraft-more-thoughts-inside.1656745/</link>
-      <guid isPermaLink="false">1656745</guid>
-      <author>invalid@example.com (bloopland33)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>bloopland33</dc:creator>
-      <content:encoded><![CDATA[So for years and years I've always had this impression about Minecraft that it was something I didn't want to my kids to play. I didn't think it was Roblox or Roblox-level bad or anything. But I just kind of always felt this way. But my son was exposed to the concept of it through Smash, a library book or whatever, etc. and asked if he could play it. I said...let me think about it. My wife asked why I had this hard line against Minecraft and I opened my mouth.....and I realized I couldn't... Read more]]></content:encoded>
-      <slash:comments>41</slash:comments>
-    </item>
-    <item>
-      <title>Attn fans of unique projectiles in games - please acknowledge the newest Deadlock hero</title>
-      <pubDate>Sat, 10 Oct 2026 01:56:04 +0000</pubDate>
-      <link>https://www.resetera.com/threads/attn-fans-of-unique-projectiles-in-games-please-acknowledge-the-newest-deadlock-hero.1656742/</link>
-      <guid isPermaLink="false">1656742</guid>
-      <author>invalid@example.com (signal)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>signal</dc:creator>
-      <content:encoded><![CDATA[Deadlock's latest hero Solomon just released and for people who like unique projectile types & accompanying animations in games, I think this is high tier. Video below with all his abilities but the first few seconds cover the basic attacks and 'reload'. The remaining chess pieces on the board being your ammo rules. View: https://www.youtube.com/watch?v=OIIoAjgb5-g]]></content:encoded>
-      <slash:comments>9</slash:comments>
-    </item>
-    <item>
-      <title>Final Fantasy VII Remake and Persona 3/4/5 DLC announced for Sonic Racing CrossWorlds (Year 2)</title>
-      <pubDate>Sat, 10 Oct 2026 01:49:35 +0000</pubDate>
-      <link>https://www.resetera.com/threads/final-fantasy-vii-remake-and-persona-3-4-5-dlc-announced-for-sonic-racing-crossworlds-year-2.1656694/</link>
-      <guid isPermaLink="false">1656694</guid>
-      <author>invalid@example.com (ZeoVGM)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>ZeoVGM</dc:creator>
-      <content:encoded><![CDATA[View: https://bsky.app/profile/wario64.bsky.social/post/3mxht45oxv22g ... Read more]]></content:encoded>
-      <slash:comments>83</slash:comments>
-    </item>
-    <item>
       <title>SCRIB DOOOON!</title>
       <pubDate>Sat, 10 Oct 2026 00:25:11 +0000</pubDate>
       <link>https://www.resetera.com/threads/scrib-doooon.1656826/</link>
       <guid isPermaLink="false">1656826</guid>
       <author>invalid@example.com (Skel1ingt0n)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
       <dc:creator>Skel1ingt0n</dc:creator>
       <content:encoded><![CDATA[Write it down. View: https://www.tiktok.com/t/ZPLMbjou6/ View: https://www.tiktok.com/t/ZPLMbeyHc/ View: https://www.tiktok.com/t/ZPLMq39NS/ View: https://www.tiktok.com/t/ZPLMqKdoX/ Write it down. Truly the best Glup Shitto of the decade.]]></content:encoded>
       <slash:comments>9</slash:comments>
@@ -403,50 +447,6 @@
       <dc:creator>Multievolution</dc:creator>
       <content:encoded><![CDATA[It's like they went out of their way to punish someone for not looking up the solution :/ Context: There's a dungeon in this game that requires you to do a colour tile changing puzzle. Essentially you walk around the room changing the tiles whenever you walk on one, but you cannot walk on the same one twice or it fails the puzzle. There's 5 tiles that are blocked off in this particular puzzle, and no matter which way you attempt it, they'll always be at least one square you cannot turn... Read more]]></content:encoded>
       <slash:comments>5</slash:comments>
-    </item>
-    <item>
-      <title>Star Wars Zero Company has sold over a million units.</title>
-      <pubDate>Fri, 09 Oct 2026 21:11:52 +0000</pubDate>
-      <link>https://www.resetera.com/threads/star-wars-zero-company-has-sold-over-a-million-units.1656640/</link>
-      <guid isPermaLink="false">1656640</guid>
-      <author>invalid@example.com (Hellwarden)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Hellwarden</dc:creator>
-      <content:encoded><![CDATA[View: https://bsky.app/profile/brendanmcleod.dev/post/3mxhnwevqek2e This comes as the studio behind it has been able to hire back SOME , not all of the workers who made it. I hope it continues to do well, and all the people who worked on it are hired back.]]></content:encoded>
-      <slash:comments>18</slash:comments>
-    </item>
-    <item>
-      <title>Do you have your passport?</title>
-      <pubDate>Fri, 09 Oct 2026 20:18:16 +0000</pubDate>
-      <link>https://www.resetera.com/threads/do-you-have-your-passport.1656619/</link>
-      <guid isPermaLink="false">1656619</guid>
-      <author>invalid@example.com (Dest)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Dest</dc:creator>
-      <content:encoded><![CDATA[please.]]></content:encoded>
-      <slash:comments>15</slash:comments>
-    </item>
-    <item>
-      <title>Full Circle ( skate. devs) release statement on ReSkate ( private server mod that allows custom maps, offline play, etc)</title>
-      <pubDate>Fri, 09 Oct 2026 20:06:19 +0000</pubDate>
-      <link>https://www.resetera.com/threads/full-circle-skate-devs-release-statement-on-reskate-private-server-mod-that-allows-custom-maps-offline-play-etc.1656601/</link>
-      <guid isPermaLink="false">1656601</guid>
-      <author>invalid@example.com (Lilly-Anne)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Lilly-Anne</dc:creator>
-      <content:encoded><![CDATA[Pleasantly surprised and very very reasonable response. View: https://www.youtube.com/watch?v=y4Mvn5rO5YM]]></content:encoded>
-      <slash:comments>9</slash:comments>
-    </item>
-    <item>
-      <title>What other games have this angled/oblique look to them like Earthbound?</title>
-      <pubDate>Fri, 09 Oct 2026 19:34:13 +0000</pubDate>
-      <link>https://www.resetera.com/threads/what-other-games-have-this-angled-oblique-look-to-them-like-earthbound.1656586/</link>
-      <guid isPermaLink="false">1656586</guid>
-      <author>invalid@example.com (lupianwolf)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>lupianwolf</dc:creator>
-      <content:encoded><![CDATA[It's not simply a top-down isometric game. Really love the look of it, but don't know of much else other than Earthbound.]]></content:encoded>
-      <slash:comments>12</slash:comments>
     </item>
   </channel>
 </rss>
