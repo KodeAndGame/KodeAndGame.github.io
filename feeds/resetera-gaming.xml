@@ -3,87 +3,252 @@
   <channel>
     <title>Gaming Forum</title>
     <description>The latest video game news, discussions, announcements, industry gossip, sales figures, bargains and reviews. The pulse of the gaming industry.</description>
-    <pubDate>Fri, 16 Oct 2026 20:02:44 +0000</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2026 20:02:44 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 22:59:00 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 22:59:00 +0000</lastBuildDate>
     <generator>ResetEra</generator>
     <link>https://www.resetera.com/</link>
     <atom:link rel="self" type="application/rss+xml" href="https://www.resetera.com/forums/gaming-forum.7/index.rss"/>
     <item>
-      <title>Marvel's Wolverine star Debra Wilson: "I honestly love games where they don't look like me at all"</title>
-      <pubDate>Fri, 16 Oct 2026 20:01:18 +0000</pubDate>
-      <link>https://www.resetera.com/threads/marvels-wolverine-star-debra-wilson-i-honestly-love-games-where-they-dont-look-like-me-at-all.1662727/</link>
-      <guid isPermaLink="false">1662727</guid>
-      <author>invalid@example.com (Blue Sky)</author>
+      <title>Sony patents Machine Learning Frame Extrapolation technique (Frame Generation with minimal additional lag)</title>
+      <pubDate>Fri, 16 Oct 2026 22:58:45 +0000</pubDate>
+      <link>https://www.resetera.com/threads/sony-patents-machine-learning-frame-extrapolation-technique-frame-generation-with-minimal-additional-lag.1662724/</link>
+      <guid isPermaLink="false">1662724</guid>
+      <author>invalid@example.com (modiz)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Blue Sky</dc:creator>
-      <content:encoded><![CDATA[Destiny 2 and Star Wars Jedi star Debra Wilson says she prefers playing characters who aren't modeled after her, and questioned why Marvel's Wolverine developer, Insomniac , made Callisto use her likeness. Speaking on a June 2026 episode of Hyperfixated with Joseph Shepherd (which has since resurfaced on social media), Wilson was asked by the host why so many characters she plays feature her likeness. She explains, "The game designers do that. I don't do that," recalling that this was... Read more]]></content:encoded>
-      <slash:comments>142</slash:comments>
+      <dc:creator>modiz</dc:creator>
+      <content:encoded><![CDATA[https://ppubs.uspto.gov/api/pdf/downloadPdf/US-20260320740-A1?source=US-PGPUB&requestToken=eyJzdWIiOiI2OGUzODlmOS1hZTRkLTQyMjUtYjRjYS1iYWJlMzRmN2U1MjciLCJ2ZXIiOiI5NzA5ZGNiYi1mODQzLTQzMTUtYWRiNy1iNGJjNWYxOGY1ZGIiLCJleHAiOjB9 In essence the patent describes an Auto Encoder model that takes previous frames, motion vectors as well as user input as input for the model, and attempt to generate the next... Read more]]></content:encoded>
+      <slash:comments>68</slash:comments>
     </item>
     <item>
-      <title>FFXV turns 10 next month, and I'm still not over how badly it fumbled the bag</title>
-      <pubDate>Fri, 16 Oct 2026 20:01:15 +0000</pubDate>
-      <link>https://www.resetera.com/threads/ffxv-turns-10-next-month-and-im-still-not-over-how-badly-it-fumbled-the-bag.1662763/</link>
-      <guid isPermaLink="false">1662763</guid>
-      <author>invalid@example.com (Jaredus)</author>
+      <title>[Kotaku] Battlefield 6 Gets Slammed For More Slop Slipping Through: ‘Charging Players $$$ For AI-Generated Content Is Peak Disrespect’</title>
+      <pubDate>Fri, 16 Oct 2026 22:58:44 +0000</pubDate>
+      <link>https://www.resetera.com/threads/kotaku-battlefield-6-gets-slammed-for-more-slop-slipping-through-%E2%80%98charging-players-for-ai-generated-content-is-peak-disrespect%E2%80%99.1662931/</link>
+      <guid isPermaLink="false">1662931</guid>
+      <author>invalid@example.com (SpartaNNNN)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Jaredus</dc:creator>
-      <content:encoded><![CDATA[I can't believe it's been 10 years. And honestly, I still don't think I've ever experienced a bigger gap between how hyped I was for a game and how disappointed I ended up being. View: https://www.youtube.com/watch?v=IcUSXub_ypU That E3 2013 trailer is, without exaggeration, the most beautiful thing I've ever seen in the history of gaming. The atmosphere, the music, the art direction, the sheer scale of everything happening on screen. Noctis teleporting around a collapsing city, the fight... Read more]]></content:encoded>
-      <slash:comments>98</slash:comments>
-    </item>
-    <item>
-      <title>Analogue announces Mega SG+ and Super NT+ (preorder starts October 19 2026)</title>
-      <pubDate>Fri, 16 Oct 2026 20:01:12 +0000</pubDate>
-      <link>https://www.resetera.com/threads/analogue-announces-mega-sg-and-super-nt-preorder-starts-october-19-2026.1662556/</link>
-      <guid isPermaLink="false">1662556</guid>
-      <author>invalid@example.com (SeZMehK)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>SeZMehK</dc:creator>
-      <content:encoded><![CDATA[Analogue announces Mega SG+ and Super NT+ Analogue We make products to celebrate and explore the history of video games with the respect it deserves. www.analogue.co Preorder Begins October 19 for both Both US $219.99 Super Nt+ Classic – Analogue The definitive way to play original Super Nintendo & Super Famicom. A continuation of the original Super Nt - now with Bluetooth and 2.4g, evolved industrial design, OS, packaging, and more. Reimagining continued. At its core: an FPGA designed in house from scratch and backed by more than a... store.analogue.co Mega Sg+ USA – Analogue The definitive…]]></content:encoded>
-      <slash:comments>112</slash:comments>
-    </item>
-    <item>
-      <title>Zelda: Ocarina of Time Remake is timely launching on November 5th - Will you be there day one?</title>
-      <pubDate>Fri, 16 Oct 2026 19:59:41 +0000</pubDate>
-      <link>https://www.resetera.com/threads/zelda-ocarina-of-time-remake-is-timely-launching-on-november-5th-will-you-be-there-day-one.1662694/</link>
-      <guid isPermaLink="false">1662694</guid>
-      <author>invalid@example.com (SilverX)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>SilverX</dc:creator>
-      <content:encoded><![CDATA[View: https://m.youtube.com/watch?v=LpBvQT6RYLI SNL is pitting OoTR against GTA6, why not us? Lol This is a direct companion thread to my GTA6 one since it seems people were shocked by the results (ongoing) and suggested that there is an "Era bubble" where something like GTA6 (to be the biggest media lainch yet) might lack the appeal of something like a Zelda remake. This thread should see if thats true as it is the other big November release, and the only one going against GTA6. Let the... Read more]]></content:encoded>
-      <slash:comments>179</slash:comments>
+      <dc:creator>SpartaNNNN</dc:creator>
+      <content:encoded><![CDATA[Battlefield 6 Season 5, " Siege of Vegas ," was released earlier this week and the reaction so far has been mixed. There is set of season pass cosmetics that have players' genAI alarm bells ringing. Those cosmetics include a guy with a bunch of extra magazines buckled to his vest, one with five pistols holstered, and someone with a security patch on their arm that reads " Secuty ." with five identical pistols on him. ... Read more]]></content:encoded>
+      <slash:comments>52</slash:comments>
     </item>
     <item>
       <title>PS5 hack delivers native PS2 disc support and 4K upscaling where Sony refused to — homebrew dev confirms PS3 disc support is next</title>
-      <pubDate>Fri, 16 Oct 2026 19:59:24 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 22:58:26 +0000</pubDate>
       <link>https://www.resetera.com/threads/ps5-hack-delivers-native-ps2-disc-support-and-4k-upscaling-where-sony-refused-to-%E2%80%94-homebrew-dev-confirms-ps3-disc-support-is-next.1662397/</link>
       <guid isPermaLink="false">1662397</guid>
       <author>invalid@example.com (Jaredus)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
       <dc:creator>Jaredus</dc:creator>
       <content:encoded><![CDATA[https://www.tomshardware.com/video-games/playstation/ps5-hack-delivers-native-ps2-disc-support-and-4k-upscaling-where-sony-refused-to-after-ps2-breakthrough-homebrew-dev-confirms-ps3-disc-support-is-next-for-ps5 Don't throw away your PlayStation 2 games just yet. Modder Sword has released PS5SX2 for jailbroken PlayStation 5 consoles. This new software brings PlayStation 2 games to Sony 's latest console and supports physical discs, letting you relive your favorite... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>141</slash:comments>
+      <slash:comments>158</slash:comments>
+    </item>
+    <item>
+      <title>Are you more of a Call of duty or Battlefield person?</title>
+      <pubDate>Fri, 16 Oct 2026 22:57:36 +0000</pubDate>
+      <link>https://www.resetera.com/threads/are-you-more-of-a-call-of-duty-or-battlefield-person.1662421/</link>
+      <guid isPermaLink="false">1662421</guid>
+      <author>invalid@example.com (Alyx_)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Alyx_</dc:creator>
+      <content:encoded><![CDATA[Are you more of a Call of duty or Battlefield person? Vote and comment down below why! I use to think i enjoyed Battlefield more but after the last battlefield i fell off of it fairly quickly after about 10 hours . I think i prefer Call of duty for various things like the Campaign, Zombies and regular multiplayer . Both games i don't play for more then a month but i usually put in significantly more hours into COD especially lately.]]></content:encoded>
+      <slash:comments>110</slash:comments>
+    </item>
+    <item>
+      <title>Games you think are cool, but you don't play (and why?)</title>
+      <pubDate>Fri, 16 Oct 2026 22:57:26 +0000</pubDate>
+      <link>https://www.resetera.com/threads/games-you-think-are-cool-but-you-dont-play-and-why.1662961/</link>
+      <guid isPermaLink="false">1662961</guid>
+      <author>invalid@example.com (Addleburg)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Addleburg</dc:creator>
+      <content:encoded><![CDATA[I've been seeing some of the update videos of the upcoming season of The Finals . I remember being so hyped for the game with its original trailers, and seeing what they're doing with the new seasons looks legitimately awesome. I love how dynamic and kinetic everything looks, and the game seems to lean into a game show tone that I think is fun to see. But I don't play it because every time I've tried it in the past, I've always been overwhelmed with the gameplay options, mechanics... Read more]]></content:encoded>
+      <slash:comments>44</slash:comments>
     </item>
     <item>
       <title>Developer cancels public demo from fear of their game getting cloned by AI</title>
-      <pubDate>Fri, 16 Oct 2026 19:58:44 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 22:56:53 +0000</pubDate>
       <link>https://www.resetera.com/threads/developer-cancels-public-demo-from-fear-of-their-game-getting-cloned-by-ai.1662379/</link>
       <guid isPermaLink="false">1662379</guid>
       <author>invalid@example.com (KoolAid)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
       <dc:creator>KoolAid</dc:creator>
       <content:encoded><![CDATA[Change to the Demo Release Plan for Drunken Goddess Reflux We've canceled the public demo planned for Monday, October 19. Instead, we'll hold closed online play sessions for a limited number of participants. We sincerely apologize for the short notice to everyone who was looking forward to it. Why we made this change: • We had planned to release the demo publicly with some restrictions on posting and streaming gameplay videos. However, we concluded that we can't properly manage those... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>78</slash:comments>
+      <slash:comments>85</slash:comments>
+    </item>
+    <item>
+      <title>Shrek 2 Remastered leaked again, now on Xbox.com</title>
+      <pubDate>Fri, 16 Oct 2026 22:56:24 +0000</pubDate>
+      <link>https://www.resetera.com/threads/shrek-2-remastered-leaked-again-now-on-xbox-com.1662637/</link>
+      <guid isPermaLink="false">1662637</guid>
+      <author>invalid@example.com (Zonic)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Zonic</dc:creator>
+      <content:encoded><![CDATA[Buy Shrek 2 Remastered | XBOX DreamWorks Shrek 2 Remastered: The cult-classic, button-mashing co-op adventure is back with all your favorite characters and improved graphics. www.xbox.com Was previously leaked via steam achievements on Exophase.]]></content:encoded>
+      <slash:comments>55</slash:comments>
+    </item>
+    <item>
+      <title>FFXV turns 10 next month, and I'm still not over how badly it fumbled the bag</title>
+      <pubDate>Fri, 16 Oct 2026 22:56:18 +0000</pubDate>
+      <link>https://www.resetera.com/threads/ffxv-turns-10-next-month-and-im-still-not-over-how-badly-it-fumbled-the-bag.1662763/</link>
+      <guid isPermaLink="false">1662763</guid>
+      <author>invalid@example.com (Jaredus)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Jaredus</dc:creator>
+      <content:encoded><![CDATA[I can't believe it's been 10 years. And honestly, I still don't think I've ever experienced a bigger gap between how hyped I was for a game and how disappointed I ended up being. View: https://www.youtube.com/watch?v=IcUSXub_ypU That E3 2013 trailer is, without exaggeration, the most beautiful thing I've ever seen in the history of gaming. The atmosphere, the music, the art direction, the sheer scale of everything happening on screen. Noctis teleporting around a collapsing city, the fight... Read more]]></content:encoded>
+      <slash:comments>148</slash:comments>
+    </item>
+    <item>
+      <title>What are you playing this weekend? [10/16 - 10/18/26]</title>
+      <pubDate>Fri, 16 Oct 2026 22:54:59 +0000</pubDate>
+      <link>https://www.resetera.com/threads/what-are-you-playing-this-weekend-10-16-10-18-26.1662553/</link>
+      <guid isPermaLink="false">1662553</guid>
+      <author>invalid@example.com (Strike)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Strike</dc:creator>
+      <content:encoded><![CDATA[Marvel's Wolverine (PS5) - Going to try to start this now. How about you?]]></content:encoded>
+      <slash:comments>82</slash:comments>
+    </item>
+    <item>
+      <title>Samson developer Liquid Swords goes bankrupt</title>
+      <pubDate>Fri, 16 Oct 2026 22:53:11 +0000</pubDate>
+      <link>https://www.resetera.com/threads/samson-developer-liquid-swords-goes-bankrupt.1663030/</link>
+      <guid isPermaLink="false">1663030</guid>
+      <author>invalid@example.com (VilleEricson)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>VilleEricson</dc:creator>
+      <content:encoded><![CDATA[Article is behind a paywall and in swedish. Saw this on Reddit and didn't see a thread. "The troubled game developer Liquid Swords has not paid salaries for several months. Now bankruptcy is definitely a fact, which means the state will step in and compensate the almost 30 employees. At the same time, the bankruptcy trustee is hopeful of finding a buyer." Hate to see this, even more so when it's in my own country. Hope everyone lands on their feet.]]></content:encoded>
+      <slash:comments>4</slash:comments>
+    </item>
+    <item>
+      <title>Marvel's Wolverine star Debra Wilson: "I honestly love games where they don't look like me at all"</title>
+      <pubDate>Fri, 16 Oct 2026 22:49:05 +0000</pubDate>
+      <link>https://www.resetera.com/threads/marvels-wolverine-star-debra-wilson-i-honestly-love-games-where-they-dont-look-like-me-at-all.1662727/</link>
+      <guid isPermaLink="false">1662727</guid>
+      <author>invalid@example.com (Blue Sky)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Blue Sky</dc:creator>
+      <content:encoded><![CDATA[Destiny 2 and Star Wars Jedi star Debra Wilson says she prefers playing characters who aren't modeled after her, and questioned why Marvel's Wolverine developer, Insomniac , made Callisto use her likeness. Speaking on a June 2026 episode of Hyperfixated with Joseph Shepherd (which has since resurfaced on social media), Wilson was asked by the host why so many characters she plays feature her likeness. She explains, "The game designers do that. I don't do that," recalling that this was... Read more]]></content:encoded>
+      <slash:comments>167</slash:comments>
+    </item>
+    <item>
+      <title>World of Warcraft Forever showed me that people are tired of multiplayer games focused on seasons/lobbying.</title>
+      <pubDate>Fri, 16 Oct 2026 22:45:15 +0000</pubDate>
+      <link>https://www.resetera.com/threads/world-of-warcraft-forever-showed-me-that-people-are-tired-of-multiplayer-games-focused-on-seasons-lobbying.1662958/</link>
+      <guid isPermaLink="false">1662958</guid>
+      <author>invalid@example.com (Iluminado_Horn)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Iluminado_Horn</dc:creator>
+      <content:encoded><![CDATA[I don't know about you, but I'm completely exhausted from seasonal/lobby games, or in short, vertical progression games. I feel like these games are more concerned with keeping the player hooked with little things to do weekly or daily than trying to immerse me in that world, and I think that's a big mistake in the long run because people want to feel immersed, not tired and forced to do content with a schedule in their head. WoW Forever is causing such a stir because, above all, it's making... Read more]]></content:encoded>
+      <slash:comments>47</slash:comments>
+    </item>
+    <item>
+      <title>Zelda: Ocarina of Time Remake is timely launching on November 5th - Will you be there day one?</title>
+      <pubDate>Fri, 16 Oct 2026 22:34:55 +0000</pubDate>
+      <link>https://www.resetera.com/threads/zelda-ocarina-of-time-remake-is-timely-launching-on-november-5th-will-you-be-there-day-one.1662694/</link>
+      <guid isPermaLink="false">1662694</guid>
+      <author>invalid@example.com (SilverX)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>SilverX</dc:creator>
+      <content:encoded><![CDATA[View: https://m.youtube.com/watch?v=LpBvQT6RYLI SNL is pitting OoTR against GTA6, why not us? Lol This is a direct companion thread to my GTA6 one since it seems people were shocked by the results (ongoing) and suggested that there is an "Era bubble" where something like GTA6 (to be the biggest media lainch yet) might lack the appeal of something like a Zelda remake. This thread should see if thats true as it is the other big November release, and the only one going against GTA6. Let the... Read more]]></content:encoded>
+      <slash:comments>217</slash:comments>
+    </item>
+    <item>
+      <title>LTTP: Psychonauts 2 - a perfect time to (re)visit Double Fines Masterpiece!</title>
+      <pubDate>Fri, 16 Oct 2026 22:30:19 +0000</pubDate>
+      <link>https://www.resetera.com/threads/lttp-psychonauts-2-a-perfect-time-to-re-visit-double-fines-masterpiece.1663027/</link>
+      <guid isPermaLink="false">1663027</guid>
+      <author>invalid@example.com (xyla)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>xyla</dc:creator>
+      <content:encoded><![CDATA[When the game came out, I bounced off it really quickly for some reason - I think it was the idea of it being hub based while I was looking for something a bit more linear at the time. I also never really got into the first one, despite all the praise. Well, with everything Double Fine going on right now, it felt like just the right time to get back to it! I'm glad to report that this game is excellent (as most of you are well aware of) The writing is excellent, the plot is fantastic... Read more]]></content:encoded>
+      <slash:comments>2</slash:comments>
+    </item>
+    <item>
+      <title>Castlevania: Belmont's Curse launches to 18,261 CCU on Steam</title>
+      <pubDate>Fri, 16 Oct 2026 22:14:25 +0000</pubDate>
+      <link>https://www.resetera.com/threads/castlevania-belmonts-curse-launches-to-18-261-ccu-on-steam.1662439/</link>
+      <guid isPermaLink="false">1662439</guid>
+      <author>invalid@example.com (Lucia)</author>
+      <category domain="https://www.resetera.com/forums/sales-ccu.55/"><![CDATA[Sales/CCU]]></category>
+      <dc:creator>Lucia</dc:creator>
+      <content:encoded><![CDATA[The game officially launched on October 15, 2026 at 12:00 AM EDT / 5:00 AM BST on Steam. The game is not available on any subscription service at launch. https://steamdb.info/app/4231820/charts/ STEAM 26 hour- peak CCU : October 15 (launch): 18,261 Game OT: Castlevania: Belmont's Curse |OT| Vanquish the Horrible Night OT (Special Thanks to DinkyDev for the banner and overall help with this thread) Developer: Evil Empire and Motion Twin Publisher: Konami Platforms: Nintendo Switch, PC, Playstation 5, Xbox Series X Release Date: October 15th, 2026 Genre: Metroidvania Number of Players: 1 Price:…]]></content:encoded>
+      <slash:comments>64</slash:comments>
+    </item>
+    <item>
+      <title>In JRPGs, what section of the game do you usually like the most?</title>
+      <pubDate>Fri, 16 Oct 2026 22:12:13 +0000</pubDate>
+      <link>https://www.resetera.com/threads/in-jrpgs-what-section-of-the-game-do-you-usually-like-the-most.1662418/</link>
+      <guid isPermaLink="false">1662418</guid>
+      <author>invalid@example.com (BahamutZero)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>BahamutZero</dc:creator>
+      <content:encoded><![CDATA[A lot of JRPGs have a bit of DNA being shared. Patterns and tropes. It's why we love em! (and why some people hate them) Which section of JRPGs do you like the most? The vibes - or whatever reason really. Here's 7 pretty typical beats.]]></content:encoded>
+      <slash:comments>37</slash:comments>
+    </item>
+    <item>
+      <title>Gaming Tips to Last Longer in Bed?</title>
+      <pubDate>Fri, 16 Oct 2026 22:08:51 +0000</pubDate>
+      <link>https://www.resetera.com/threads/gaming-tips-to-last-longer-in-bed.1662934/</link>
+      <guid isPermaLink="false">1662934</guid>
+      <author>invalid@example.com (SalvaPot)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>SalvaPot</dc:creator>
+      <content:encoded><![CDATA[Hey Era, I need some help. It's nothing serious but lately my wife has been hogging the Living Room watching Hot Chinese Cultivation Dramas, so I have had decided to enjoy game by myself on the bedroom during some of the weekends. We do take turns and I'm welcome to use the TV's, but turns out I actually like my bed more to game since I like the room to be darker and there is less noise there, and if we ever get tired of me time we can always just go with the other and hang. But the... Read more]]></content:encoded>
+      <slash:comments>33</slash:comments>
+    </item>
+    <item>
+      <title>[Digital Foundry]  Grand Theft Auto 6: Launch Trailer PS5 Tech/Breakdown</title>
+      <pubDate>Fri, 16 Oct 2026 21:45:43 +0000</pubDate>
+      <link>https://www.resetera.com/threads/digital-foundry-grand-theft-auto-6-launch-trailer-ps5-tech-breakdown.1662634/</link>
+      <guid isPermaLink="false">1662634</guid>
+      <author>invalid@example.com (TΛPIVVΛ)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>TΛPIVVΛ</dc:creator>
+      <content:encoded><![CDATA[View: https://youtu.be/am-DB9lgNZ0?si=l0fA8LwpBLZxZ5df Well, that came out of nowhere! With over a month to go until Grand Theft Auto 6 finally releases, Rockstar has blessed us with an actual launch trailer. The gameplay first focus of the Extended Look is out, the return to cinematic camera angles returns but there's still plenty to discuss from a technical point of view, including what seems to be the very first DF shower scene tech analysis... Click to expand... Click to shrink... My kingdom for them to divulge... Read more]]></content:encoded>
+      <slash:comments>62</slash:comments>
+    </item>
+    <item>
+      <title>Analogue announces Mega SG+ and Super NT+ (preorder starts October 19 2026)</title>
+      <pubDate>Fri, 16 Oct 2026 21:43:35 +0000</pubDate>
+      <link>https://www.resetera.com/threads/analogue-announces-mega-sg-and-super-nt-preorder-starts-october-19-2026.1662556/</link>
+      <guid isPermaLink="false">1662556</guid>
+      <author>invalid@example.com (SeZMehK)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>SeZMehK</dc:creator>
+      <content:encoded><![CDATA[Analogue announces Mega SG+ and Super NT+ Analogue We make products to celebrate and explore the history of video games with the respect it deserves. www.analogue.co Preorder Begins October 19 for both Both US $219.99 Super Nt+ Classic – Analogue The definitive way to play original Super Nintendo & Super Famicom. A continuation of the original Super Nt - now with Bluetooth and 2.4g, evolved industrial design, OS, packaging, and more. Reimagining continued. At its core: an FPGA designed in house from scratch and backed by more than a... store.analogue.co Mega Sg+ USA – Analogue The definitive…]]></content:encoded>
+      <slash:comments>124</slash:comments>
     </item>
     <item>
       <title>Games that are a franchise of 1. It was set up to have more games and was good enough to have more games but there were no more games.</title>
-      <pubDate>Fri, 16 Oct 2026 19:58:40 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 21:30:14 +0000</pubDate>
       <link>https://www.resetera.com/threads/games-that-are-a-franchise-of-1-it-was-set-up-to-have-more-games-and-was-good-enough-to-have-more-games-but-there-were-no-more-games.1662646/</link>
       <guid isPermaLink="false">1662646</guid>
       <author>invalid@example.com (Soapbox)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
       <dc:creator>Soapbox</dc:creator>
       <content:encoded><![CDATA[Q U A N T U M B R E A K I have the counter measure. What's next?]]></content:encoded>
-      <slash:comments>97</slash:comments>
+      <slash:comments>126</slash:comments>
+    </item>
+    <item>
+      <title>Tenebris Somnia |OT| What If They Aren't Just Nightmares?</title>
+      <pubDate>Fri, 16 Oct 2026 21:07:54 +0000</pubDate>
+      <link>https://www.resetera.com/threads/tenebris-somnia-ot-what-if-they-arent-just-nightmares.1662832/</link>
+      <guid isPermaLink="false">1662832</guid>
+      <author>invalid@example.com (Messofanego)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Messofanego</dc:creator>
+      <content:encoded><![CDATA[View: https://store.steampowered.com/app/2121510/Tenebris_Somnia/ ​ Platform(s): PC ( Steam , GOG ), Playstation , Switch , Xbox Subscription: None Demo: Yes (Steam Next Fest) Release Date: October 16th 2026 Genre: survival horror, FMV Price: $3.99, CLP$ 8399, COL$ 26799, Mex$ 159.99... Read more]]></content:encoded>
+      <slash:comments>10</slash:comments>
+    </item>
+    <item>
+      <title>Coral Island: Nintendo Switch 2 &amp; the “Kids Grow Up” Update Arrive Winter 2026</title>
+      <pubDate>Fri, 16 Oct 2026 20:13:15 +0000</pubDate>
+      <link>https://www.resetera.com/threads/coral-island-nintendo-switch-2-the-%E2%80%9Ckids-grow-up%E2%80%9D-update-arrive-winter-2026.1662925/</link>
+      <guid isPermaLink="false">1662925</guid>
+      <author>invalid@example.com (entrydenied)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>entrydenied</dc:creator>
+      <content:encoded><![CDATA[Announcement Trailer View: https://youtu.be/XhZe2H48YoI Coral Island: Nintendo Switch 2 & the “Kids Grow Up” Update Arrive This Winter! It’s happening, farmers! We’re excited to share some long-awaited news:Coral Island is coming to Nintendo Switch 2 this winter, alongside our 1.4 “Kids Grow Up” update!Watch the Announcement TrailerCoral Island on Nintendo Switch 2Leave the city life behind and build the farm of your dreams on... blog.stairwaygames.com Play solo or enjoy multiplayer with up to 4 players, with cross-play support allowing you to connect with friends across supported platforms.…]]></content:encoded>
+      <slash:comments>2</slash:comments>
     </item>
     <item>
       <title>Games you know they're incredibly flawed, take issue with a lot of its design, does things that bother you in other games... and yet, you still adore.</title>
@@ -95,61 +260,6 @@
       <dc:creator>Skel1ingt0n</dc:creator>
       <content:encoded><![CDATA[Did you know this was a Dragon's Dogma thread before you entered? Guys, this game is - as the kids say - kind of buns at an execution level. Like, 25 hours in, lemme just rattle off some mediocrity I've encountered: - The world is rather repetitive with a similar biome style, similar environment puzzles, and the same three enemies every 20 feet - The pawns are brain... Read more]]></content:encoded>
       <slash:comments>82</slash:comments>
-    </item>
-    <item>
-      <title>Sony patents Machine Learning Frame Extrapolation technique (Frame Generation with minimal additional lag)</title>
-      <pubDate>Fri, 16 Oct 2026 19:57:10 +0000</pubDate>
-      <link>https://www.resetera.com/threads/sony-patents-machine-learning-frame-extrapolation-technique-frame-generation-with-minimal-additional-lag.1662724/</link>
-      <guid isPermaLink="false">1662724</guid>
-      <author>invalid@example.com (modiz)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>modiz</dc:creator>
-      <content:encoded><![CDATA[https://ppubs.uspto.gov/api/pdf/downloadPdf/US-20260320740-A1?source=US-PGPUB&requestToken=eyJzdWIiOiI2OGUzODlmOS1hZTRkLTQyMjUtYjRjYS1iYWJlMzRmN2U1MjciLCJ2ZXIiOiI5NzA5ZGNiYi1mODQzLTQzMTUtYWRiNy1iNGJjNWYxOGY1ZGIiLCJleHAiOjB9 In essence the patent describes an Auto Encoder model that takes previous frames, motion vectors as well as user input as input for the model, and attempt to generate the next... Read more]]></content:encoded>
-      <slash:comments>47</slash:comments>
-    </item>
-    <item>
-      <title>Tenebris Somnia |OT| What If They Aren't Just Nightmares?</title>
-      <pubDate>Fri, 16 Oct 2026 19:57:00 +0000</pubDate>
-      <link>https://www.resetera.com/threads/tenebris-somnia-ot-what-if-they-arent-just-nightmares.1662832/</link>
-      <guid isPermaLink="false">1662832</guid>
-      <author>invalid@example.com (Messofanego)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Messofanego</dc:creator>
-      <content:encoded><![CDATA[View: https://store.steampowered.com/app/2121510/Tenebris_Somnia/ ​ Platform(s): PC ( Steam , GOG ), Playstation , Switch , Xbox Subscription: None Demo: No Release Date: October 16th 2026 Genre: survival horror, FMV Price: $3.99, CLP$ 8399, COL$ 26799, Mex$ 159.99, $19.99, 15,99€, £14.39... Read more]]></content:encoded>
-      <slash:comments>8</slash:comments>
-    </item>
-    <item>
-      <title>In JRPGs, what section of the game do you usually like the most?</title>
-      <pubDate>Fri, 16 Oct 2026 19:55:28 +0000</pubDate>
-      <link>https://www.resetera.com/threads/in-jrpgs-what-section-of-the-game-do-you-usually-like-the-most.1662418/</link>
-      <guid isPermaLink="false">1662418</guid>
-      <author>invalid@example.com (BahamutZero)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>BahamutZero</dc:creator>
-      <content:encoded><![CDATA[A lot of JRPGs have a bit of DNA being shared. Patterns and tropes. It's why we love em! (and why some people hate them) Which section of JRPGs do you like the most? The vibes - or whatever reason really. Here's 7 pretty typical beats.]]></content:encoded>
-      <slash:comments>30</slash:comments>
-    </item>
-    <item>
-      <title>[Digital Foundry]  Grand Theft Auto 6: Launch Trailer PS5 Tech/Breakdown</title>
-      <pubDate>Fri, 16 Oct 2026 19:54:18 +0000</pubDate>
-      <link>https://www.resetera.com/threads/digital-foundry-grand-theft-auto-6-launch-trailer-ps5-tech-breakdown.1662634/</link>
-      <guid isPermaLink="false">1662634</guid>
-      <author>invalid@example.com (TΛPIVVΛ)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>TΛPIVVΛ</dc:creator>
-      <content:encoded><![CDATA[View: https://youtu.be/am-DB9lgNZ0?si=l0fA8LwpBLZxZ5df Well, that came out of nowhere! With over a month to go until Grand Theft Auto 6 finally releases, Rockstar has blessed us with an actual launch trailer. The gameplay first focus of the Extended Look is out, the return to cinematic camera angles returns but there's still plenty to discuss from a technical point of view, including what seems to be the very first DF shower scene tech analysis... Click to expand... Click to shrink... My kingdom for them to divulge... Read more]]></content:encoded>
-      <slash:comments>48</slash:comments>
-    </item>
-    <item>
-      <title>Shrek 2 Remastered leaked again, now on Xbox.com</title>
-      <pubDate>Fri, 16 Oct 2026 19:51:12 +0000</pubDate>
-      <link>https://www.resetera.com/threads/shrek-2-remastered-leaked-again-now-on-xbox-com.1662637/</link>
-      <guid isPermaLink="false">1662637</guid>
-      <author>invalid@example.com (Zonic)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Zonic</dc:creator>
-      <content:encoded><![CDATA[Buy Shrek 2 Remastered | XBOX DreamWorks Shrek 2 Remastered: The cult-classic, button-mashing co-op adventure is back with all your favorite characters and improved graphics. www.xbox.com Was previously leaked via steam achievements on Exophase.]]></content:encoded>
-      <slash:comments>34</slash:comments>
     </item>
     <item>
       <title>Penguin Colony |OT| Nazis And Happy Feet At The Mountains Of Madness</title>
@@ -183,28 +293,6 @@
       <dc:creator>Musubi</dc:creator>
       <content:encoded><![CDATA[I feel like this just got popularized with BioShock. And at first it was kind of novel but I feel like it's a really over used mechanic now. And sometimes feels down right out of place. I'm playing Hellraiser Revival. And very early on you find a detective who very much got got by the cult that you're trying to escape from. And apparently instead of trying to escape to safety he pulled out a recorder and absolutely needed to make a random voice memo about the fact that he was dying... Read more]]></content:encoded>
       <slash:comments>161</slash:comments>
-    </item>
-    <item>
-      <title>What are you playing this weekend? [10/16 - 10/18/26]</title>
-      <pubDate>Fri, 16 Oct 2026 19:38:48 +0000</pubDate>
-      <link>https://www.resetera.com/threads/what-are-you-playing-this-weekend-10-16-10-18-26.1662553/</link>
-      <guid isPermaLink="false">1662553</guid>
-      <author>invalid@example.com (Strike)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Strike</dc:creator>
-      <content:encoded><![CDATA[Marvel's Wolverine (PS5) - Going to try to start this now. How about you?]]></content:encoded>
-      <slash:comments>70</slash:comments>
-    </item>
-    <item>
-      <title>Are you more of a Call of duty or Battlefield person?</title>
-      <pubDate>Fri, 16 Oct 2026 19:01:10 +0000</pubDate>
-      <link>https://www.resetera.com/threads/are-you-more-of-a-call-of-duty-or-battlefield-person.1662421/</link>
-      <guid isPermaLink="false">1662421</guid>
-      <author>invalid@example.com (Alyx_)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Alyx_</dc:creator>
-      <content:encoded><![CDATA[Are you more of a Call of duty or Battlefield person? Vote and comment down below why! I use to think i enjoyed Battlefield more but after the last battlefield i fell off of it fairly quickly after about 10 hours . I think i prefer Call of duty for various things like the Campaign, Zombies and regular multiplayer . Both games i don't play for more then a month but i usually put in significantly more hours into COD especially lately.]]></content:encoded>
-      <slash:comments>99</slash:comments>
     </item>
     <item>
       <title>[AUTOMATON] Konami president Hayakawa believes AI “won’t bring a significant change” to the game market. “Humans” and “creators” are crucial for dev.</title>
@@ -260,17 +348,6 @@
       <dc:creator>Joe2187</dc:creator>
       <content:encoded><![CDATA[https://x.com/souljaboy/status/2110918298736992276 View: https://youtu.be/dBXy9yLbtuo?t=149]]></content:encoded>
       <slash:comments>13</slash:comments>
-    </item>
-    <item>
-      <title>Let's assume multiple 3d era Zelda titles are remade with the same art direction as Ocarina of Time. How would you feel if Wind Waker also adopted it?</title>
-      <pubDate>Fri, 16 Oct 2026 17:18:42 +0000</pubDate>
-      <link>https://www.resetera.com/threads/lets-assume-multiple-3d-era-zelda-titles-are-remade-with-the-same-art-direction-as-ocarina-of-time-how-would-you-feel-if-wind-waker-also-adopted-it.1662178/</link>
-      <guid isPermaLink="false">1662178</guid>
-      <author>invalid@example.com (MasterYoshi)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>MasterYoshi</dc:creator>
-      <content:encoded><![CDATA[Credit to Matt Vince for this artwork. How would you feel if several potential Switch 2 Zelda remakes have a unified artistic direction? Ocarina of Time, Majora's Mask and Twilight Princess are all similar enough games with environments, characters and enemy designs that I could see them all being remade with a consistent art direction. I think most... Read more]]></content:encoded>
-      <slash:comments>134</slash:comments>
     </item>
     <item>
       <title>SPINE | Customization Announcement | PC, PS5, and XBOX Series in Summer 2027.</title>
@@ -339,28 +416,6 @@
       <slash:comments>22</slash:comments>
     </item>
     <item>
-      <title>Castlevania: Belmont's Curse launches to 18,261 CCU on Steam</title>
-      <pubDate>Fri, 16 Oct 2026 16:14:02 +0000</pubDate>
-      <link>https://www.resetera.com/threads/castlevania-belmonts-curse-launches-to-18-261-ccu-on-steam.1662439/</link>
-      <guid isPermaLink="false">1662439</guid>
-      <author>invalid@example.com (Lucia)</author>
-      <category domain="https://www.resetera.com/forums/sales-ccu.55/"><![CDATA[Sales/CCU]]></category>
-      <dc:creator>Lucia</dc:creator>
-      <content:encoded><![CDATA[The game officially launched on October 15, 2026 at 12:00 AM EDT / 5:00 AM BST on Steam. The game is not available on any subscription service at launch. https://steamdb.info/app/4231820/charts/ STEAM 26 hour- peak CCU : October 15 (launch): 18,261 Game OT: Castlevania: Belmont's Curse |OT| Vanquish the Horrible Night OT (Special Thanks to DinkyDev for the banner and overall help with this thread) Developer: Evil Empire and Motion Twin Publisher: Konami Platforms: Nintendo Switch, PC, Playstation 5, Xbox Series X Release Date: October 15th, 2026 Genre: Metroidvania Number of Players: 1 Price:…]]></content:encoded>
-      <slash:comments>63</slash:comments>
-    </item>
-    <item>
-      <title>The Legend of Zelda: Ocarina of Time Gameplay Trailer : Battle Edition</title>
-      <pubDate>Fri, 16 Oct 2026 15:25:28 +0000</pubDate>
-      <link>https://www.resetera.com/threads/the-legend-of-zelda-ocarina-of-time-gameplay-trailer-battle-edition.1662193/</link>
-      <guid isPermaLink="false">1662193</guid>
-      <author>invalid@example.com (Joseph Joestar)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Joseph Joestar</dc:creator>
-      <content:encoded><![CDATA[2 new trailers just dropped on the Japanese Nintendo Youtube: View: https://www.youtube.com/watch?v=L6dCyILhum4 View: https://www.youtube.com/watch?v=F13tNt58Njg]]></content:encoded>
-      <slash:comments>193</slash:comments>
-    </item>
-    <item>
       <title>Where the Seeds Fall (Cygames Edge) Steam Demo available and new Cinematic Trailer</title>
       <pubDate>Fri, 16 Oct 2026 14:04:39 +0000</pubDate>
       <link>https://www.resetera.com/threads/where-the-seeds-fall-cygames-edge-steam-demo-available-and-new-cinematic-trailer.1662442/</link>
@@ -370,17 +425,6 @@
       <dc:creator>WildArms</dc:creator>
       <content:encoded><![CDATA[View: https://youtu.be/XECHeGMp1fo?si=AA4KDgC1qQ-mx4l_ View: https://store.steampowered.com/app/4139580/Where_the_Seeds_Fall/]]></content:encoded>
       <slash:comments>5</slash:comments>
-    </item>
-    <item>
-      <title>Should Xbox Start Advertising That You Can Play GTA6 18 hours earlier compared to PS5</title>
-      <pubDate>Fri, 16 Oct 2026 13:36:20 +0000</pubDate>
-      <link>https://www.resetera.com/threads/should-xbox-start-advertising-that-you-can-play-gta6-18-hours-earlier-compared-to-ps5.1662190/</link>
-      <guid isPermaLink="false">1662190</guid>
-      <author>invalid@example.com (Mcfrank)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Mcfrank</dc:creator>
-      <content:encoded><![CDATA[Obviously this is a North American centric thread. With Xbox supporting changing your region to New Zealand to play when a game unlocks in other regions, but PS5 not supporting this feature I feel like there is an opportunity for Xbox to lean into this. They are such a major underdog and should take any win they can get their hands on. Do you agree with me? Should they start advertising this work around?]]></content:encoded>
-      <slash:comments>158</slash:comments>
     </item>
     <item>
       <title>Anyone else have incredibly fond memories of Wii Sports when the Wii first launched?</title>
@@ -403,50 +447,6 @@
       <dc:creator>Red Kong XIX</dc:creator>
       <content:encoded><![CDATA[Report: Cancelled "Assassin’s Creed Destiny" Unveiled in First Screenshots & Gameplay Footage We have unearthed gameplay footage and details for Assassin's Creed Destiny, a title set in 206 BCE China by TiMi Studio Group and Ubisoft. mp1st.com The Assassin's Creed series is still on course to return to China for the first time since its modest 2.5D spin-off in 2015, now with the mobile-exclusive title Assassin's Creed Jade. First announced in 2022 as a collaboration between Ubisoft and Level Infinite (Tencent's publishing arm), Jade takes players into the Qin Dynasty period. After a run of…]]></content:encoded>
       <slash:comments>31</slash:comments>
-    </item>
-    <item>
-      <title>I've been playing the four western exclusive Shaman King games commissioned by 4kids ft. CLIVE PORTMAN</title>
-      <pubDate>Fri, 16 Oct 2026 07:14:46 +0000</pubDate>
-      <link>https://www.resetera.com/threads/ive-been-playing-the-four-western-exclusive-shaman-king-games-commissioned-by-4kids-ft-clive-portman.1662232/</link>
-      <guid isPermaLink="false">1662232</guid>
-      <author>invalid@example.com (Birdie)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Birdie</dc:creator>
-      <content:encoded><![CDATA[Basically, to tie into the 4kids dub of Shaman King, there were four (five technically) Shaman King games commissioned and produced by Konami exclusively for the west in 2004 and 2005. These games never came out in Japan, and some only in the US and not even Europe. As a kid I played three of them, but I've been revisiting them and they're pretty interesting to me. Shaman King Master of Spirits Released for the GBA, though it came out around the time of the Nintendo DS that that's... Read more]]></content:encoded>
-      <slash:comments>1</slash:comments>
-    </item>
-    <item>
-      <title>Squad is Coming to Console | Announcement Trailer</title>
-      <pubDate>Fri, 16 Oct 2026 05:50:30 +0000</pubDate>
-      <link>https://www.resetera.com/threads/squad-is-coming-to-console-announcement-trailer.1662238/</link>
-      <guid isPermaLink="false">1662238</guid>
-      <author>invalid@example.com (IbizaPocholo)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>IbizaPocholo</dc:creator>
-      <content:encoded><![CDATA[You asked for it, and the wait is almost over. Squad is coming to PlayStation 5 and Xbox Series X|S in 2027! THE CONSOLE EDITION Get ready to jump into Squad's large-scale, 50v50 battles on console. With full crossplay, you can team up with players on other platforms, or turn it off if you'd rather stick to console-only matches. The console edition will feature hand-picked maps, popular factions, radial command menus, and smart pings to help... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>1</slash:comments>
-    </item>
-    <item>
-      <title>[IGN] Rep. Ritchie Torres Introduces Legislation to Ensure Gamers Own Their Digital Games</title>
-      <pubDate>Fri, 16 Oct 2026 05:31:03 +0000</pubDate>
-      <link>https://www.resetera.com/threads/ign-rep-ritchie-torres-introduces-legislation-to-ensure-gamers-own-their-digital-games.1662199/</link>
-      <guid isPermaLink="false">1662199</guid>
-      <author>invalid@example.com (Aspect)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Aspect</dc:creator>
-      <content:encoded><![CDATA[Democratic Congressman Ritchie Torres is introducing legislation that aims to ensure you own your digital games, rather than merely buying a license that gives you permission to play them. Click to expand... Click to shrink... The bill, known as The Power to the Players Act, would direct the Fedral Trade Commission (FTC) to establish regulations that would protect gamers and their digital libraries. In short, Torres wants to ensure that when you buy a digital game, you actually own it, as opposed to getting a... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>34</slash:comments>
-    </item>
-    <item>
-      <title>Hypercharge unboxed  major update(switch version to par with other versions, crossplay, story mode +more, Oct 15; new low sale, 3DOarmy men inspired)</title>
-      <pubDate>Fri, 16 Oct 2026 01:27:30 +0000</pubDate>
-      <link>https://www.resetera.com/threads/hypercharge-unboxed-major-update-switch-version-to-par-with-other-versions-crossplay-story-mode-more-oct-15-new-low-sale-3doarmy-men-inspired.1662160/</link>
-      <guid isPermaLink="false">1662160</guid>
-      <author>invalid@example.com (Mandos)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Mandos</dc:creator>
-      <content:encoded><![CDATA[PR from social media https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week Update details/patch notes - Full crossplay, so Switch players can play with friends on Steam, Xbox and PlayStation - A story mode added to the existing wave-based mode, with cinematic comic book style cutscenes and optional objectives - 6 new bosses: Cyber T. Rex, Missile... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>0</slash:comments>
     </item>
   </channel>
 </rss>
