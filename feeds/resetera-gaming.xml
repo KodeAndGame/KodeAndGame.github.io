@@ -3,65 +3,230 @@
   <channel>
     <title>Gaming Forum</title>
     <description>The latest video game news, discussions, announcements, industry gossip, sales figures, bargains and reviews. The pulse of the gaming industry.</description>
-    <pubDate>Sun, 25 Oct 2026 06:45:46 +0000</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2026 06:45:46 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 12:44:03 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:44:03 +0000</lastBuildDate>
     <generator>ResetEra</generator>
     <link>https://www.resetera.com/</link>
     <atom:link rel="self" type="application/rss+xml" href="https://www.resetera.com/forums/gaming-forum.7/index.rss"/>
     <item>
-      <title>BeamNG mod allows you to drive anywhere on Earth at 1:1 scale</title>
-      <pubDate>Sun, 25 Oct 2026 06:40:57 +0000</pubDate>
-      <link>https://www.resetera.com/threads/beamng-mod-allows-you-to-drive-anywhere-on-earth-at-1-1-scale.1669541/</link>
-      <guid isPermaLink="false">1669541</guid>
-      <author>invalid@example.com (flyinj)</author>
+      <title>Video game forum ResetEra turns NINE YEARS OLD</title>
+      <pubDate>Sun, 25 Oct 2026 12:43:23 +0000</pubDate>
+      <link>https://www.resetera.com/threads/video-game-forum-resetera-turns-nine-years-old.1669673/</link>
+      <guid isPermaLink="false">1669673</guid>
+      <author>invalid@example.com (oni-link)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>flyinj</dc:creator>
-      <content:encoded><![CDATA[It's janky of course, but this is a really intriguing glimpse into the future. It's using a lot of similar techniques that the new flight simulator uses: A combination of satellite imagery, height data and road/building databases to stream the contents in real time to the game. There is also a lot of procedural work on how the roads are generated, and it feels like it is about 50-75% there so far. However, it is far from perfect. You'll run into a lot of pretty messed up geo, height mapping... Read more]]></content:encoded>
-      <slash:comments>29</slash:comments>
+      <dc:creator>oni-link</dc:creator>
+      <content:encoded><![CDATA[Founded on 25th October 2017 Happy 9th birthday Era One more year until the big one What's your favourite thing or memory about Era? Or who is your favourite poster!]]></content:encoded>
+      <slash:comments>48</slash:comments>
+    </item>
+    <item>
+      <title>Xbox Physical Distributors are now shipping games upside down and potentially unshrinkwrapped</title>
+      <pubDate>Sun, 25 Oct 2026 12:42:28 +0000</pubDate>
+      <link>https://www.resetera.com/threads/xbox-physical-distributors-are-now-shipping-games-upside-down-and-potentially-unshrinkwrapped.1669670/</link>
+      <guid isPermaLink="false">1669670</guid>
+      <author>invalid@example.com (Jawmuncher)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Jawmuncher</dc:creator>
+      <content:encoded><![CDATA[*Confirmed via multiple unboxing videos Source: https://x.com/BirdDogGaming/status/2114073447840059592?s=20 Comparison Source: https://x.com/thompson_buddy/status/2114200572710834480/photo/1 There's also been talk from people ordering reprints that some facilities (or a specific facility) is apparently not offering "Shink Wrapped... Read more]]></content:encoded>
+      <slash:comments>24</slash:comments>
     </item>
     <item>
       <title>What other cities or places would you like to see as a GTA setting?</title>
-      <pubDate>Sun, 25 Oct 2026 06:40:36 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 12:41:50 +0000</pubDate>
       <link>https://www.resetera.com/threads/what-other-cities-or-places-would-you-like-to-see-as-a-gta-setting.1669613/</link>
       <guid isPermaLink="false">1669613</guid>
       <author>invalid@example.com (Scoopy)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
       <dc:creator>Scoopy</dc:creator>
       <content:encoded><![CDATA[The series has fallen into a NYC-LA-Miami rotation. These are obviously all great locations but eventually they'll want to try something new (right?). NYC will be due up next for GTA 7, but I think that offers an opportunity to branch out. So, where else would you like to see? Top Possibilities: Las Vegas - Already featured as an area in San Andreas (Las Venturas), Las Vegas both culturally and geographically suits the GTA series perfectly. The city is well known for debauchery... Read more]]></content:encoded>
-      <slash:comments>28</slash:comments>
+      <slash:comments>64</slash:comments>
     </item>
     <item>
-      <title>Can you tell if a game was made on Unity/do Unity games feel weird overall?</title>
-      <pubDate>Sun, 25 Oct 2026 06:38:37 +0000</pubDate>
-      <link>https://www.resetera.com/threads/can-you-tell-if-a-game-was-made-on-unity-do-unity-games-feel-weird-overall.1669586/</link>
-      <guid isPermaLink="false">1669586</guid>
-      <author>invalid@example.com (Soulflarz)</author>
+      <title>Why Did the PS4 Infamous Games Remove the Over the Should Aiming?</title>
+      <pubDate>Sun, 25 Oct 2026 12:41:48 +0000</pubDate>
+      <link>https://www.resetera.com/threads/why-did-the-ps4-infamous-games-remove-the-over-the-should-aiming.1669676/</link>
+      <guid isPermaLink="false">1669676</guid>
+      <author>invalid@example.com (Derbel McDillet)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Soulflarz</dc:creator>
-      <content:encoded><![CDATA[I'm starting the new Castlevania and yeah, no real other way to put it than within a few fights and basic interactions I went 'erm is this actually on unity' and sure enough, it is. Without fail I feel like unity games have a certain clunkiness to the movement and how interactions feel that very few unity games overcome. (Also why does my framerate drop to like 30 or 60 from locked 144 the second I interact with anyone like I'm playing a 2010 game with a 30fps lock on cutscenes) They... Read more]]></content:encoded>
-      <slash:comments>17</slash:comments>
+      <dc:creator>Derbel McDillet</dc:creator>
+      <content:encoded><![CDATA[Is that something people didn't like about the original two? View: https://www.youtube.com/watch?v=G5q9W1q6gto Because I strongly prefer this shooting cam + being able to switch hands / sides. Vs. This View: https://youtu.be/XL40x6_Y64w?si=lJbu83arrwNT6PuH&t=222 I can't really explain why I prefer the former, it just always felt better, this new way feels like it removes the third person shooter element from the game.]]></content:encoded>
+      <slash:comments>4</slash:comments>
     </item>
     <item>
       <title>PS5 sales being up 22% last month, despite Sony seemingly having the worst online PR in its history, kind of shows how fake the internet has become</title>
-      <pubDate>Sun, 25 Oct 2026 06:35:47 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 12:41:28 +0000</pubDate>
       <link>https://www.resetera.com/threads/ps5-sales-being-up-22-last-month-despite-sony-seemingly-having-the-worst-online-pr-in-its-history-kind-of-shows-how-fake-the-internet-has-become.1669286/</link>
       <guid isPermaLink="false">1669286</guid>
       <author>invalid@example.com (Red Kong XIX)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
       <dc:creator>Red Kong XIX</dc:creator>
       <content:encoded><![CDATA[Just a thought that crossed my mind when we got the news this week that the PS5 increased its sales by a significant 22% year-on-year compared to September last year, despite its high price, and also despite PlayStation and Sony seemingly having the worst online PR in its history ever since they announced the end of disc production. So this figure came as a surprise to me. And we talk about September, a month that was especially rough PR-wise for them. The ending disc outrage still ongoing... Read more]]></content:encoded>
-      <slash:comments>705</slash:comments>
+      <slash:comments>774</slash:comments>
+    </item>
+    <item>
+      <title>RUMOR: GTA VI review codes already being sent out</title>
+      <pubDate>Sun, 25 Oct 2026 12:38:40 +0000</pubDate>
+      <link>https://www.resetera.com/threads/rumor-gta-vi-review-codes-already-being-sent-out.1669649/</link>
+      <guid isPermaLink="false">1669649</guid>
+      <author>invalid@example.com (Matush)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Matush</dc:creator>
+      <content:encoded><![CDATA[So it seems that review codes are being sent out .]]></content:encoded>
+      <slash:comments>77</slash:comments>
+    </item>
+    <item>
+      <title>It's not a debate that Resident Evil 6 has the worst game menus/UI of all time.</title>
+      <pubDate>Sun, 25 Oct 2026 12:38:05 +0000</pubDate>
+      <link>https://www.resetera.com/threads/its-not-a-debate-that-resident-evil-6-has-the-worst-game-menus-ui-of-all-time.1669340/</link>
+      <guid isPermaLink="false">1669340</guid>
+      <author>invalid@example.com (boontobias)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>boontobias</dc:creator>
+      <content:encoded><![CDATA[... Read more]]></content:encoded>
+      <slash:comments>89</slash:comments>
+    </item>
+    <item>
+      <title>Famous but nonsensical voice acted dialogue lines in gaming?</title>
+      <pubDate>Sun, 25 Oct 2026 12:37:54 +0000</pubDate>
+      <link>https://www.resetera.com/threads/famous-but-nonsensical-voice-acted-dialogue-lines-in-gaming.1669661/</link>
+      <guid isPermaLink="false">1669661</guid>
+      <author>invalid@example.com (Wrexis)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Wrexis</dc:creator>
+      <content:encoded><![CDATA[The ones where if you tried explaining it to someone not with an interest in gaming they would side eye you. Cortana's "Bet you can't stick it" from Halo 2. I didn't realize the actress Jen Taylor struggled with saying the line because it was so silly; apparently there are some audio outtakes of this floating around.]]></content:encoded>
+      <slash:comments>11</slash:comments>
+    </item>
+    <item>
+      <title>Can you tell if a game was made on Unity/do Unity games feel weird overall?</title>
+      <pubDate>Sun, 25 Oct 2026 12:37:19 +0000</pubDate>
+      <link>https://www.resetera.com/threads/can-you-tell-if-a-game-was-made-on-unity-do-unity-games-feel-weird-overall.1669586/</link>
+      <guid isPermaLink="false">1669586</guid>
+      <author>invalid@example.com (Soulflarz)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Soulflarz</dc:creator>
+      <content:encoded><![CDATA[I'm starting the new Castlevania and yeah, no real other way to put it than within a few fights and basic interactions I went 'erm is this actually on unity' and sure enough, it is. Without fail I feel like unity games have a certain clunkiness to the movement and how interactions feel that very few unity games overcome. (Also why does my framerate drop to like 30 or 60 from locked 144 the second I interact with anyone like I'm playing a 2010 game with a 30fps lock on cutscenes) They... Read more]]></content:encoded>
+      <slash:comments>33</slash:comments>
+    </item>
+    <item>
+      <title>What do you want in a Days Gone 2?</title>
+      <pubDate>Sun, 25 Oct 2026 12:36:24 +0000</pubDate>
+      <link>https://www.resetera.com/threads/what-do-you-want-in-a-days-gone-2.1669514/</link>
+      <guid isPermaLink="false">1669514</guid>
+      <author>invalid@example.com (amra)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>amra</dc:creator>
+      <content:encoded><![CDATA[Assume that this is what Bend is working on. My hopes: The human combat is super dumb. Like one step above a modern Rockstar game. Make it more engaging or not have as much of it Have the resource management matter more. It's already generous at the beginning but becomes a non-factor as you progress. The disabled fast travel on "Survival" difficulty would become an even greater strength if we had to think of resources more. If resources are dependant on a difficulty mode maybe... Read more]]></content:encoded>
+      <slash:comments>72</slash:comments>
+    </item>
+    <item>
+      <title>FF Tactics: War of the Lions (iOS/Android) got a new update. Wow! 60fps, FF, controller support,  and other improvements.</title>
+      <pubDate>Sun, 25 Oct 2026 12:22:37 +0000</pubDate>
+      <link>https://www.resetera.com/threads/ff-tactics-war-of-the-lions-ios-android-got-a-new-update-wow-60fps-ff-controller-support-and-other-improvements.1669610/</link>
+      <guid isPermaLink="false">1669610</guid>
+      <author>invalid@example.com (entremet)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>entremet</dc:creator>
+      <content:encoded><![CDATA[Better late than never? I guess this is rather cool. I guess for those that wanted War of the Lions without having to play the PSP version and patching that rom. I know Ivalice Chronicles is considered one of the better versions of the game, but War of the Lions still had some new stuff. Ideally, SE would just patch this version into Ivalice Chronicles. And have the complete package. PS1, War of the Lions, and Ivalice Chronicles. It does have the original PS1 version... Read more]]></content:encoded>
+      <slash:comments>13</slash:comments>
+    </item>
+    <item>
+      <title>Does the definition of a hardcore gamer quietly change over time?</title>
+      <pubDate>Sun, 25 Oct 2026 12:22:21 +0000</pubDate>
+      <link>https://www.resetera.com/threads/does-the-definition-of-a-hardcore-gamer-quietly-change-over-time.1669637/</link>
+      <guid isPermaLink="false">1669637</guid>
+      <author>invalid@example.com (shifure)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>shifure</dc:creator>
+      <content:encoded><![CDATA[In my impression from decades of gaming, a so called hardcore gamer is someone who knows the industry well, understands different gaming hardware, and digs deep into a lot of single player games. That also includes a love for retro culture and actually playing all kinds of older games. I think many people on this forum are that type of player. As for young people today who are really into COD and sports games, subconsciously I often don't see them as hardcore gamers. But is that wrong? A... Read more]]></content:encoded>
+      <slash:comments>31</slash:comments>
+    </item>
+    <item>
+      <title>I swear all of my Dualsense controllers die WAY faster than they should, are there any solutions?</title>
+      <pubDate>Sun, 25 Oct 2026 12:07:39 +0000</pubDate>
+      <link>https://www.resetera.com/threads/i-swear-all-of-my-dualsense-controllers-die-way-faster-than-they-should-are-there-any-solutions.1669430/</link>
+      <guid isPermaLink="false">1669430</guid>
+      <author>invalid@example.com (Jawmuncher)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Jawmuncher</dc:creator>
+      <content:encoded><![CDATA[I have quite a few Dualsense's in my collection. However more than a few of them feel like the battery dies as soon as you look at them, even if they're coming off a full charge. The most noticeable being my Launch White, Black Edition, and Astro Bot controllers. I know the first option is to just replace the battery myself but i've heard getting into a dualsense is quite tricky... Read more]]></content:encoded>
+      <slash:comments>82</slash:comments>
+    </item>
+    <item>
+      <title>What video game series has the best lore?</title>
+      <pubDate>Sun, 25 Oct 2026 11:52:26 +0000</pubDate>
+      <link>https://www.resetera.com/threads/what-video-game-series-has-the-best-lore.1669391/</link>
+      <guid isPermaLink="false">1669391</guid>
+      <author>invalid@example.com (Uzumaki Goku)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Uzumaki Goku</dc:creator>
+      <content:encoded><![CDATA[I love talking about lore. My honest favorite might be Mortal Kombat (from MK1 to Armageddon at least) but I love Mega Man and Castlevania lores. Also about to see the Street Fighter movie so let's see how accurate it is the lore lol. But that's just me. How about all of you?]]></content:encoded>
+      <slash:comments>120</slash:comments>
+    </item>
+    <item>
+      <title>[wccftech] Dead Space Remake’s Infamous Traversal Stutters Finally Tamed By Ishimura Patch Mod, Our Tests Show 176% Higher 0.1% Lows</title>
+      <pubDate>Sun, 25 Oct 2026 11:30:43 +0000</pubDate>
+      <link>https://www.resetera.com/threads/wccftech-dead-space-remake%E2%80%99s-infamous-traversal-stutters-finally-tamed-by-ishimura-patch-mod-our-tests-show-176-higher-0-1-lows.1669469/</link>
+      <guid isPermaLink="false">1669469</guid>
+      <author>invalid@example.com (dex3108)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>dex3108</dc:creator>
+      <content:encoded><![CDATA[Nearly four years after its release, Dead Space Remake remains one of the most visually impressive survival horror games on PC. Unfortunately, it also suffers from notoriously persistent traversal stutters , which occur when moving between different areas of the USG Ishimura, regardless of how powerful your hardware is. Now, a new community-developed mod called Ishimura Patch promises to address this longstanding problem, and our own testing suggests that it can deliver... Click to expand... Click to shrink... Read more]]></content:encoded>
+      <slash:comments>155</slash:comments>
     </item>
     <item>
       <title>Best video game line of all time</title>
-      <pubDate>Sun, 25 Oct 2026 06:33:48 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 11:21:14 +0000</pubDate>
       <link>https://www.resetera.com/threads/best-video-game-line-of-all-time.1669559/</link>
       <guid isPermaLink="false">1669559</guid>
       <author>invalid@example.com (natjjohn)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
       <dc:creator>natjjohn</dc:creator>
-      <content:encoded><![CDATA[So it's in Octopath Traveler 0, when Auguste throws his hands to the sky and yells, "Marvelous!" I'm sure there's other good dialogue across video game history, but very few things bring a smile to people's faces as much as Auguste dropping a Marvelous.]]></content:encoded>
-      <slash:comments>112</slash:comments>
+      <content:encoded><![CDATA[So it's in Octopath Traveler 0, when Auguste throws his hands to the sky and yells, "Marvelous!" I'm sure there's other good dialogue across video game history, but very few things bring a smile to people's faces as much as Auguste dropping a Marvelous. EDIT: Seeing all the videos. Actually can't find any Auguste marvelous videos as they all seem to not use the voice actor from Octopath 0. So guessing it's the mobile version or a different region.]]></content:encoded>
+      <slash:comments>139</slash:comments>
+    </item>
+    <item>
+      <title>Super Smash Bros. Melee in 3D (Mod)</title>
+      <pubDate>Sun, 25 Oct 2026 10:58:36 +0000</pubDate>
+      <link>https://www.resetera.com/threads/super-smash-bros-melee-in-3d-mod.1669601/</link>
+      <guid isPermaLink="false">1669601</guid>
+      <author>invalid@example.com (SolarLune)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>SolarLune</dc:creator>
+      <content:encoded><![CDATA[Found a video of this fan-made mod and pretty crazy concept where it's Smash Melee, but you can move around freely in 3D. Looks like it plays similarly to Power Stone. View: https://www.youtube.com/watch?v=orTQXcrDPbQ View: https://www.youtube.com/watch?v=cJRvI43e5Qg I think some people've said that Smash as an arena fighter could be interesting, and it's pretty easy to see the possibilities like this. I think it'd be a great direction for the series, but it seems like modern high-level... Read more]]></content:encoded>
+      <slash:comments>8</slash:comments>
+    </item>
+    <item>
+      <title>Do you guys think a hybrid over the shoulder/fixed camera Resident Evil (or any other horror series) is doable?</title>
+      <pubDate>Sun, 25 Oct 2026 10:32:47 +0000</pubDate>
+      <link>https://www.resetera.com/threads/do-you-guys-think-a-hybrid-over-the-shoulder-fixed-camera-resident-evil-or-any-other-horror-series-is-doable.1669280/</link>
+      <guid isPermaLink="false">1669280</guid>
+      <author>invalid@example.com (GunsNRosesXI)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>GunsNRosesXI</dc:creator>
+      <content:encoded><![CDATA[So I am not going to beat around the bush here—I am an unapologetic lover of old school Resident Evil and fixed camera survival horror in general. Those games will always scratch an itch like no other. However, there is no getting around the fact that since RE 4 blew the door open in 2005, over the shoulders are the standard for most horror and action games since then. But do you guys think a hybrid mix of the two could be successful and inject new life into the survival horror genre. I am... Read more]]></content:encoded>
+      <slash:comments>19</slash:comments>
+    </item>
+    <item>
+      <title>Elden Ring movie has a production budget of nearly $200 million, A24's most expensive to date</title>
+      <pubDate>Sun, 25 Oct 2026 09:57:51 +0000</pubDate>
+      <link>https://www.resetera.com/threads/elden-ring-movie-has-a-production-budget-of-nearly-200-million-a24s-most-expensive-to-date.1669424/</link>
+      <guid isPermaLink="false">1669424</guid>
+      <author>invalid@example.com (Rosebud)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Rosebud</dc:creator>
+      <content:encoded><![CDATA[A24's Elden Ring adaptation is reportedly its most expensive film to date, with a nearly $200 million budget and a planned 2028 release. A24's previous most expensive release was Marty Supreme, with a budget of around $70 million, which surpassed the previous leader, Civil War, with a budget of about $50 million. The movie has a March 3, 2028 release date, and a new Wall Street Journal report says it will cost around $200 million to make. The report highlighted how A24 has become a... Click to expand... Click to shrink... Read more]]></content:encoded>
+      <slash:comments>99</slash:comments>
+    </item>
+    <item>
+      <title>[MetroUK] Shigeru Miyamoto says AI could have a "positive impact on gaming"</title>
+      <pubDate>Sun, 25 Oct 2026 07:43:03 +0000</pubDate>
+      <link>https://www.resetera.com/threads/metrouk-shigeru-miyamoto-says-ai-could-have-a-positive-impact-on-gaming.1669262/</link>
+      <guid isPermaLink="false">1669262</guid>
+      <author>invalid@example.com (Razor Mom)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Razor Mom</dc:creator>
+      <content:encoded><![CDATA[Nintendo's Shigeru Miyamoto says AI could have 'positive' impact on gaming Legendary game designer Shigeru Miyamoto has offered his thoughts on generative AI, and he's more positive about it than you might expect. metro.co.uk Edit: Title of thread taken from the Metro article title, apologies for upset caused. Trying to change it to: "Miyamoto comments on AI" In the past, for instance... designers were taught in school how to create beautiful lettering for posters; possessing that skill alone was enough to be called a 'designer'. Alternatively, one could simply take a design that was trending…]]></content:encoded>
+      <slash:comments>200</slash:comments>
     </item>
     <item>
       <title>For those that played Magical Princess, did you have your daughter try drugs in the night?</title>
@@ -75,72 +240,6 @@
       <slash:comments>12</slash:comments>
     </item>
     <item>
-      <title>Super Smash Bros. Melee in 3D (Mod)</title>
-      <pubDate>Sun, 25 Oct 2026 06:00:53 +0000</pubDate>
-      <link>https://www.resetera.com/threads/super-smash-bros-melee-in-3d-mod.1669601/</link>
-      <guid isPermaLink="false">1669601</guid>
-      <author>invalid@example.com (SolarLune)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>SolarLune</dc:creator>
-      <content:encoded><![CDATA[Found a video of this fan-made mod and pretty crazy concept where it's Smash Melee, but you can move around freely in 3D. Looks like it plays similarly to Power Stone. View: https://www.youtube.com/watch?v=orTQXcrDPbQ View: https://www.youtube.com/watch?v=cJRvI43e5Qg I think some people've said that Smash as an arena fighter could be interesting, and it's pretty easy to see the possibilities like this. I think it'd be a great direction for the series, but it seems like modern high-level... Read more]]></content:encoded>
-      <slash:comments>5</slash:comments>
-    </item>
-    <item>
-      <title>FF Tactics: War of the Lions (iOS/Android) got a new update. Wow! 60fps, FF, controller support,  and other improvements.</title>
-      <pubDate>Sun, 25 Oct 2026 05:55:00 +0000</pubDate>
-      <link>https://www.resetera.com/threads/ff-tactics-war-of-the-lions-ios-android-got-a-new-update-wow-60fps-ff-controller-support-and-other-improvements.1669610/</link>
-      <guid isPermaLink="false">1669610</guid>
-      <author>invalid@example.com (entremet)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>entremet</dc:creator>
-      <content:encoded><![CDATA[Better late than never? I guess this is rather cool. I guess for those that wanted War of the Lions without having to play the PSP version and patching that rom. I know Ivalice Chronicles is considered one of the better versions of the game, but War of the Lions still had some new stuff. Ideally, SE would just patch this version into Ivalice Chronicles. And have the complete package. PS1, War of the Lions, and Ivalice Chronicles. It does have the original PS1 version... Read more]]></content:encoded>
-      <slash:comments>5</slash:comments>
-    </item>
-    <item>
-      <title>[wccftech] Dead Space Remake’s Infamous Traversal Stutters Finally Tamed By Ishimura Patch Mod, Our Tests Show 176% Higher 0.1% Lows</title>
-      <pubDate>Sun, 25 Oct 2026 05:53:24 +0000</pubDate>
-      <link>https://www.resetera.com/threads/wccftech-dead-space-remake%E2%80%99s-infamous-traversal-stutters-finally-tamed-by-ishimura-patch-mod-our-tests-show-176-higher-0-1-lows.1669469/</link>
-      <guid isPermaLink="false">1669469</guid>
-      <author>invalid@example.com (dex3108)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>dex3108</dc:creator>
-      <content:encoded><![CDATA[Nearly four years after its release, Dead Space Remake remains one of the most visually impressive survival horror games on PC. Unfortunately, it also suffers from notoriously persistent traversal stutters , which occur when moving between different areas of the USG Ishimura, regardless of how powerful your hardware is. Now, a new community-developed mod called Ishimura Patch promises to address this longstanding problem, and our own testing suggests that it can deliver... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>119</slash:comments>
-    </item>
-    <item>
-      <title>Elden Ring movie has a production budget of nearly $200 million, A24's most expensive to date</title>
-      <pubDate>Sun, 25 Oct 2026 05:33:12 +0000</pubDate>
-      <link>https://www.resetera.com/threads/elden-ring-movie-has-a-production-budget-of-nearly-200-million-a24s-most-expensive-to-date.1669424/</link>
-      <guid isPermaLink="false">1669424</guid>
-      <author>invalid@example.com (Rosebud)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Rosebud</dc:creator>
-      <content:encoded><![CDATA[A24's Elden Ring adaptation is reportedly its most expensive film to date, with a nearly $200 million budget and a planned 2028 release. A24's previous most expensive release was Marty Supreme, with a budget of around $70 million, which surpassed the previous leader, Civil War, with a budget of about $50 million. The movie has a March 3, 2028 release date, and a new Wall Street Journal report says it will cost around $200 million to make. The report highlighted how A24 has become a... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>79</slash:comments>
-    </item>
-    <item>
-      <title>It's not a debate that Resident Evil 6 has the worst game menus/UI of all time.</title>
-      <pubDate>Sun, 25 Oct 2026 05:18:45 +0000</pubDate>
-      <link>https://www.resetera.com/threads/its-not-a-debate-that-resident-evil-6-has-the-worst-game-menus-ui-of-all-time.1669340/</link>
-      <guid isPermaLink="false">1669340</guid>
-      <author>invalid@example.com (boontobias)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>boontobias</dc:creator>
-      <content:encoded><![CDATA[... Read more]]></content:encoded>
-      <slash:comments>70</slash:comments>
-    </item>
-    <item>
-      <title>Why did Capcom fail in establishing Demitri Maximoff as the face of Darkstalkers</title>
-      <pubDate>Sun, 25 Oct 2026 05:12:23 +0000</pubDate>
-      <link>https://www.resetera.com/threads/why-did-capcom-fail-in-establishing-demitri-maximoff-as-the-face-of-darkstalkers.1669232/</link>
-      <guid isPermaLink="false">1669232</guid>
-      <author>invalid@example.com (PhoenixAKG)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>PhoenixAKG</dc:creator>
-      <content:encoded><![CDATA[So originally for the Darkstalkers franchise Demitri Maximoff: was intended to be the protagonist but was quickly overshadowed by Morrigan. So why did Capcom fail to establish him as the face as it's the point where other Darkstalkers such as Felicia, Hsien-Ko or Jedah are used to represent the franchise in crossovers alongside Morrigan over Demitri.]]></content:encoded>
-      <slash:comments>210</slash:comments>
-    </item>
-    <item>
       <title>Spreadsheeters tell me about your craft (and maybe show it as well)</title>
       <pubDate>Sun, 25 Oct 2026 05:09:49 +0000</pubDate>
       <link>https://www.resetera.com/threads/spreadsheeters-tell-me-about-your-craft-and-maybe-show-it-as-well.1669574/</link>
@@ -150,39 +249,6 @@
       <dc:creator>Wiserus</dc:creator>
       <content:encoded><![CDATA[So, I'm not a Spreadsheeter. I mean, I am one. I've done my spreadsheets to organize my family's financial life, as well as trips and other stuff. Plan and compare things that I want to buy, keep track of prices, and what not. Even though I'm a developer I don't want to develop a whole system and put it up when I think "heh, this could be a spreadsheet". And isn't it beautiful? With all that I've never created one for gaming. Not for my backlog, nor to keep track of things, and much less to... Read more]]></content:encoded>
       <slash:comments>14</slash:comments>
-    </item>
-    <item>
-      <title>What video game series has the best lore?</title>
-      <pubDate>Sun, 25 Oct 2026 04:45:10 +0000</pubDate>
-      <link>https://www.resetera.com/threads/what-video-game-series-has-the-best-lore.1669391/</link>
-      <guid isPermaLink="false">1669391</guid>
-      <author>invalid@example.com (Uzumaki Goku)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Uzumaki Goku</dc:creator>
-      <content:encoded><![CDATA[I love talking about lore. My honest favorite might be Mortal Kombat (from MK1 to Armageddon at least) but I love Mega Man and Castlevania lores. Also about to see the Street Fighter movie so let's see how accurate it is the lore lol. But that's just me. How about all of you?]]></content:encoded>
-      <slash:comments>108</slash:comments>
-    </item>
-    <item>
-      <title>Shigeru Miyamoto says AI could have a "positive impact on gaming"</title>
-      <pubDate>Sun, 25 Oct 2026 04:39:11 +0000</pubDate>
-      <link>https://www.resetera.com/threads/shigeru-miyamoto-says-ai-could-have-a-positive-impact-on-gaming.1669262/</link>
-      <guid isPermaLink="false">1669262</guid>
-      <author>invalid@example.com (Razor Mom)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Razor Mom</dc:creator>
-      <content:encoded><![CDATA[Nintendo's Shigeru Miyamoto says AI could have 'positive' impact on gaming Legendary game designer Shigeru Miyamoto has offered his thoughts on generative AI, and he's more positive about it than you might expect. metro.co.uk Edit: Title of thread taken from the Metro article title, apologies for upset caused. Trying to change it to: "Miyamoto comments on AI" In the past, for instance... designers were taught in school how to create beautiful lettering for posters; possessing that skill alone was enough to be called a 'designer'. Alternatively, one could simply take a design that was trending…]]></content:encoded>
-      <slash:comments>199</slash:comments>
-    </item>
-    <item>
-      <title>What do you want in a Days Gone 2?</title>
-      <pubDate>Sun, 25 Oct 2026 04:34:25 +0000</pubDate>
-      <link>https://www.resetera.com/threads/what-do-you-want-in-a-days-gone-2.1669514/</link>
-      <guid isPermaLink="false">1669514</guid>
-      <author>invalid@example.com (amra)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>amra</dc:creator>
-      <content:encoded><![CDATA[Assume that this is what Bend is working on. My hopes: The human combat is super dumb. Like one step above a modern Rockstar game. Make it more engaging or not have as much of it Have the resource management matter more. It's already generous at the beginning but becomes a non-factor as you progress. The disabled fast travel on "Survival" difficulty would become an even greater strength if we had to think of resources more. If resources are dependant on a difficulty mode maybe... Read more]]></content:encoded>
-      <slash:comments>52</slash:comments>
     </item>
     <item>
       <title>Tim Sweeny again accuses Valve of undermining developers and spreading AI hate with their mandatory AI usage disclosure on store pages</title>
@@ -240,17 +306,6 @@
       <slash:comments>86</slash:comments>
     </item>
     <item>
-      <title>What is your favorite animal detective game?</title>
-      <pubDate>Sun, 25 Oct 2026 02:06:55 +0000</pubDate>
-      <link>https://www.resetera.com/threads/what-is-your-favorite-animal-detective-game.1669217/</link>
-      <guid isPermaLink="false">1669217</guid>
-      <author>invalid@example.com (Platy)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Platy</dc:creator>
-      <content:encoded><![CDATA[I was doing some game collections on my Steam when I noticed my family has a weird amount of Animal Detective games... I mean a game where you play as a detective (either by profession or just someone who is trying to solve a mystery) who happens to be an animal. If you are walking on the street and someone asks you "how many animal detective games there are" you probably will say "i don't know like 5" but it is like that Phineas & Ferb meme that "it is not much but it is weird that it... Read more]]></content:encoded>
-      <slash:comments>40</slash:comments>
-    </item>
-    <item>
       <title>So once GTA VI is out, what will be humanity's next greatest ever artistic achievement?</title>
       <pubDate>Sun, 25 Oct 2026 02:03:49 +0000</pubDate>
       <link>https://www.resetera.com/threads/so-once-gta-vi-is-out-what-will-be-humanitys-next-greatest-ever-artistic-achievement.1669283/</link>
@@ -280,7 +335,7 @@
       <author>invalid@example.com (Worldres)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
       <dc:creator>Worldres</dc:creator>
-      <content:encoded><![CDATA[​ 2 days, 4 hours, 14 minutes Price TBA​ ​ A MACHINE WILL NEVER HATE ITSELF ENOUGH TO BECOME BETTER Return to your hometown to destroy the remnants of your childhood. Wield a sledgehammer like an instrument of reckoning against the...​ Read more]]></content:encoded>
+      <content:encoded><![CDATA[​ 1 day, 22 hours, 15 minutes Price TBA​ ​ A MACHINE WILL NEVER HATE ITSELF ENOUGH TO BECOME BETTER Return to your hometown to destroy the remnants of your childhood. Wield a sledgehammer like an instrument of reckoning against the...​ Read more]]></content:encoded>
       <slash:comments>7</slash:comments>
     </item>
     <item>
@@ -317,28 +372,6 @@
       <slash:comments>4</slash:comments>
     </item>
     <item>
-      <title>WARNING to all you parents out there who have the Nintendo Music app</title>
-      <pubDate>Sat, 24 Oct 2026 20:36:41 +0000</pubDate>
-      <link>https://www.resetera.com/threads/warning-to-all-you-parents-out-there-who-have-the-nintendo-music-app.1669259/</link>
-      <guid isPermaLink="false">1669259</guid>
-      <author>invalid@example.com (Norsuchamp)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Norsuchamp</dc:creator>
-      <content:encoded><![CDATA[Whatever you do DON'T let your kid listen to the recently added ARMS soundtrack. First of all the freaking woo-oo-oo'ing just doesn't stop. Not during breakfast, not during homework, not during playing outside... the sound... the horror... Our 6-year old woke the whole goddamn house this morning by singing the main theme through his whole heart and it's mornings like these that I would rather be stomping a floor full of Legos with my bare feet. And that's not all! You also lose money when... Read more]]></content:encoded>
-      <slash:comments>62</slash:comments>
-    </item>
-    <item>
-      <title>I swear all of my Dualsense controllers die WAY faster than they should, are there any solutions?</title>
-      <pubDate>Sat, 24 Oct 2026 20:15:49 +0000</pubDate>
-      <link>https://www.resetera.com/threads/i-swear-all-of-my-dualsense-controllers-die-way-faster-than-they-should-are-there-any-solutions.1669430/</link>
-      <guid isPermaLink="false">1669430</guid>
-      <author>invalid@example.com (Jawmuncher)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Jawmuncher</dc:creator>
-      <content:encoded><![CDATA[I have quite a few Dualsense's in my collection. However more than a few of them feel like the battery dies as soon as you look at them, even if they're coming off a full charge. The most noticeable being my Launch White, Black Edition, and Astro Bot controllers. I know the first option is to just replace the battery myself but i've heard getting into a dualsense is quite tricky... Read more]]></content:encoded>
-      <slash:comments>63</slash:comments>
-    </item>
-    <item>
       <title>Euro Truck Simulator 2's Iceland DLC is releasing November 10</title>
       <pubDate>Sat, 24 Oct 2026 18:52:55 +0000</pubDate>
       <link>https://www.resetera.com/threads/euro-truck-simulator-2s-iceland-dlc-is-releasing-november-10.1669361/</link>
@@ -359,28 +392,6 @@
       <dc:creator>spookycool</dc:creator>
       <content:encoded><![CDATA[they purged it around 6+ years ago iirc and it was a massive loss to me. i used to browse it like it was unseen64 because it was full to the brim of early screenshots and screenshots taken by gamespot employees i still mourn the loss. i feel its phantom limb because i almost instinctively went to go track down some old mass effect screens only to realize i know given the ubiquity of video there seems less of a need for screens but i miss those old shots]]></content:encoded>
       <slash:comments>5</slash:comments>
-    </item>
-    <item>
-      <title>The “Pokemon All-22” trend on social media suggests there’s a huge opportunity available for the franchise</title>
-      <pubDate>Sat, 24 Oct 2026 16:07:36 +0000</pubDate>
-      <link>https://www.resetera.com/threads/the-%E2%80%9Cpokemon-all-22%E2%80%9D-trend-on-social-media-suggests-there%E2%80%99s-a-huge-opportunity-available-for-the-franchise.1669205/</link>
-      <guid isPermaLink="false">1669205</guid>
-      <author>invalid@example.com (DinoBlaster)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>DinoBlaster</dc:creator>
-      <content:encoded><![CDATA[For those of you that haven't seen this trend, it's basically people picking their offensive and defensive lineups for american football using Pokemon. Snorlax at DT, Alakazam at QB, Scyther at DB, etc. I'm kind of surprised Pokemon has never released an arcade sports game. There's plenty of inspiration available like NBA Street or Backyard Baseball, and it seems like people would flock to it in droves. Would there be too much overlap with the Mario sports games? Would you play it?]]></content:encoded>
-      <slash:comments>105</slash:comments>
-    </item>
-    <item>
-      <title>Do you guys think a hybrid over the shoulder/fixed camera Resident Evil (or any other horror series) is doable?</title>
-      <pubDate>Sat, 24 Oct 2026 14:38:12 +0000</pubDate>
-      <link>https://www.resetera.com/threads/do-you-guys-think-a-hybrid-over-the-shoulder-fixed-camera-resident-evil-or-any-other-horror-series-is-doable.1669280/</link>
-      <guid isPermaLink="false">1669280</guid>
-      <author>invalid@example.com (GunsNRosesXI)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>GunsNRosesXI</dc:creator>
-      <content:encoded><![CDATA[So I am not going to beat around the bush here—I am an unapologetic lover of old school Resident Evil and fixed camera survival horror in general. Those games will always scratch an itch like no other. However, there is no getting around the fact that since RE 4 blew the door open in 2005, over the shoulders are the standard for most horror and action games since then. But do you guys think a hybrid mix of the two could be successful and inject new life into the survival horror genre. I am... Read more]]></content:encoded>
-      <slash:comments>17</slash:comments>
     </item>
     <item>
       <title>For the first time in years, it feels like I have a backlog again and it feels good.</title>
@@ -425,28 +436,6 @@
       <dc:creator>Swearing.circle</dc:creator>
       <content:encoded><![CDATA[So ive always wanted to play MGO2 again but it seemed like a bit of a faff to get it running. Well, the team at Save MGO have released a pc client in beta which you can just install and play. https://mgo2pc.com / Has steam deck support and super easy to set up. The team has added new maps and bots too. Really impressive stuff and it ran really well on the deck. If you've ever wanted to play it again but couldn't be bothered with the set up, its now as easy as downloading it and... Read more]]></content:encoded>
       <slash:comments>2</slash:comments>
-    </item>
-    <item>
-      <title>Sony accidentally reveals next Stalker 2 content patch 2.1 with A-Life 2 radius increase and fast travel via squad leaders</title>
-      <pubDate>Sat, 24 Oct 2026 09:52:20 +0000</pubDate>
-      <link>https://www.resetera.com/threads/sony-accidentally-reveals-next-stalker-2-content-patch-2-1-with-a-life-2-radius-increase-and-fast-travel-via-squad-leaders.1669250/</link>
-      <guid isPermaLink="false">1669250</guid>
-      <author>invalid@example.com (Mr Swine)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Mr Swine</dc:creator>
-      <content:encoded><![CDATA[Really good update and I really don't know how Sony keeps on accidentally posting this a few days before it comes out lol, happened with the 1.8 patch roughly a year ago See further. Fight smarter. Fast travel with squad leaders. Free Update 2.1 for S.T.A.L.K.E.R. 2: Heart of Chornobyl is out now:]]></content:encoded>
-      <slash:comments>7</slash:comments>
-    </item>
-    <item>
-      <title>post your favorite bioware game screenshots in here</title>
-      <pubDate>Sat, 24 Oct 2026 05:47:47 +0000</pubDate>
-      <link>https://www.resetera.com/threads/post-your-favorite-bioware-game-screenshots-in-here.1669214/</link>
-      <guid isPermaLink="false">1669214</guid>
-      <author>invalid@example.com (spookycool)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>spookycool</dc:creator>
-      <content:encoded><![CDATA[whether you took them or not. was gonna limit this to just mass effect but why not all of them?]]></content:encoded>
-      <slash:comments>9</slash:comments>
     </item>
   </channel>
 </rss>
