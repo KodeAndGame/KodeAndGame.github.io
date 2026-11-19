@@ -3,131 +3,351 @@
   <channel>
     <title>Gaming Forum</title>
     <description>The latest video game news, discussions, announcements, industry gossip, sales figures, bargains and reviews. The pulse of the gaming industry.</description>
-    <pubDate>Thu, 19 Nov 2026 03:48:52 +0000</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2026 03:48:52 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 13:49:36 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:49:36 +0000</lastBuildDate>
     <generator>ResetEra</generator>
     <link>https://www.resetera.com/</link>
     <atom:link rel="self" type="application/rss+xml" href="https://www.resetera.com/forums/gaming-forum.7/index.rss"/>
     <item>
-      <title>How many of you were waiting for the PC version of Grand Theft Auto VI but caved when you saw the review scores?</title>
-      <pubDate>Thu, 19 Nov 2026 03:47:31 +0000</pubDate>
-      <link>https://www.resetera.com/threads/how-many-of-you-were-waiting-for-the-pc-version-of-grand-theft-auto-vi-but-caved-when-you-saw-the-review-scores.1691840/</link>
-      <guid isPermaLink="false">1691840</guid>
-      <author>invalid@example.com (Phyre)</author>
+      <title>LTTP: Pragmata</title>
+      <pubDate>Thu, 19 Nov 2026 13:49:01 +0000</pubDate>
+      <link>https://www.resetera.com/threads/lttp-pragmata.1692128/</link>
+      <guid isPermaLink="false">1692128</guid>
+      <author>invalid@example.com (Primal Sage)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Primal Sage</dc:creator>
+      <content:encoded><![CDATA[I started playing this last night (PS5 Pro) and damn, so far this is such a good game. I have gotten a bit further than the first boss fight. It of course looks fantastic and runs superbly (using the High Framerate mode) but the gameplay systems are so well thought out. Having... Read more]]></content:encoded>
+      <slash:comments>13</slash:comments>
+    </item>
+    <item>
+      <title>Will GTA VI PC release on Steam or only on Rockstar Launcher</title>
+      <pubDate>Thu, 19 Nov 2026 13:48:50 +0000</pubDate>
+      <link>https://www.resetera.com/threads/will-gta-vi-pc-release-on-steam-or-only-on-rockstar-launcher.1692056/</link>
+      <guid isPermaLink="false">1692056</guid>
+      <author>invalid@example.com (xyla)</author>
       <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
-      <dc:creator>Phyre</dc:creator>
-      <content:encoded><![CDATA[The reviews for Grand Theft Auto VI have been released and it has a 99 rating on Metacritic and is the highest rated game on the platform. I've seen a few posters in the review thread who were waiting for the PC release but after seeing the reviews caved and bought the game today. So I wanted to see how many ERA users are in that camp. No shame if you are.]]></content:encoded>
-      <slash:comments>170</slash:comments>
+      <dc:creator>xyla</dc:creator>
+      <content:encoded><![CDATA[If this is one GTA VI thread too many, feel free to close it. Currently you can buy GTA V on Steam but it comes with caveats: - it mandates a Rockstar Games account - it mandates BattleEye for GTA Online If you wanna buy a Key outside of Steam, there's only keys for the Rockstar Launcher out there, you can't buy Steam or even Epic keys on your trusted key site of choice. Currently, GTA Online doesn't work on official servers, if you wanna play it on Linux/SteamOS, you can jump through... Read more]]></content:encoded>
+      <slash:comments>56</slash:comments>
+    </item>
+    <item>
+      <title>Can PS6/Xbox Helix run GTA6 at 60fps?</title>
+      <pubDate>Thu, 19 Nov 2026 13:48:19 +0000</pubDate>
+      <link>https://www.resetera.com/threads/can-ps6-xbox-helix-run-gta6-at-60fps.1692149/</link>
+      <guid isPermaLink="false">1692149</guid>
+      <author>invalid@example.com (Dr Pears)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Dr Pears</dc:creator>
+      <content:encoded><![CDATA[This is not a dunk on the game being 30fps or a dunk on current generation consoles or anything. I'm playing the game now and my god this is the most technically impressive game I've ever played in my life, and I totally understand why they chose to target 30fps on current gen consoles. But I'm really curious when, if ever, we get this thing playable on 60fps on consoles. Looking back, GTA5 released on PS3/XBOX 360 at 30fps. It's next generation PS4/XBone and their upgraded versions, the... Read more]]></content:encoded>
+      <slash:comments>57</slash:comments>
+    </item>
+    <item>
+      <title>Famitsu sales (11/9/26 – 11/15/26)</title>
+      <pubDate>Thu, 19 Nov 2026 13:47:18 +0000</pubDate>
+      <link>https://www.resetera.com/threads/famitsu-sales-11-9-26-%E2%80%93-11-15-26.1692215/</link>
+      <guid isPermaLink="false">1692215</guid>
+      <author>invalid@example.com (matt1996)</author>
+      <category domain="https://www.resetera.com/forums/sales-ccu.55/"><![CDATA[Sales/CCU]]></category>
+      <dc:creator>matt1996</dc:creator>
+      <content:encoded><![CDATA[Software Sales 1. [NS2] Zelda: Ocarina of Time – 86,097 / 623,138 2. [NS2] Metaphor: ReFantazio – 11,167 / NEW 3. [NS2] Nintendo Switch Sports Resort – 11,086 / 115,805 4. [NSW] Rhythm Heaven Groove – 7,779 / 1,128,423 5. [NSW] Minecraft Dungeons 2 – 4,264 / NEW 6. [NSW] Tomodachi Life: Living the Dream – 3,991 / 1,650,334 7. [NS2] Splatoon Raiders – 2,863 / 697,678 8. [NS2] Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy – 2,854 / NEW 9. [NS2] Minecraft – 2,630 / 18,212 10... Read more]]></content:encoded>
+      <slash:comments>15</slash:comments>
+    </item>
+    <item>
+      <title>Anyone out there playing HARMA? It's a dark fantasy roguelike deckbuilder with 4 player co-op.</title>
+      <pubDate>Thu, 19 Nov 2026 13:46:34 +0000</pubDate>
+      <link>https://www.resetera.com/threads/anyone-out-there-playing-harma-its-a-dark-fantasy-roguelike-deckbuilder-with-4-player-co-op.1692011/</link>
+      <guid isPermaLink="false">1692011</guid>
+      <author>invalid@example.com (Shinobido Heart)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Shinobido Heart</dc:creator>
+      <content:encoded><![CDATA[View: https://www.youtube.com/watch?v=FJxa3pBu7tE Last month I tried the demo for this game because of the awesome pixel graphics and it caught me by surprise how much I enjoyed it so I wanted to give a shout-out since it may have flown under everyone's radar. A lot of games came out this year making it pretty easy to miss. That said, HARMA released into Early Access the other day and its very much a work-in-progress but what's available I still found very fun. There's tons of cards... Read more]]></content:encoded>
+      <slash:comments>1</slash:comments>
     </item>
     <item>
       <title>"I just hope GTA 6 is the last of its kind": Deus Ex creator after seeing Rockstar's $1 billion development cost</title>
-      <pubDate>Thu, 19 Nov 2026 03:47:02 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 13:45:38 +0000</pubDate>
       <link>https://www.resetera.com/threads/i-just-hope-gta-6-is-the-last-of-its-kind-deus-ex-creator-after-seeing-rockstars-1-billion-development-cost.1691897/</link>
       <guid isPermaLink="false">1691897</guid>
       <author>invalid@example.com (Cooldude97)</author>
       <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
       <dc:creator>Cooldude97</dc:creator>
       <content:encoded><![CDATA[https://www.gamesradar.com/games/grand-theft-auto/i-just-hope-gta-6-is-the-last-of-its-kind-deus-ex-creator-sees-rockstars-usd1-billion-development-cost-and-says-id-rather-have-hundreds-of-games-and-full-employment/ Rockstar seems to have really, really stuck the landing with GTA 6. After a decade of astronomically high expectations, GTA 6 is launching this week to universal acclaim, tying the original Zelda: Ocarina of Time for highest rated game of all time on Metacritic. As the... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>115</slash:comments>
+      <slash:comments>172</slash:comments>
     </item>
     <item>
-      <title>A copy of GBC game Volvy's Adventure: DX has leaked onto the internet.</title>
-      <pubDate>Thu, 19 Nov 2026 03:46:21 +0000</pubDate>
-      <link>https://www.resetera.com/threads/a-copy-of-gbc-game-volvys-adventure-dx-has-leaked-onto-the-internet.1691900/</link>
-      <guid isPermaLink="false">1691900</guid>
-      <author>invalid@example.com (nsilvias)</author>
+      <title>So, how is GTA6 HDR?</title>
+      <pubDate>Thu, 19 Nov 2026 13:44:46 +0000</pubDate>
+      <link>https://www.resetera.com/threads/so-how-is-gta6-hdr.1691882/</link>
+      <guid isPermaLink="false">1691882</guid>
+      <author>invalid@example.com (GeoNeo)</author>
+      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
+      <dc:creator>GeoNeo</dc:creator>
+      <content:encoded><![CDATA[Waiting on analysis but one thing I truly was hoping is it's a watershed moment for HDR gaming. Vincent Teoh of HDTV Test makes a good point to make sure you have HGIG enabled and adjust the HDR settings in game correctly for best presentation. Setting paper white is gonna be critical as well to get the best overall impact depending on your display. Edit: Check thread marks for setup help and readings and values of what the sliders do.]]></content:encoded>
+      <slash:comments>97</slash:comments>
+    </item>
+    <item>
+      <title>We might be in the Golden Age of gaming but...</title>
+      <pubDate>Thu, 19 Nov 2026 13:44:29 +0000</pubDate>
+      <link>https://www.resetera.com/threads/we-might-be-in-the-golden-age-of-gaming-but.1691957/</link>
+      <guid isPermaLink="false">1691957</guid>
+      <author>invalid@example.com (Omnistalgic)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>nsilvias</dc:creator>
-      <content:encoded><![CDATA[Hurry before Devolver DMCA's it. GO GO GO ---> View: https://bsky.app/profile/wario64.bsky.social/post/3n2mtt5lbmk2c]]></content:encoded>
-      <slash:comments>35</slash:comments>
+      <dc:creator>Omnistalgic</dc:creator>
+      <content:encoded><![CDATA[We can't see the forest for the trees and really, who can blame us . The industry is undeniably in a state of flux. Consistent layoffs, closures, and what could be considered a bubble (like AI) that's overdue for market correction. Even by online standards, social media around gaming is overwhelmingly negative, with a wave of protest and public outrage against Sony's decision to end physical disc in 2028, rising costs of hardware and software services, and studio closures of... Read more]]></content:encoded>
+      <slash:comments>33</slash:comments>
+    </item>
+    <item>
+      <title>Latest NVIDIA Drivers Might Cause Excessive SSD Writing</title>
+      <pubDate>Thu, 19 Nov 2026 13:44:07 +0000</pubDate>
+      <link>https://www.resetera.com/threads/latest-nvidia-drivers-might-cause-excessive-ssd-writing.1692062/</link>
+      <guid isPermaLink="false">1692062</guid>
+      <author>invalid@example.com (Erroneous Teapot)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Erroneous Teapot</dc:creator>
+      <content:encoded><![CDATA[As reported here , it looks to be similar to the earlier AMD GPU issue. NVIDIA's latest GeForce Game Ready GPU drivers are reportedly causing excessive SSD writing on multiple systems. Users have been reporting numbers of up to 30 GB per hour of SSD writes, even when no typical writing activity is occurring. With driver version 621.01 installed, the NVIDIA Display Container process recorded less than 2 MB of writes while the PC was idle. However, with the upgrade to the version... Click to expand... Click to shrink... Read more]]></content:encoded>
+      <slash:comments>52</slash:comments>
     </item>
     <item>
       <title>Is OLED stutter actually a problem with GTAVI and if so could someone provide a solution before midnight tonight</title>
-      <pubDate>Thu, 19 Nov 2026 03:45:53 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 13:38:01 +0000</pubDate>
       <link>https://www.resetera.com/threads/is-oled-stutter-actually-a-problem-with-gtavi-and-if-so-could-someone-provide-a-solution-before-midnight-tonight.1691762/</link>
       <guid isPermaLink="false">1691762</guid>
       <author>invalid@example.com (sn00zer)</author>
       <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
       <dc:creator>sn00zer</dc:creator>
       <content:encoded><![CDATA[I don't want to be be blindly messing with TV settings tonight. Is stutter an actual issue and if so has someone figured out what settings I need to mess with to figure it out? I have a Samsung but I'm sure the thread can be used for other people figuring out there issues as well, if it's an issue.]]></content:encoded>
-      <slash:comments>106</slash:comments>
+      <slash:comments>126</slash:comments>
     </item>
     <item>
-      <title>Today Marks the 60th Birthday of Monolith Soft's Tetsuya Takahashi</title>
-      <pubDate>Thu, 19 Nov 2026 03:44:04 +0000</pubDate>
-      <link>https://www.resetera.com/threads/today-marks-the-60th-birthday-of-monolith-softs-tetsuya-takahashi.1691948/</link>
-      <guid isPermaLink="false">1691948</guid>
-      <author>invalid@example.com (Zeal543)</author>
+      <title>Ocarina of Time remake has finally answered: how Nintendo games graphics will be with "powerful" hardware?</title>
+      <pubDate>Thu, 19 Nov 2026 13:34:53 +0000</pubDate>
+      <link>https://www.resetera.com/threads/ocarina-of-time-remake-has-finally-answered-how-nintendo-games-graphics-will-be-with-powerful-hardware.1692029/</link>
+      <guid isPermaLink="false">1692029</guid>
+      <author>invalid@example.com (Λntonio)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Zeal543</dc:creator>
-      <content:encoded><![CDATA[Happy birthday to a legend and one of the best to do it in the jRPG space. Takahashi was involved with Falcom and Squaresoft during their respective golden years before establishing/co-founding Monolith Soft. Best known for the Xeno series but also had a hand in other major series like Final Fantasy and Chrono. Here's wishing to a successful new arc with Xenoblade and whatever else may come.]]></content:encoded>
-      <slash:comments>20</slash:comments>
+      <dc:creator>Λntonio</dc:creator>
+      <content:encoded><![CDATA[Nintendo games tend not to use realistic graphics/artstyles so it was natural to wonder and imagine how Nintendo could use more powerful hardware, when in theory, (and I repeat), in theory, it is not needed. This new game has answered this question in my opinion, as Nintendo has managed to really make use of the hardware capabilities while portraying an artstyle that is a perfect mix between "realism" and fantasy/cartoony. Do you agree? How could this be translated to other Nintendo... Read more]]></content:encoded>
+      <slash:comments>50</slash:comments>
     </item>
     <item>
-      <title>So, how is GTA6 HDR?</title>
-      <pubDate>Thu, 19 Nov 2026 03:38:59 +0000</pubDate>
-      <link>https://www.resetera.com/threads/so-how-is-gta6-hdr.1691882/</link>
-      <guid isPermaLink="false">1691882</guid>
-      <author>invalid@example.com (GeoNeo)</author>
+      <title>Happy 5th Anniversary to Pokemon Brilliant Diamond and Shining Pearl!</title>
+      <pubDate>Thu, 19 Nov 2026 13:34:21 +0000</pubDate>
+      <link>https://www.resetera.com/threads/happy-5th-anniversary-to-pokemon-brilliant-diamond-and-shining-pearl.1691999/</link>
+      <guid isPermaLink="false">1691999</guid>
+      <author>invalid@example.com (ContractHolder)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>ContractHolder</dc:creator>
+      <content:encoded><![CDATA[View: https://youtu.be/maIfkfLgqrk?is=848p0ol2XC8NKqZ- The controversial fourth generation remake came out half a decade ago. While not the first remake for a hybrid console, it was the first official time you could play Diamond and Pearl on a single screen, and without using touch controls. And of course, being on a hybrid system, you could play it on a TV for the first time. The game has yet to receive a Switch 2 Native patch alongside the Let's Go remakes, Sword & Shield, and Legends... Read more]]></content:encoded>
+      <slash:comments>58</slash:comments>
+    </item>
+    <item>
+      <title>How many of you were waiting for the PC version of Grand Theft Auto VI but caved when you saw the review scores?</title>
+      <pubDate>Thu, 19 Nov 2026 13:30:47 +0000</pubDate>
+      <link>https://www.resetera.com/threads/how-many-of-you-were-waiting-for-the-pc-version-of-grand-theft-auto-vi-but-caved-when-you-saw-the-review-scores.1691840/</link>
+      <guid isPermaLink="false">1691840</guid>
+      <author>invalid@example.com (Phyre)</author>
       <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
-      <dc:creator>GeoNeo</dc:creator>
-      <content:encoded><![CDATA[Waiting on analysis but one thing I truly was hoping is it's a watershed moment for HDR gaming. Vincent Teoh of HDTV Test makes a good point to make sure you have HGIG enabled and adjust the HDR settings in game correctly for best presentation. Setting paper white is gonna be critical as well to get the best overall impact depending on your display.]]></content:encoded>
-      <slash:comments>33</slash:comments>
+      <dc:creator>Phyre</dc:creator>
+      <content:encoded><![CDATA[The reviews for Grand Theft Auto VI have been released and it has a 99 rating on Metacritic and is the highest rated game on the platform. I've seen a few posters in the review thread who were waiting for the PC release but after seeing the reviews caved and bought the game today. So I wanted to see how many ERA users are in that camp. No shame if you are.]]></content:encoded>
+      <slash:comments>219</slash:comments>
     </item>
     <item>
-      <title>Contrarian thread: What are some 90+ MC scoring games you played and didn't like?</title>
-      <pubDate>Thu, 19 Nov 2026 03:38:00 +0000</pubDate>
-      <link>https://www.resetera.com/threads/contrarian-thread-what-are-some-90-mc-scoring-games-you-played-and-didnt-like.1691261/</link>
-      <guid isPermaLink="false">1691261</guid>
-      <author>invalid@example.com (Yurei)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Yurei</dc:creator>
-      <content:encoded><![CDATA[This thread is NOT about GTA6 as almost none of you have played it. But seeing these crazy scores reminds me of when I played Tears of the Kingdom . Seeing the amazing reviews and how much I loved BOTW I was primed to like it even more. Then I played it and after the initial hype and fun I realized I enjoyed it significantly less than BOTW. And not even just preference based things, but I felt like some parts were poorly designed or thought through and encouraged finding... Read more]]></content:encoded>
-      <slash:comments>311</slash:comments>
+      <title>GTA 6 is really hard to see in dark scenes on my OLED TV</title>
+      <pubDate>Thu, 19 Nov 2026 13:25:20 +0000</pubDate>
+      <link>https://www.resetera.com/threads/gta-6-is-really-hard-to-see-in-dark-scenes-on-my-oled-tv.1692098/</link>
+      <guid isPermaLink="false">1692098</guid>
+      <author>invalid@example.com (NintendoSwitchLover)</author>
+      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
+      <dc:creator>NintendoSwitchLover</dc:creator>
+      <content:encoded><![CDATA[Is anyone else having this problem? I don't know if it's a stylistic choice or if my tv settings are shit I have a Samsung s90c]]></content:encoded>
+      <slash:comments>37</slash:comments>
     </item>
     <item>
-      <title>PlayStation down?</title>
-      <pubDate>Thu, 19 Nov 2026 03:37:31 +0000</pubDate>
-      <link>https://www.resetera.com/threads/playstation-down.1691501/</link>
-      <guid isPermaLink="false">1691501</guid>
-      <author>invalid@example.com (BackwardsSuggestions)</author>
+      <title>Wingsuit Simulator - Official Reveal Trailer</title>
+      <pubDate>Thu, 19 Nov 2026 13:05:06 +0000</pubDate>
+      <link>https://www.resetera.com/threads/wingsuit-simulator-official-reveal-trailer.1692032/</link>
+      <guid isPermaLink="false">1692032</guid>
+      <author>invalid@example.com (Wrexis)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>BackwardsSuggestions</dc:creator>
-      <content:encoded><![CDATA[Can't log in in the UK and down detector is showing issues. Anyone able to log in?]]></content:encoded>
-      <slash:comments>211</slash:comments>
+      <dc:creator>Wrexis</dc:creator>
+      <content:encoded><![CDATA[View: https://www.youtube.com/watch?v=5Pwb22KRRio Looks fun. Derbel McDillet you might be interested.]]></content:encoded>
+      <slash:comments>9</slash:comments>
     </item>
     <item>
-      <title>Among the ten games with the best reviews from the last 10 years, 7 are open world</title>
-      <pubDate>Thu, 19 Nov 2026 03:34:51 +0000</pubDate>
-      <link>https://www.resetera.com/threads/among-the-ten-games-with-the-best-reviews-from-the-last-10-years-7-are-open-world.1691600/</link>
-      <guid isPermaLink="false">1691600</guid>
-      <author>invalid@example.com (Glio)</author>
+      <title>A copy of GBC game Volvy's Adventure: DX has leaked onto the internet.</title>
+      <pubDate>Thu, 19 Nov 2026 12:53:19 +0000</pubDate>
+      <link>https://www.resetera.com/threads/a-copy-of-gbc-game-volvys-adventure-dx-has-leaked-onto-the-internet.1691900/</link>
+      <guid isPermaLink="false">1691900</guid>
+      <author>invalid@example.com (nsilvias)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Glio</dc:creator>
-      <content:encoded><![CDATA[I had a hunch after reading a post in the controversial takes thread, so I decided to check something on Metacritic. Excluding ports, like the Portal Collection or Tears of the Kingdom Switch 2 version, the ten highest-rated games from the last decade are: GTA VI Breath of the Wild Red Dead Redemption 2 Mario Odyssey Baldur's Gate 3 The House in Fata Morgana (play it, it's awesome!) Elden Ring Tears of the Kingdom Ocarina of Time Remake Hades 2 It's interesting to see that this is... Read more]]></content:encoded>
-      <slash:comments>96</slash:comments>
+      <dc:creator>nsilvias</dc:creator>
+      <content:encoded><![CDATA[Hurry before Devolver DMCA's it. GO GO GO ---> View: https://bsky.app/profile/wario64.bsky.social/post/3n2mtt5lbmk2c]]></content:encoded>
+      <slash:comments>57</slash:comments>
     </item>
     <item>
-      <title>Lack of femme-presenting reviewers for recent games</title>
-      <pubDate>Thu, 19 Nov 2026 03:34:18 +0000</pubDate>
-      <link>https://www.resetera.com/threads/lack-of-femme-presenting-reviewers-for-recent-games.1691177/</link>
-      <guid isPermaLink="false">1691177</guid>
-      <author>invalid@example.com (Glio)</author>
+      <title>Upcoming Girl’s Frontline third-person PvE shooter officially announced as Girls’ Frontline: The Lunasia Covenant, set to release in 2027</title>
+      <pubDate>Thu, 19 Nov 2026 12:39:11 +0000</pubDate>
+      <link>https://www.resetera.com/threads/upcoming-girl%E2%80%99s-frontline-third-person-pve-shooter-officially-announced-as-girls%E2%80%99-frontline-the-lunasia-covenant-set-to-release-in-2027.1692185/</link>
+      <guid isPermaLink="false">1692185</guid>
+      <author>invalid@example.com (SilentPanda)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Glio</dc:creator>
-      <content:encoded><![CDATA[I saw this thread in Bluesky and I thought that it was interesting. 3% of GTA VI reviewers as the thread was done are femme-presenting. View: https://bsky.app/profile/lexluddy.xyz/post/3n2lmuptpi22m Other recent AAA like Phantom Zero or Ocarina of Time Remake have similar problems. View: https://bsky.app/profile/lexluddy.xyz/post/3mzjgskuurs2g View: https://bsky.app/profile/lexluddy.xyz/post/3mziwhtlqkc2h I was looking at this data and even if it doesn't surprise me, it makes me think... Read more]]></content:encoded>
-      <slash:comments>62</slash:comments>
+      <dc:creator>SilentPanda</dc:creator>
+      <content:encoded><![CDATA[View: https://www.youtube.com/watch?v=-oCHDffZX1A Girls' Frontline: The Lunasia Covenant, the May-announced player-versus-environment game that blends third-person shooter action with cooperative combat, will launch for iOS and Android in 2027, publisher Sunborn Network Technology and in-house developer Hecate Team announced. Click to expand... Click to shrink... Girls' Frontline: The Lunasia Covenant is a co-op multiplayer PvE shooter set in the Girls' Frontline universe. The original Girls' Frontline is a... Click to expand... Click to shrink... Read more]]></content:encoded>
+      <slash:comments>3</slash:comments>
     </item>
     <item>
       <title>Is This Anyone Else's First GTA Game? If So, What's Different This Time?</title>
-      <pubDate>Thu, 19 Nov 2026 03:29:46 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 11:59:36 +0000</pubDate>
       <link>https://www.resetera.com/threads/is-this-anyone-elses-first-gta-game-if-so-whats-different-this-time.1691960/</link>
       <guid isPermaLink="false">1691960</guid>
       <author>invalid@example.com (Kreb's Cyclist)</author>
       <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
       <dc:creator>Kreb's Cyclist</dc:creator>
       <content:encoded><![CDATA[Surprisingly, I don't think I've seen this thread... GTA has never been my thing. When everyone was going crazy over GTA 3 back in the day -- all I saw was a failed promise. I've never been a fan of the Open World premise, ever since Shenmue. I've always felt immersion breaking artifacts rise in proportion with the ambitions of the project. The more variety in dialogue - the more the instances where the dialogue is directed/limited stand out. The more buildings and rooms I can freely enter... Read more]]></content:encoded>
-      <slash:comments>5</slash:comments>
+      <slash:comments>11</slash:comments>
+    </item>
+    <item>
+      <title>Recommend me some 3rd party Switch 2 controllers, which are the best ones?</title>
+      <pubDate>Thu, 19 Nov 2026 11:55:15 +0000</pubDate>
+      <link>https://www.resetera.com/threads/recommend-me-some-3rd-party-switch-2-controllers-which-are-the-best-ones.1692077/</link>
+      <guid isPermaLink="false">1692077</guid>
+      <author>invalid@example.com (oni-link)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>oni-link</dc:creator>
+      <content:encoded><![CDATA[I have one Switch 2 Pro controller which is great, but ideally I want another controler for my gf, so she's spared from using the joycons Are there any good third party options that will def work on Switch 2, or that you would recommend? I'm also in the market for some thick Joycons that are the size of a regular controller, as the actual Joycons are not that conformable to me Any recommendations would be much appreciated, thanks!]]></content:encoded>
+      <slash:comments>9</slash:comments>
+    </item>
+    <item>
+      <title>Grand Theft Auto VI  | Photo Mode Thread</title>
+      <pubDate>Thu, 19 Nov 2026 11:02:51 +0000</pubDate>
+      <link>https://www.resetera.com/threads/grand-theft-auto-vi-photo-mode-thread.1691924/</link>
+      <guid isPermaLink="false">1691924</guid>
+      <author>invalid@example.com (Knightbat05)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Knightbat05</dc:creator>
+      <content:encoded><![CDATA[I was surprised to see that no one has created a photo thread for this game yet, so I decided to whip up this thread real quick. This game is beautiful, so share some nice shots of this game!]]></content:encoded>
+      <slash:comments>9</slash:comments>
+    </item>
+    <item>
+      <title>Among the ten games with the best reviews from the last 10 years, 7 are open world</title>
+      <pubDate>Thu, 19 Nov 2026 10:54:19 +0000</pubDate>
+      <link>https://www.resetera.com/threads/among-the-ten-games-with-the-best-reviews-from-the-last-10-years-7-are-open-world.1691600/</link>
+      <guid isPermaLink="false">1691600</guid>
+      <author>invalid@example.com (Glio)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Glio</dc:creator>
+      <content:encoded><![CDATA[I had a hunch after reading a post in the controversial takes thread, so I decided to check something on Metacritic. Excluding ports, like the Portal Collection or Tears of the Kingdom Switch 2 version, the ten highest-rated games from the last decade are: GTA VI Breath of the Wild Red Dead Redemption 2 Mario Odyssey Baldur's Gate 3 The House in Fata Morgana (play it, it's awesome!) Elden Ring Tears of the Kingdom Ocarina of Time Remake Hades 2 It's interesting to see that this is... Read more]]></content:encoded>
+      <slash:comments>103</slash:comments>
+    </item>
+    <item>
+      <title>Bandai announces Plakoro, a Pokemon dice battler table top game with miniatures and customizable dice</title>
+      <pubDate>Thu, 19 Nov 2026 09:55:48 +0000</pubDate>
+      <link>https://www.resetera.com/threads/bandai-announces-plakoro-a-pokemon-dice-battler-table-top-game-with-miniatures-and-customizable-dice.1691963/</link>
+      <guid isPermaLink="false">1691963</guid>
+      <author>invalid@example.com (Mandos)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Mandos</dc:creator>
+      <content:encoded><![CDATA[No English info yet so no real format or full lineup details yet, but a ton of product got announced, so first the official Japanese site: 404 NOT FOUND｜バンダイホビーサイト And the product page with all the current SKUs 404 NOT FOUND｜バンダイホビーサイト How to play video(Japanese) View: https://youtu.be/NHcnOfp1SgM And a look at the game... Read more]]></content:encoded>
+      <slash:comments>18</slash:comments>
+    </item>
+    <item>
+      <title>Grand Theft Auto VI: Photo Thread</title>
+      <pubDate>Thu, 19 Nov 2026 09:32:36 +0000</pubDate>
+      <link>https://www.resetera.com/threads/grand-theft-auto-vi-photo-thread.1692059/</link>
+      <guid isPermaLink="false">1692059</guid>
+      <author>invalid@example.com (Kadzork)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Kadzork</dc:creator>
+      <content:encoded><![CDATA[I feel that the fantastic general photo thread created by egg ( Thread Here ) is going to be overwhelmed soon enough so let's try and keep things contained in here for those who want to avoid as much as possible Just a couple of basic shots from the Pro to kick things off but similar to the above thread please be sure to post your platform of choice and let's try to stick to the consecutive posting rule in the original thread and to also be mindful of spoilers: You... Read more]]></content:encoded>
+      <slash:comments>4</slash:comments>
+    </item>
+    <item>
+      <title>Bandai Namco remembered The Tower of Druaga exists!</title>
+      <pubDate>Thu, 19 Nov 2026 09:14:09 +0000</pubDate>
+      <link>https://www.resetera.com/threads/bandai-namco-remembered-the-tower-of-druaga-exists.1692050/</link>
+      <guid isPermaLink="false">1692050</guid>
+      <author>invalid@example.com (SPI)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>SPI</dc:creator>
+      <content:encoded><![CDATA[...thanks to G-MODE! Yes, these are feature phone releases.. but it's great for preservation. G-MODE Archives continues to not offer translations or Steam Achievement support, but it's still wonderful to see a 'new' Druaga release in 2026... Read more]]></content:encoded>
+      <slash:comments>3</slash:comments>
+    </item>
+    <item>
+      <title>iRacing Career Mode releases December 2026</title>
+      <pubDate>Thu, 19 Nov 2026 09:12:09 +0000</pubDate>
+      <link>https://www.resetera.com/threads/iracing-career-mode-releases-december-2026.1691810/</link>
+      <guid isPermaLink="false">1691810</guid>
+      <author>invalid@example.com (Gangrel)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Gangrel</dc:creator>
+      <content:encoded><![CDATA[View: https://youtu.be/8EnxDkD0slA - Included with all memberships with no additional charge All cars and tracks you need for career are unlocked at no charge. Might try it out myself since i'm not that much of a competitive racer these days. Career Mode Types: Click to expand... Click to shrink...]]></content:encoded>
+      <slash:comments>12</slash:comments>
+    </item>
+    <item>
+      <title>Today Marks the 60th Birthday of Monolith Soft's Tetsuya Takahashi</title>
+      <pubDate>Thu, 19 Nov 2026 08:09:09 +0000</pubDate>
+      <link>https://www.resetera.com/threads/today-marks-the-60th-birthday-of-monolith-softs-tetsuya-takahashi.1691948/</link>
+      <guid isPermaLink="false">1691948</guid>
+      <author>invalid@example.com (Zeal543)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Zeal543</dc:creator>
+      <content:encoded><![CDATA[Happy birthday to a legend and one of the best to do it in the jRPG space. Takahashi was involved with Falcom and Squaresoft during their respective golden years before establishing/co-founding Monolith Soft. Best known for the Xeno series but also had a hand in other major series like Final Fantasy and Chrono. Here's wishing to a successful new arc with Xenoblade and whatever else may come.]]></content:encoded>
+      <slash:comments>31</slash:comments>
+    </item>
+    <item>
+      <title>ALTTP2 or A Link Between Worlds</title>
+      <pubDate>Thu, 19 Nov 2026 07:47:04 +0000</pubDate>
+      <link>https://www.resetera.com/threads/alttp2-or-a-link-between-worlds.1691990/</link>
+      <guid isPermaLink="false">1691990</guid>
+      <author>invalid@example.com (Dazed&lt;3)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Dazed&lt;3</dc:creator>
+      <content:encoded><![CDATA[I recently picked up a 3DS because I have never played A Link Between Worlds, and without it I didn't have a link to the party. Jokes aside, I've been really wanting to play this for a bit and to the chagrin of my partner, I've added another video game thing to the apartment. Thankfully this fits pretty neatly in a drawer. First of all, this is easily my favourite use of 3D on the system. I had a 3DS back in the day, and always liked the 3D but felt like most games didn't really use it in a... Read more]]></content:encoded>
+      <slash:comments>12</slash:comments>
+    </item>
+    <item>
+      <title>Now that GTA 6 has finally been released, is anyone else relieved We Don't have to hear about rumors/leaks about it anymore?</title>
+      <pubDate>Thu, 19 Nov 2026 07:32:22 +0000</pubDate>
+      <link>https://www.resetera.com/threads/now-that-gta-6-has-finally-been-released-is-anyone-else-relieved-we-dont-have-to-hear-about-rumors-leaks-about-it-anymore.1692005/</link>
+      <guid isPermaLink="false">1692005</guid>
+      <author>invalid@example.com (Cooldude97)</author>
+      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
+      <dc:creator>Cooldude97</dc:creator>
+      <content:encoded><![CDATA[No more looking for secret codes in GTA5, no more "my cousin works with an artist who says their song will be in the game," no more hanging on every word or tweet from Rockstar trying to determine when the game comes out, no more batshit other stuff that I can't remember anymore. I feel a relief wash over me (till Red Dead 3 comes out in 5-10 years)]]></content:encoded>
+      <slash:comments>24</slash:comments>
+    </item>
+    <item>
+      <title>On the eve of GTA VI, 1600 Rockstar employees will vote on unionizing</title>
+      <pubDate>Thu, 19 Nov 2026 07:32:08 +0000</pubDate>
+      <link>https://www.resetera.com/threads/on-the-eve-of-gta-vi-1600-rockstar-employees-will-vote-on-unionizing.1691681/</link>
+      <guid isPermaLink="false">1691681</guid>
+      <author>invalid@example.com (Saucycarpdog)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Saucycarpdog</dc:creator>
+      <content:encoded><![CDATA[https://www.pcgamer.com/gaming-industry/we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar-workers-are-voting-on-unionization/ As Rockstar is poised to set historic records with its latest release, the workers who made it could be making history of its own: Over 1,600 Rockstar employees in the UK are currently voting on whether to form a union. If it wins recognition when the ballot closes on November 26, the Rockstar Games Workers Union would be the largest in the UK... Click to expand... Click to shrink... Read more]]></content:encoded>
+      <slash:comments>41</slash:comments>
+    </item>
+    <item>
+      <title>Final Fantasy VII Remake is $7.19 and Final Fantasy VII Rebirth is $7.49 on Steam</title>
+      <pubDate>Thu, 19 Nov 2026 07:29:00 +0000</pubDate>
+      <link>https://www.resetera.com/threads/final-fantasy-vii-remake-is-7-19-and-final-fantasy-vii-rebirth-is-7-49-on-steam.1691558/</link>
+      <guid isPermaLink="false">1691558</guid>
+      <author>invalid@example.com (Mocha Joe)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Mocha Joe</dc:creator>
+      <content:encoded><![CDATA[View: https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/ View: https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/ I think this is a new historical low across any store / platform? If you wait a day or two, Green Man Gaming might make it another 20% cheaper Mod Recommendations for Rebirth: jediyoshi said: Obligatory link to the async shader mod for Rebirth to reduce stutters https://www.nexusmods.com/finalfantasy7rebirth/mods/2107 Shader injector... Click to expand... Click to shrink... Read more]]></content:encoded>
+      <slash:comments>56</slash:comments>
+    </item>
+    <item>
+      <title>If You Were a Kid Again And Your Parents Only Got You Games For Your Birthday And Christmas, What 3 Games Would You Ask For This Christmas?</title>
+      <pubDate>Thu, 19 Nov 2026 07:23:40 +0000</pubDate>
+      <link>https://www.resetera.com/threads/if-you-were-a-kid-again-and-your-parents-only-got-you-games-for-your-birthday-and-christmas-what-3-games-would-you-ask-for-this-christmas.1691708/</link>
+      <guid isPermaLink="false">1691708</guid>
+      <author>invalid@example.com (Cooldude97)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Cooldude97</dc:creator>
+      <content:encoded><![CDATA[Ocarina of Time, GTA6, Star Wars Galactic Racer]]></content:encoded>
+      <slash:comments>64</slash:comments>
     </item>
     <item>
       <title>Looking to buy a new AVR and TV. Could use help.</title>
@@ -141,17 +361,6 @@
       <slash:comments>5</slash:comments>
     </item>
     <item>
-      <title>Bandai announces Plakoro, a Pokemon dice battler table top game with miniatures and customizable dice</title>
-      <pubDate>Thu, 19 Nov 2026 02:58:11 +0000</pubDate>
-      <link>https://www.resetera.com/threads/bandai-announces-plakoro-a-pokemon-dice-battler-table-top-game-with-miniatures-and-customizable-dice.1691963/</link>
-      <guid isPermaLink="false">1691963</guid>
-      <author>invalid@example.com (Mandos)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Mandos</dc:creator>
-      <content:encoded><![CDATA[No English info yet so no real format or full lineup details yet, but a ton of product got announced, so first the official Japanese site: 404 NOT FOUND｜バンダイホビーサイト And the product page with all the current SKUs 404 NOT FOUND｜バンダイホビーサイト How to play video(Japanese) View: https://youtu.be/NHcnOfp1SgM And a look at the game... Read more]]></content:encoded>
-      <slash:comments>7</slash:comments>
-    </item>
-    <item>
       <title>1600x1200 CRT memories</title>
       <pubDate>Thu, 19 Nov 2026 02:44:04 +0000</pubDate>
       <link>https://www.resetera.com/threads/1600x1200-crt-memories.1691867/</link>
@@ -161,39 +370,6 @@
       <dc:creator>spookycool</dc:creator>
       <content:encoded><![CDATA[tell your stories, i guess i loved pc gaming on mine. loved maxing out half life 2 on that thing. the image quality was so good. just had to degauss it occasionally. i used this monitor well before i had an HDTV, so it was a bit on a glimpse into the future. it lasted me from the year 2000 until like 2009 as my pc monitor i think mine was 75hz?]]></content:encoded>
       <slash:comments>21</slash:comments>
-    </item>
-    <item>
-      <title>We might be in the Golden Age of gaming but...</title>
-      <pubDate>Thu, 19 Nov 2026 02:43:52 +0000</pubDate>
-      <link>https://www.resetera.com/threads/we-might-be-in-the-golden-age-of-gaming-but.1691957/</link>
-      <guid isPermaLink="false">1691957</guid>
-      <author>invalid@example.com (Omnistalgic)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Omnistalgic</dc:creator>
-      <content:encoded><![CDATA[We can't see the forest for the trees and really, who can blame us . The industry is undeniably in a state of flux. Consistent layoffs, closures, and what could be considered a bubble (like AI) that's overdue for market correction. Even by online standards, social media around gaming is overwhelmingly negative, with a wave of protest and public outrage against Sony's decision to end physical disc in 2028, rising costs of hardware and software services, and studio closures of... Read more]]></content:encoded>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>iRacing Career Mode releases December 2026</title>
-      <pubDate>Thu, 19 Nov 2026 02:43:13 +0000</pubDate>
-      <link>https://www.resetera.com/threads/iracing-career-mode-releases-december-2026.1691810/</link>
-      <guid isPermaLink="false">1691810</guid>
-      <author>invalid@example.com (Gangrel)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Gangrel</dc:creator>
-      <content:encoded><![CDATA[View: https://youtu.be/8EnxDkD0slA - Included with all memberships with no additional charge All cars and tracks you need for career are unlocked at no charge. Might try it out myself since i'm not that much of a competitive racer these days. Career Mode Types: Click to expand... Click to shrink...]]></content:encoded>
-      <slash:comments>10</slash:comments>
-    </item>
-    <item>
-      <title>[Eurogamer] Clair Obscur's narrative lead has left developer Sandfall Interactive</title>
-      <pubDate>Thu, 19 Nov 2026 02:35:51 +0000</pubDate>
-      <link>https://www.resetera.com/threads/eurogamer-clair-obscurs-narrative-lead-has-left-developer-sandfall-interactive.1691267/</link>
-      <guid isPermaLink="false">1691267</guid>
-      <author>invalid@example.com (Son of Sparda)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Son of Sparda</dc:creator>
-      <content:encoded><![CDATA[Didn't see a thread for this. In the aftermath of her win, Svedberg-Yen dropped a pretty big bombshell: she's no longer with the game's developer, Sandfall Interactive. "No, I left Sandfall in July, after wrapping up some final stuff for Expedition," she told Gamesbeat when asked if she's still with the company. "We've parted ways." As to what Svedberg-Yen is doing next, she offered a cryptic answer, including talk of writing "my own projects, my own stories". She also discussed... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>51</slash:comments>
     </item>
     <item>
       <title>GTA 6 outlaws furries and lets you help them escape the cops"uwu," "rawr xD," "hewwo."</title>
@@ -218,61 +394,6 @@
       <slash:comments>27</slash:comments>
     </item>
     <item>
-      <title>Grand Theft Auto VI  | Photo Mode Thread</title>
-      <pubDate>Thu, 19 Nov 2026 02:03:21 +0000</pubDate>
-      <link>https://www.resetera.com/threads/grand-theft-auto-vi-photo-mode-thread.1691924/</link>
-      <guid isPermaLink="false">1691924</guid>
-      <author>invalid@example.com (Knightbat05)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Knightbat05</dc:creator>
-      <content:encoded><![CDATA[I was surprised to see that no one has created a photo thread for this game yet, so I decided to whip up this thread real quick. This game is beautiful, so share some nice shots of this game!]]></content:encoded>
-      <slash:comments>2</slash:comments>
-    </item>
-    <item>
-      <title>Grand Theft Auto VI has seemingly broken the record for peak concurrent viewers of a single game in Twitch history</title>
-      <pubDate>Thu, 19 Nov 2026 02:02:27 +0000</pubDate>
-      <link>https://www.resetera.com/threads/grand-theft-auto-vi-has-seemingly-broken-the-record-for-peak-concurrent-viewers-of-a-single-game-in-twitch-history.1691258/</link>
-      <guid isPermaLink="false">1691258</guid>
-      <author>invalid@example.com (Truno)</author>
-      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
-      <dc:creator>Truno</dc:creator>
-      <content:encoded><![CDATA["Seemingly" as it's not an official metric reported by Twitch. Twitch Tracker provides a list of the highest recorded number of concurrent viewers of all time for Twitch categories: Twitch Games With The Highest Viewers Ever, April 2021 List of the highest recorded number of concurrent viewers of all time twitchtracker.com Number #1 is "Special Events" with 3.92M peak live viewers, but this is a category that isn't specific to a single video game. The record for a videogame (according to the site) is 3.11M by League of Legends. Grand Theft Auto VI currently has 3.3M live viewers... Read more]]></content:encoded>
-      <slash:comments>51</slash:comments>
-    </item>
-    <item>
-      <title>Indie dev reveals revenue from Steam vs. Epic Store (and Play Store, App Store)</title>
-      <pubDate>Thu, 19 Nov 2026 01:59:53 +0000</pubDate>
-      <link>https://www.resetera.com/threads/indie-dev-reveals-revenue-from-steam-vs-epic-store-and-play-store-app-store.1691420/</link>
-      <guid isPermaLink="false">1691420</guid>
-      <author>invalid@example.com (dex3108)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>dex3108</dc:creator>
-      <content:encoded><![CDATA[VuVuu Inc. , the sole game dev behind Tiny Terraces and Otok, noted that there is a pretty huge difference for them between the two platforms. "In a year for Tiny Terraces, I got $136,195 pre tax from Steam vs $916 pre tax from Epic," they said on November 17. "About 79% of that is roughly the after tax final number I kept," the developer added after another user quizzed them on the exact amount they made. Click to expand... Click to shrink... VuVuu Inc also criticised Epic's dashboard as being "kinda doo... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>84</slash:comments>
-    </item>
-    <item>
-      <title>On the eve of GTA VI, 1600 Rockstar employees will vote on unionizing</title>
-      <pubDate>Thu, 19 Nov 2026 01:34:15 +0000</pubDate>
-      <link>https://www.resetera.com/threads/on-the-eve-of-gta-vi-1600-rockstar-employees-will-vote-on-unionizing.1691681/</link>
-      <guid isPermaLink="false">1691681</guid>
-      <author>invalid@example.com (Saucycarpdog)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Saucycarpdog</dc:creator>
-      <content:encoded><![CDATA[https://www.pcgamer.com/gaming-industry/we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar-workers-are-voting-on-unionization/ As Rockstar is poised to set historic records with its latest release, the workers who made it could be making history of its own: Over 1,600 Rockstar employees in the UK are currently voting on whether to form a union. If it wins recognition when the ballot closes on November 26, the Rockstar Games Workers Union would be the largest in the UK... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>35</slash:comments>
-    </item>
-    <item>
-      <title>Volvy's Adventure: Reslimed - Launch Trailer - Out November 19th</title>
-      <pubDate>Thu, 19 Nov 2026 00:56:25 +0000</pubDate>
-      <link>https://www.resetera.com/threads/volvys-adventure-reslimed-launch-trailer-out-november-19th.1691324/</link>
-      <guid isPermaLink="false">1691324</guid>
-      <author>invalid@example.com (Uzzy)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Uzzy</dc:creator>
-      <content:encoded><![CDATA[View: https://youtu.be/4x6Si6-dfcM Nothing else coming out tomorrow matters. I think this trailer is a Hotline Miami reference? View: https://store.steampowered.com/app/4523120/Volvys_Adventure_Reslimed/ Can't wait.]]></content:encoded>
-      <slash:comments>23</slash:comments>
-    </item>
-    <item>
       <title>Do you have a actively-used "Flight to New Zealand" PlayStation account? Would you consider it worthwhile?</title>
       <pubDate>Thu, 19 Nov 2026 00:55:28 +0000</pubDate>
       <link>https://www.resetera.com/threads/do-you-have-a-actively-used-flight-to-new-zealand-playstation-account-would-you-consider-it-worthwhile.1691861/</link>
@@ -284,17 +405,6 @@
       <slash:comments>17</slash:comments>
     </item>
     <item>
-      <title>If You Were a Kid Again And Your Parents Only Got You Games For Your Birthday And Christmas, What 3 Games Would You Ask For This Christmas?</title>
-      <pubDate>Thu, 19 Nov 2026 00:44:56 +0000</pubDate>
-      <link>https://www.resetera.com/threads/if-you-were-a-kid-again-and-your-parents-only-got-you-games-for-your-birthday-and-christmas-what-3-games-would-you-ask-for-this-christmas.1691708/</link>
-      <guid isPermaLink="false">1691708</guid>
-      <author>invalid@example.com (Cooldude97)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Cooldude97</dc:creator>
-      <content:encoded><![CDATA[Ocarina of Time, GTA6, Star Wars Galactic Racer]]></content:encoded>
-      <slash:comments>59</slash:comments>
-    </item>
-    <item>
       <title>Kirby Crochet Kit Now Available. Nintendo x Woobles Partnership</title>
       <pubDate>Thu, 19 Nov 2026 00:16:12 +0000</pubDate>
       <link>https://www.resetera.com/threads/kirby-crochet-kit-now-available-nintendo-x-woobles-partnership.1691702/</link>
@@ -304,28 +414,6 @@
       <dc:creator>Xterrian</dc:creator>
       <content:encoded><![CDATA[The Woobles Kirby Crochet Kit - Nintendo Official Site Shop The Woobles Kirby Crochet Kit at Nintendo Store. See product details, pricing, and availability. www.nintendo.com Woobles is a company that makes their amigurumi kits beginner-friendly as possible. Everything comes pre-packaged and each kit has step-by-step video instructions... Read more]]></content:encoded>
       <slash:comments>35</slash:comments>
-    </item>
-    <item>
-      <title>Final Fantasy VII Remake is $7.19 and Final Fantasy VII Rebirth is $7.49 on Steam</title>
-      <pubDate>Thu, 19 Nov 2026 00:02:55 +0000</pubDate>
-      <link>https://www.resetera.com/threads/final-fantasy-vii-remake-is-7-19-and-final-fantasy-vii-rebirth-is-7-49-on-steam.1691558/</link>
-      <guid isPermaLink="false">1691558</guid>
-      <author>invalid@example.com (Mocha Joe)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Mocha Joe</dc:creator>
-      <content:encoded><![CDATA[View: https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/ View: https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/ I think this is a new historical low across any store / platform? If you wait a day or two, Green Man Gaming might make it another 20% cheaper Mod Recommendations for Rebirth: jediyoshi said: Obligatory link to the async shader mod for Rebirth to reduce stutters https://www.nexusmods.com/finalfantasy7rebirth/mods/2107 Shader injector... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>52</slash:comments>
-    </item>
-    <item>
-      <title>Happy 10th Anniversary to Pokemon Sun and Pokemon Moon!</title>
-      <pubDate>Thu, 19 Nov 2026 00:01:18 +0000</pubDate>
-      <link>https://www.resetera.com/threads/happy-10th-anniversary-to-pokemon-sun-and-pokemon-moon.1691219/</link>
-      <guid isPermaLink="false">1691219</guid>
-      <author>invalid@example.com (ContractHolder)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>ContractHolder</dc:creator>
-      <content:encoded><![CDATA[View: https://youtu.be/8CF_m4cPs2g?is=8wm_p91girMwUswd The last mainline, first in the generation (because I know one of you is going to bring up the Ultras if I don't say that) games to be made for a dedicated handheld console. From here on the next gen Pokemon games would be for hybrid consoles. Also the 20th anniversary titles!]]></content:encoded>
-      <slash:comments>102</slash:comments>
     </item>
     <item>
       <title>Will devs and publisher avoid releasing their games near the Launch Of GTA6 Online next year like with GTA6 this year (outside Nintendo and indies)</title>
@@ -350,28 +438,6 @@
       <slash:comments>9</slash:comments>
     </item>
     <item>
-      <title>8bitdo announces Gamecube-ish controller (Wavebird)</title>
-      <pubDate>Wed, 18 Nov 2026 23:13:16 +0000</pubDate>
-      <link>https://www.resetera.com/threads/8bitdo-announces-gamecube-ish-controller-wavebird.1691321/</link>
-      <guid isPermaLink="false">1691321</guid>
-      <author>invalid@example.com (E_i)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>E_i</dc:creator>
-      <content:encoded><![CDATA[View: https://bsky.app/profile/wario64.bsky.social/post/3n2lwn7qobx2c $49.99 Cheaper than Nintendo's.]]></content:encoded>
-      <slash:comments>69</slash:comments>
-    </item>
-    <item>
-      <title>[BBC] GTA staff sacked as 'shock tactic' to punish trade union activity</title>
-      <pubDate>Wed, 18 Nov 2026 20:57:03 +0000</pubDate>
-      <link>https://www.resetera.com/threads/bbc-gta-staff-sacked-as-shock-tactic-to-punish-trade-union-activity.1691189/</link>
-      <guid isPermaLink="false">1691189</guid>
-      <author>invalid@example.com (Zonic)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Zonic</dc:creator>
-      <content:encoded><![CDATA[Grand Theft Auto staff sacked as 'shock tactic' to punish trade union activity, tribunal hears The claim was made during closing submissions in a case brought by 23 former employees who said they were sacked for trying to unionise. www.bbc.com The dismissal of 34 workers from Rockstar North were the tactics of "shock and awe" designed to punish trade union activity, an employment tribunal has heard. The claim was made during closing submissions in a case brought by 23 former employees who said they were sacked for trying to unionise. The gaming giant behind Grand Theft Auto, said it took…]]></content:encoded>
-      <slash:comments>49</slash:comments>
-    </item>
-    <item>
       <title>SteamDB: What we've been up to since joining Nexus Mods</title>
       <pubDate>Wed, 18 Nov 2026 20:51:05 +0000</pubDate>
       <link>https://www.resetera.com/threads/steamdb-what-weve-been-up-to-since-joining-nexus-mods.1691651/</link>
@@ -381,72 +447,6 @@
       <dc:creator>Hiawatha</dc:creator>
       <content:encoded><![CDATA[What We've Been Working On It's been a couple of months since SteamDB joined Nexus Mods, so here's an update on what we've been working on and what's coming next. Back in September, we announced that SteamDB was joining Nexus Mods . We knew that news would naturally raise some questions about what this would mean, what might change, and what the future of the site would look like. Our goal isn't to change what makes SteamDB such a valuable resource for the PC gaming... Click to expand... Click to shrink... Read more]]></content:encoded>
       <slash:comments>2</slash:comments>
-    </item>
-    <item>
-      <title>Winners of the 2026 IFComp (Interactive fiction!)</title>
-      <pubDate>Wed, 18 Nov 2026 20:17:31 +0000</pubDate>
-      <link>https://www.resetera.com/threads/winners-of-the-2026-ifcomp-interactive-fiction.1691417/</link>
-      <guid isPermaLink="false">1691417</guid>
-      <author>invalid@example.com (makonero)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>makonero</dc:creator>
-      <content:encoded><![CDATA[The winners of the 2026 IFComp were posted, and I just played through the winner, Scavs. Very cool little game, definitely felt like a modern upgrade of old-school text adventures. Very emotional story; really recommend it! Haven't played the others yet, but I love this stuff. If you like a good narrative game, give these a shot! IFComp 2026 Winner: SCAVS by David Hunter ... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>3</slash:comments>
-    </item>
-    <item>
-      <title>Apple announces the finalists for the 2026 App Store Awards</title>
-      <pubDate>Wed, 18 Nov 2026 18:59:54 +0000</pubDate>
-      <link>https://www.resetera.com/threads/apple-announces-the-finalists-for-the-2026-app-store-awards.1691513/</link>
-      <guid isPermaLink="false">1691513</guid>
-      <author>invalid@example.com (mazi)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>mazi</dc:creator>
-      <content:encoded><![CDATA[Meet the 2026 App Store Award finalists Apple announced the finalists for the 2026 App Store Awards, recognizing 45 developers from around the world for exceptional apps and games. www.apple.com Today, Apple announced 45 finalists for this year's App Store Awards, celebrating developers from around the world whose apps and games exemplify the very best in technical innovation, user experience, and design. This year's finalists span iPhone, iPad, Mac, Apple Vision Pro, Apple Watch, Apple TV, and Apple Arcade, as well as the Cultural Impact category. Winners will be announced in the coming…]]></content:encoded>
-      <slash:comments>3</slash:comments>
-    </item>
-    <item>
-      <title>Superman Returns (Xbox 360) Running Natively on PC - 4K 120 FPS Static Recompilation</title>
-      <pubDate>Wed, 18 Nov 2026 18:06:25 +0000</pubDate>
-      <link>https://www.resetera.com/threads/superman-returns-xbox-360-running-natively-on-pc-4k-120-fps-static-recompilation.1691471/</link>
-      <guid isPermaLink="false">1691471</guid>
-      <author>invalid@example.com (DecoyoctopusV)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>DecoyoctopusV</dc:creator>
-      <content:encoded><![CDATA[Saw this on Youtube and it looked pretty interesting but I don't know anything about this modder. I think this is easily the best Superman game. The open-world city is huge and flying is very fun. The modder added ability to fly to space 3:05 and the classic music: View: https://youtu.be/AimdKLbNOP8?si=powXOhp3BDcVbGtv Superman Returns: The Video Game (Xbox 360), running natively on Windows through static recompilation - not an emulator. The game's original PowerPC code is translated... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>10</slash:comments>
-    </item>
-    <item>
-      <title>What would you tell someone playing GTA for the first time tomorrow? (Spoiler free chat)</title>
-      <pubDate>Wed, 18 Nov 2026 17:48:04 +0000</pubDate>
-      <link>https://www.resetera.com/threads/what-would-you-tell-someone-playing-gta-for-the-first-time-tomorrow-spoiler-free-chat.1691318/</link>
-      <guid isPermaLink="false">1691318</guid>
-      <author>invalid@example.com (Mark1)</author>
-      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
-      <dc:creator>Mark1</dc:creator>
-      <content:encoded><![CDATA[The reviews are absolutely mind-blowing. I'm guessing there'll be quite a few people trying GTA for the first time tomorrow, me included. For those of you who've been playing these games for years, what advice would you give us? Anything worth knowing beforehand, or things you'd recommend taking our time with? Would love to hear what got you hooked in the first place too. People have so much love for this series, and I'm looking forward to finding out why for myself. Keep it spoiler... Read more]]></content:encoded>
-      <slash:comments>29</slash:comments>
-    </item>
-    <item>
-      <title>KFC Spain's new promo: Bring a code in a box game, get a fried chicken disc</title>
-      <pubDate>Wed, 18 Nov 2026 17:38:18 +0000</pubDate>
-      <link>https://www.resetera.com/threads/kfc-spains-new-promo-bring-a-code-in-a-box-game-get-a-fried-chicken-disc.1691216/</link>
-      <guid isPermaLink="false">1691216</guid>
-      <author>invalid@example.com (Capricorn)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Capricorn</dc:creator>
-      <content:encoded><![CDATA[Let's face it, everyone and their mother is trying to cash in and capitalize on GTA VI's release. But KFC Spain is going for a different angle: mocking Rockstar's decision to not have a proper physical version of the game, instead opting to only offer a code in a box in stores. As part of their new Replace the Disc campaign, customers will be able to get a free donut shaped piece of fried chicken to fill their empty game boxes for a few hours in the next couple of days. Here's the... Read more]]></content:encoded>
-      <slash:comments>24</slash:comments>
-    </item>
-    <item>
-      <title>The Nintendo Wii and Zelda: Twilight Princess are 20 years old</title>
-      <pubDate>Wed, 18 Nov 2026 17:20:07 +0000</pubDate>
-      <link>https://www.resetera.com/threads/the-nintendo-wii-and-zelda-twilight-princess-are-20-years-old.1691180/</link>
-      <guid isPermaLink="false">1691180</guid>
-      <author>invalid@example.com (Uzumaki Goku)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Uzumaki Goku</dc:creator>
-      <content:encoded><![CDATA[I'll never forget that launch. I went to Best Buy early in the morning. Was the last person to get a ticket to buy the console. Spent all day playing Zelda. Lol I guess nothing's changed]]></content:encoded>
-      <slash:comments>26</slash:comments>
     </item>
   </channel>
 </rss>
