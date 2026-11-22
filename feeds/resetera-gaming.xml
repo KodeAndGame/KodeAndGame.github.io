@@ -3,109 +3,241 @@
   <channel>
     <title>Gaming Forum</title>
     <description>The latest video game news, discussions, announcements, industry gossip, sales figures, bargains and reviews. The pulse of the gaming industry.</description>
-    <pubDate>Sun, 22 Nov 2026 07:25:45 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 07:25:45 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 15:38:01 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:38:01 +0000</lastBuildDate>
     <generator>ResetEra</generator>
     <link>https://www.resetera.com/</link>
     <atom:link rel="self" type="application/rss+xml" href="https://www.resetera.com/forums/gaming-forum.7/index.rss"/>
     <item>
-      <title>So what do you think of Noctis Lucis Caelum</title>
-      <pubDate>Sun, 22 Nov 2026 07:23:40 +0000</pubDate>
-      <link>https://www.resetera.com/threads/so-what-do-you-think-of-noctis-lucis-caelum.1694585/</link>
-      <guid isPermaLink="false">1694585</guid>
-      <author>invalid@example.com (PhoenixAKG)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>PhoenixAKG</dc:creator>
-      <content:encoded><![CDATA[So Noctis Lucis Caelum: Is the protagonist of Final Fantassy XV. XV itself is divise but what do people think of Noctis himself?]]></content:encoded>
-      <slash:comments>7</slash:comments>
-    </item>
-    <item>
-      <title>[BNK] “Dramatic Drop” in memory prices expected by mid-2027 as demand cools and channel inventory gluts slow new orders</title>
-      <pubDate>Sun, 22 Nov 2026 07:15:25 +0000</pubDate>
-      <link>https://www.resetera.com/threads/bnk-%E2%80%9Cdramatic-drop%E2%80%9D-in-memory-prices-expected-by-mid-2027-as-demand-cools-and-channel-inventory-gluts-slow-new-orders.1694165/</link>
-      <guid isPermaLink="false">1694165</guid>
-      <author>invalid@example.com (modiz)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>modiz</dc:creator>
-      <content:encoded><![CDATA["Dramatic Drop" in Memory Prices Expected by Mid-2027 as Demand Cools and Channel Inventory Gluts Slow New Orders, Says Korean Financial Firm Most of 2026 went by with inflated prices for DDR5 memory, SSDs, and GPUs but next year may finally bring relief from gamers and tech companies producing consumer electronics, at least according to one market analysis report on SK Hynix coming out of Seoul, Korea. BNK Investment & Securities... respawnfirst.com BNK Investment & Securities analyst Lee Min-hee shares a detailed report warning end-user memory demand has passed its peak and predicted that…]]></content:encoded>
-      <slash:comments>220</slash:comments>
-    </item>
-    <item>
-      <title>What is the next gen console price that would lose the average consumer?</title>
-      <pubDate>Sun, 22 Nov 2026 07:14:48 +0000</pubDate>
-      <link>https://www.resetera.com/threads/what-is-the-next-gen-console-price-that-would-lose-the-average-consumer.1694531/</link>
-      <guid isPermaLink="false">1694531</guid>
-      <author>invalid@example.com (Krombopulos_MK)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Krombopulos_MK</dc:creator>
-      <content:encoded><![CDATA[Alright, we all know next gen consoles are going to require a mortgage. But what do you think the threshold price is that makes these boxes an enthusiast niche no matter what? $500 seems to have tolerated really well this whole gen, and then slumped off as prices went up. But how much more can console makers charge before the average person tells them to fuck off?]]></content:encoded>
-      <slash:comments>52</slash:comments>
-    </item>
-    <item>
-      <title>how did rockstar keep its temporal anti-aliasing from eating all of leonida's powerlines?</title>
-      <pubDate>Sun, 22 Nov 2026 07:10:26 +0000</pubDate>
-      <link>https://www.resetera.com/threads/how-did-rockstar-keep-its-temporal-anti-aliasing-from-eating-all-of-leonidas-powerlines.1694420/</link>
-      <guid isPermaLink="false">1694420</guid>
-      <author>invalid@example.com (spookycool)</author>
-      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
-      <dc:creator>spookycool</dc:creator>
-      <content:encoded><![CDATA[like many places, florida has a lot of powerlines. TAA has the bad habit of eliminating small lines of detail in the distance/ with TAA enabled you'd expect all those powerlines to munched out of existence at certain angles and at certain distances. but they shine thick, long and tall as far as the eye can see. what sorcery is this? did they put all the powerlines on a separate render pass so this wouldn't happen?]]></content:encoded>
-      <slash:comments>16</slash:comments>
-    </item>
-    <item>
-      <title>Here’s a game you don’t see mentioned much anymore, too human</title>
-      <pubDate>Sun, 22 Nov 2026 07:04:16 +0000</pubDate>
-      <link>https://www.resetera.com/threads/here%E2%80%99s-a-game-you-don%E2%80%99t-see-mentioned-much-anymore-too-human.1694582/</link>
-      <guid isPermaLink="false">1694582</guid>
-      <author>invalid@example.com (Multievolution)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Multievolution</dc:creator>
-      <content:encoded><![CDATA[View: https://m.youtube.com/watch?v=xI3AWpZMJwU&pp=ygURVG9vIGh1bWFuIHRlYWlsZXI%3D&ra=m Set in a futuristic setting using Norse god mythology, I remember this game so much leading up to its release. It was an interesting concept, I recall the sound effects and music were pretty memorable, gameplay a little less so. It seems it was a game that struggled for a decade to get made, and was to be a trilogy, but they lost a court case over their use of unreal engine 3, and were forced to destroy... Read more]]></content:encoded>
-      <slash:comments>12</slash:comments>
-    </item>
-    <item>
-      <title>Zelda fans, now that Ocarina of Time has voice acting, what names did you find out you have been mispronouncing this whole time?</title>
-      <pubDate>Sun, 22 Nov 2026 06:53:57 +0000</pubDate>
-      <link>https://www.resetera.com/threads/zelda-fans-now-that-ocarina-of-time-has-voice-acting-what-names-did-you-find-out-you-have-been-mispronouncing-this-whole-time.1693886/</link>
-      <guid isPermaLink="false">1693886</guid>
-      <author>invalid@example.com (GreenMamba)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>GreenMamba</dc:creator>
-      <content:encoded><![CDATA[There were a bunch I was wrong on: Kokiri: I've always put emphasis on the first syllable, but according to this game the emphasis is actually on the second. "ko-KI-ri." Navi: I've been saying it like the first half of the world "navigate," the game says "Nah-vee." Farore: Always said "Fair-ore", but this game says it is a three syllable word, "fa-roh-ray." Saria: I pronounced it like the name Maria, but this game says it's pronounced like the word aria, with the emphasis on the first... Read more]]></content:encoded>
-      <slash:comments>137</slash:comments>
-    </item>
-    <item>
-      <title>The “Mao Zedong”-like NPC in *GTA 6* is gone! Major design changes after launch</title>
-      <pubDate>Sun, 22 Nov 2026 06:52:04 +0000</pubDate>
-      <link>https://www.resetera.com/threads/the-%E2%80%9Cmao-zedong%E2%80%9D-like-npc-in-gta-6-is-gone-major-design-changes-after-launch.1694558/</link>
-      <guid isPermaLink="false">1694558</guid>
-      <author>invalid@example.com (SilentPanda)</author>
-      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
-      <dc:creator>SilentPanda</dc:creator>
-      <content:encoded><![CDATA[Before After... Read more]]></content:encoded>
-      <slash:comments>9</slash:comments>
-    </item>
-    <item>
-      <title>"I've only sold five copies of GTA 6", says shop owner. The slow end of physical presence in small retail shops.</title>
-      <pubDate>Sun, 22 Nov 2026 06:44:10 +0000</pubDate>
-      <link>https://www.resetera.com/threads/ive-only-sold-five-copies-of-gta-6-says-shop-owner-the-slow-end-of-physical-presence-in-small-retail-shops.1694501/</link>
-      <guid isPermaLink="false">1694501</guid>
+      <title>Grand Theft Auto VI Hits 60 FPS and Above on Xbox Series X Through a Quick Resume Glitch, but Gameplay Runs at Double Speed</title>
+      <pubDate>Sun, 22 Nov 2026 15:37:25 +0000</pubDate>
+      <link>https://www.resetera.com/threads/grand-theft-auto-vi-hits-60-fps-and-above-on-xbox-series-x-through-a-quick-resume-glitch-but-gameplay-runs-at-double-speed.1694258/</link>
+      <guid isPermaLink="false">1694258</guid>
       <author>invalid@example.com (delete12345)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
       <dc:creator>delete12345</dc:creator>
-      <content:encoded><![CDATA[The owner of an independent game shop says he has only sold five copies of the highly anticipated open-world action-adventure Grand Theft Auto 6. GTA 6, as it is known, is estimated to become the biggest entertainment launch in history following the blockbuster video game's debut on Thursday, after a 13-year wait. Click to expand... Click to shrink... But Richard Tewksbury, who runs Super Game Shack in the Silver Arcade in Leicester, said he had seen "embarrassing" sales of the game because it was only released... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>96</slash:comments>
+      <content:encoded><![CDATA[In true Rockstar Games tradition, Grand Theft Auto VI launched with a 30 FPS target on PlayStation 5 and Xbox Series X|S due to technical reasons, as even the PlayStation 5 Pro's CPU cannot handle the game's complex simulation at 60 FPS. However, besides using some PC tools to bring the framerate of streamed console gameplay up to 60 FPS or higher, there's a way to enjoy the latest entry in the series at an unlocked framerate on Xbox Series X via a glitch, though with some catches. Click to expand... Click to shrink... ... Read more]]></content:encoded>
+      <slash:comments>167</slash:comments>
+    </item>
+    <item>
+      <title>If Kingdom Hearts ever goes to a Star Wars world, what movie do you think they'll pick first?</title>
+      <pubDate>Sun, 22 Nov 2026 15:35:32 +0000</pubDate>
+      <link>https://www.resetera.com/threads/if-kingdom-hearts-ever-goes-to-a-star-wars-world-what-movie-do-you-think-theyll-pick-first.1694450/</link>
+      <guid isPermaLink="false">1694450</guid>
+      <author>invalid@example.com (Teusery)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Teusery</dc:creator>
+      <content:encoded><![CDATA[Both are owned by Disney so anything is possible! I initially thought A New Hope would be obvious, but considering the movie is "old" and I have no idea what age Kingdom Hearts is aiming at as their target audience anymore, I don't know. Maybe they'd skip to doing Rey? There's also the whole out-of-sequence stuff that could let them start with the prequel trilogy. Not like KH is a stranger to timeline nonsense.]]></content:encoded>
+      <slash:comments>70</slash:comments>
     </item>
     <item>
       <title>Which publisher/dev will be the first to try their luck on selling an $80 (US) game after GTA6?</title>
-      <pubDate>Sun, 22 Nov 2026 06:43:24 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 15:35:23 +0000</pubDate>
       <link>https://www.resetera.com/threads/which-publisher-dev-will-be-the-first-to-try-their-luck-on-selling-an-80-us-game-after-gta6.1694555/</link>
       <guid isPermaLink="false">1694555</guid>
       <author>invalid@example.com (Bishop89)</author>
       <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
       <dc:creator>Bishop89</dc:creator>
       <content:encoded><![CDATA[And what game will they try it with? Who is cocky enough to think they can follow in R*'s footsteps? Edit: disclaimer, did not realise when making this thread that Nintendo had already done this as in Australia they're actually cheaper.]]></content:encoded>
-      <slash:comments>60</slash:comments>
+      <slash:comments>85</slash:comments>
+    </item>
+    <item>
+      <title>Big games that were spoiled for you</title>
+      <pubDate>Sun, 22 Nov 2026 15:35:08 +0000</pubDate>
+      <link>https://www.resetera.com/threads/big-games-that-were-spoiled-for-you.1694588/</link>
+      <guid isPermaLink="false">1694588</guid>
+      <author>invalid@example.com (AnimeJesus)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>AnimeJesus</dc:creator>
+      <content:encoded><![CDATA[Having just been spoiled on GTAVI and being absolutely frustrated by it, I'm kinda just curious what other big games have been spoiled for people and how. Just name the game and how it was spoiled, and obviously tag any spoilers if necessary. GTA VI - Reddit feed…the game is just too big for people to keep quiet about it I guess. Tears of the Kingdom - went to a kids birthday party where a random dad brought it up in conversation and decided to just mentioned Zelda's fate ... Read more]]></content:encoded>
+      <slash:comments>34</slash:comments>
+    </item>
+    <item>
+      <title>Grand Theft Auto 6 - Silly Clips and Funny Moments Thread</title>
+      <pubDate>Sun, 22 Nov 2026 15:33:00 +0000</pubDate>
+      <link>https://www.resetera.com/threads/grand-theft-auto-6-silly-clips-and-funny-moments-thread.1694684/</link>
+      <guid isPermaLink="false">1694684</guid>
+      <author>invalid@example.com (TheAbsolution)</author>
+      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
+      <dc:creator>TheAbsolution</dc:creator>
+      <content:encoded><![CDATA[I wanted to create a thread specifically for funny moments that we've either found online or clipped ourselves. This could also be a thread about fun side quests that we've found. I'll start. https://twitter.com/chumbucketdrama/status/2123079041830011229?a=Ufam9BvNXl6wj9e-VVo&s=61 I havent laughed that hard in ages lmao]]></content:encoded>
+      <slash:comments>4</slash:comments>
+    </item>
+    <item>
+      <title>Queen's Domain fans - what do you think about the world / level design?</title>
+      <pubDate>Sun, 22 Nov 2026 15:30:31 +0000</pubDate>
+      <link>https://www.resetera.com/threads/queens-domain-fans-what-do-you-think-about-the-world-level-design.1694693/</link>
+      <guid isPermaLink="false">1694693</guid>
+      <author>invalid@example.com (signal)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>signal</dc:creator>
+      <content:encoded><![CDATA[https://queensdomainatlas.com/ has the full world map in-browser - area spoilers obviously!! You can zoom in to the in-game level or zoom out to see the entire map at once. Makes it seem quite small actually. Spoiler: Map Anyway I think it's pretty high up there. It's a nice mix of variety, surprising locations, shortcuts and connections, and actual stuff to find. Was surprised that after dozens of hours and doing a final run... Read more]]></content:encoded>
+      <slash:comments>16</slash:comments>
+    </item>
+    <item>
+      <title>Would you rather get an “80s GTA 6” in ~4–5 years, or wait 10+ years for GTA 7?</title>
+      <pubDate>Sun, 22 Nov 2026 15:29:46 +0000</pubDate>
+      <link>https://www.resetera.com/threads/would-you-rather-get-an-%E2%80%9C80s-gta-6%E2%80%9D-in-4%E2%80%935-years-or-wait-10-years-for-gta-7.1694642/</link>
+      <guid isPermaLink="false">1694642</guid>
+      <author>invalid@example.com (Genetrik)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Genetrik</dc:creator>
+      <content:encoded><![CDATA[Now that GTA 6 is actually out and we've seen just how detailed and technically ambitious its version of Vice City is, I've been wondering whether Rockstar really needs to build the next GTA completely from scratch again. Imagine that around 4–5 years after GTA 6, Rockstar released another full-size GTA using the same core technology, map foundation and systems but completely reworked Vice City into the 1980s. Different cars, fashion, music, businesses, interiors, atmosphere, story and... Read more]]></content:encoded>
+      <slash:comments>54</slash:comments>
+    </item>
+    <item>
+      <title>So what do you think of Noctis Lucis Caelum</title>
+      <pubDate>Sun, 22 Nov 2026 15:26:36 +0000</pubDate>
+      <link>https://www.resetera.com/threads/so-what-do-you-think-of-noctis-lucis-caelum.1694585/</link>
+      <guid isPermaLink="false">1694585</guid>
+      <author>invalid@example.com (PhoenixAKG)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>PhoenixAKG</dc:creator>
+      <content:encoded><![CDATA[So Noctis Lucis Caelum: Is the protagonist of Final Fantassy XV. XV itself is divise but what do people think of Noctis himself?]]></content:encoded>
+      <slash:comments>69</slash:comments>
+    </item>
+    <item>
+      <title>The “Mao Zedong”-like NPC in *GTA 6* is gone! Major design changes after launch</title>
+      <pubDate>Sun, 22 Nov 2026 15:24:57 +0000</pubDate>
+      <link>https://www.resetera.com/threads/the-%E2%80%9Cmao-zedong%E2%80%9D-like-npc-in-gta-6-is-gone-major-design-changes-after-launch.1694558/</link>
+      <guid isPermaLink="false">1694558</guid>
+      <author>invalid@example.com (SilentPanda)</author>
+      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
+      <dc:creator>SilentPanda</dc:creator>
+      <content:encoded><![CDATA[Before After... Read more]]></content:encoded>
+      <slash:comments>19</slash:comments>
+    </item>
+    <item>
+      <title>Ever spent hours working on a game setup... just to turn it off without playing?</title>
+      <pubDate>Sun, 22 Nov 2026 15:20:07 +0000</pubDate>
+      <link>https://www.resetera.com/threads/ever-spent-hours-working-on-a-game-setup-just-to-turn-it-off-without-playing.1694651/</link>
+      <guid isPermaLink="false">1694651</guid>
+      <author>invalid@example.com (Rosebud)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Rosebud</dc:creator>
+      <content:encoded><![CDATA[Yesterday I spent the whole evening passing a HDMI cable from the PC to the TV, troubleshooting and messing with the settings of tons of games. It ended up perfect, but I just couldn't bring myself to play anything. Anyone?]]></content:encoded>
+      <slash:comments>39</slash:comments>
+    </item>
+    <item>
+      <title>"I've only sold five copies of GTA 6", says shop owner. The slow end of physical presence in small retail shops.</title>
+      <pubDate>Sun, 22 Nov 2026 15:19:09 +0000</pubDate>
+      <link>https://www.resetera.com/threads/ive-only-sold-five-copies-of-gta-6-says-shop-owner-the-slow-end-of-physical-presence-in-small-retail-shops.1694501/</link>
+      <guid isPermaLink="false">1694501</guid>
+      <author>invalid@example.com (delete12345)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>delete12345</dc:creator>
+      <content:encoded><![CDATA[The owner of an independent game shop says he has only sold five copies of the highly anticipated open-world action-adventure Grand Theft Auto 6. GTA 6, as it is known, is estimated to become the biggest entertainment launch in history following the blockbuster video game's debut on Thursday, after a 13-year wait. Click to expand... Click to shrink... But Richard Tewksbury, who runs Super Game Shack in the Silver Arcade in Leicester, said he had seen "embarrassing" sales of the game because it was only released... Click to expand... Click to shrink... Read more]]></content:encoded>
+      <slash:comments>147</slash:comments>
+    </item>
+    <item>
+      <title>[BNK] “Dramatic Drop” in memory prices expected by mid-2027 as demand cools and channel inventory gluts slow new orders</title>
+      <pubDate>Sun, 22 Nov 2026 15:11:43 +0000</pubDate>
+      <link>https://www.resetera.com/threads/bnk-%E2%80%9Cdramatic-drop%E2%80%9D-in-memory-prices-expected-by-mid-2027-as-demand-cools-and-channel-inventory-gluts-slow-new-orders.1694165/</link>
+      <guid isPermaLink="false">1694165</guid>
+      <author>invalid@example.com (modiz)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>modiz</dc:creator>
+      <content:encoded><![CDATA["Dramatic Drop" in Memory Prices Expected by Mid-2027 as Demand Cools and Channel Inventory Gluts Slow New Orders, Says Korean Financial Firm Most of 2026 went by with inflated prices for DDR5 memory, SSDs, and GPUs but next year may finally bring relief from gamers and tech companies producing consumer electronics, at least according to one market analysis report on SK Hynix coming out of Seoul, Korea. BNK Investment & Securities... respawnfirst.com BNK Investment & Securities analyst Lee Min-hee shares a detailed report warning end-user memory demand has passed its peak and predicted that…]]></content:encoded>
+      <slash:comments>253</slash:comments>
+    </item>
+    <item>
+      <title>Here’s a game you don’t see mentioned much anymore, too human</title>
+      <pubDate>Sun, 22 Nov 2026 14:43:04 +0000</pubDate>
+      <link>https://www.resetera.com/threads/here%E2%80%99s-a-game-you-don%E2%80%99t-see-mentioned-much-anymore-too-human.1694582/</link>
+      <guid isPermaLink="false">1694582</guid>
+      <author>invalid@example.com (Multievolution)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Multievolution</dc:creator>
+      <content:encoded><![CDATA[View: https://m.youtube.com/watch?v=xI3AWpZMJwU&pp=ygURVG9vIGh1bWFuIHRlYWlsZXI%3D&ra=m Set in a futuristic setting using Norse god mythology, I remember this game so much leading up to its release. It was an interesting concept, I recall the sound effects and music were pretty memorable, gameplay a little less so. It seems it was a game that struggled for a decade to get made, and was to be a trilogy, but they lost a court case over their use of unreal engine 3, and were forced to destroy... Read more]]></content:encoded>
+      <slash:comments>55</slash:comments>
+    </item>
+    <item>
+      <title>I'm not alone in wanting another period piece GTA, right?</title>
+      <pubDate>Sun, 22 Nov 2026 14:06:17 +0000</pubDate>
+      <link>https://www.resetera.com/threads/im-not-alone-in-wanting-another-period-piece-gta-right.1694039/</link>
+      <guid isPermaLink="false">1694039</guid>
+      <author>invalid@example.com (The Adder)</author>
+      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
+      <dc:creator>The Adder</dc:creator>
+      <content:encoded><![CDATA[I don't know. I haven't cared in the least about about the series after San Andreas. Originally I figured that was just because I had mostly outgrown in it, but I've been giving it some thought recently and the real reason is that I just enjoy the non-contemporary games over the ones set in the then-present. Part of that is probably the simple fact I can go outside to be in Today if I want to, but that wouldn't fully explain my disinterest in going back to see if I can finally get stuck into... Read more]]></content:encoded>
+      <slash:comments>116</slash:comments>
+    </item>
+    <item>
+      <title>What is the next gen console price that would lose the average consumer?</title>
+      <pubDate>Sun, 22 Nov 2026 14:01:52 +0000</pubDate>
+      <link>https://www.resetera.com/threads/what-is-the-next-gen-console-price-that-would-lose-the-average-consumer.1694531/</link>
+      <guid isPermaLink="false">1694531</guid>
+      <author>invalid@example.com (Krombopulos_MK)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Krombopulos_MK</dc:creator>
+      <content:encoded><![CDATA[Alright, we all know next gen consoles are going to require a mortgage. But what do you think the threshold price is that makes these boxes an enthusiast niche no matter what? $500 seems to have tolerated really well this whole gen, and then slumped off as prices went up. But how much more can console makers charge before the average person tells them to fuck off?]]></content:encoded>
+      <slash:comments>90</slash:comments>
+    </item>
+    <item>
+      <title>TeamFourStar presents Metal Gear Solid Abridged</title>
+      <pubDate>Sun, 22 Nov 2026 13:41:22 +0000</pubDate>
+      <link>https://www.resetera.com/threads/teamfourstar-presents-metal-gear-solid-abridged.1694375/</link>
+      <guid isPermaLink="false">1694375</guid>
+      <author>invalid@example.com (FakePlasticTree)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>FakePlasticTree</dc:creator>
+      <content:encoded><![CDATA[TeamFourStar a group of YouTubers famed for their Dragon Ball Z Abridged series has gone on to do surprisingly high quality parodies of other properties such as the currently ongoing YuYu Hakusho with the Toonami format included as well as a Hellsing Abridged Series but also a video game like Final Fantasy 7 got the machinima treatment. Now they are trying their hand at Metal Gear a series that already is very goofy so it should lend itself well enough to comedy... Read more]]></content:encoded>
+      <slash:comments>11</slash:comments>
+    </item>
+    <item>
+      <title>Melvor Idle 2: A RuneScape Adventure is now in Early Access - anyone playing? (Idle game based on RS/OSRS)</title>
+      <pubDate>Sun, 22 Nov 2026 13:15:20 +0000</pubDate>
+      <link>https://www.resetera.com/threads/melvor-idle-2-a-runescape-adventure-is-now-in-early-access-anyone-playing-idle-game-based-on-rs-osrs.1694597/</link>
+      <guid isPermaLink="false">1694597</guid>
+      <author>invalid@example.com (Fossora)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Fossora</dc:creator>
+      <content:encoded><![CDATA[View: https://store.steampowered.com/app/3218350/Melvor_Idle_2_A_RuneScape_Adventure/ It peaked at 28.5k CCU over the weekend, so there's bound to be at least one other Melvor enjoyer out there I'm sure. For anyone wondering how it compares to the first game, the early access nature does mean it's currently lacking content that makes it feel truly complete, but what it lacks in a bad way it also lacks in a good way. Everything here feels fundamental, unlike the post TotH expansions, which... Read more]]></content:encoded>
+      <slash:comments>10</slash:comments>
+    </item>
+    <item>
+      <title>Ocarina of Time Remake starting to get review bombed by GTA Fans For Thinking Zelda Fans Review Bomb GTA6</title>
+      <pubDate>Sun, 22 Nov 2026 12:52:06 +0000</pubDate>
+      <link>https://www.resetera.com/threads/ocarina-of-time-remake-starting-to-get-review-bombed-by-gta-fans-for-thinking-zelda-fans-review-bomb-gta6.1694057/</link>
+      <guid isPermaLink="false">1694057</guid>
+      <author>invalid@example.com (Cooldude97)</author>
+      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
+      <dc:creator>Cooldude97</dc:creator>
+      <content:encoded><![CDATA[24 hours ago: now: Examples: ... Read more]]></content:encoded>
+      <slash:comments>366</slash:comments>
+    </item>
+    <item>
+      <title>The Binding of Isaac: Repentance+’s new update added AI generated music (Will be removed)</title>
+      <pubDate>Sun, 22 Nov 2026 12:37:43 +0000</pubDate>
+      <link>https://www.resetera.com/threads/the-binding-of-isaac-repentance-%E2%80%99s-new-update-added-ai-generated-music-will-be-removed.1694246/</link>
+      <guid isPermaLink="false">1694246</guid>
+      <author>invalid@example.com (Shoe)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>Shoe</dc:creator>
+      <content:encoded><![CDATA[https://www.reddit.com/r/bindingofisaac/s/QiKJeBEHNf This whole release has been a shitshow — eShop discount for upgrading users not showing up in Europe, saves breaking, online being a mess, clearly they tried the novelty of releasing the same day as GTA6 as a gimmick but rushed the entire package. But this might take the cake. An indie darling like Isaac is now infected with AI slop. Another shameful practice from Nicalis, they don't even disclose this on the Steam page. Isaac's... Read more]]></content:encoded>
+      <slash:comments>48</slash:comments>
+    </item>
+    <item>
+      <title>Feels like there’s kind of an…early 3D game design renaissance going on this year</title>
+      <pubDate>Sun, 22 Nov 2026 11:53:07 +0000</pubDate>
+      <link>https://www.resetera.com/threads/feels-like-there%E2%80%99s-kind-of-an%E2%80%A6early-3d-game-design-renaissance-going-on-this-year.1694486/</link>
+      <guid isPermaLink="false">1694486</guid>
+      <author>invalid@example.com (OlimarioBros.)</author>
+      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
+      <dc:creator>OlimarioBros.</dc:creator>
+      <content:encoded><![CDATA[For lack of a better term. I was editing my GOTY list and two categories stuck out to me: First, there's the Nintendo remakes of OOT and Star Fox, which (more or less) are the original N64 games with a fresh coat of paint. Second, there's Queen's Domain, which is intentionally pulling from an earlier design ethos. Not just graphically; design decisions like less direction, letting the player get lost, even using geometry to leap into areas you're not yet supposed to be in…it all reminds me... Read more]]></content:encoded>
+      <slash:comments>25</slash:comments>
+    </item>
+    <item>
+      <title>how did rockstar keep its temporal anti-aliasing from eating all of leonida's powerlines?</title>
+      <pubDate>Sun, 22 Nov 2026 09:44:04 +0000</pubDate>
+      <link>https://www.resetera.com/threads/how-did-rockstar-keep-its-temporal-anti-aliasing-from-eating-all-of-leonidas-powerlines.1694420/</link>
+      <guid isPermaLink="false">1694420</guid>
+      <author>invalid@example.com (spookycool)</author>
+      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
+      <dc:creator>spookycool</dc:creator>
+      <content:encoded><![CDATA[like many places, florida has a lot of powerlines. TAA has the bad habit of eliminating small lines of detail in the distance/ with TAA enabled you'd expect all those powerlines to munched out of existence at certain angles and at certain distances. but they shine thick, long and tall as far as the eye can see. what sorcery is this? did they put all the powerlines on a separate render pass so this wouldn't happen?]]></content:encoded>
+      <slash:comments>17</slash:comments>
     </item>
     <item>
       <title>The Hero of Winds (aka Toon Link) was a powerhouse!</title>
@@ -130,61 +262,6 @@
       <slash:comments>17</slash:comments>
     </item>
     <item>
-      <title>If Kingdom Hearts ever goes to a Star Wars world, what movie do you think they'll pick first?</title>
-      <pubDate>Sun, 22 Nov 2026 06:39:30 +0000</pubDate>
-      <link>https://www.resetera.com/threads/if-kingdom-hearts-ever-goes-to-a-star-wars-world-what-movie-do-you-think-theyll-pick-first.1694450/</link>
-      <guid isPermaLink="false">1694450</guid>
-      <author>invalid@example.com (Teusery)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Teusery</dc:creator>
-      <content:encoded><![CDATA[Both are owned by Disney so anything is possible! I initially thought A New Hope would be obvious, but considering the movie is "old" and I have no idea what age Kingdom Hearts is aiming at as their target audience anymore, I don't know. Maybe they'd skip to doing Rey? There's also the whole out-of-sequence stuff that could let them start with the prequel trilogy. Not like KH is a stranger to timeline nonsense.]]></content:encoded>
-      <slash:comments>63</slash:comments>
-    </item>
-    <item>
-      <title>Feels like there’s kind of an…early 3D game design renaissance going on this year</title>
-      <pubDate>Sun, 22 Nov 2026 05:49:09 +0000</pubDate>
-      <link>https://www.resetera.com/threads/feels-like-there%E2%80%99s-kind-of-an%E2%80%A6early-3d-game-design-renaissance-going-on-this-year.1694486/</link>
-      <guid isPermaLink="false">1694486</guid>
-      <author>invalid@example.com (OlimarioBros.)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>OlimarioBros.</dc:creator>
-      <content:encoded><![CDATA[For lack of a better term. I was editing my GOTY list and two categories stuck out to me: First, there's the Nintendo remakes of OOT and Star Fox, which (more or less) are the original N64 games with a fresh coat of paint. Second, there's Queen's Domain, which is intentionally pulling from an earlier design ethos. Not just graphically; design decisions like less direction, letting the player get lost, even using geometry to leap into areas you're not yet supposed to be in…it all reminds me... Read more]]></content:encoded>
-      <slash:comments>19</slash:comments>
-    </item>
-    <item>
-      <title>Ocarina of Time Remake starting to get review bombed by GTA Fans For Thinking Zelda Fans Review Bomb GTA6</title>
-      <pubDate>Sun, 22 Nov 2026 05:23:03 +0000</pubDate>
-      <link>https://www.resetera.com/threads/ocarina-of-time-remake-starting-to-get-review-bombed-by-gta-fans-for-thinking-zelda-fans-review-bomb-gta6.1694057/</link>
-      <guid isPermaLink="false">1694057</guid>
-      <author>invalid@example.com (Cooldude97)</author>
-      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
-      <dc:creator>Cooldude97</dc:creator>
-      <content:encoded><![CDATA[24 hours ago: now: Examples: ... Read more]]></content:encoded>
-      <slash:comments>353</slash:comments>
-    </item>
-    <item>
-      <title>How many of you were "No Disc, No Buy" on Grand Theft Auto VI but caved when you saw the review scores?</title>
-      <pubDate>Sun, 22 Nov 2026 03:46:32 +0000</pubDate>
-      <link>https://www.resetera.com/threads/how-many-of-you-were-no-disc-no-buy-on-grand-theft-auto-vi-but-caved-when-you-saw-the-review-scores.1693889/</link>
-      <guid isPermaLink="false">1693889</guid>
-      <author>invalid@example.com (Gunman)</author>
-      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
-      <dc:creator>Gunman</dc:creator>
-      <content:encoded><![CDATA[Inspired by the "Waiting for the PC Version" thread, I'm curious how many people from other demographics have also caved. There's been an extremely vocal push for physical games this year, with many declaring that they will not buy digital-only games on consoles, or any platform. Now, the biggest video game launch of all time – nay, the biggest entertainment launch of all time – launched as a digital-only title, exclusively for consoles. For those who support the "No Disc, No Buy" movement... Read more]]></content:encoded>
-      <slash:comments>103</slash:comments>
-    </item>
-    <item>
-      <title>Grand Theft Auto VI Hits 60 FPS and Above on Xbox Series X Through a Quick Resume Glitch, but Gameplay Runs at Double Speed</title>
-      <pubDate>Sun, 22 Nov 2026 03:06:20 +0000</pubDate>
-      <link>https://www.resetera.com/threads/grand-theft-auto-vi-hits-60-fps-and-above-on-xbox-series-x-through-a-quick-resume-glitch-but-gameplay-runs-at-double-speed.1694258/</link>
-      <guid isPermaLink="false">1694258</guid>
-      <author>invalid@example.com (delete12345)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>delete12345</dc:creator>
-      <content:encoded><![CDATA[In true Rockstar Games tradition, Grand Theft Auto VI launched with a 30 FPS target on PlayStation 5 and Xbox Series X|S due to technical reasons, as even the PlayStation 5 Pro's CPU cannot handle the game's complex simulation at 60 FPS. However, besides using some PC tools to bring the framerate of streamed console gameplay up to 60 FPS or higher, there's a way to enjoy the latest entry in the series at an unlocked framerate on Xbox Series X via a glitch, though with some catches. Click to expand... Click to shrink... ... Read more]]></content:encoded>
-      <slash:comments>125</slash:comments>
-    </item>
-    <item>
       <title>What lessons do you want the Younger Devs On The Zelda Team to Learn From Ocarina of Time?</title>
       <pubDate>Sun, 22 Nov 2026 02:29:34 +0000</pubDate>
       <link>https://www.resetera.com/threads/what-lessons-do-you-want-the-younger-devs-on-the-zelda-team-to-learn-from-ocarina-of-time.1694534/</link>
@@ -194,17 +271,6 @@
       <dc:creator>Cooldude97</dc:creator>
       <content:encoded><![CDATA[It was stated in the Ask the Developer interviews that OoT was remade as an anniversary game to show the younger devs how they used to make Zelda games. What do you hope they learned from the experience?]]></content:encoded>
       <slash:comments>5</slash:comments>
-    </item>
-    <item>
-      <title>TeamFourStar presents Metal Gear Solid Abridged</title>
-      <pubDate>Sun, 22 Nov 2026 01:29:42 +0000</pubDate>
-      <link>https://www.resetera.com/threads/teamfourstar-presents-metal-gear-solid-abridged.1694375/</link>
-      <guid isPermaLink="false">1694375</guid>
-      <author>invalid@example.com (FakePlasticTree)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>FakePlasticTree</dc:creator>
-      <content:encoded><![CDATA[TeamFourStar a group of YouTubers famed for their Dragon Ball Z Abridged series has gone on to do surprisingly high quality parodies of other properties such as the currently ongoing YuYu Hakusho with the Toonami format included as well as a Hellsing Abridged Series but also a video game like Final Fantasy 7 got the machinima treatment. Now they are trying their hand at Metal Gear a series that already is very goofy so it should lend itself well enough to comedy... Read more]]></content:encoded>
-      <slash:comments>4</slash:comments>
     </item>
     <item>
       <title>LTTP: Red Dead Redemption II - Escaping the GTAVI FOMO</title>
@@ -238,17 +304,6 @@
       <dc:creator>Idde</dc:creator>
       <content:encoded><![CDATA[So, my dad's basically going through some of the same stuff a lot of older people go through. He's got a bit too much time on his hands. Can't really do the big projects he loved to do and start around his house anymore. So he asked me for suggestions, since I do still regularly play games. I only have a Switch 2 though, and only play single player games. My dad's seen his friends grandsons play things like Fortnite, and was curious about trying something like that out. As someone with the... Read more]]></content:encoded>
       <slash:comments>62</slash:comments>
-    </item>
-    <item>
-      <title>I'm not alone in wanting another period piece GTA, right?</title>
-      <pubDate>Sun, 22 Nov 2026 00:48:04 +0000</pubDate>
-      <link>https://www.resetera.com/threads/im-not-alone-in-wanting-another-period-piece-gta-right.1694039/</link>
-      <guid isPermaLink="false">1694039</guid>
-      <author>invalid@example.com (The Adder)</author>
-      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
-      <dc:creator>The Adder</dc:creator>
-      <content:encoded><![CDATA[I don't know. I haven't cared in the least about about the series after San Andreas. Originally I figured that was just because I had mostly outgrown in it, but I've been giving it some thought recently and the real reason is that I just enjoy the non-contemporary games over the ones set in the then-present. Part of that is probably the simple fact I can go outside to be in Today if I want to, but that wouldn't fully explain my disinterest in going back to see if I can finally get stuck into... Read more]]></content:encoded>
-      <slash:comments>101</slash:comments>
     </item>
     <item>
       <title>New info, pics, and video of the upcoming modern re-release of Tattoo Assassins from eXA-Arcadia (from IAAPA 2026 in Orlando)</title>
@@ -304,17 +359,6 @@
       <dc:creator>JaseMath</dc:creator>
       <content:encoded><![CDATA[Searched and didn't find anything, and I don't know where to put this but it seemed important enough to be thread-worthy. Not sure what to think or if this is a common practice. Pretty inflammatory accusations to be sure. Rockstar Games fired me on Wednesday. GTA 6 launched the next day I was a senior engine engineer at Rockstar North, working on RAGE performance optimization. Three months ago, I found a data pipeline in the telemetry module that shouldn't have existed, and I could... Click to expand... Click to shrink... Read more]]></content:encoded>
       <slash:comments>51</slash:comments>
-    </item>
-    <item>
-      <title>The Binding of Isaac: Repentance+’s new update added AI generated music (Will be removed)</title>
-      <pubDate>Sat, 21 Nov 2026 22:22:04 +0000</pubDate>
-      <link>https://www.resetera.com/threads/the-binding-of-isaac-repentance-%E2%80%99s-new-update-added-ai-generated-music-will-be-removed.1694246/</link>
-      <guid isPermaLink="false">1694246</guid>
-      <author>invalid@example.com (Shoe)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Shoe</dc:creator>
-      <content:encoded><![CDATA[https://www.reddit.com/r/bindingofisaac/s/QiKJeBEHNf This whole release has been a shitshow — eShop discount for upgrading users not showing up in Europe, saves breaking, online being a mess, clearly they tried the novelty of releasing the same day as GTA6 as a gimmick but rushed the entire package. But this might take the cake. An indie darling like Isaac is now infected with AI slop. Another shameful practice from Nicalis, they don't even disclose this on the Steam page. Isaac's... Read more]]></content:encoded>
-      <slash:comments>46</slash:comments>
     </item>
     <item>
       <title>Should Link finally speak in the next Zelda??</title>
@@ -394,28 +438,6 @@
       <slash:comments>15</slash:comments>
     </item>
     <item>
-      <title>So, what did you think of the (SPOILER) in the beginning of GTA 6?</title>
-      <pubDate>Sat, 21 Nov 2026 11:53:16 +0000</pubDate>
-      <link>https://www.resetera.com/threads/so-what-did-you-think-of-the-spoiler-in-the-beginning-of-gta-6.1693907/</link>
-      <guid isPermaLink="false">1693907</guid>
-      <author>invalid@example.com (Rosebud)</author>
-      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
-      <dc:creator>Rosebud</dc:creator>
-      <content:encoded><![CDATA[I'm amazed they kept their baby hidden, I really never saw it coming (I used the Rockstar tag for easy ignore!!!)]]></content:encoded>
-      <slash:comments>74</slash:comments>
-    </item>
-    <item>
-      <title>My wife, who is not a gamer, coerced me into buying GTA VI tonight because she wants to play</title>
-      <pubDate>Sat, 21 Nov 2026 08:38:29 +0000</pubDate>
-      <link>https://www.resetera.com/threads/my-wife-who-is-not-a-gamer-coerced-me-into-buying-gta-vi-tonight-because-she-wants-to-play.1693910/</link>
-      <guid isPermaLink="false">1693910</guid>
-      <author>invalid@example.com (rama_)</author>
-      <category domain="https://www.resetera.com/forums/new-releases.58/"><![CDATA[New Releases]]></category>
-      <dc:creator>rama_</dc:creator>
-      <content:encoded><![CDATA[I told her I planned to get the PC version when it comes out and I was fine with waiting. She said she keeps seeing hilarious videos of it online and everyone keeps talking about it and she thought it was cool that you can pick up flowers for your girlfriend and it seems so fun. In the nearly 15 years we've been together, she's played some Minecraft with me in the past, Diablo III a few times. She got into one of the Borderlands games with me years ago. That's about it. We didn't need... Read more]]></content:encoded>
-      <slash:comments>71</slash:comments>
-    </item>
-    <item>
       <title>should Nintendo add a rating system to the Eshop</title>
       <pubDate>Sat, 21 Nov 2026 03:49:37 +0000</pubDate>
       <link>https://www.resetera.com/threads/should-nintendo-add-a-rating-system-to-the-eshop.1693994/</link>
@@ -425,28 +447,6 @@
       <dc:creator>Cooldude97</dc:creator>
       <content:encoded><![CDATA[I personally think so just to somewhat help shift through the slop to get to the real gems]]></content:encoded>
       <slash:comments>20</slash:comments>
-    </item>
-    <item>
-      <title>What is the best Pokémon battle theme? And why is the Gym's theme from Sword/Shield?</title>
-      <pubDate>Sat, 21 Nov 2026 02:46:21 +0000</pubDate>
-      <link>https://www.resetera.com/threads/what-is-the-best-pok%C3%A9mon-battle-theme-and-why-is-the-gyms-theme-from-sword-shield.1693883/</link>
-      <guid isPermaLink="false">1693883</guid>
-      <author>invalid@example.com (Wiserus)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Wiserus</dc:creator>
-      <content:encoded><![CDATA[View: https://www.youtube.com/watch?v=quYjN57Tycg&list=RDquYjN57Tycg That is an all time solid banger. I think that honestly the Gym battles were one of the strong suits of the game, vibe wise. For the first time I was excited for Gym battles and the whole thing felt special. Like an official sport and that it matter. And once it reaches 4:12, the Dynamax part, it goes into another level View: https://www.youtube.com/watch?v=quYjN57Tycg&t=252s Also, whenever I entered the gym I was like... Read more]]></content:encoded>
-      <slash:comments>40</slash:comments>
-    </item>
-    <item>
-      <title>$300k of bootleg Tifa Lockhart figurines seized by Shanghai Police.</title>
-      <pubDate>Fri, 20 Nov 2026 22:37:24 +0000</pubDate>
-      <link>https://www.resetera.com/threads/300k-of-bootleg-tifa-lockhart-figurines-seized-by-shanghai-police.1693862/</link>
-      <guid isPermaLink="false">1693862</guid>
-      <author>invalid@example.com (Musubi)</author>
-      <category domain="https://www.resetera.com/forums/gaming-forum.7/"><![CDATA[Gaming Forum]]></category>
-      <dc:creator>Musubi</dc:creator>
-      <content:encoded><![CDATA[Chinese police have arrested 13 individuals in Shanghai allegedly involved in a bootleg Final Fantasy 7 Tifa figurine business, after consumers reported the operation. They are currently being investigated on suspicion of selling infringing reproductions. Reported by Gamespark, the police cracked down on the operation which involved the seizure of around $300,000 of goods related to the figurines. Click to expand... Click to shrink... The investigation started in May, after police received reports from concerned... Click to expand... Click to shrink... Read more]]></content:encoded>
-      <slash:comments>4</slash:comments>
     </item>
   </channel>
 </rss>
